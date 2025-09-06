@@ -1,0 +1,17 @@
+{
+  "contest_id": 2065,
+  "problem_index": "F",
+  "name": "Skibidus and Slay",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2065/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 6239
+}

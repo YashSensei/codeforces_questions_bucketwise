@@ -1,0 +1,14 @@
+{
+  "contest_id": 590,
+  "problem_index": "A",
+  "name": "Median Smoothing",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/590/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 4223
+}

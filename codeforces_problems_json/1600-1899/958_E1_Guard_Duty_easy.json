@@ -1,0 +1,16 @@
+{
+  "contest_id": 958,
+  "problem_index": "E1",
+  "name": "Guard Duty (easy)",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/958/E1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1640
+}

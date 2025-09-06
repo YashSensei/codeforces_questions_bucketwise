@@ -1,0 +1,20 @@
+{
+  "contest_id": 2018,
+  "problem_index": "D",
+  "name": "Max Plus Min Plus Size",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "implementation",
+    "matrices",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2018/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 1987
+}

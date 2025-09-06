@@ -1,0 +1,18 @@
+{
+  "contest_id": 1399,
+  "problem_index": "E2",
+  "name": "Weights Division (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "greedy",
+    "sortings",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1399/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2414
+}

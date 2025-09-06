@@ -1,0 +1,17 @@
+{
+  "contest_id": 2071,
+  "problem_index": "E",
+  "name": "LeaFall",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2071/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 533
+}

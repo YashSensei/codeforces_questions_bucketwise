@@ -1,0 +1,17 @@
+{
+  "contest_id": 494,
+  "problem_index": "D",
+  "name": "Birthday",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/494/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 653
+}

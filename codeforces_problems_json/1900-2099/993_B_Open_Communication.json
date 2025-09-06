@@ -1,0 +1,15 @@
+{
+  "contest_id": 993,
+  "problem_index": "B",
+  "name": "Open Communication",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/993/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 1993
+}

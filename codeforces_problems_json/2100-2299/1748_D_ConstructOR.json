@@ -1,0 +1,19 @@
+{
+  "contest_id": 1748,
+  "problem_index": "D",
+  "name": "ConstructOR ",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "bitmasks",
+    "chinese remainder theorem",
+    "combinatorics",
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1748/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 3018
+}

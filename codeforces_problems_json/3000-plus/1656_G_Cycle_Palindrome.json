@@ -1,0 +1,16 @@
+{
+  "contest_id": 1656,
+  "problem_index": "G",
+  "name": "Cycle Palindrome",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1656/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 446
+}

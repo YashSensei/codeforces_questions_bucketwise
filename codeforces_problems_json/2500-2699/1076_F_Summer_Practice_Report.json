@@ -1,0 +1,14 @@
+{
+  "contest_id": 1076,
+  "problem_index": "F",
+  "name": "Summer Practice Report",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1076/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 683
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 2010,
+  "problem_index": "C1",
+  "name": "Message Transmission Error (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2010/C1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 8621
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 457,
+  "problem_index": "A",
+  "name": "Golden System",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "math",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/457/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 1317
+}

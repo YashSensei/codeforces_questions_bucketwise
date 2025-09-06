@@ -1,0 +1,15 @@
+{
+  "contest_id": 2084,
+  "problem_index": "G2",
+  "name": "Wish Upon a Satellite (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2084/G2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 86
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1915,
+  "problem_index": "D",
+  "name": "Unnatural Language Processing",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1915/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 33438
+}

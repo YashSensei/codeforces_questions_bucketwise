@@ -1,0 +1,18 @@
+{
+  "contest_id": 2056,
+  "problem_index": "F2",
+  "name": "Xor of Median (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2056/F2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 242
+}

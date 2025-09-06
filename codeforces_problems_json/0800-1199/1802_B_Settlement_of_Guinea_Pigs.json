@@ -1,0 +1,16 @@
+{
+  "contest_id": 1802,
+  "problem_index": "B",
+  "name": "Settlement of Guinea Pigs",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1802/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 14170
+}

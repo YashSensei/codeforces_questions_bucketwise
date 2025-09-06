@@ -1,0 +1,16 @@
+{
+  "contest_id": 270,
+  "problem_index": "A",
+  "name": "Fancy Fence",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/270/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 48676
+}

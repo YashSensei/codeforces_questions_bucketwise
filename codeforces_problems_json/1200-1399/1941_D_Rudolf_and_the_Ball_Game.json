@@ -1,0 +1,15 @@
+{
+  "contest_id": 1941,
+  "problem_index": "D",
+  "name": "Rudolf and the Ball Game",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1941/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20072
+}

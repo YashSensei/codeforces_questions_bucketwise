@@ -1,0 +1,16 @@
+{
+  "contest_id": 1360,
+  "problem_index": "C",
+  "name": "Similar Pairs",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "graph matchings",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1360/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 34896
+}

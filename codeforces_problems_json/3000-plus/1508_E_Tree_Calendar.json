@@ -1,0 +1,19 @@
+{
+  "contest_id": 1508,
+  "problem_index": "E",
+  "name": "Tree Calendar",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "dfs and similar",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1508/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 373
+}

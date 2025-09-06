@@ -1,0 +1,17 @@
+{
+  "contest_id": 959,
+  "problem_index": "F",
+  "name": "Mahmoud and Ehab and yet another xor task",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/959/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2487
+}

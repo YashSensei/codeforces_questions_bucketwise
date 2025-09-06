@@ -1,0 +1,18 @@
+{
+  "contest_id": 1867,
+  "problem_index": "F",
+  "name": "Most Different Tree",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "greedy",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1867/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 460
+}

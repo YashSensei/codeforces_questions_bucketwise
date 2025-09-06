@@ -1,0 +1,15 @@
+{
+  "contest_id": 1283,
+  "problem_index": "F",
+  "name": "DIY Garland",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1283/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1962
+}

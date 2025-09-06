@@ -1,0 +1,21 @@
+{
+  "contest_id": 1559,
+  "problem_index": "D2",
+  "name": "Mocha and Diana (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1559/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 2861
+}

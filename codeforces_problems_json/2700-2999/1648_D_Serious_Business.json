@@ -1,0 +1,18 @@
+{
+  "contest_id": 1648,
+  "problem_index": "D",
+  "name": "Serious Business",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1648/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 954
+}

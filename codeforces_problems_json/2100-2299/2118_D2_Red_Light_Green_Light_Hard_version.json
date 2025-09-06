@@ -1,0 +1,22 @@
+{
+  "contest_id": 2118,
+  "problem_index": "D2",
+  "name": "Red Light, Green Light (Hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2118/D2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 1990
+}

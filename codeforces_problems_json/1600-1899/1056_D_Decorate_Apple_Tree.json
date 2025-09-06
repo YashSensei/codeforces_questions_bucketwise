@@ -1,0 +1,20 @@
+{
+  "contest_id": 1056,
+  "problem_index": "D",
+  "name": "Decorate Apple Tree",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1056/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 6408
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 2108,
+  "problem_index": "D",
+  "name": "Needle in a Numstack",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "implementation",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2108/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 2130
+}

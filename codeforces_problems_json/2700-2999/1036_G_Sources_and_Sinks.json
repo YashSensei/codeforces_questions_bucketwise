@@ -1,0 +1,15 @@
+{
+  "contest_id": 1036,
+  "problem_index": "G",
+  "name": "Sources and Sinks",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1036/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 403
+}

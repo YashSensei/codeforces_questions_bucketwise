@@ -1,0 +1,18 @@
+{
+  "contest_id": 618,
+  "problem_index": "D",
+  "name": "Hamiltonian Spanning Tree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graph matchings",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/618/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 1827
+}

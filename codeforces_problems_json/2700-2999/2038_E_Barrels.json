@@ -1,0 +1,15 @@
+{
+  "contest_id": 2038,
+  "problem_index": "E",
+  "name": "Barrels",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2038/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 136
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 648,
+  "problem_index": "D",
+  "name": "Собачки и миски",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/648/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 271
+}

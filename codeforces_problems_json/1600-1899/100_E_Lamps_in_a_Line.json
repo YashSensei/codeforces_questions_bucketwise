@@ -1,0 +1,14 @@
+{
+  "contest_id": 100,
+  "problem_index": "E",
+  "name": "Lamps in a Line",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "*special",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/100/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 299
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 533,
+  "problem_index": "C",
+  "name": "Board Game",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "games",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/533/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 2306
+}

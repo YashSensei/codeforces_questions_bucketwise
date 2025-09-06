@@ -1,0 +1,15 @@
+{
+  "contest_id": 76,
+  "problem_index": "F",
+  "name": "Tourist",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/76/F",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 714
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 822,
+  "problem_index": "E",
+  "name": "Liar",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "dp",
+    "hashing",
+    "string suffix structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/822/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 968
+}

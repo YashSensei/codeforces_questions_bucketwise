@@ -1,0 +1,14 @@
+{
+  "contest_id": 976,
+  "problem_index": "E",
+  "name": "Well played!",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/976/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2485
+}

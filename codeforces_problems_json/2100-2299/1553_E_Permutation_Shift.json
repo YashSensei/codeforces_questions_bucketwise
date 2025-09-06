@@ -1,0 +1,20 @@
+{
+  "contest_id": 1553,
+  "problem_index": "E",
+  "name": "Permutation Shift",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1553/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 3538
+}

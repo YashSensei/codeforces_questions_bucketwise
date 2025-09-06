@@ -1,0 +1,14 @@
+{
+  "contest_id": 105,
+  "problem_index": "A",
+  "name": "Transmigration",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/105/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 1900
+}

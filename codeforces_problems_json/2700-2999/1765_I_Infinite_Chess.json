@@ -1,0 +1,14 @@
+{
+  "contest_id": 1765,
+  "problem_index": "I",
+  "name": "Infinite Chess",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1765/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 247
+}

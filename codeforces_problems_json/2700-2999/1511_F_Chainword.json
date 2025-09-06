@@ -1,0 +1,18 @@
+{
+  "contest_id": 1511,
+  "problem_index": "F",
+  "name": "Chainword",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "matrices",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1511/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 506
+}

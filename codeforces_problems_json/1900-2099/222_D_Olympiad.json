@@ -1,0 +1,17 @@
+{
+  "contest_id": 222,
+  "problem_index": "D",
+  "name": "Olympiad",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/222/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 2250
+}

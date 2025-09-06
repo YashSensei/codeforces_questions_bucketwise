@@ -1,0 +1,18 @@
+{
+  "contest_id": 337,
+  "problem_index": "C",
+  "name": "Quiz",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/337/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 5098
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1996,
+  "problem_index": "D",
+  "name": "Fun",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1996/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 18380
+}

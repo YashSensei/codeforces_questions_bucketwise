@@ -1,0 +1,14 @@
+{
+  "contest_id": 2081,
+  "problem_index": "B",
+  "name": "Balancing",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2081/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 844
+}

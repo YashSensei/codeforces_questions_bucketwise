@@ -1,0 +1,15 @@
+{
+  "contest_id": 1703,
+  "problem_index": "D",
+  "name": "Double Strings",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "data structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1703/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 27790
+}

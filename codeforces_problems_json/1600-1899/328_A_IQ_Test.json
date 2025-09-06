@@ -1,0 +1,14 @@
+{
+  "contest_id": 328,
+  "problem_index": "A",
+  "name": "IQ Test",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/328/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 2245
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1545,
+  "problem_index": "A",
+  "name": "AquaMoon and Strange Sort",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1545/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 14504
+}

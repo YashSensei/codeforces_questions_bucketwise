@@ -1,0 +1,15 @@
+{
+  "contest_id": 2084,
+  "problem_index": "A",
+  "name": "Max and Mod",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2084/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 16489
+}

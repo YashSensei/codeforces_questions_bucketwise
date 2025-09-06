@@ -1,0 +1,16 @@
+{
+  "contest_id": 1838,
+  "problem_index": "F",
+  "name": "Stuck Conveyor",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1838/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 359
+}

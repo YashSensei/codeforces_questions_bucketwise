@@ -1,0 +1,15 @@
+{
+  "contest_id": 1155,
+  "problem_index": "B",
+  "name": "Game with Telephone Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "games",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1155/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 12296
+}

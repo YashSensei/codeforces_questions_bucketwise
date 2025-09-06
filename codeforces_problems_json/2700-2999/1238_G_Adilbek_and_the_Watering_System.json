@@ -1,0 +1,15 @@
+{
+  "contest_id": 1238,
+  "problem_index": "G",
+  "name": "Adilbek and the Watering System",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1238/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 437
+}

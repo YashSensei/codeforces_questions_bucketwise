@@ -1,0 +1,16 @@
+{
+  "contest_id": 1178,
+  "problem_index": "H",
+  "name": "Stock Exchange",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "binary search",
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1178/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 4000.0,
+  "solved_count": 283
+}

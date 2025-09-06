@@ -1,0 +1,17 @@
+{
+  "contest_id": 1777,
+  "problem_index": "E",
+  "name": "Edge Reverse",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1777/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 2106
+}

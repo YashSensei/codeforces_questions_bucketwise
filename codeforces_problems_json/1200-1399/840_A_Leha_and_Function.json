@@ -1,0 +1,18 @@
+{
+  "contest_id": 840,
+  "problem_index": "A",
+  "name": "Leha and Function",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "combinatorics",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/840/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 7191
+}

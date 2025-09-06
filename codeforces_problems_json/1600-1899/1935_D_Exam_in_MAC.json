@@ -1,0 +1,17 @@
+{
+  "contest_id": 1935,
+  "problem_index": "D",
+  "name": "Exam in MAC",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1935/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 9525
+}

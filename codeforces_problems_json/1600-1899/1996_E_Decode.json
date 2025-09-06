@@ -1,0 +1,16 @@
+{
+  "contest_id": 1996,
+  "problem_index": "E",
+  "name": "Decode",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1996/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 11615
+}

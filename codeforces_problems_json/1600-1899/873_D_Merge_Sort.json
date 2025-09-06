@@ -1,0 +1,14 @@
+{
+  "contest_id": 873,
+  "problem_index": "D",
+  "name": "Merge Sort",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "divide and conquer"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/873/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3655
+}

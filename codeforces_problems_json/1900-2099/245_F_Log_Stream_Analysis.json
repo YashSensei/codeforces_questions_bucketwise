@@ -1,0 +1,16 @@
+{
+  "contest_id": 245,
+  "problem_index": "F",
+  "name": "Log Stream Analysis",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/245/F",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 929
+}

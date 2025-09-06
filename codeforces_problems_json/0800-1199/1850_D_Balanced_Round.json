@@ -1,0 +1,16 @@
+{
+  "contest_id": 1850,
+  "problem_index": "D",
+  "name": "Balanced Round",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1850/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 49378
+}

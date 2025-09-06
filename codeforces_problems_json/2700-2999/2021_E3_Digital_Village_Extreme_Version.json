@@ -1,0 +1,21 @@
+{
+  "contest_id": 2021,
+  "problem_index": "E3",
+  "name": "Digital Village (Extreme Version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "graphs",
+    "greedy",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2021/E3",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 596
+}

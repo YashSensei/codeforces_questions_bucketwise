@@ -1,0 +1,16 @@
+{
+  "contest_id": 659,
+  "problem_index": "D",
+  "name": "Bicycle Race",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/659/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 6530
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1681,
+  "problem_index": "D",
+  "name": "Required Length",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "hashing",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1681/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 10408
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 670,
+  "problem_index": "E",
+  "name": "Correct Bracket Sequence Editor",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "dsu",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/670/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 3327
+}

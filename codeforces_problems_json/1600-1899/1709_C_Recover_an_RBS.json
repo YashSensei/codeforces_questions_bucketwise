@@ -1,0 +1,16 @@
+{
+  "contest_id": 1709,
+  "problem_index": "C",
+  "name": "Recover an RBS",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1709/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9633
+}

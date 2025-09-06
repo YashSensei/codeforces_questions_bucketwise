@@ -1,0 +1,18 @@
+{
+  "contest_id": 1560,
+  "problem_index": "F1",
+  "name": "Nearest Beautiful Number (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1560/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6500
+}

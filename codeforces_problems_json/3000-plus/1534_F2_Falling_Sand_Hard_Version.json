@@ -1,0 +1,17 @@
+{
+  "contest_id": 1534,
+  "problem_index": "F2",
+  "name": "Falling Sand (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1534/F2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 653
+}

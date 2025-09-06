@@ -1,0 +1,20 @@
+{
+  "contest_id": 1927,
+  "problem_index": "F",
+  "name": "Microcycle",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "implementation",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1927/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5038
+}

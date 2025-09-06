@@ -1,0 +1,15 @@
+{
+  "contest_id": 843,
+  "problem_index": "E",
+  "name": "Maximum Flow",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/843/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 378
+}

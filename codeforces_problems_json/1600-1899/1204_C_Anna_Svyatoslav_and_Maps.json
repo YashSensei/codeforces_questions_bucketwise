@@ -1,0 +1,17 @@
+{
+  "contest_id": 1204,
+  "problem_index": "C",
+  "name": "Anna, Svyatoslav and Maps",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1204/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 7016
+}

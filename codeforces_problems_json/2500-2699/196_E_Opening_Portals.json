@@ -1,0 +1,16 @@
+{
+  "contest_id": 196,
+  "problem_index": "E",
+  "name": "Opening Portals",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dsu",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/196/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 1112
+}

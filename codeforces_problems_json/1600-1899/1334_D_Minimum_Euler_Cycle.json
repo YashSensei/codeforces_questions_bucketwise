@@ -1,0 +1,16 @@
+{
+  "contest_id": 1334,
+  "problem_index": "D",
+  "name": "Minimum Euler Cycle",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1334/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7588
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1256,
+  "problem_index": "E",
+  "name": "Yet Another Division Into Teams",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1256/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4434
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1895,
+  "problem_index": "G",
+  "name": "Two Characters, Two Colors",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "flows",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1895/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 262
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 925,
+  "problem_index": "E",
+  "name": "May Holidays",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/925/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 448
+}

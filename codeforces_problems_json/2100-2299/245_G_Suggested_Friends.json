@@ -1,0 +1,14 @@
+{
+  "contest_id": 245,
+  "problem_index": "G",
+  "name": "Suggested Friends",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/245/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 485
+}

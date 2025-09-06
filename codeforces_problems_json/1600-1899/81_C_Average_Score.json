@@ -1,0 +1,16 @@
+{
+  "contest_id": 81,
+  "problem_index": "C",
+  "name": "Average Score",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/81/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 1750
+}

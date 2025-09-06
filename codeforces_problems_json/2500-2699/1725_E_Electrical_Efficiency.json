@@ -1,0 +1,18 @@
+{
+  "contest_id": 1725,
+  "problem_index": "E",
+  "name": "Electrical Efficiency",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "math",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1725/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 547
+}

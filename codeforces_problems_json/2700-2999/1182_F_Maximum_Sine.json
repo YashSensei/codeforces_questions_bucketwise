@@ -1,0 +1,16 @@
+{
+  "contest_id": 1182,
+  "problem_index": "F",
+  "name": "Maximum Sine",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1182/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 374
+}

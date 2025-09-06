@@ -1,0 +1,17 @@
+{
+  "contest_id": 549,
+  "problem_index": "B",
+  "name": "Looksery Party",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/549/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 1521
+}

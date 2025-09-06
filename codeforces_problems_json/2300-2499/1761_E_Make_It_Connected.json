@@ -1,0 +1,22 @@
+{
+  "contest_id": 1761,
+  "problem_index": "E",
+  "name": "Make It Connected",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "matrices",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1761/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 2023
+}

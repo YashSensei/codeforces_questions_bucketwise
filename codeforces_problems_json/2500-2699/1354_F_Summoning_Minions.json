@@ -1,0 +1,18 @@
+{
+  "contest_id": 1354,
+  "problem_index": "F",
+  "name": "Summoning Minions",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "flows",
+    "graph matchings",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1354/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1356
+}

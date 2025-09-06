@@ -1,0 +1,14 @@
+{
+  "contest_id": 501,
+  "problem_index": "D",
+  "name": "Misha and Permutations Summation",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/501/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 2573
+}

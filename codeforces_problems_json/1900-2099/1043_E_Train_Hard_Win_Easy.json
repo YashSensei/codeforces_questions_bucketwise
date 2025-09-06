@@ -1,0 +1,17 @@
+{
+  "contest_id": 1043,
+  "problem_index": "E",
+  "name": "Train Hard, Win Easy",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1043/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 3106
+}

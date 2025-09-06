@@ -1,0 +1,16 @@
+{
+  "contest_id": 66,
+  "problem_index": "D",
+  "name": "Petya and His Friends",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/66/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 3420
+}

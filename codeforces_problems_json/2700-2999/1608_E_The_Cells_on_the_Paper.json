@@ -1,0 +1,16 @@
+{
+  "contest_id": 1608,
+  "problem_index": "E",
+  "name": "The Cells on the Paper",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "binary search",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1608/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 470
+}

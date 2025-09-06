@@ -1,0 +1,18 @@
+{
+  "contest_id": 2111,
+  "problem_index": "E",
+  "name": "Changing the String",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2111/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 4745
+}

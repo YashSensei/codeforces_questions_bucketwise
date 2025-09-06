@@ -1,0 +1,15 @@
+{
+  "contest_id": 526,
+  "problem_index": "A",
+  "name": "King of Thieves",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/526/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 4914
+}

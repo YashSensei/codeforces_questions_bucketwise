@@ -1,0 +1,18 @@
+{
+  "contest_id": 1823,
+  "problem_index": "E",
+  "name": "Removing Graph",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "dp",
+    "games",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1823/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1383
+}

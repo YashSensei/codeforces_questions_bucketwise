@@ -1,0 +1,18 @@
+{
+  "contest_id": 276,
+  "problem_index": "D",
+  "name": "Little Girl and Maximum XOR",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/276/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 15167
+}

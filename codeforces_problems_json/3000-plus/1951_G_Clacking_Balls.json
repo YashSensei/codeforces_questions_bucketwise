@@ -1,0 +1,16 @@
+{
+  "contest_id": 1951,
+  "problem_index": "G",
+  "name": "Clacking Balls",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "combinatorics",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1951/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 394
+}

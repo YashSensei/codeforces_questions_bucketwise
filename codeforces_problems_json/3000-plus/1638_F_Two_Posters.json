@@ -1,0 +1,17 @@
+{
+  "contest_id": 1638,
+  "problem_index": "F",
+  "name": "Two Posters",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1638/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 251
+}

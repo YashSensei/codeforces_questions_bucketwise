@@ -1,0 +1,15 @@
+{
+  "contest_id": 1109,
+  "problem_index": "F",
+  "name": "Sasha and Algorithm of Silence's Sounds",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1109/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 327
+}

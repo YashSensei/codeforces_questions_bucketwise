@@ -1,0 +1,16 @@
+{
+  "contest_id": 936,
+  "problem_index": "A",
+  "name": "Save Energy!",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/936/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 4527
+}

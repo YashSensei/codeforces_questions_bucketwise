@@ -1,0 +1,16 @@
+{
+  "contest_id": 1060,
+  "problem_index": "E",
+  "name": "Sergey and Subway",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1060/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 3349
+}

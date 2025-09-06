@@ -1,0 +1,18 @@
+{
+  "contest_id": 1561,
+  "problem_index": "D1",
+  "name": "Up the Strip (simplified version)",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1561/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 5912
+}

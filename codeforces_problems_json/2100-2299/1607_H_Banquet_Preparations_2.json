@@ -1,0 +1,15 @@
+{
+  "contest_id": 1607,
+  "problem_index": "H",
+  "name": "Banquet Preparations 2",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1607/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1314
+}

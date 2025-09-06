@@ -1,0 +1,20 @@
+{
+  "contest_id": 1365,
+  "problem_index": "D",
+  "name": "Solve The Maze",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1365/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 19418
+}

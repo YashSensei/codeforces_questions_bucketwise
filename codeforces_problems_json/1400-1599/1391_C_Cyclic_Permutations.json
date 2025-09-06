@@ -1,0 +1,17 @@
+{
+  "contest_id": 1391,
+  "problem_index": "C",
+  "name": "Cyclic Permutations ",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1391/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 15570
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 2108,
+  "problem_index": "F",
+  "name": "Fallen Towers",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "binary search",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2108/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3250.0,
+  "solved_count": 435
+}

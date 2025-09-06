@@ -1,0 +1,14 @@
+{
+  "contest_id": 214,
+  "problem_index": "A",
+  "name": "System of Equations",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/214/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 39641
+}

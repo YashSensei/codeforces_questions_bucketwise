@@ -1,0 +1,15 @@
+{
+  "contest_id": 1517,
+  "problem_index": "H",
+  "name": "Fly Around the World",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dp",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1517/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 80
+}

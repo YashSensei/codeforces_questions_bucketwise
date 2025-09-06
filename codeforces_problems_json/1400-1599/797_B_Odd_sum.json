@@ -1,0 +1,15 @@
+{
+  "contest_id": 797,
+  "problem_index": "B",
+  "name": "Odd sum",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/797/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 11122
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1740,
+  "problem_index": "H",
+  "name": "MEX Tree Manipulation",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "data structures",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1740/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 274
+}

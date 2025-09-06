@@ -1,0 +1,14 @@
+{
+  "contest_id": 1145,
+  "problem_index": "C",
+  "name": "Mystery Circuit",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "bitmasks",
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1145/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 819
+}

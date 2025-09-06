@@ -1,0 +1,15 @@
+{
+  "contest_id": 675,
+  "problem_index": "D",
+  "name": "Tree Construction",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/675/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 4064
+}

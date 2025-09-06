@@ -1,0 +1,15 @@
+{
+  "contest_id": 1207,
+  "problem_index": "E",
+  "name": "XOR Guessing",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1207/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6393
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1987,
+  "problem_index": "G2",
+  "name": "Spinning Round (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "divide and conquer",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1987/G2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 204
+}

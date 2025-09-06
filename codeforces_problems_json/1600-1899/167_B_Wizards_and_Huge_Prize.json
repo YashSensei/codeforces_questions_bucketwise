@@ -1,0 +1,16 @@
+{
+  "contest_id": 167,
+  "problem_index": "B",
+  "name": "Wizards and Huge Prize",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/167/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 2314
+}

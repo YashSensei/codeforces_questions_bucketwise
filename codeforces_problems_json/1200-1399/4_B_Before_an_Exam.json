@@ -1,0 +1,14 @@
+{
+  "contest_id": 4,
+  "problem_index": "B",
+  "name": "Before an Exam",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/4/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 27494
+}

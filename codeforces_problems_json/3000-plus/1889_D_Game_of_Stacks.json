@@ -1,0 +1,18 @@
+{
+  "contest_id": 1889,
+  "problem_index": "D",
+  "name": "Game of Stacks",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1889/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 785
+}

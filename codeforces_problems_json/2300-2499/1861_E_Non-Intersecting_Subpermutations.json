@@ -1,0 +1,16 @@
+{
+  "contest_id": 1861,
+  "problem_index": "E",
+  "name": "Non-Intersecting Subpermutations",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1861/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1931
+}

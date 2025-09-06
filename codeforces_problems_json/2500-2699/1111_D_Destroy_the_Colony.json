@@ -1,0 +1,16 @@
+{
+  "contest_id": 1111,
+  "problem_index": "D",
+  "name": "Destroy the Colony",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1111/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 1043
+}

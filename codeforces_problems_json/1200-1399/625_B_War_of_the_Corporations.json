@@ -1,0 +1,16 @@
+{
+  "contest_id": 625,
+  "problem_index": "B",
+  "name": "War of the Corporations",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/625/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 11124
+}

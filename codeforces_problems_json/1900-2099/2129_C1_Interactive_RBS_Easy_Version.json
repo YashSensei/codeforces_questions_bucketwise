@@ -1,0 +1,17 @@
+{
+  "contest_id": 2129,
+  "problem_index": "C1",
+  "name": "Interactive RBS (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2129/C1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 3073
+}

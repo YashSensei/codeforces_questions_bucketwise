@@ -1,0 +1,16 @@
+{
+  "contest_id": 1991,
+  "problem_index": "G",
+  "name": "Grid Reset",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1991/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 690
+}

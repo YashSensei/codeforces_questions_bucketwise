@@ -1,0 +1,15 @@
+{
+  "contest_id": 1338,
+  "problem_index": "A",
+  "name": "Powered Addition",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1338/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 27379
+}

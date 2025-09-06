@@ -1,0 +1,17 @@
+{
+  "contest_id": 2034,
+  "problem_index": "H",
+  "name": "Rayan vs. Rayaneh",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2034/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 5000.0,
+  "solved_count": 129
+}

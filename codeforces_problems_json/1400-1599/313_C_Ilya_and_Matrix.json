@@ -1,0 +1,17 @@
+{
+  "contest_id": 313,
+  "problem_index": "C",
+  "name": "Ilya and Matrix",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/313/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 5798
+}

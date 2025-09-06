@@ -1,0 +1,14 @@
+{
+  "contest_id": 1527,
+  "problem_index": "A",
+  "name": "And Then There Were K",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "bitmasks"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1527/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 39201
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 195,
+  "problem_index": "D",
+  "name": "Analyzing Polyline",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "geometry",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/195/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 1099
+}

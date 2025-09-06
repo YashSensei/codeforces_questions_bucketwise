@@ -1,0 +1,16 @@
+{
+  "contest_id": 611,
+  "problem_index": "H",
+  "name": "New Year  and Forgotten Tree",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "constructive algorithms",
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/611/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 666
+}

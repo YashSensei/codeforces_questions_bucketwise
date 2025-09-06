@@ -1,0 +1,17 @@
+{
+  "contest_id": 1213,
+  "problem_index": "G",
+  "name": "Path Queries",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "divide and conquer",
+    "dsu",
+    "graphs",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1213/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 8452
+}

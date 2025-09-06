@@ -1,0 +1,16 @@
+{
+  "contest_id": 1028,
+  "problem_index": "C",
+  "name": "Rectangles",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "geometry",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1028/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 4876
+}

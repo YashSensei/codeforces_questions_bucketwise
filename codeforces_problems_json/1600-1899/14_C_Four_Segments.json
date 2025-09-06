@@ -1,0 +1,17 @@
+{
+  "contest_id": 14,
+  "problem_index": "C",
+  "name": "Four Segments",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/14/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 3615
+}

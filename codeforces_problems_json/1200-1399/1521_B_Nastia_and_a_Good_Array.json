@@ -1,0 +1,16 @@
+{
+  "contest_id": 1521,
+  "problem_index": "B",
+  "name": "Nastia and a Good Array",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1521/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 22428
+}

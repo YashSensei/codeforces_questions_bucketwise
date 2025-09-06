@@ -1,0 +1,17 @@
+{
+  "contest_id": 522,
+  "problem_index": "B",
+  "name": "Photo to Remember",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "*special",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/522/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 9232
+}

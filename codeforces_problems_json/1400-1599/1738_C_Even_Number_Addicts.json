@@ -1,0 +1,17 @@
+{
+  "contest_id": 1738,
+  "problem_index": "C",
+  "name": "Even Number Addicts",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1738/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 12207
+}

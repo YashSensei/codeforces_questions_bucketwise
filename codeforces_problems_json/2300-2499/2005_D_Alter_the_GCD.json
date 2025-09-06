@@ -1,0 +1,19 @@
+{
+  "contest_id": 2005,
+  "problem_index": "D",
+  "name": "Alter the GCD",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "implementation",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2005/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 1080
+}

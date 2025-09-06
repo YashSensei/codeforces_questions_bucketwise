@@ -1,0 +1,15 @@
+{
+  "contest_id": 1505,
+  "problem_index": "A",
+  "name": "Is it rated - 2",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "*special",
+    "implementation",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1505/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15423
+}

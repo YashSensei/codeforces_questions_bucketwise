@@ -1,0 +1,16 @@
+{
+  "contest_id": 1555,
+  "problem_index": "C",
+  "name": "Coin Rows",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1555/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 23165
+}

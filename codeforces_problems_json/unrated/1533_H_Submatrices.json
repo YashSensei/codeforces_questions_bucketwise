@@ -1,0 +1,16 @@
+{
+  "contest_id": 1533,
+  "problem_index": "H",
+  "name": "Submatrices",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "bitmasks",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1533/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 89
+}

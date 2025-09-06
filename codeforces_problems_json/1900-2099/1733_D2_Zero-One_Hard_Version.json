@@ -1,0 +1,15 @@
+{
+  "contest_id": 1733,
+  "problem_index": "D2",
+  "name": "Zero-One (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1733/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 4524
+}

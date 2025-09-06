@@ -1,0 +1,19 @@
+{
+  "contest_id": 2056,
+  "problem_index": "D",
+  "name": "Unique Median",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "divide and conquer",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2056/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 3305
+}

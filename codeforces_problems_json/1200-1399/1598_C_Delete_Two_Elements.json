@@ -1,0 +1,17 @@
+{
+  "contest_id": 1598,
+  "problem_index": "C",
+  "name": "Delete Two Elements",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1598/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 22539
+}

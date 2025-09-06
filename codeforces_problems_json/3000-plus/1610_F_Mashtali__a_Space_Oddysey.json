@@ -1,0 +1,16 @@
+{
+  "contest_id": 1610,
+  "problem_index": "F",
+  "name": "Mashtali: a Space Oddysey",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1610/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 604
+}

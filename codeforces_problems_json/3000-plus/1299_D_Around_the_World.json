@@ -1,0 +1,21 @@
+{
+  "contest_id": 1299,
+  "problem_index": "D",
+  "name": "Around the World",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "graphs",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1299/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 498
+}

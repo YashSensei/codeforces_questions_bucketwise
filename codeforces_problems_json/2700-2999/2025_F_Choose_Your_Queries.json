@@ -1,0 +1,18 @@
+{
+  "contest_id": 2025,
+  "problem_index": "F",
+  "name": "Choose Your Queries",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2025/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 946
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 903,
+  "problem_index": "G",
+  "name": "Yet Another Maxflow Problem",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/903/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 604
+}

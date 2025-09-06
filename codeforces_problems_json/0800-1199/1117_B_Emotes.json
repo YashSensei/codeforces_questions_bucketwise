@@ -1,0 +1,15 @@
+{
+  "contest_id": 1117,
+  "problem_index": "B",
+  "name": "Emotes",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1117/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 15240
+}

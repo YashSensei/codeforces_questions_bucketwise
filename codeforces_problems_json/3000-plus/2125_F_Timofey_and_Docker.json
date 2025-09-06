@@ -1,0 +1,15 @@
+{
+  "contest_id": 2125,
+  "problem_index": "F",
+  "name": "Timofey and Docker",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "divide and conquer",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2125/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 307
+}

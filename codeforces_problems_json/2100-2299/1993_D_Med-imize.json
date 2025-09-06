@@ -1,0 +1,16 @@
+{
+  "contest_id": 1993,
+  "problem_index": "D",
+  "name": "Med-imize",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1993/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 4258
+}

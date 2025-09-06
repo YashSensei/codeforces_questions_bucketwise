@@ -1,0 +1,18 @@
+{
+  "contest_id": 1114,
+  "problem_index": "F",
+  "name": "Please, another Queries on Array?",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "divide and conquer",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1114/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 2248
+}

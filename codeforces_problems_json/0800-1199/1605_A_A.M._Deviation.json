@@ -1,0 +1,15 @@
+{
+  "contest_id": 1605,
+  "problem_index": "A",
+  "name": "A.M. Deviation",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1605/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 21165
+}

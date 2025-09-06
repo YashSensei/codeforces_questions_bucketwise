@@ -1,0 +1,14 @@
+{
+  "contest_id": 1170,
+  "problem_index": "G",
+  "name": "Graph Decomposition",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1170/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 80
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1833,
+  "problem_index": "D",
+  "name": "Flipper",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1833/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14507
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1361,
+  "problem_index": "A",
+  "name": "Johnny and Contribution",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1361/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 8636
+}

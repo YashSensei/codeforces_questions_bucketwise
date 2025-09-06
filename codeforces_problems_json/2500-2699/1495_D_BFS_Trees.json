@@ -1,0 +1,19 @@
+{
+  "contest_id": 1495,
+  "problem_index": "D",
+  "name": "BFS Trees",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "graphs",
+    "math",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1495/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1442
+}

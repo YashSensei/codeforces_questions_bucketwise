@@ -1,0 +1,14 @@
+{
+  "contest_id": 139,
+  "problem_index": "A",
+  "name": "Petr and Book",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/139/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 35154
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 587,
+  "problem_index": "F",
+  "name": "Duff is Mad",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/587/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 1194
+}

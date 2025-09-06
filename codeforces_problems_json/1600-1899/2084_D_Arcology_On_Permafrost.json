@@ -1,0 +1,18 @@
+{
+  "contest_id": 2084,
+  "problem_index": "D",
+  "name": "Arcology On Permafrost",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2084/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 7617
+}

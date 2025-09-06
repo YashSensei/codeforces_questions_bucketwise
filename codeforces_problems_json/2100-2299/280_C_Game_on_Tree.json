@@ -1,0 +1,17 @@
+{
+  "contest_id": 280,
+  "problem_index": "C",
+  "name": "Game on Tree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "implementation",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/280/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 4629
+}

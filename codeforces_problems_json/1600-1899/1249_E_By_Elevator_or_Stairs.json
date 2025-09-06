@@ -1,0 +1,14 @@
+{
+  "contest_id": 1249,
+  "problem_index": "E",
+  "name": "By Elevator or Stairs?",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1249/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 10390
+}

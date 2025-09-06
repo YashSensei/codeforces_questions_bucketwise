@@ -1,0 +1,16 @@
+{
+  "contest_id": 600,
+  "problem_index": "E",
+  "name": "Lomsat gelral",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/600/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 16243
+}

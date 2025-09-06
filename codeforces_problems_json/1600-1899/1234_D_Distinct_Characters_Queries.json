@@ -1,0 +1,13 @@
+{
+  "contest_id": 1234,
+  "problem_index": "D",
+  "name": "Distinct Characters Queries",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1234/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 16980
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 593,
+  "problem_index": "A",
+  "name": "2Char",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/593/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 5995
+}

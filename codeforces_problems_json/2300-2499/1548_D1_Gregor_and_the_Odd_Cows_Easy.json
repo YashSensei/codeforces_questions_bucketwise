@@ -1,0 +1,17 @@
+{
+  "contest_id": 1548,
+  "problem_index": "D1",
+  "name": "Gregor and the Odd Cows (Easy)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "geometry",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1548/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1553
+}

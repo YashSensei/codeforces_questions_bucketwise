@@ -1,0 +1,16 @@
+{
+  "contest_id": 1085,
+  "problem_index": "E",
+  "name": "Vasya and Templates",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1085/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 1096
+}

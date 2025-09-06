@@ -1,0 +1,17 @@
+{
+  "contest_id": 1386,
+  "problem_index": "C",
+  "name": "Joker",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "*special",
+    "bitmasks",
+    "data structures",
+    "divide and conquer",
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1386/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 610
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1833,
+  "problem_index": "E",
+  "name": "Round Dance",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1833/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15512
+}

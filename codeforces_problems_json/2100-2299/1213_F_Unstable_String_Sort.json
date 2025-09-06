@@ -1,0 +1,19 @@
+{
+  "contest_id": 1213,
+  "problem_index": "F",
+  "name": "Unstable String Sort",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1213/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2846
+}

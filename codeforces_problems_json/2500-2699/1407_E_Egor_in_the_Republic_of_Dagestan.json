@@ -1,0 +1,19 @@
+{
+  "contest_id": 1407,
+  "problem_index": "E",
+  "name": "Egor in the Republic of Dagestan",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1407/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1811
+}

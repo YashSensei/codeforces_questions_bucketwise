@@ -1,0 +1,19 @@
+{
+  "contest_id": 1322,
+  "problem_index": "B",
+  "name": "Present",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "data structures",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1322/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 4435
+}

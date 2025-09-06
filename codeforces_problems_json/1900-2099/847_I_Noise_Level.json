@@ -1,0 +1,15 @@
+{
+  "contest_id": 847,
+  "problem_index": "I",
+  "name": "Noise Level",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/847/I",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1572
+}

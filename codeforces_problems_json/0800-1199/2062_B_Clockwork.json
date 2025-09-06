@@ -1,0 +1,15 @@
+{
+  "contest_id": 2062,
+  "problem_index": "B",
+  "name": "Clockwork",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2062/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 22149
+}

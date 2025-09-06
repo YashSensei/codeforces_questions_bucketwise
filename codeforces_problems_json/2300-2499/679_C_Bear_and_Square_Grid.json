@@ -1,0 +1,16 @@
+{
+  "contest_id": 679,
+  "problem_index": "C",
+  "name": "Bear and Square Grid",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/679/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 1227
+}

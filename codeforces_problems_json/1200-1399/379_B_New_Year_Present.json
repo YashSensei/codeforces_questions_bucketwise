@@ -1,0 +1,15 @@
+{
+  "contest_id": 379,
+  "problem_index": "B",
+  "name": "New Year Present",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/379/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 7525
+}

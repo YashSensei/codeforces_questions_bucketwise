@@ -1,0 +1,16 @@
+{
+  "contest_id": 627,
+  "problem_index": "C",
+  "name": "Package Delivery",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/627/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 1235
+}

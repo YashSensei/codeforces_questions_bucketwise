@@ -1,0 +1,14 @@
+{
+  "contest_id": 1089,
+  "problem_index": "J",
+  "name": "JS Minification",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1089/J",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 140
+}

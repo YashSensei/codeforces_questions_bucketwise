@@ -1,0 +1,14 @@
+{
+  "contest_id": 1036,
+  "problem_index": "C",
+  "name": "Classy Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1036/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 11590
+}

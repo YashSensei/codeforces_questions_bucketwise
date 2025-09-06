@@ -1,0 +1,17 @@
+{
+  "contest_id": 1515,
+  "problem_index": "B",
+  "name": "Phoenix and Puzzle",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "geometry",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1515/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 26208
+}

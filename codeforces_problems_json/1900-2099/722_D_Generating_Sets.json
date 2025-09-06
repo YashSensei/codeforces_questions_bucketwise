@@ -1,0 +1,19 @@
+{
+  "contest_id": 722,
+  "problem_index": "D",
+  "name": "Generating Sets",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/722/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 3270
+}

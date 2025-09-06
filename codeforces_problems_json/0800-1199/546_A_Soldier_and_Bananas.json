@@ -1,0 +1,16 @@
+{
+  "contest_id": 546,
+  "problem_index": "A",
+  "name": "Soldier and Bananas",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/546/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 212573
+}

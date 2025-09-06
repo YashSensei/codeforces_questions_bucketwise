@@ -1,0 +1,16 @@
+{
+  "contest_id": 1423,
+  "problem_index": "J",
+  "name": "Bubble Cup hypothesis",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1423/J",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 844
+}

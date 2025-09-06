@@ -1,0 +1,15 @@
+{
+  "contest_id": 845,
+  "problem_index": "C",
+  "name": "Two TVs",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/845/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 11083
+}

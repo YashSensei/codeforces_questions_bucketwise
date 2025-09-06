@@ -1,0 +1,20 @@
+{
+  "contest_id": 1928,
+  "problem_index": "E",
+  "name": "Modular Sequence",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1928/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 1957
+}

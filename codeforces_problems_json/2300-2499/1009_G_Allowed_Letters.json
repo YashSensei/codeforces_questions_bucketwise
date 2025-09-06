@@ -1,0 +1,17 @@
+{
+  "contest_id": 1009,
+  "problem_index": "G",
+  "name": "Allowed Letters",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "flows",
+    "graph matchings",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1009/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 945
+}

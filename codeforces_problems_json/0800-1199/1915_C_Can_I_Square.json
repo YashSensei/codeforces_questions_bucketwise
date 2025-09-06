@@ -1,0 +1,14 @@
+{
+  "contest_id": 1915,
+  "problem_index": "C",
+  "name": "Can I Square?",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1915/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 49260
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 291,
+  "problem_index": "B",
+  "name": "Command Line Arguments",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "*special",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/291/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 3054
+}

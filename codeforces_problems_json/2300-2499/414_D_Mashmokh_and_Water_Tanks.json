@@ -1,0 +1,18 @@
+{
+  "contest_id": 414,
+  "problem_index": "D",
+  "name": "Mashmokh and Water Tanks",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/414/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 717
+}

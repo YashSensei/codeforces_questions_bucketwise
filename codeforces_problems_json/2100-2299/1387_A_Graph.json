@@ -1,0 +1,18 @@
+{
+  "contest_id": 1387,
+  "problem_index": "A",
+  "name": "Graph",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "*special",
+    "binary search",
+    "dfs and similar",
+    "dp",
+    "math",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1387/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 813
+}

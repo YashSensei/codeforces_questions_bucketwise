@@ -1,0 +1,14 @@
+{
+  "contest_id": 2120,
+  "problem_index": "B",
+  "name": "Square Pool",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2120/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 15777
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1738,
+  "problem_index": "E",
+  "name": "Balance Addicts",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1738/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1643
+}

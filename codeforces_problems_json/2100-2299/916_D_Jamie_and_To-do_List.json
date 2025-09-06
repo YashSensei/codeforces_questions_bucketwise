@@ -1,0 +1,16 @@
+{
+  "contest_id": 916,
+  "problem_index": "D",
+  "name": "Jamie and To-do List",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/916/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 541
+}

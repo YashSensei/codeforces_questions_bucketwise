@@ -1,0 +1,16 @@
+{
+  "contest_id": 1093,
+  "problem_index": "B",
+  "name": "Letters Rearranging",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1093/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 17255
+}

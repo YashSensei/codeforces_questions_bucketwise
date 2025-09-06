@@ -1,0 +1,17 @@
+{
+  "contest_id": 1393,
+  "problem_index": "D",
+  "name": "Rarity and New Dress",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1393/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 4118
+}

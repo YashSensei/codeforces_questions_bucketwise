@@ -1,0 +1,16 @@
+{
+  "contest_id": 817,
+  "problem_index": "D",
+  "name": "Imbalanced Array",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/817/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5494
+}

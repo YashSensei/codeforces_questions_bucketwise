@@ -1,0 +1,16 @@
+{
+  "contest_id": 1023,
+  "problem_index": "A",
+  "name": "Single Wildcard Pattern Matching",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1023/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 9019
+}

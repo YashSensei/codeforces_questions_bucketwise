@@ -1,0 +1,15 @@
+{
+  "contest_id": 1954,
+  "problem_index": "A",
+  "name": "Painting the Ribbon",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1954/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 26306
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 819,
+  "problem_index": "E",
+  "name": "Mister B and Flight to the Moon",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "constructive algorithms",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/819/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 581
+}

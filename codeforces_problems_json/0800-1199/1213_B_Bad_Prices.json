@@ -1,0 +1,14 @@
+{
+  "contest_id": 1213,
+  "problem_index": "B",
+  "name": "Bad Prices",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1213/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 29087
+}

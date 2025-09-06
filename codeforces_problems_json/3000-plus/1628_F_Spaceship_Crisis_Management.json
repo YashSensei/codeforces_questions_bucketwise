@@ -1,0 +1,17 @@
+{
+  "contest_id": 1628,
+  "problem_index": "F",
+  "name": "Spaceship Crisis Management",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "binary search",
+    "data structures",
+    "geometry",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1628/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 93
+}

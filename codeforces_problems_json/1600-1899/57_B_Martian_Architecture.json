@@ -1,0 +1,14 @@
+{
+  "contest_id": 57,
+  "problem_index": "B",
+  "name": "Martian Architecture",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/57/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 1087
+}

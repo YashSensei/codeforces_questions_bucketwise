@@ -1,0 +1,16 @@
+{
+  "contest_id": 1287,
+  "problem_index": "B",
+  "name": "Hyperset",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1287/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 9653
+}

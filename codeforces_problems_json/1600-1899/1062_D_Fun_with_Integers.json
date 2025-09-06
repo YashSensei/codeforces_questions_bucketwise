@@ -1,0 +1,17 @@
+{
+  "contest_id": 1062,
+  "problem_index": "D",
+  "name": "Fun with Integers",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1062/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 4062
+}

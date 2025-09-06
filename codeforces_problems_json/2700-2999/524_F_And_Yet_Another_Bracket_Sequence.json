@@ -1,0 +1,18 @@
+{
+  "contest_id": 524,
+  "problem_index": "F",
+  "name": "And Yet Another Bracket Sequence",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "greedy",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/524/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 560
+}

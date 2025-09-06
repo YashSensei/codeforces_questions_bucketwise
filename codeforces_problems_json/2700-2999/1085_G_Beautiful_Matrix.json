@@ -1,0 +1,16 @@
+{
+  "contest_id": 1085,
+  "problem_index": "G",
+  "name": "Beautiful Matrix",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1085/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3250.0,
+  "solved_count": 628
+}

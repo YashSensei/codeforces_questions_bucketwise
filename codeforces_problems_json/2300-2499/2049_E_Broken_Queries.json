@@ -1,0 +1,19 @@
+{
+  "contest_id": 2049,
+  "problem_index": "E",
+  "name": "Broken Queries",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2049/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 1452
+}

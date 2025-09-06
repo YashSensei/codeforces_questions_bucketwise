@@ -1,0 +1,15 @@
+{
+  "contest_id": 850,
+  "problem_index": "B",
+  "name": "Arpa and a list of numbers",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "implementation",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/850/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 2080
+}

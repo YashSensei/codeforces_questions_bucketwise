@@ -1,0 +1,17 @@
+{
+  "contest_id": 1684,
+  "problem_index": "H",
+  "name": "Hard Cut",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "divide and conquer",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1684/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 268
+}

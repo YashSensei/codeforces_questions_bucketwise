@@ -1,0 +1,15 @@
+{
+  "contest_id": 1558,
+  "problem_index": "F",
+  "name": "Strange Sort",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "data structures",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1558/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 443
+}

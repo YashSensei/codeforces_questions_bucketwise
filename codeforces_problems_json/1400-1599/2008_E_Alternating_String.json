@@ -1,0 +1,18 @@
+{
+  "contest_id": 2008,
+  "problem_index": "E",
+  "name": "Alternating String",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2008/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 12256
+}

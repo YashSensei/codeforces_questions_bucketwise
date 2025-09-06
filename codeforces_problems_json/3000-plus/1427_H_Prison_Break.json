@@ -1,0 +1,17 @@
+{
+  "contest_id": 1427,
+  "problem_index": "H",
+  "name": "Prison Break",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "binary search",
+    "games",
+    "geometry",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1427/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4500.0,
+  "solved_count": 88
+}

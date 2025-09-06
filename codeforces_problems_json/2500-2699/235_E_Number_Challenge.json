@@ -1,0 +1,18 @@
+{
+  "contest_id": 235,
+  "problem_index": "E",
+  "name": "Number Challenge",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/235/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 823
+}

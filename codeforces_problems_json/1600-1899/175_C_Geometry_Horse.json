@@ -1,0 +1,17 @@
+{
+  "contest_id": 175,
+  "problem_index": "C",
+  "name": "Geometry Horse",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/175/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 1389
+}

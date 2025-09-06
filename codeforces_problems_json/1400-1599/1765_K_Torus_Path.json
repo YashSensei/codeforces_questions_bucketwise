@@ -1,0 +1,14 @@
+{
+  "contest_id": 1765,
+  "problem_index": "K",
+  "name": "Torus Path",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1765/K",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6446
+}

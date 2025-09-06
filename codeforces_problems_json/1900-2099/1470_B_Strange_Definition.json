@@ -1,0 +1,18 @@
+{
+  "contest_id": 1470,
+  "problem_index": "B",
+  "name": "Strange Definition",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "graphs",
+    "hashing",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1470/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 6560
+}

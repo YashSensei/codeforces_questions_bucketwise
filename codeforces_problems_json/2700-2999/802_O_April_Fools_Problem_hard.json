@@ -1,0 +1,15 @@
+{
+  "contest_id": 802,
+  "problem_index": "O",
+  "name": "April Fools' Problem (hard)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "flows"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/O",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1117
+}

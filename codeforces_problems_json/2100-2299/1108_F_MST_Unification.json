@@ -1,0 +1,16 @@
+{
+  "contest_id": 1108,
+  "problem_index": "F",
+  "name": "MST Unification",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1108/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3263
+}

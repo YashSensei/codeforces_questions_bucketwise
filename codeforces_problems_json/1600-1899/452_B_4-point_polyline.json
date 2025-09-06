@@ -1,0 +1,17 @@
+{
+  "contest_id": 452,
+  "problem_index": "B",
+  "name": "4-point polyline",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/452/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 2063
+}

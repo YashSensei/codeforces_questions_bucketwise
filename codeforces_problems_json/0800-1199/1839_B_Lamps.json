@@ -1,0 +1,15 @@
+{
+  "contest_id": 1839,
+  "problem_index": "B",
+  "name": "Lamps",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1839/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 16135
+}

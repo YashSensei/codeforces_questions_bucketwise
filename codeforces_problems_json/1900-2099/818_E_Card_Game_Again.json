@@ -1,0 +1,16 @@
+{
+  "contest_id": 818,
+  "problem_index": "E",
+  "name": "Card Game Again",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/818/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2441
+}

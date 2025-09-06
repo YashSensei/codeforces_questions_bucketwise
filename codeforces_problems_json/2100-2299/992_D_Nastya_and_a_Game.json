@@ -1,0 +1,16 @@
+{
+  "contest_id": 992,
+  "problem_index": "D",
+  "name": "Nastya and a Game",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/992/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 1714
+}

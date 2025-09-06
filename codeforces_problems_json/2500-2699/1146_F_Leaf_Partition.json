@@ -1,0 +1,15 @@
+{
+  "contest_id": 1146,
+  "problem_index": "F",
+  "name": "Leaf Partition",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1146/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3250.0,
+  "solved_count": 1278
+}

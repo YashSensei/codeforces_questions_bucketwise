@@ -1,0 +1,15 @@
+{
+  "contest_id": 382,
+  "problem_index": "C",
+  "name": "Arithmetic Progression",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/382/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 8559
+}

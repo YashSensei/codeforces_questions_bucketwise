@@ -1,0 +1,17 @@
+{
+  "contest_id": 1088,
+  "problem_index": "E",
+  "name": "Ehab and a component choosing problem",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dp",
+    "greedy",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1088/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1575
+}

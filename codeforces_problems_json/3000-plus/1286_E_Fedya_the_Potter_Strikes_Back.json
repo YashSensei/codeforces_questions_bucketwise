@@ -1,0 +1,15 @@
+{
+  "contest_id": 1286,
+  "problem_index": "E",
+  "name": "Fedya the Potter Strikes Back",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1286/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 612
+}

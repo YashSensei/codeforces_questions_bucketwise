@@ -1,0 +1,18 @@
+{
+  "contest_id": 2043,
+  "problem_index": "C",
+  "name": "Sums on Segments",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2043/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 10180
+}

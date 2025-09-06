@@ -1,0 +1,18 @@
+{
+  "contest_id": 1973,
+  "problem_index": "C",
+  "name": "Cat, Fox and Double Maximum",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1973/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 9357
+}

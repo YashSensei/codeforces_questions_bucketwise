@@ -1,0 +1,15 @@
+{
+  "contest_id": 1216,
+  "problem_index": "E1",
+  "name": "Numerical Sequence (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1216/E1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3608
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1443,
+  "problem_index": "C",
+  "name": "The Delivery Dilemma",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1443/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 16290
+}

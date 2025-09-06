@@ -1,0 +1,15 @@
+{
+  "contest_id": 1144,
+  "problem_index": "B",
+  "name": "Parity Alternated Deletions",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1144/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 17932
+}

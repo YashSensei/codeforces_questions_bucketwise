@@ -1,0 +1,16 @@
+{
+  "contest_id": 1822,
+  "problem_index": "G1",
+  "name": "Magic Triples (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "data structures",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1822/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8377
+}

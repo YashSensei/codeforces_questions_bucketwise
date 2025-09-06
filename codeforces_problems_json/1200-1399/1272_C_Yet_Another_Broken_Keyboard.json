@@ -1,0 +1,15 @@
+{
+  "contest_id": 1272,
+  "problem_index": "C",
+  "name": "Yet Another Broken Keyboard",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1272/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 29064
+}

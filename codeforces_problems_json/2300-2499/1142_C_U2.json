@@ -1,0 +1,14 @@
+{
+  "contest_id": 1142,
+  "problem_index": "C",
+  "name": "U2",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1142/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 1470
+}

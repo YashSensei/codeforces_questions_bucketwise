@@ -1,0 +1,15 @@
+{
+  "contest_id": 1387,
+  "problem_index": "B2",
+  "name": "Village (Maximum)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "*special",
+    "dfs and similar",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1387/B2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1087
+}

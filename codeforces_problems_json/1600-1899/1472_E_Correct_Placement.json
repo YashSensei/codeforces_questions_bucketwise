@@ -1,0 +1,17 @@
+{
+  "contest_id": 1472,
+  "problem_index": "E",
+  "name": "Correct Placement",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1472/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8573
+}

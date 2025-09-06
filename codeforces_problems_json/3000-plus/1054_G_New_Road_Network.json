@@ -1,0 +1,16 @@
+{
+  "contest_id": 1054,
+  "problem_index": "G",
+  "name": "New Road Network",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1054/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 405
+}

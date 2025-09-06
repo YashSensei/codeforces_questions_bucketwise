@@ -1,0 +1,16 @@
+{
+  "contest_id": 283,
+  "problem_index": "B",
+  "name": "Cow Program",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/283/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 3780
+}

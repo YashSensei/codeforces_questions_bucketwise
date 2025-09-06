@@ -1,0 +1,15 @@
+{
+  "contest_id": 264,
+  "problem_index": "B",
+  "name": "Good Sequences",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/264/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 11306
+}

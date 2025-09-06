@@ -1,0 +1,16 @@
+{
+  "contest_id": 1526,
+  "problem_index": "B",
+  "name": "I Hate 1111",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1526/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 34226
+}

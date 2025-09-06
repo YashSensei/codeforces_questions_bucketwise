@@ -1,0 +1,18 @@
+{
+  "contest_id": 1901,
+  "problem_index": "E",
+  "name": "Compressed Tree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1901/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1819
+}

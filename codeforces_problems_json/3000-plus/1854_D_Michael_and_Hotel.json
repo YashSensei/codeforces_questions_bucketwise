@@ -1,0 +1,16 @@
+{
+  "contest_id": 1854,
+  "problem_index": "D",
+  "name": "Michael and Hotel",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1854/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 603
+}

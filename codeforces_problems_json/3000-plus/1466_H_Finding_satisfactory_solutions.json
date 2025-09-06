@@ -1,0 +1,18 @@
+{
+  "contest_id": 1466,
+  "problem_index": "H",
+  "name": "Finding satisfactory solutions",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "graphs",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1466/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 418
+}

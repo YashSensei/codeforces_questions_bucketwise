@@ -1,0 +1,20 @@
+{
+  "contest_id": 1968,
+  "problem_index": "G2",
+  "name": "Division + LCP (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "hashing",
+    "math",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1968/G2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2285
+}

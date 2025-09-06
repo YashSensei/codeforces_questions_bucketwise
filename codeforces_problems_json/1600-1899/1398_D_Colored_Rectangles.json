@@ -1,0 +1,15 @@
+{
+  "contest_id": 1398,
+  "problem_index": "D",
+  "name": "Colored Rectangles",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1398/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 12129
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1346,
+  "problem_index": "D",
+  "name": "Constructing the Dungeon",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "*special",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1346/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 532
+}

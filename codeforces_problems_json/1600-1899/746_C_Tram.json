@@ -1,0 +1,16 @@
+{
+  "contest_id": 746,
+  "problem_index": "C",
+  "name": "Tram",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/746/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 3803
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1578,
+  "problem_index": "K",
+  "name": "Kingdom of Islands",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "brute force",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1578/K",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 398
+}

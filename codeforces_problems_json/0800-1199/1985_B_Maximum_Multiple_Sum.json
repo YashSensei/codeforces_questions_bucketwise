@@ -1,0 +1,15 @@
+{
+  "contest_id": 1985,
+  "problem_index": "B",
+  "name": "Maximum Multiple Sum",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1985/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 52648
+}

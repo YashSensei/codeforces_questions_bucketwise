@@ -1,0 +1,15 @@
+{
+  "contest_id": 126,
+  "problem_index": "D",
+  "name": "Fibonacci Sums",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/126/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 899
+}

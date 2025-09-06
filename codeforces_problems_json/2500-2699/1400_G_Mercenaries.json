@@ -1,0 +1,19 @@
+{
+  "contest_id": 1400,
+  "problem_index": "G",
+  "name": "Mercenaries",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "dsu",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1400/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1086
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1796,
+  "problem_index": "D",
+  "name": "Maximum Subarray",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1796/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4919
+}

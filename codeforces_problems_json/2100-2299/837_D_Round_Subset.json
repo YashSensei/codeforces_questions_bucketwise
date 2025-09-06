@@ -1,0 +1,14 @@
+{
+  "contest_id": 837,
+  "problem_index": "D",
+  "name": "Round Subset",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/837/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6557
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 2062,
+  "problem_index": "D",
+  "name": "Balanced Tree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2062/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 3278
+}

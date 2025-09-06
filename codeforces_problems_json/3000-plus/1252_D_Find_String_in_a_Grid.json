@@ -1,0 +1,16 @@
+{
+  "contest_id": 1252,
+  "problem_index": "D",
+  "name": "Find String in a Grid",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "dp",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1252/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 384
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 558,
+  "problem_index": "D",
+  "name": "Guess Your Way Out! II",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/558/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 1177
+}

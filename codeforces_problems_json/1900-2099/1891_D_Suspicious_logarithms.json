@@ -1,0 +1,16 @@
+{
+  "contest_id": 1891,
+  "problem_index": "D",
+  "name": "Suspicious logarithms",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1891/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 4343
+}

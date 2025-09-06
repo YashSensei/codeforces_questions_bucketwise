@@ -1,0 +1,17 @@
+{
+  "contest_id": 199,
+  "problem_index": "A",
+  "name": "Hexadecimal's theorem",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/199/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 28853
+}

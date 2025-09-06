@@ -1,0 +1,17 @@
+{
+  "contest_id": 1163,
+  "problem_index": "C2",
+  "name": "Power Transmission (Hard Edition)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1163/C2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 3861
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1662,
+  "problem_index": "O",
+  "name": "Circular Maze",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1662/O",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1480
+}

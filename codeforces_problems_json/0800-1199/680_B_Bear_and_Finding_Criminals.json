@@ -1,0 +1,15 @@
+{
+  "contest_id": 680,
+  "problem_index": "B",
+  "name": "Bear and Finding Criminals",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/680/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 25573
+}

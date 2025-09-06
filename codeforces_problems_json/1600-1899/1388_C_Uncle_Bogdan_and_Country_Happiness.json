@@ -1,0 +1,17 @@
+{
+  "contest_id": 1388,
+  "problem_index": "C",
+  "name": "Uncle Bogdan and Country Happiness",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dfs and similar",
+    "greedy",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1388/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 10135
+}

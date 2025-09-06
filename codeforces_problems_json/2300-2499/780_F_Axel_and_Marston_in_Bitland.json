@@ -1,0 +1,17 @@
+{
+  "contest_id": 780,
+  "problem_index": "F",
+  "name": "Axel and Marston in Bitland",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "graphs",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/780/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1214
+}

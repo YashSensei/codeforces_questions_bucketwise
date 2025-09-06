@@ -1,0 +1,18 @@
+{
+  "contest_id": 1998,
+  "problem_index": "E1",
+  "name": "Eliminating Balls With Merging (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1998/E1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 2150
+}

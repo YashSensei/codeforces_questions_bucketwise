@@ -1,0 +1,18 @@
+{
+  "contest_id": 2072,
+  "problem_index": "G",
+  "name": "I've Been Flipping Numbers for 300 Years and Calculated the Sum",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "divide and conquer",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2072/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1950
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 750,
+  "problem_index": "H",
+  "name": "New Year and Snowy Grid",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/750/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 228
+}

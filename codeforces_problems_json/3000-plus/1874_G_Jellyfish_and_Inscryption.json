@@ -1,0 +1,14 @@
+{
+  "contest_id": 1874,
+  "problem_index": "G",
+  "name": "Jellyfish and Inscryption",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1874/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 5000.0,
+  "solved_count": 120
+}

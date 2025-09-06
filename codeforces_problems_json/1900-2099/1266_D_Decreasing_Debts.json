@@ -1,0 +1,20 @@
+{
+  "contest_id": 1266,
+  "problem_index": "D",
+  "name": "Decreasing Debts",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1266/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 3728
+}

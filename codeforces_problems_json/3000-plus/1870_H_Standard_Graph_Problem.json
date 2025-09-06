@@ -1,0 +1,17 @@
+{
+  "contest_id": 1870,
+  "problem_index": "H",
+  "name": "Standard Graph Problem",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "data structures",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1870/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 111
+}

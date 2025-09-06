@@ -1,0 +1,16 @@
+{
+  "contest_id": 1293,
+  "problem_index": "B",
+  "name": "JOE is on TV!",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "combinatorics",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1293/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 21848
+}

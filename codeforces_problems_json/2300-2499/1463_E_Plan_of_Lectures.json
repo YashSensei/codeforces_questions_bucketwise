@@ -1,0 +1,19 @@
+{
+  "contest_id": 1463,
+  "problem_index": "E",
+  "name": "Plan of Lectures",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "implementation",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1463/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1635
+}

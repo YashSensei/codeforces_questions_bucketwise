@@ -1,0 +1,16 @@
+{
+  "contest_id": 605,
+  "problem_index": "B",
+  "name": "Lazy Student",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/605/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 3680
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 406,
+  "problem_index": "D",
+  "name": "Hill Climbing",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "geometry",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/406/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 1227
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 2128,
+  "problem_index": "D",
+  "name": "Sum of LDS",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2128/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 8889
+}

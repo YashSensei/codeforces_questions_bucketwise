@@ -1,0 +1,18 @@
+{
+  "contest_id": 1801,
+  "problem_index": "E",
+  "name": "Gasoline prices",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "hashing",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1801/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 565
+}

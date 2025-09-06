@@ -1,0 +1,17 @@
+{
+  "contest_id": 1621,
+  "problem_index": "H",
+  "name": "Trains and Airplanes",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1621/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 190
+}

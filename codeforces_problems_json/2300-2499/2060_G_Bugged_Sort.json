@@ -1,0 +1,15 @@
+{
+  "contest_id": 2060,
+  "problem_index": "G",
+  "name": "Bugged Sort",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2060/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1117
+}

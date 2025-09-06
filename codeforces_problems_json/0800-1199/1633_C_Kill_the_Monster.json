@@ -1,0 +1,14 @@
+{
+  "contest_id": 1633,
+  "problem_index": "C",
+  "name": "Kill the Monster",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1633/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20795
+}

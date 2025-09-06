@@ -1,0 +1,17 @@
+{
+  "contest_id": 1403,
+  "problem_index": "C",
+  "name": "Chess Rush",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "*special",
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1403/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 73
+}

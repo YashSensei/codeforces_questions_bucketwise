@@ -1,0 +1,14 @@
+{
+  "contest_id": 1,
+  "problem_index": "C",
+  "name": "Ancient Berland Circus",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 6065
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 2039,
+  "problem_index": "H1",
+  "name": "Cool Swap Walk (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2039/H1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 90
+}

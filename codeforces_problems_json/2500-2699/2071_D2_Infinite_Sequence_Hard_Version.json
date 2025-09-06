@@ -1,0 +1,20 @@
+{
+  "contest_id": 2071,
+  "problem_index": "D2",
+  "name": "Infinite Sequence (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2071/D2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 919
+}

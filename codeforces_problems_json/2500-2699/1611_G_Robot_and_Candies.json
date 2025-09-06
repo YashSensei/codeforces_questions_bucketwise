@@ -1,0 +1,15 @@
+{
+  "contest_id": 1611,
+  "problem_index": "G",
+  "name": "Robot and Candies",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "graph matchings",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1611/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 702
+}

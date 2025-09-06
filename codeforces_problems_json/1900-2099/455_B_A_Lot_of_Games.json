@@ -1,0 +1,19 @@
+{
+  "contest_id": 455,
+  "problem_index": "B",
+  "name": "A Lot of Games",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "implementation",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/455/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 6445
+}

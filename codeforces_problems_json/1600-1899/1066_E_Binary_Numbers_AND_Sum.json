@@ -1,0 +1,15 @@
+{
+  "contest_id": 1066,
+  "problem_index": "E",
+  "name": "Binary Numbers AND Sum",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1066/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6370
+}

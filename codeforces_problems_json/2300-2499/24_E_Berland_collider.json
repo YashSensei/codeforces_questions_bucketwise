@@ -1,0 +1,13 @@
+{
+  "contest_id": 24,
+  "problem_index": "E",
+  "name": "Berland collider",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/24/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 959
+}

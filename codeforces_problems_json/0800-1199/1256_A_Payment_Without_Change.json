@@ -1,0 +1,13 @@
+{
+  "contest_id": 1256,
+  "problem_index": "A",
+  "name": "Payment Without Change",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1256/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 31463
+}

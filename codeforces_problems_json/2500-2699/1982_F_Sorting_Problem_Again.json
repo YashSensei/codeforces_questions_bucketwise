@@ -1,0 +1,16 @@
+{
+  "contest_id": 1982,
+  "problem_index": "F",
+  "name": "Sorting Problem Again",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "data structures",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1982/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 1090
+}

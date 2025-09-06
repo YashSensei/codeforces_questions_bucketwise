@@ -1,0 +1,19 @@
+{
+  "contest_id": 1868,
+  "problem_index": "B2",
+  "name": "Candy Party (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1868/B2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 2606
+}

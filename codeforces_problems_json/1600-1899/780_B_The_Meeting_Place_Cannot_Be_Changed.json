@@ -1,0 +1,14 @@
+{
+  "contest_id": 780,
+  "problem_index": "B",
+  "name": "The Meeting Place Cannot Be Changed",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/780/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 11501
+}

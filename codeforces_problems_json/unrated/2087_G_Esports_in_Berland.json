@@ -1,0 +1,16 @@
+{
+  "contest_id": 2087,
+  "problem_index": "G",
+  "name": "Esports in Berland",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "*special",
+    "greedy",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2087/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 83
+}

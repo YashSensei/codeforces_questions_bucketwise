@@ -1,0 +1,19 @@
+{
+  "contest_id": 1767,
+  "problem_index": "E",
+  "name": "Algebra Flash",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "graphs",
+    "math",
+    "meet-in-the-middle",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1767/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1079
+}

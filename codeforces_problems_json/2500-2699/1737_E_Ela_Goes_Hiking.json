@@ -1,0 +1,17 @@
+{
+  "contest_id": 1737,
+  "problem_index": "E",
+  "name": "Ela Goes Hiking",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1737/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 1000
+}

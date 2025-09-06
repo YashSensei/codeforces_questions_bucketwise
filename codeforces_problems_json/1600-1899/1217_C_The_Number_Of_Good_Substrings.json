@@ -1,0 +1,15 @@
+{
+  "contest_id": 1217,
+  "problem_index": "C",
+  "name": "The Number Of Good Substrings",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1217/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7704
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1942,
+  "problem_index": "C1",
+  "name": "Bessie's Birthday Cake (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1942/C1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 12004
+}

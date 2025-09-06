@@ -1,0 +1,14 @@
+{
+  "contest_id": 847,
+  "problem_index": "E",
+  "name": "Packmen",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/847/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3408
+}

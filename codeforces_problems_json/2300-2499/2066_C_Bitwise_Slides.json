@@ -1,0 +1,17 @@
+{
+  "contest_id": 2066,
+  "problem_index": "C",
+  "name": "Bitwise Slides",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2066/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 2118
+}

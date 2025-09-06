@@ -1,0 +1,16 @@
+{
+  "contest_id": 2096,
+  "problem_index": "B",
+  "name": "Wonderful Gloves",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2096/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 15231
+}

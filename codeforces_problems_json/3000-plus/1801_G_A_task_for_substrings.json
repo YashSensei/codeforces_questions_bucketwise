@@ -1,0 +1,16 @@
+{
+  "contest_id": 1801,
+  "problem_index": "G",
+  "name": "A task for substrings",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "data structures",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1801/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 496
+}

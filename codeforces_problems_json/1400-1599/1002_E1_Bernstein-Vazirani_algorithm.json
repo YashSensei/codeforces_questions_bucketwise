@@ -1,0 +1,13 @@
+{
+  "contest_id": 1002,
+  "problem_index": "E1",
+  "name": "Bernstein-Vazirani algorithm",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1002/E1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 329
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 108,
+  "problem_index": "A",
+  "name": "Palindromic Times",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/108/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 9868
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 500,
+  "problem_index": "D",
+  "name": "New Year Santa Network",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/500/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 3180
+}

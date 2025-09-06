@@ -1,0 +1,16 @@
+{
+  "contest_id": 217,
+  "problem_index": "E",
+  "name": "Alien DNA",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "dsu",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/217/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 340
+}

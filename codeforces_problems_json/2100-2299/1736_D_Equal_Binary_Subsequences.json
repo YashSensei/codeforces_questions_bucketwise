@@ -1,0 +1,18 @@
+{
+  "contest_id": 1736,
+  "problem_index": "D",
+  "name": "Equal Binary Subsequences",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "geometry",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1736/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 2658
+}

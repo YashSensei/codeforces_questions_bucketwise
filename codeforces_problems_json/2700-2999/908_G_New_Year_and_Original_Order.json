@@ -1,0 +1,15 @@
+{
+  "contest_id": 908,
+  "problem_index": "G",
+  "name": "New Year and Original Order",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/908/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 1517
+}

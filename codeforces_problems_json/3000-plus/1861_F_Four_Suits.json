@@ -1,0 +1,16 @@
+{
+  "contest_id": 1861,
+  "problem_index": "F",
+  "name": "Four Suits",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "flows",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1861/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 240
+}

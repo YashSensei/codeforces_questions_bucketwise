@@ -1,0 +1,15 @@
+{
+  "contest_id": 725,
+  "problem_index": "B",
+  "name": "Food on the Plane",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/725/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 5224
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 879,
+  "problem_index": "B",
+  "name": "Table Tennis",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/879/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 13584
+}

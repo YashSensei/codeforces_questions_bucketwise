@@ -1,0 +1,17 @@
+{
+  "contest_id": 1726,
+  "problem_index": "F",
+  "name": "Late For Work (submissions are not allowed)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "greedy",
+    "schedules",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1726/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 131
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 2096,
+  "problem_index": "C",
+  "name": "Wonderful City",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2096/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 6992
+}

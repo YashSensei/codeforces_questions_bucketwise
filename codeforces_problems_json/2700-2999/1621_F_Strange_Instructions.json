@@ -1,0 +1,16 @@
+{
+  "contest_id": 1621,
+  "problem_index": "F",
+  "name": "Strange Instructions",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1621/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 586
+}

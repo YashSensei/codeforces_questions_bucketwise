@@ -1,0 +1,14 @@
+{
+  "contest_id": 316,
+  "problem_index": "G2",
+  "name": "Good Substrings",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "string suffix structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/316/G2",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 40.0,
+  "solved_count": 495
+}

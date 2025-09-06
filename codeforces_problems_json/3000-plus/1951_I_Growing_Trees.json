@@ -1,0 +1,18 @@
+{
+  "contest_id": 1951,
+  "problem_index": "I",
+  "name": "Growing Trees",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "flows",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1951/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 92
+}

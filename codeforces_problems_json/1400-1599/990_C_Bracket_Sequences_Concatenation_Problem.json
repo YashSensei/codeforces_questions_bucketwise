@@ -1,0 +1,13 @@
+{
+  "contest_id": 990,
+  "problem_index": "C",
+  "name": "Bracket Sequences Concatenation Problem",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/990/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6096
+}

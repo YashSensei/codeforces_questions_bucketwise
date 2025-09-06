@@ -1,0 +1,16 @@
+{
+  "contest_id": 1693,
+  "problem_index": "C",
+  "name": "Keshi in Search of AmShZ",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1693/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 2948
+}

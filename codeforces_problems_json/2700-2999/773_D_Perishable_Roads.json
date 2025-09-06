@@ -1,0 +1,16 @@
+{
+  "contest_id": 773,
+  "problem_index": "D",
+  "name": "Perishable Roads",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/773/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 749
+}

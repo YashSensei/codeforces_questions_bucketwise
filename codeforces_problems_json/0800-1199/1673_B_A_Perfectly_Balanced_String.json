@@ -1,0 +1,16 @@
+{
+  "contest_id": 1673,
+  "problem_index": "B",
+  "name": "A Perfectly Balanced String?",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1673/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 18420
+}

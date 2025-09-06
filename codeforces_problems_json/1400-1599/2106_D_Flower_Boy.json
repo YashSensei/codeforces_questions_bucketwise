@@ -1,0 +1,16 @@
+{
+  "contest_id": 2106,
+  "problem_index": "D",
+  "name": "Flower Boy",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2106/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 10737
+}

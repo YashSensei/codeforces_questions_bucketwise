@@ -1,0 +1,16 @@
+{
+  "contest_id": 1542,
+  "problem_index": "B",
+  "name": "Plus and Multiply",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1542/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 25154
+}

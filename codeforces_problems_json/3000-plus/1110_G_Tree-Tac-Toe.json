@@ -1,0 +1,16 @@
+{
+  "contest_id": 1110,
+  "problem_index": "G",
+  "name": "Tree-Tac-Toe ",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "constructive algorithms",
+    "games",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1110/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 694
+}

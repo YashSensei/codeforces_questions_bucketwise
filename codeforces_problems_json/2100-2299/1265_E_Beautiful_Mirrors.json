@@ -1,0 +1,17 @@
+{
+  "contest_id": 1265,
+  "problem_index": "E",
+  "name": "Beautiful Mirrors",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1265/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 4154
+}

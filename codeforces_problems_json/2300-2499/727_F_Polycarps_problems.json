@@ -1,0 +1,16 @@
+{
+  "contest_id": 727,
+  "problem_index": "F",
+  "name": "Polycarp's problems",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/727/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 883
+}

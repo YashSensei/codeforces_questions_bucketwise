@@ -1,0 +1,15 @@
+{
+  "contest_id": 341,
+  "problem_index": "E",
+  "name": "Candies Game",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/341/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 495
+}

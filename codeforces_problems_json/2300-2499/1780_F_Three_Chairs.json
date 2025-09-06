@@ -1,0 +1,20 @@
+{
+  "contest_id": 1780,
+  "problem_index": "F",
+  "name": "Three Chairs",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1780/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1717
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 498,
+  "problem_index": "B",
+  "name": "Name That Tune",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dp",
+    "probabilities",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/498/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 1261
+}

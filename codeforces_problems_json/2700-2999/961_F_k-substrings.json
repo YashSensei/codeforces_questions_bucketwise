@@ -1,0 +1,15 @@
+{
+  "contest_id": 961,
+  "problem_index": "F",
+  "name": "k-substrings",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "hashing",
+    "string suffix structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/961/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 877
+}

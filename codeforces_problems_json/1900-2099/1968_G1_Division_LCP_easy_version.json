@@ -1,0 +1,18 @@
+{
+  "contest_id": 1968,
+  "problem_index": "G1",
+  "name": "Division + LCP (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1968/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4862
+}

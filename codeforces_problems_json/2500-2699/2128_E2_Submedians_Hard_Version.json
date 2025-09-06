@@ -1,0 +1,18 @@
+{
+  "contest_id": 2128,
+  "problem_index": "E2",
+  "name": "Submedians (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2128/E2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 604
+}

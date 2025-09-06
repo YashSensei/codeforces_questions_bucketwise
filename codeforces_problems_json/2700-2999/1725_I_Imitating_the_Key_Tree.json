@@ -1,0 +1,15 @@
+{
+  "contest_id": 1725,
+  "problem_index": "I",
+  "name": "Imitating the Key Tree",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "combinatorics",
+    "dsu",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1725/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 258
+}

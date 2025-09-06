@@ -1,0 +1,17 @@
+{
+  "contest_id": 1705,
+  "problem_index": "F",
+  "name": "Mark and the Online Exam",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "interactive",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1705/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 654
+}

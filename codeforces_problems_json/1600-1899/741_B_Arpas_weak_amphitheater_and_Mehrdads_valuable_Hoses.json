@@ -1,0 +1,16 @@
+{
+  "contest_id": 741,
+  "problem_index": "B",
+  "name": "Arpa's weak amphitheater and Mehrdad's valuable Hoses",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/741/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 5594
+}

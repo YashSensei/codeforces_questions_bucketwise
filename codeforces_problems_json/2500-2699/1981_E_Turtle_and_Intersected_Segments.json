@@ -1,0 +1,17 @@
+{
+  "contest_id": 1981,
+  "problem_index": "E",
+  "name": "Turtle and Intersected Segments",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "data structures",
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1981/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 1078
+}

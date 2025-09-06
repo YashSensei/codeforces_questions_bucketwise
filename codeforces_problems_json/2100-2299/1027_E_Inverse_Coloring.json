@@ -1,0 +1,15 @@
+{
+  "contest_id": 1027,
+  "problem_index": "E",
+  "name": "Inverse Coloring",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1027/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2269
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 987,
+  "problem_index": "C",
+  "name": "Three displays",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/987/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 14306
+}

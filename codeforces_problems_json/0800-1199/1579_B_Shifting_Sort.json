@@ -1,0 +1,14 @@
+{
+  "contest_id": 1579,
+  "problem_index": "B",
+  "name": "Shifting Sort",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1579/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 18643
+}

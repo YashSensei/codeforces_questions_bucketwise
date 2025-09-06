@@ -1,0 +1,16 @@
+{
+  "contest_id": 893,
+  "problem_index": "E",
+  "name": "Counting Arrays",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/893/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3947
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 786,
+  "problem_index": "C",
+  "name": "Till I Collapse",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/786/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 3326
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1881,
+  "problem_index": "F",
+  "name": "Minimum Maximum Distance",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1881/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8551
+}

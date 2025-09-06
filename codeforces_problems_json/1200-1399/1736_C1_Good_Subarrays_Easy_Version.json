@@ -1,0 +1,17 @@
+{
+  "contest_id": 1736,
+  "problem_index": "C1",
+  "name": "Good Subarrays (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "schedules",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1736/C1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 15954
+}

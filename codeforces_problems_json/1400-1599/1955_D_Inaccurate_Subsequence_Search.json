@@ -1,0 +1,14 @@
+{
+  "contest_id": 1955,
+  "problem_index": "D",
+  "name": "Inaccurate Subsequence Search",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "data structures",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1955/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 17405
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 742,
+  "problem_index": "A",
+  "name": "Arpa’s hard exam and Mehrdad’s naive cheat",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/742/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 48137
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1284,
+  "problem_index": "G",
+  "name": "Seollal",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1284/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 212
+}

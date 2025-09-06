@@ -1,0 +1,16 @@
+{
+  "contest_id": 2050,
+  "problem_index": "D",
+  "name": "Digital string maximization",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2050/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 17733
+}

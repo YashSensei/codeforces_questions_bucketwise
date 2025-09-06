@@ -1,0 +1,15 @@
+{
+  "contest_id": 873,
+  "problem_index": "E",
+  "name": "Awards For Contestants",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/873/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 746
+}

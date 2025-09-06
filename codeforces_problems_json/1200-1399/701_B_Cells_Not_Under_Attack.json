@@ -1,0 +1,15 @@
+{
+  "contest_id": 701,
+  "problem_index": "B",
+  "name": "Cells Not Under Attack",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "data structures",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/701/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 12140
+}

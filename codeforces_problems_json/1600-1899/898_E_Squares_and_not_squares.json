@@ -1,0 +1,15 @@
+{
+  "contest_id": 898,
+  "problem_index": "E",
+  "name": "Squares and not squares",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/898/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 4788
+}

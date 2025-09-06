@@ -1,0 +1,17 @@
+{
+  "contest_id": 228,
+  "problem_index": "E",
+  "name": "The Road to Berland is Paved With Good Intentions",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "2-sat",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/228/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 2676
+}

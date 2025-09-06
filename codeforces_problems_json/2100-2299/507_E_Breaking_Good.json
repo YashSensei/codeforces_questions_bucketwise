@@ -1,0 +1,17 @@
+{
+  "contest_id": 507,
+  "problem_index": "E",
+  "name": "Breaking Good",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/507/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 3114
+}

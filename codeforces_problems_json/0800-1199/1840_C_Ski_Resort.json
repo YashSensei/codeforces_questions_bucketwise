@@ -1,0 +1,15 @@
+{
+  "contest_id": 1840,
+  "problem_index": "C",
+  "name": "Ski Resort",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "combinatorics",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1840/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 38070
+}

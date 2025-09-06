@@ -1,0 +1,15 @@
+{
+  "contest_id": 608,
+  "problem_index": "B",
+  "name": "Hamming Distance Sum",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "combinatorics",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/608/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 7267
+}

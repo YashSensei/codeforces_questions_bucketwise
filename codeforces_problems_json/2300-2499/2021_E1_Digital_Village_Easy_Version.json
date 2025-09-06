@@ -1,0 +1,24 @@
+{
+  "contest_id": 2021,
+  "problem_index": "E1",
+  "name": "Digital Village (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "fft",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2021/E1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 1784
+}

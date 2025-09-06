@@ -1,0 +1,18 @@
+{
+  "contest_id": 1835,
+  "problem_index": "F",
+  "name": "Good Graph",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "bitmasks",
+    "dfs and similar",
+    "graph matchings",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1835/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 213
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 753,
+  "problem_index": "C",
+  "name": "Interactive Bulls and Cows (Hard)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/753/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 334
+}

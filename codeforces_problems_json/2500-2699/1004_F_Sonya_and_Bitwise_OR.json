@@ -1,0 +1,16 @@
+{
+  "contest_id": 1004,
+  "problem_index": "F",
+  "name": "Sonya and Bitwise OR",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "divide and conquer"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1004/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 835
+}

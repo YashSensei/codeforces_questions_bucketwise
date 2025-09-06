@@ -1,0 +1,18 @@
+{
+  "contest_id": 912,
+  "problem_index": "D",
+  "name": "Fishes",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "graphs",
+    "greedy",
+    "probabilities",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/912/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 2077
+}

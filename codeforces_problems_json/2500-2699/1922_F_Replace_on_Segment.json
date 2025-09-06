@@ -1,0 +1,14 @@
+{
+  "contest_id": 1922,
+  "problem_index": "F",
+  "name": "Replace on Segment",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1922/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1595
+}

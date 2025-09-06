@@ -1,0 +1,14 @@
+{
+  "contest_id": 1898,
+  "problem_index": "C",
+  "name": "Colorful Grid",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1898/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 6216
+}

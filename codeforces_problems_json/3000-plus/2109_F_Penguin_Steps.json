@@ -1,0 +1,18 @@
+{
+  "contest_id": 2109,
+  "problem_index": "F",
+  "name": "Penguin Steps",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "flows",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2109/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 216
+}

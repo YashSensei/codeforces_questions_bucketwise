@@ -1,0 +1,17 @@
+{
+  "contest_id": 1097,
+  "problem_index": "H",
+  "name": "Mateusz and an Infinite Sequence",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1097/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 4000.0,
+  "solved_count": 116
+}

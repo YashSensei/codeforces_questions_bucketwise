@@ -1,0 +1,15 @@
+{
+  "contest_id": 1251,
+  "problem_index": "E1",
+  "name": "Voting (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1251/E1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2481
+}

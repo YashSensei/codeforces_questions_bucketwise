@@ -1,0 +1,16 @@
+{
+  "contest_id": 1324,
+  "problem_index": "D",
+  "name": "Pair of Topics",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1324/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 31554
+}

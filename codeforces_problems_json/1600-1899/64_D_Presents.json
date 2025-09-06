@@ -1,0 +1,14 @@
+{
+  "contest_id": 64,
+  "problem_index": "D",
+  "name": "Presents",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/64/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 295
+}

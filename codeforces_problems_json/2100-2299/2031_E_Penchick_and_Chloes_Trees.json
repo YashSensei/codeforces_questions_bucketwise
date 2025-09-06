@@ -1,0 +1,21 @@
+{
+  "contest_id": 2031,
+  "problem_index": "E",
+  "name": "Penchick and Chloe's Trees",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2031/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 2467
+}

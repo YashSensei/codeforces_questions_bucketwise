@@ -1,0 +1,16 @@
+{
+  "contest_id": 1146,
+  "problem_index": "G",
+  "name": "Zoning Restrictions",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "dp",
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1146/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3250.0,
+  "solved_count": 972
+}

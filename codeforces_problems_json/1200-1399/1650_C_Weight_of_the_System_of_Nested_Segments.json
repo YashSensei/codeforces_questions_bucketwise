@@ -1,0 +1,16 @@
+{
+  "contest_id": 1650,
+  "problem_index": "C",
+  "name": "Weight of the System of Nested Segments",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "hashing",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1650/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 17808
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 478,
+  "problem_index": "E",
+  "name": "Wavy numbers",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "meet-in-the-middle",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/478/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 232
+}

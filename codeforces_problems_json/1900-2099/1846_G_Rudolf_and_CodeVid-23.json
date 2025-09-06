@@ -1,0 +1,17 @@
+{
+  "contest_id": 1846,
+  "problem_index": "G",
+  "name": "Rudolf and CodeVid-23",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1846/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5070
+}

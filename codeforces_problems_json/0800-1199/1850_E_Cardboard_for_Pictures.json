@@ -1,0 +1,16 @@
+{
+  "contest_id": 1850,
+  "problem_index": "E",
+  "name": "Cardboard for Pictures",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1850/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 29508
+}

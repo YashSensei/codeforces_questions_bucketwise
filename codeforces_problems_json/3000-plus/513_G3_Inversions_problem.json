@@ -1,0 +1,14 @@
+{
+  "contest_id": 513,
+  "problem_index": "G3",
+  "name": "Inversions problem",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/513/G3",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 16.0,
+  "solved_count": 278
+}

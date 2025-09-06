@@ -1,0 +1,15 @@
+{
+  "contest_id": 1467,
+  "problem_index": "C",
+  "name": "Three Bags",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1467/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 6609
+}

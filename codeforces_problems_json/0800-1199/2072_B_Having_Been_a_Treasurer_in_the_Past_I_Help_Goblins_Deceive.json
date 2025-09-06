@@ -1,0 +1,15 @@
+{
+  "contest_id": 2072,
+  "problem_index": "B",
+  "name": "Having Been a Treasurer in the Past, I Help Goblins Deceive",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2072/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 28914
+}

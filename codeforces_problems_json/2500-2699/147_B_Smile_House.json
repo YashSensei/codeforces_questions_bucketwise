@@ -1,0 +1,16 @@
+{
+  "contest_id": 147,
+  "problem_index": "B",
+  "name": "Smile House",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "graphs",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/147/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 881
+}

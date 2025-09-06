@@ -1,0 +1,15 @@
+{
+  "contest_id": 962,
+  "problem_index": "B",
+  "name": "Students in Railway Carriage",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/962/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7895
+}

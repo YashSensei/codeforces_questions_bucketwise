@@ -1,0 +1,14 @@
+{
+  "contest_id": 838,
+  "problem_index": "C",
+  "name": "Future Failure",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dp",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/838/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 390
+}

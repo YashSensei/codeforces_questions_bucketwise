@@ -1,0 +1,16 @@
+{
+  "contest_id": 2057,
+  "problem_index": "H",
+  "name": "Coffee Break",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2057/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 4500.0,
+  "solved_count": 172
+}

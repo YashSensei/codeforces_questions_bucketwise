@@ -1,0 +1,15 @@
+{
+  "contest_id": 851,
+  "problem_index": "B",
+  "name": "Arpa and an exam about geometry",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/851/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 5706
+}

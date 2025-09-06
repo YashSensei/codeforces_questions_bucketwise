@@ -1,0 +1,17 @@
+{
+  "contest_id": 274,
+  "problem_index": "D",
+  "name": "Lovely Matrix",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/274/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 1110
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1721,
+  "problem_index": "F",
+  "name": "Matching Reduction",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "flows",
+    "graph matchings",
+    "graphs",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1721/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 469
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1157,
+  "problem_index": "G",
+  "name": "Inverse of Rows and Columns",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1157/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 977
+}

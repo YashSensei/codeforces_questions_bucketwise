@@ -1,0 +1,15 @@
+{
+  "contest_id": 1342,
+  "problem_index": "E",
+  "name": "Placing Rooks",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1342/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3329
+}

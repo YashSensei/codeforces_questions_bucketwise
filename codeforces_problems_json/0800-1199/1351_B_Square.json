@@ -1,0 +1,16 @@
+{
+  "contest_id": 1351,
+  "problem_index": "B",
+  "name": "Square?",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1351/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 17856
+}

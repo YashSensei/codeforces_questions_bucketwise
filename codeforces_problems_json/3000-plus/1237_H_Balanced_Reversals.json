@@ -1,0 +1,14 @@
+{
+  "contest_id": 1237,
+  "problem_index": "H",
+  "name": "Balanced Reversals",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1237/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 4000.0,
+  "solved_count": 406
+}

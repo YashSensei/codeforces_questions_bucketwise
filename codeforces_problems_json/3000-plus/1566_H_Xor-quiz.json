@@ -1,0 +1,18 @@
+{
+  "contest_id": 1566,
+  "problem_index": "H",
+  "name": "Xor-quiz",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "interactive",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1566/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3750.0,
+  "solved_count": 144
+}

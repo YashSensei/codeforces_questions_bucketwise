@@ -1,0 +1,16 @@
+{
+  "contest_id": 1620,
+  "problem_index": "E",
+  "name": "Replace the Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dsu",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1620/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9042
+}

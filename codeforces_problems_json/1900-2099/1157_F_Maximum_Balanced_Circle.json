@@ -1,0 +1,16 @@
+{
+  "contest_id": 1157,
+  "problem_index": "F",
+  "name": "Maximum Balanced Circle",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1157/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2795
+}

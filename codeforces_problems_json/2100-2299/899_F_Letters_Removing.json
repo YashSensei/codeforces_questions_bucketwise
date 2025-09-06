@@ -1,0 +1,15 @@
+{
+  "contest_id": 899,
+  "problem_index": "F",
+  "name": "Letters Removing",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/899/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1941
+}

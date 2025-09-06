@@ -1,0 +1,14 @@
+{
+  "contest_id": 630,
+  "problem_index": "M",
+  "name": "Turn",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/630/M",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1300
+}

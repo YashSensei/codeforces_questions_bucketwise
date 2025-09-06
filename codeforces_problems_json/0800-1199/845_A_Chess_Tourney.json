@@ -1,0 +1,14 @@
+{
+  "contest_id": 845,
+  "problem_index": "A",
+  "name": "Chess Tourney",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/845/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 8159
+}

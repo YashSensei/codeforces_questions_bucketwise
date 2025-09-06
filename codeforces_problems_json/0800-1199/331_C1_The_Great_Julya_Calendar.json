@@ -1,0 +1,14 @@
+{
+  "contest_id": 331,
+  "problem_index": "C1",
+  "name": "The Great Julya Calendar",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/331/C1",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 20.0,
+  "solved_count": 6668
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 2035,
+  "problem_index": "B",
+  "name": "Everyone Loves Tres",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2035/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 19313
+}

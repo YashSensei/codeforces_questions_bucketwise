@@ -1,0 +1,16 @@
+{
+  "contest_id": 1201,
+  "problem_index": "E2",
+  "name": "Knightmare (hard)",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "graphs",
+    "interactive",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1201/E2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 159
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 2036,
+  "problem_index": "E",
+  "name": "Reverse the Rivers",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2036/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 8804
+}

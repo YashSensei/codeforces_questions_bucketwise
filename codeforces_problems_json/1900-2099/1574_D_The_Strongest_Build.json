@@ -1,0 +1,20 @@
+{
+  "contest_id": 1574,
+  "problem_index": "D",
+  "name": "The Strongest Build",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "hashing",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1574/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4710
+}

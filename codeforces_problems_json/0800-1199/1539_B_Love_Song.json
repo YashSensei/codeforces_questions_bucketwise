@@ -1,0 +1,16 @@
+{
+  "contest_id": 1539,
+  "problem_index": "B",
+  "name": "Love Song",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "dp",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1539/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 25739
+}

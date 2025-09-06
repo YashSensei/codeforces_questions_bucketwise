@@ -1,0 +1,15 @@
+{
+  "contest_id": 599,
+  "problem_index": "D",
+  "name": "Spongebob and Squares",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/599/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 2646
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1840,
+  "problem_index": "G2",
+  "name": "In Search of Truth (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "interactive",
+    "math",
+    "meet-in-the-middle",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1840/G2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1132
+}

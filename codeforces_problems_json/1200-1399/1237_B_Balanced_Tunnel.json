@@ -1,0 +1,16 @@
+{
+  "contest_id": 1237,
+  "problem_index": "B",
+  "name": "Balanced Tunnel",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "data structures",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1237/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 19400
+}

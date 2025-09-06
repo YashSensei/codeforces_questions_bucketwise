@@ -1,0 +1,15 @@
+{
+  "contest_id": 1000,
+  "problem_index": "G",
+  "name": "Two-Paths",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1000/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 656
+}

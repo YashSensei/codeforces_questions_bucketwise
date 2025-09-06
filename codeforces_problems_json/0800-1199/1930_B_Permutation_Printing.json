@@ -1,0 +1,16 @@
+{
+  "contest_id": 1930,
+  "problem_index": "B",
+  "name": "Permutation Printing",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1930/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 16953
+}

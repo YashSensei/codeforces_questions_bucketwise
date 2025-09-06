@@ -1,0 +1,20 @@
+{
+  "contest_id": 2057,
+  "problem_index": "E1",
+  "name": "Another Exercise on Graphs (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "dsu",
+    "graphs",
+    "shortest paths",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2057/E1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 2373
+}

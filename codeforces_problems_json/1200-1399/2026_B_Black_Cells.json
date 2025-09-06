@@ -1,0 +1,16 @@
+{
+  "contest_id": 2026,
+  "problem_index": "B",
+  "name": "Black Cells",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2026/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 15450
+}

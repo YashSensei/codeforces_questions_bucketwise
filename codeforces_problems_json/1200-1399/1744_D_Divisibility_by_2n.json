@@ -1,0 +1,15 @@
+{
+  "contest_id": 1744,
+  "problem_index": "D",
+  "name": "Divisibility by 2^n",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1744/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 23266
+}

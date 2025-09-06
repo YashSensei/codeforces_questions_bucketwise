@@ -1,0 +1,18 @@
+{
+  "contest_id": 1574,
+  "problem_index": "F",
+  "name": "Occurrences",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "fft",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1574/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 695
+}

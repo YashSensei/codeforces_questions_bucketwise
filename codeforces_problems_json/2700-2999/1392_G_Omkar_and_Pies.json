@@ -1,0 +1,18 @@
+{
+  "contest_id": 1392,
+  "problem_index": "G",
+  "name": "Omkar and Pies",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "math",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1392/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 640
+}

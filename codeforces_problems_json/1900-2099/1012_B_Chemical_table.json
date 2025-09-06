@@ -1,0 +1,18 @@
+{
+  "contest_id": 1012,
+  "problem_index": "B",
+  "name": "Chemical table",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1012/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 4218
+}

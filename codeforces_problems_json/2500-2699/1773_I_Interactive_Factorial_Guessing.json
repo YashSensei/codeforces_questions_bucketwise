@@ -1,0 +1,16 @@
+{
+  "contest_id": 1773,
+  "problem_index": "I",
+  "name": "Interactive Factorial Guessing",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "games",
+    "implementation",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1773/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 532
+}

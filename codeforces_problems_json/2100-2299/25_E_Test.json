@@ -1,0 +1,14 @@
+{
+  "contest_id": 25,
+  "problem_index": "E",
+  "name": "Test",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "hashing",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/25/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 2881
+}

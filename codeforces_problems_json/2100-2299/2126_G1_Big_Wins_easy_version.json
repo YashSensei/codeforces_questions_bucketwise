@@ -1,0 +1,17 @@
+{
+  "contest_id": 2126,
+  "problem_index": "G1",
+  "name": "Big Wins! (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "dsu",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2126/G1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1711
+}

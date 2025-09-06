@@ -1,0 +1,15 @@
+{
+  "contest_id": 1499,
+  "problem_index": "G",
+  "name": "Graph Coloring",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "data structures",
+    "graphs",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1499/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 223
+}

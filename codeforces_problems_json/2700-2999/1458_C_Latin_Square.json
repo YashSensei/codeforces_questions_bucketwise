@@ -1,0 +1,15 @@
+{
+  "contest_id": 1458,
+  "problem_index": "C",
+  "name": "Latin Square",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1458/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 1497
+}

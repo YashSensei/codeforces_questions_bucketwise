@@ -1,0 +1,15 @@
+{
+  "contest_id": 36,
+  "problem_index": "C",
+  "name": "Bowls",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "geometry",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/36/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 350
+}

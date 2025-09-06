@@ -1,0 +1,17 @@
+{
+  "contest_id": 793,
+  "problem_index": "G",
+  "name": "Oleg and chess",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "flows",
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/793/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 443
+}

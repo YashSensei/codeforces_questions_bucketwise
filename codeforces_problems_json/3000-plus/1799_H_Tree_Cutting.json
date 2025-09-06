@@ -1,0 +1,16 @@
+{
+  "contest_id": 1799,
+  "problem_index": "H",
+  "name": "Tree Cutting",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1799/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 361
+}

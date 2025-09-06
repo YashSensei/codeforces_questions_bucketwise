@@ -1,0 +1,17 @@
+{
+  "contest_id": 1296,
+  "problem_index": "E1",
+  "name": "String Coloring (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1296/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7934
+}

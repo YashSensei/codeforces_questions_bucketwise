@@ -1,0 +1,19 @@
+{
+  "contest_id": 830,
+  "problem_index": "E",
+  "name": "Perpetual Motion Machine",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "graphs",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/830/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 317
+}

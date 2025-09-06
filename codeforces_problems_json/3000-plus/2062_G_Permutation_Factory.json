@@ -1,0 +1,17 @@
+{
+  "contest_id": 2062,
+  "problem_index": "G",
+  "name": "Permutation Factory",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "flows",
+    "geometry",
+    "graph matchings",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2062/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 4000.0,
+  "solved_count": 135
+}

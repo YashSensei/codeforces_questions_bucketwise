@@ -1,0 +1,15 @@
+{
+  "contest_id": 1971,
+  "problem_index": "E",
+  "name": "Find the Car",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1971/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 16825
+}

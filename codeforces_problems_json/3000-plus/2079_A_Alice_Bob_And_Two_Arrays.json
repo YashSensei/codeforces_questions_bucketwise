@@ -1,0 +1,16 @@
+{
+  "contest_id": 2079,
+  "problem_index": "A",
+  "name": "Alice, Bob, And Two Arrays",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "*special",
+    "data structures",
+    "dp",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2079/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 29
+}

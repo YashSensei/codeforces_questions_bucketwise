@@ -1,0 +1,14 @@
+{
+  "contest_id": 1809,
+  "problem_index": "D",
+  "name": "Binary String Sorting",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1809/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6955
+}

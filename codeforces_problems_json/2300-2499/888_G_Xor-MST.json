@@ -1,0 +1,15 @@
+{
+  "contest_id": 888,
+  "problem_index": "G",
+  "name": "Xor-MST",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/888/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5297
+}

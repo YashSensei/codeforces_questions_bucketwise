@@ -1,0 +1,16 @@
+{
+  "contest_id": 2004,
+  "problem_index": "E",
+  "name": "Not a Nim Problem",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "games",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2004/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 4695
+}

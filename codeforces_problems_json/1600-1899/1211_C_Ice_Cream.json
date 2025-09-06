@@ -1,0 +1,15 @@
+{
+  "contest_id": 1211,
+  "problem_index": "C",
+  "name": "Ice Cream",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "*special",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1211/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 545
+}

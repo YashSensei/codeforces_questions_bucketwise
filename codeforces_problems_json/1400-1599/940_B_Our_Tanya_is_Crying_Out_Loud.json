@@ -1,0 +1,15 @@
+{
+  "contest_id": 940,
+  "problem_index": "B",
+  "name": "Our Tanya is Crying Out Loud",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/940/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 9266
+}

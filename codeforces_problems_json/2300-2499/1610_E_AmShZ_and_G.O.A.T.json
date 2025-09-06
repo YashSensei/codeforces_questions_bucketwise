@@ -1,0 +1,18 @@
+{
+  "contest_id": 1610,
+  "problem_index": "E",
+  "name": "AmShZ and G.O.A.T.",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1610/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1797
+}

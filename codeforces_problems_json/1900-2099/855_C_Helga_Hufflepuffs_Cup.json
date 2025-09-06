@@ -1,0 +1,15 @@
+{
+  "contest_id": 855,
+  "problem_index": "C",
+  "name": "Helga Hufflepuff's Cup",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/855/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 2266
+}

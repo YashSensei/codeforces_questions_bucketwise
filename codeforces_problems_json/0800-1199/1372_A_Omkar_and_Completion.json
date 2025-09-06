@@ -1,0 +1,15 @@
+{
+  "contest_id": 1372,
+  "problem_index": "A",
+  "name": "Omkar and Completion",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1372/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 32776
+}

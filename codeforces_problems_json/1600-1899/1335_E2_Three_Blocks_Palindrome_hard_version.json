@@ -1,0 +1,16 @@
+{
+  "contest_id": 1335,
+  "problem_index": "E2",
+  "name": "Three Blocks Palindrome (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1335/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8891
+}

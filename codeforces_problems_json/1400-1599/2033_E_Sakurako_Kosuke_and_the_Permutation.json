@@ -1,0 +1,19 @@
+{
+  "contest_id": 2033,
+  "problem_index": "E",
+  "name": "Sakurako, Kosuke, and the Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2033/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 13142
+}

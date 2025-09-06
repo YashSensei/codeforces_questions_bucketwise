@@ -1,0 +1,17 @@
+{
+  "contest_id": 734,
+  "problem_index": "C",
+  "name": "Anton and Making Potions",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/734/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 5553
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1906,
+  "problem_index": "B",
+  "name": "Button Pressing",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1906/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 700
+}

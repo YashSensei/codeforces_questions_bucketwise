@@ -1,0 +1,16 @@
+{
+  "contest_id": 1365,
+  "problem_index": "A",
+  "name": "Matrix Game",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "games",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1365/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 24661
+}

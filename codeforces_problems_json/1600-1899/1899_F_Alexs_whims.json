@@ -1,0 +1,17 @@
+{
+  "contest_id": 1899,
+  "problem_index": "F",
+  "name": "Alex's whims",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1899/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8963
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1905,
+  "problem_index": "A",
+  "name": "Constructive Problems",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1905/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 23946
+}

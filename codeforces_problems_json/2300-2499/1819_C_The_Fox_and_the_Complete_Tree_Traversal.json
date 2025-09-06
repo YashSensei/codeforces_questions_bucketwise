@@ -1,0 +1,18 @@
+{
+  "contest_id": 1819,
+  "problem_index": "C",
+  "name": "The Fox and the Complete Tree Traversal",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1819/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 1656
+}

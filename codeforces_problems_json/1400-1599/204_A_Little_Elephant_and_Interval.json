@@ -1,0 +1,16 @@
+{
+  "contest_id": 204,
+  "problem_index": "A",
+  "name": "Little Elephant and Interval",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/204/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 6217
+}

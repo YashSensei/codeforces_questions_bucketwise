@@ -1,0 +1,17 @@
+{
+  "contest_id": 1519,
+  "problem_index": "F",
+  "name": "Chests and Keys",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "flows"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1519/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 578
+}

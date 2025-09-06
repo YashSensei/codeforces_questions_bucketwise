@@ -1,0 +1,14 @@
+{
+  "contest_id": 1207,
+  "problem_index": "C",
+  "name": "Gas Pipeline",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1207/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 10183
+}

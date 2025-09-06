@@ -1,0 +1,18 @@
+{
+  "contest_id": 765,
+  "problem_index": "E",
+  "name": "Tree Folding",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/765/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1325
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 51,
+  "problem_index": "D",
+  "name": "Geometrical problem",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/51/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 526
+}

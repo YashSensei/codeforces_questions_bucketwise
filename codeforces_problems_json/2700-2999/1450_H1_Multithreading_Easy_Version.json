@@ -1,0 +1,16 @@
+{
+  "contest_id": 1450,
+  "problem_index": "H1",
+  "name": "Multithreading (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "combinatorics",
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1450/H1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 476
+}

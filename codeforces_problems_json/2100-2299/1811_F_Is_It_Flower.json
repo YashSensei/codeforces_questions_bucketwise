@@ -1,0 +1,15 @@
+{
+  "contest_id": 1811,
+  "problem_index": "F",
+  "name": "Is It Flower?",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1811/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2028
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 556,
+  "problem_index": "A",
+  "name": "Case of the Zeros and Ones",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/556/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 43831
+}

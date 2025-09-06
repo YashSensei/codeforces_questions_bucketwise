@@ -1,0 +1,17 @@
+{
+  "contest_id": 1715,
+  "problem_index": "D",
+  "name": "2+ doors",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "2-sat",
+    "bitmasks",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1715/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 5593
+}

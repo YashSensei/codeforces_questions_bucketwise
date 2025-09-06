@@ -1,0 +1,17 @@
+{
+  "contest_id": 1673,
+  "problem_index": "C",
+  "name": "Palindrome Basis",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1673/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 15388
+}

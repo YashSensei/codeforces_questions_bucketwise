@@ -1,0 +1,20 @@
+{
+  "contest_id": 1455,
+  "problem_index": "E",
+  "name": "Four Points",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "flows",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1455/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1603
+}

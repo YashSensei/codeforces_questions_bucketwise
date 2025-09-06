@@ -1,0 +1,18 @@
+{
+  "contest_id": 1547,
+  "problem_index": "E",
+  "name": "Air Conditioners",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "shortest paths",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1547/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15611
+}

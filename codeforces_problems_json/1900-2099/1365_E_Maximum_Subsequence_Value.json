@@ -1,0 +1,15 @@
+{
+  "contest_id": 1365,
+  "problem_index": "E",
+  "name": "Maximum Subsequence Value",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1365/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 8111
+}

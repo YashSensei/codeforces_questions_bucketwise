@@ -1,0 +1,16 @@
+{
+  "contest_id": 1143,
+  "problem_index": "B",
+  "name": "Nirvana",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1143/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 11139
+}

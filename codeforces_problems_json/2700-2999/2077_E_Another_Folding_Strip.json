@@ -1,0 +1,20 @@
+{
+  "contest_id": 2077,
+  "problem_index": "E",
+  "name": "Another Folding Strip",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2077/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 516
+}

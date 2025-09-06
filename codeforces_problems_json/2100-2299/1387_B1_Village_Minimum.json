@@ -1,0 +1,16 @@
+{
+  "contest_id": 1387,
+  "problem_index": "B1",
+  "name": "Village (Minimum)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "*special",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1387/B1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1691
+}

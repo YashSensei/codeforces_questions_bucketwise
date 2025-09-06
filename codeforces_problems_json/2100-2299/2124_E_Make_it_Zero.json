@@ -1,0 +1,16 @@
+{
+  "contest_id": 2124,
+  "problem_index": "E",
+  "name": "Make it Zero",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2124/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 3320
+}

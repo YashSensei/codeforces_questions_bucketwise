@@ -1,0 +1,16 @@
+{
+  "contest_id": 1800,
+  "problem_index": "G",
+  "name": "Symmetree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "hashing",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1800/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2383
+}

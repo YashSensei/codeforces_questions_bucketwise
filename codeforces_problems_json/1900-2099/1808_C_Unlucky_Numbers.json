@@ -1,0 +1,17 @@
+{
+  "contest_id": 1808,
+  "problem_index": "C",
+  "name": "Unlucky Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1808/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 4143
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1702,
+  "problem_index": "G2",
+  "name": "Passable Paths (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1702/G2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5253
+}

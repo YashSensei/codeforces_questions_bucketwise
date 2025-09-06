@@ -1,0 +1,16 @@
+{
+  "contest_id": 2022,
+  "problem_index": "B",
+  "name": "Kar Salesman",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2022/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 13510
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 13,
+  "problem_index": "B",
+  "name": "Letter A",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "geometry",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/13/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1045
+}

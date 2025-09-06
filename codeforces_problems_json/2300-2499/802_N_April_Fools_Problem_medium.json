@@ -1,0 +1,15 @@
+{
+  "contest_id": 802,
+  "problem_index": "N",
+  "name": "April Fools' Problem (medium)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/N",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1351
+}

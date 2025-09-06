@@ -1,0 +1,13 @@
+{
+  "contest_id": 802,
+  "problem_index": "I",
+  "name": "Fake News (hard)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "string suffix structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/I",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1694
+}

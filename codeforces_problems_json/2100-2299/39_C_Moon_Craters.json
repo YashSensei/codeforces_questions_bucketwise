@@ -1,0 +1,14 @@
+{
+  "contest_id": 39,
+  "problem_index": "C",
+  "name": "Moon Craters",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/39/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 661
+}

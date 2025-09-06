@@ -1,0 +1,14 @@
+{
+  "contest_id": 1023,
+  "problem_index": "C",
+  "name": "Bracket Subsequence",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1023/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 10383
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 579,
+  "problem_index": "A",
+  "name": "Raising Bacteria",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "bitmasks"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/579/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 70836
+}

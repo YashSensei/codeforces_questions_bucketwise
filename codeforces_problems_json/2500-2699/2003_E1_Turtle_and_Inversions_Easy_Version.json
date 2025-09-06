@@ -1,0 +1,18 @@
+{
+  "contest_id": 2003,
+  "problem_index": "E1",
+  "name": "Turtle and Inversions (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "brute force",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2003/E1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 812
+}

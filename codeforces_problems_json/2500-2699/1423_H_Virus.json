@@ -1,0 +1,16 @@
+{
+  "contest_id": 1423,
+  "problem_index": "H",
+  "name": "Virus",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1423/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 580
+}

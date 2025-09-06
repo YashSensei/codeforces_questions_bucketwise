@@ -1,0 +1,16 @@
+{
+  "contest_id": 60,
+  "problem_index": "D",
+  "name": "Savior",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "dsu",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/60/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 511
+}

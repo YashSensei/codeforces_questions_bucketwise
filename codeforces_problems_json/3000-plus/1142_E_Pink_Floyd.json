@@ -1,0 +1,15 @@
+{
+  "contest_id": 1142,
+  "problem_index": "E",
+  "name": "Pink Floyd",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "graphs",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1142/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 608
+}

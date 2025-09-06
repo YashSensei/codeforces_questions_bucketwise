@@ -1,0 +1,18 @@
+{
+  "contest_id": 689,
+  "problem_index": "E",
+  "name": "Mike and Geometry Problem",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "geometry",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/689/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2048
+}

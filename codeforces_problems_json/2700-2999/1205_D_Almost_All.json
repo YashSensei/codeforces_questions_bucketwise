@@ -1,0 +1,15 @@
+{
+  "contest_id": 1205,
+  "problem_index": "D",
+  "name": "Almost All",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1205/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 720
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 100,
+  "problem_index": "I",
+  "name": "Rotation",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "*special",
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/100/I",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 420
+}

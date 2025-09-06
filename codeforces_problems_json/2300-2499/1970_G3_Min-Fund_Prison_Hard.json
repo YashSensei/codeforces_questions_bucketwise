@@ -1,0 +1,17 @@
+{
+  "contest_id": 1970,
+  "problem_index": "G3",
+  "name": "Min-Fund Prison (Hard)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1970/G3",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 454
+}

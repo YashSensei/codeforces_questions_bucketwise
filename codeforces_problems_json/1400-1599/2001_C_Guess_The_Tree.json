@@ -1,0 +1,21 @@
+{
+  "contest_id": 2001,
+  "problem_index": "C",
+  "name": "Guess The Tree",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dfs and similar",
+    "divide and conquer",
+    "dsu",
+    "greedy",
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2001/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 12099
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 2007,
+  "problem_index": "B",
+  "name": "Index and Maximum Value",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2007/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 24322
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1239,
+  "problem_index": "B",
+  "name": "The World Is Just a Programming Task (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1239/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 1089
+}

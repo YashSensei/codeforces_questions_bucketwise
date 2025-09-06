@@ -1,0 +1,17 @@
+{
+  "contest_id": 1361,
+  "problem_index": "E",
+  "name": "James and the Chase",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1361/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 847
+}

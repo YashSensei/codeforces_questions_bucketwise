@@ -1,0 +1,17 @@
+{
+  "contest_id": 1248,
+  "problem_index": "D1",
+  "name": "The World Is Just a Programming Task (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1248/D1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 2458
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 212,
+  "problem_index": "B",
+  "name": "Polycarpus is Looking for Good Substrings",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "hashing",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/212/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 349
+}

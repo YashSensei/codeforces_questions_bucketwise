@@ -1,0 +1,16 @@
+{
+  "contest_id": 2113,
+  "problem_index": "C",
+  "name": "Smilo and Minecraft",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2113/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 6818
+}

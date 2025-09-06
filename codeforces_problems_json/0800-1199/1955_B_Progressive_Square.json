@@ -1,0 +1,16 @@
+{
+  "contest_id": 1955,
+  "problem_index": "B",
+  "name": "Progressive Square",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1955/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 30873
+}

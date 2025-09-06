@@ -1,0 +1,19 @@
+{
+  "contest_id": 1923,
+  "problem_index": "F",
+  "name": "Shrink-Reverse",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "hashing",
+    "implementation",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1923/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 438
+}

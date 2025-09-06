@@ -1,0 +1,17 @@
+{
+  "contest_id": 1870,
+  "problem_index": "E",
+  "name": "Another MEX Problem",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1870/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 2756
+}

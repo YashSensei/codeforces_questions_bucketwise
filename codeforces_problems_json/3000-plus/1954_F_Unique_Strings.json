@@ -1,0 +1,15 @@
+{
+  "contest_id": 1954,
+  "problem_index": "F",
+  "name": "Unique Strings",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1954/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 304
+}

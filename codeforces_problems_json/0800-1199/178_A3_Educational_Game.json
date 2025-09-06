@@ -1,0 +1,14 @@
+{
+  "contest_id": 178,
+  "problem_index": "A3",
+  "name": "Educational Game",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/178/A3",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 50.0,
+  "solved_count": 1519
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1042,
+  "problem_index": "D",
+  "name": "Petya and Array",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1042/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 6785
+}

@@ -1,0 +1,20 @@
+{
+  "contest_id": 1706,
+  "problem_index": "E",
+  "name": "Qpwoeirut and Vertices",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dsu",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1706/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 3231
+}

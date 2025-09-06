@@ -1,0 +1,13 @@
+{
+  "contest_id": 893,
+  "problem_index": "A",
+  "name": "Chess For Three",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/893/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 10613
+}

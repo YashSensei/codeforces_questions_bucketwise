@@ -1,0 +1,17 @@
+{
+  "contest_id": 793,
+  "problem_index": "C",
+  "name": "Mice problem",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "geometry",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/793/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 1301
+}

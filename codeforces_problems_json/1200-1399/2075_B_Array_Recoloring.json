@@ -1,0 +1,14 @@
+{
+  "contest_id": 2075,
+  "problem_index": "B",
+  "name": "Array Recoloring",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2075/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 17063
+}

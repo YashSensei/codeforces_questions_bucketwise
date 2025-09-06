@@ -1,0 +1,18 @@
+{
+  "contest_id": 2096,
+  "problem_index": "H",
+  "name": "Wonderful XOR Problem",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2096/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3500.0,
+  "solved_count": 135
+}

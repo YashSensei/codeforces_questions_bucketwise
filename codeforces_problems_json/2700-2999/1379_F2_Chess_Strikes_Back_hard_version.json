@@ -1,0 +1,15 @@
+{
+  "contest_id": 1379,
+  "problem_index": "F2",
+  "name": "Chess Strikes Back (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1379/F2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 546
+}

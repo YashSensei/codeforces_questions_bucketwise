@@ -1,0 +1,16 @@
+{
+  "contest_id": 1665,
+  "problem_index": "B",
+  "name": "Array Cloning Technique",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1665/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 26632
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 2061,
+  "problem_index": "H2",
+  "name": "Kevin and Stones (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2061/H2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 5000.0,
+  "solved_count": 40
+}

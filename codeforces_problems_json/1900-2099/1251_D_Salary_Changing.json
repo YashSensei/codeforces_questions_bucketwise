@@ -1,0 +1,15 @@
+{
+  "contest_id": 1251,
+  "problem_index": "D",
+  "name": "Salary Changing",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1251/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6296
+}

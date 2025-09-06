@@ -1,0 +1,16 @@
+{
+  "contest_id": 1690,
+  "problem_index": "G",
+  "name": "Count the Trains",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1690/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3860
+}

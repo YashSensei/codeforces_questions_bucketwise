@@ -1,0 +1,14 @@
+{
+  "contest_id": 1425,
+  "problem_index": "E",
+  "name": "Excitation of Atoms",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1425/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 995
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1562,
+  "problem_index": "D2",
+  "name": "Two Hundred Twenty One (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1562/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 2210
+}

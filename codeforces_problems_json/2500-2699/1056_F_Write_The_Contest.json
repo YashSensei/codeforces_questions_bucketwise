@@ -1,0 +1,16 @@
+{
+  "contest_id": 1056,
+  "problem_index": "F",
+  "name": "Write The Contest",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1056/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 674
+}

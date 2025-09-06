@@ -1,0 +1,19 @@
+{
+  "contest_id": 1098,
+  "problem_index": "C",
+  "name": "Construct a tree",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1098/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 1129
+}

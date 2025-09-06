@@ -1,0 +1,17 @@
+{
+  "contest_id": 1864,
+  "problem_index": "C",
+  "name": "Divisor Chain",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1864/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 14681
+}

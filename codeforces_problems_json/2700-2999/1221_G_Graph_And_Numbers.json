@@ -1,0 +1,17 @@
+{
+  "contest_id": 1221,
+  "problem_index": "G",
+  "name": "Graph And Numbers",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1221/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 805
+}

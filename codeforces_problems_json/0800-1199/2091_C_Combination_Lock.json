@@ -1,0 +1,14 @@
+{
+  "contest_id": 2091,
+  "problem_index": "C",
+  "name": "Combination Lock",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2091/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 26293
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1698,
+  "problem_index": "E",
+  "name": "PermutationForces II",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "greedy",
+    "sortings",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1698/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1725
+}

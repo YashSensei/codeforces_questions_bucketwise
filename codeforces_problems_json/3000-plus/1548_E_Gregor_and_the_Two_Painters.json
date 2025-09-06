@@ -1,0 +1,18 @@
+{
+  "contest_id": 1548,
+  "problem_index": "E",
+  "name": "Gregor and the Two Painters",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "graphs",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1548/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 552
+}

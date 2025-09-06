@@ -1,0 +1,16 @@
+{
+  "contest_id": 1669,
+  "problem_index": "C",
+  "name": "Odd/Even Increments",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1669/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 38844
+}

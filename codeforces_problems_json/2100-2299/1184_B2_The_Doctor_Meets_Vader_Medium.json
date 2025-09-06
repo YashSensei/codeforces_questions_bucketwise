@@ -1,0 +1,17 @@
+{
+  "contest_id": 1184,
+  "problem_index": "B2",
+  "name": "The Doctor Meets Vader (Medium)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "flows",
+    "graph matchings",
+    "graphs",
+    "shortest paths",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1184/B2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 630
+}

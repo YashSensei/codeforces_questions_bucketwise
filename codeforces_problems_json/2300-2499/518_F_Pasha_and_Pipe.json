@@ -1,0 +1,18 @@
+{
+  "contest_id": 518,
+  "problem_index": "F",
+  "name": "Pasha and Pipe",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/518/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 400
+}

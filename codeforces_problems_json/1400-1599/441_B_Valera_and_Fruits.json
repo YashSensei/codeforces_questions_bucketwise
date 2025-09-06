@@ -1,0 +1,15 @@
+{
+  "contest_id": 441,
+  "problem_index": "B",
+  "name": "Valera and Fruits",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/441/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 7280
+}

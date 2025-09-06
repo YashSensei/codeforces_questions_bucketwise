@@ -1,0 +1,16 @@
+{
+  "contest_id": 1692,
+  "problem_index": "H",
+  "name": "Gambling",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1692/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8665
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 593,
+  "problem_index": "D",
+  "name": "Happy Tree Party",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/593/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 1321
+}

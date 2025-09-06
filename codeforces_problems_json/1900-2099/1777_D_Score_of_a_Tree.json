@@ -1,0 +1,20 @@
+{
+  "contest_id": 1777,
+  "problem_index": "D",
+  "name": "Score of a Tree",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1777/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 4125
+}

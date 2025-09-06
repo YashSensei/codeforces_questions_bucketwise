@@ -1,0 +1,15 @@
+{
+  "contest_id": 1716,
+  "problem_index": "D",
+  "name": "Chip Move",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1716/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5788
+}

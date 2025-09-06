@@ -1,0 +1,16 @@
+{
+  "contest_id": 798,
+  "problem_index": "B",
+  "name": "Mike and strings",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/798/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 8828
+}

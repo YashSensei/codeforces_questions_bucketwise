@@ -1,0 +1,13 @@
+{
+  "contest_id": 14,
+  "problem_index": "E",
+  "name": "Camels",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/14/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1897
+}

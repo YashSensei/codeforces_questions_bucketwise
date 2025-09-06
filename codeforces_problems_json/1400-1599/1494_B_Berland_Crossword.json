@@ -1,0 +1,16 @@
+{
+  "contest_id": 1494,
+  "problem_index": "B",
+  "name": "Berland Crossword",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1494/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14971
+}

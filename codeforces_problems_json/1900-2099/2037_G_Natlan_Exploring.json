@@ -1,0 +1,18 @@
+{
+  "contest_id": 2037,
+  "problem_index": "G",
+  "name": "Natlan Exploring",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2037/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 3301
+}

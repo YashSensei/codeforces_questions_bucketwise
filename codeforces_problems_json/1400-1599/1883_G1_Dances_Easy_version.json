@@ -1,0 +1,16 @@
+{
+  "contest_id": 1883,
+  "problem_index": "G1",
+  "name": "Dances (Easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1883/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 15538
+}

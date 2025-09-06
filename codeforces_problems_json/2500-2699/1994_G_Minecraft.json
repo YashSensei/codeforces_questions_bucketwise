@@ -1,0 +1,18 @@
+{
+  "contest_id": 1994,
+  "problem_index": "G",
+  "name": "Minecraft",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1994/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2750.0,
+  "solved_count": 1469
+}

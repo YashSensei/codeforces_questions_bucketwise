@@ -1,0 +1,15 @@
+{
+  "contest_id": 1918,
+  "problem_index": "G",
+  "name": "Permutation of Given",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1918/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 591
+}

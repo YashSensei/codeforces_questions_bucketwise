@@ -1,0 +1,16 @@
+{
+  "contest_id": 1196,
+  "problem_index": "F",
+  "name": "K-th Path",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "shortest paths",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1196/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2942
+}

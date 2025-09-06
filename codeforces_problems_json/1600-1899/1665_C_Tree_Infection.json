@@ -1,0 +1,17 @@
+{
+  "contest_id": 1665,
+  "problem_index": "C",
+  "name": "Tree Infection",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1665/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 9214
+}

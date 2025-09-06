@@ -1,0 +1,14 @@
+{
+  "contest_id": 1473,
+  "problem_index": "E",
+  "name": "Minimum Path",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1473/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4186
+}

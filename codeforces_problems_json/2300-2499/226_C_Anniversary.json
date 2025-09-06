@@ -1,0 +1,18 @@
+{
+  "contest_id": 226,
+  "problem_index": "C",
+  "name": "Anniversary",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "data structures",
+    "implementation",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/226/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 943
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 2038,
+  "problem_index": "C",
+  "name": "DIY",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "data structures",
+    "geometry",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2038/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 6076
+}

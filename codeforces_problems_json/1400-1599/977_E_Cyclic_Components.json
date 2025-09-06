@@ -1,0 +1,15 @@
+{
+  "contest_id": 977,
+  "problem_index": "E",
+  "name": "Cyclic Components",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/977/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 23614
+}

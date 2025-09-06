@@ -1,0 +1,16 @@
+{
+  "contest_id": 2030,
+  "problem_index": "G1",
+  "name": "The Destruction of the Universe (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "combinatorics",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2030/G1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 223
+}

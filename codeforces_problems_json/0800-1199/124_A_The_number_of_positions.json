@@ -1,0 +1,14 @@
+{
+  "contest_id": 124,
+  "problem_index": "A",
+  "name": "The number of positions",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/124/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 41913
+}

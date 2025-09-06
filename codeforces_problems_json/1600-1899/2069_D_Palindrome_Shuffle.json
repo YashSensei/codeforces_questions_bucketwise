@@ -1,0 +1,17 @@
+{
+  "contest_id": 2069,
+  "problem_index": "D",
+  "name": "Palindrome Shuffle",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "greedy",
+    "hashing",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2069/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 6260
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1921,
+  "problem_index": "G",
+  "name": "Mischievous Shooter",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1921/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1379
+}

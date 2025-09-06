@@ -1,0 +1,16 @@
+{
+  "contest_id": 938,
+  "problem_index": "G",
+  "name": "Shortest Path Queries",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/938/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1019
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1971,
+  "problem_index": "D",
+  "name": "Binary Cut",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1971/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 29058
+}

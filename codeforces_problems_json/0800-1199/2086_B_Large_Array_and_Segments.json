@@ -1,0 +1,15 @@
+{
+  "contest_id": 2086,
+  "problem_index": "B",
+  "name": "Large Array and Segments",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "brute force",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2086/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 17504
+}

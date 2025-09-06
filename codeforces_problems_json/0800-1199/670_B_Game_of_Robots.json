@@ -1,0 +1,14 @@
+{
+  "contest_id": 670,
+  "problem_index": "B",
+  "name": "Game of Robots",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/670/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 11689
+}

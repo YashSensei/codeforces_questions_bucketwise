@@ -1,0 +1,16 @@
+{
+  "contest_id": 865,
+  "problem_index": "D",
+  "name": "Buy Low Sell High",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/865/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 6867
+}

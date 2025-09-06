@@ -1,0 +1,16 @@
+{
+  "contest_id": 756,
+  "problem_index": "E",
+  "name": "Byteland coins",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/756/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 198
+}

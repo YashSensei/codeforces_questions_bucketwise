@@ -1,0 +1,13 @@
+{
+  "contest_id": 1776,
+  "problem_index": "N",
+  "name": "Count Permutations",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1776/N",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 93
+}

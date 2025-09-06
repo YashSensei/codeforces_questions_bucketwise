@@ -1,0 +1,15 @@
+{
+  "contest_id": 1488,
+  "problem_index": "D",
+  "name": "Problemsolving Marathon",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "*special",
+    "binary search",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1488/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 350
+}

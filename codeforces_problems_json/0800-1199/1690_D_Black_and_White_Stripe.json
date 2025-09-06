@@ -1,0 +1,14 @@
+{
+  "contest_id": 1690,
+  "problem_index": "D",
+  "name": "Black and White Stripe",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1690/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 38550
+}

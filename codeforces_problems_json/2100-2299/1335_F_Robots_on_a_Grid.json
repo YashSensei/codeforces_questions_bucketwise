@@ -1,0 +1,18 @@
+{
+  "contest_id": 1335,
+  "problem_index": "F",
+  "name": "Robots on a Grid",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1335/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2295
+}

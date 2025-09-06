@@ -1,0 +1,14 @@
+{
+  "contest_id": 420,
+  "problem_index": "E",
+  "name": "Playing the ball",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/420/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 233
+}

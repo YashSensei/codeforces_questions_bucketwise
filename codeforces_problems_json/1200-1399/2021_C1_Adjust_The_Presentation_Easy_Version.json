@@ -1,0 +1,15 @@
+{
+  "contest_id": 2021,
+  "problem_index": "C1",
+  "name": "Adjust The Presentation (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2021/C1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 13460
+}

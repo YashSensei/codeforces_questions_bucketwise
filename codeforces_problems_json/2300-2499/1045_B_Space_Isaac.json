@@ -1,0 +1,14 @@
+{
+  "contest_id": 1045,
+  "problem_index": "B",
+  "name": "Space Isaac",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "hashing",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1045/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 551
+}

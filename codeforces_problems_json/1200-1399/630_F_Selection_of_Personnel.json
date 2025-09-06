@@ -1,0 +1,14 @@
+{
+  "contest_id": 630,
+  "problem_index": "F",
+  "name": "Selection of Personnel",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/630/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7424
+}

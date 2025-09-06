@@ -1,0 +1,16 @@
+{
+  "contest_id": 1952,
+  "problem_index": "E",
+  "name": "Sweep Line",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "combinatorics",
+    "games",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1952/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 309
+}

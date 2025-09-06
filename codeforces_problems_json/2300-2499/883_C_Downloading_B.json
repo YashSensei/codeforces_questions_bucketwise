@@ -1,0 +1,14 @@
+{
+  "contest_id": 883,
+  "problem_index": "C",
+  "name": "Downloading B++",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/883/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 640
+}

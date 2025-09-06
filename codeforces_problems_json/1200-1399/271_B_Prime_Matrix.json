@@ -1,0 +1,17 @@
+{
+  "contest_id": 271,
+  "problem_index": "B",
+  "name": "Prime Matrix",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/271/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 14223
+}

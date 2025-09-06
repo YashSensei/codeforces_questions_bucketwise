@@ -1,0 +1,15 @@
+{
+  "contest_id": 580,
+  "problem_index": "D",
+  "name": "Kefa and Dishes",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/580/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 10930
+}

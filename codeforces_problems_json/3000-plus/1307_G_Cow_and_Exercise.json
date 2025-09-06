@@ -1,0 +1,16 @@
+{
+  "contest_id": 1307,
+  "problem_index": "G",
+  "name": "Cow and Exercise",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "flows",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1307/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 560
+}

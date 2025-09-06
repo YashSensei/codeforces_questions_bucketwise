@@ -1,0 +1,15 @@
+{
+  "contest_id": 1812,
+  "problem_index": "J",
+  "name": "Unmysterious Language",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "constructive algorithms",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1812/J",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6178
+}

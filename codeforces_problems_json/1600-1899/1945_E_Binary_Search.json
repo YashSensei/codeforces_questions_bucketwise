@@ -1,0 +1,15 @@
+{
+  "contest_id": 1945,
+  "problem_index": "E",
+  "name": "Binary Search",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1945/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9211
+}

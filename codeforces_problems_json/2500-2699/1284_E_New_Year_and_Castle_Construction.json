@@ -1,0 +1,17 @@
+{
+  "contest_id": 1284,
+  "problem_index": "E",
+  "name": "New Year and Castle Construction",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "geometry",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1284/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 1341
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1334,
+  "problem_index": "E",
+  "name": "Divisor Paths",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "graphs",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1334/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2973
+}

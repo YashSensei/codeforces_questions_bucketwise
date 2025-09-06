@@ -1,0 +1,16 @@
+{
+  "contest_id": 960,
+  "problem_index": "F",
+  "name": "Pathwalks",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/960/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 3232
+}

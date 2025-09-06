@@ -1,0 +1,16 @@
+{
+  "contest_id": 1326,
+  "problem_index": "G",
+  "name": "Spiderweb Trees",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dp",
+    "geometry",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1326/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 100
+}

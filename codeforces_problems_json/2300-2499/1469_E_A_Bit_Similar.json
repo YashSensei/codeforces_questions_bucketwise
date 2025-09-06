@@ -1,0 +1,18 @@
+{
+  "contest_id": 1469,
+  "problem_index": "E",
+  "name": "A Bit Similar",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "hashing",
+    "string suffix structures",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1469/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2090
+}

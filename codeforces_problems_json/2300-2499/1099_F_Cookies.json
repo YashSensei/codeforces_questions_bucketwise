@@ -1,0 +1,19 @@
+{
+  "contest_id": 1099,
+  "problem_index": "F",
+  "name": "Cookies",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "games",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1099/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 994
+}

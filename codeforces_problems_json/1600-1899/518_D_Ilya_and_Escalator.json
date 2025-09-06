@@ -1,0 +1,17 @@
+{
+  "contest_id": 518,
+  "problem_index": "D",
+  "name": "Ilya and Escalator",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/518/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 7655
+}

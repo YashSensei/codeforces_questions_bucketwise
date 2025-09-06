@@ -1,0 +1,16 @@
+{
+  "contest_id": 303,
+  "problem_index": "E",
+  "name": "Random Ranking",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/303/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 357
+}

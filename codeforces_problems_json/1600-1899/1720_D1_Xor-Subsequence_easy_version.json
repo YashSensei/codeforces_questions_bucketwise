@@ -1,0 +1,19 @@
+{
+  "contest_id": 1720,
+  "problem_index": "D1",
+  "name": "Xor-Subsequence (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "strings",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1720/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 6421
+}

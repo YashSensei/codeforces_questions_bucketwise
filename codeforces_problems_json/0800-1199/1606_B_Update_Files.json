@@ -1,0 +1,15 @@
+{
+  "contest_id": 1606,
+  "problem_index": "B",
+  "name": "Update Files",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1606/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 19210
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1010,
+  "problem_index": "E",
+  "name": "Store",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1010/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 367
+}

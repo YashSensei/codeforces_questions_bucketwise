@@ -1,0 +1,18 @@
+{
+  "contest_id": 1493,
+  "problem_index": "C",
+  "name": "K-beautiful Strings",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1493/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 4791
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1913,
+  "problem_index": "F",
+  "name": "Palindromic Problem",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "binary search",
+    "data structures",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1913/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 500
+}

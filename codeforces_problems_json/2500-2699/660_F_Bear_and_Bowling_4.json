@@ -1,0 +1,17 @@
+{
+  "contest_id": 660,
+  "problem_index": "F",
+  "name": "Bear and Bowling 4",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "geometry",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/660/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2027
+}

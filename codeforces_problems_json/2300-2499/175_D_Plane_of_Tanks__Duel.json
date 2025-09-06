@@ -1,0 +1,17 @@
+{
+  "contest_id": 175,
+  "problem_index": "D",
+  "name": "Plane of Tanks: Duel",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/175/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 307
+}

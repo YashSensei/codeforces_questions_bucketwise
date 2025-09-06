@@ -1,0 +1,16 @@
+{
+  "contest_id": 1920,
+  "problem_index": "E",
+  "name": "Counting Binary Strings",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1920/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 3126
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 802,
+  "problem_index": "J",
+  "name": "Send the Fool Further! (easy)",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/J",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5887
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 413,
+  "problem_index": "E",
+  "name": "Maze 2D",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/413/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 785
+}

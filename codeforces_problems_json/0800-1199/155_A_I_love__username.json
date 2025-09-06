@@ -1,0 +1,14 @@
+{
+  "contest_id": 155,
+  "problem_index": "A",
+  "name": "I_love_\\%username\\%",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/155/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 85432
+}

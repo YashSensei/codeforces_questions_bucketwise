@@ -1,0 +1,15 @@
+{
+  "contest_id": 1582,
+  "problem_index": "B",
+  "name": "Luntik and Subsequences",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1582/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 26827
+}

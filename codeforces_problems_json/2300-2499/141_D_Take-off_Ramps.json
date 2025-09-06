@@ -1,0 +1,15 @@
+{
+  "contest_id": 141,
+  "problem_index": "D",
+  "name": "Take-off Ramps",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/141/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 982
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 530,
+  "problem_index": "H",
+  "name": "Points in triangle",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "*special",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/530/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 125
+}

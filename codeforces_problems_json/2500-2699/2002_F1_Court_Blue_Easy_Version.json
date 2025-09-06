@@ -1,0 +1,18 @@
+{
+  "contest_id": 2002,
+  "problem_index": "F1",
+  "name": "Court Blue (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2002/F1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 949
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1931,
+  "problem_index": "A",
+  "name": "Recovering a Small String",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1931/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 38585
+}

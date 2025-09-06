@@ -1,0 +1,15 @@
+{
+  "contest_id": 1791,
+  "problem_index": "D",
+  "name": "Distinct Split",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1791/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 40454
+}

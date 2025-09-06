@@ -1,0 +1,18 @@
+{
+  "contest_id": 1486,
+  "problem_index": "F",
+  "name": "Pairs of Paths",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1486/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 746
+}

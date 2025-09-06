@@ -1,0 +1,16 @@
+{
+  "contest_id": 1905,
+  "problem_index": "F",
+  "name": "Field Should Not Be Empty",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "brute force",
+    "data structures",
+    "divide and conquer"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1905/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 614
+}

@@ -1,0 +1,13 @@
+{
+  "contest_id": 1002,
+  "problem_index": "A2",
+  "name": "Generate superposition of zero state and a basis state",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1002/A2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 568
+}

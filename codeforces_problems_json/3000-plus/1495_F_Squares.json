@@ -1,0 +1,18 @@
+{
+  "contest_id": 1495,
+  "problem_index": "F",
+  "name": "Squares",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1495/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 391
+}

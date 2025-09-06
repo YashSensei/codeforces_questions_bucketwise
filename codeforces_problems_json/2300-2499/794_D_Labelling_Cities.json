@@ -1,0 +1,16 @@
+{
+  "contest_id": 794,
+  "problem_index": "D",
+  "name": "Labelling Cities",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/794/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 877
+}

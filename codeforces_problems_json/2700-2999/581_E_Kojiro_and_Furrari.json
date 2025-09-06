@@ -1,0 +1,15 @@
+{
+  "contest_id": 581,
+  "problem_index": "E",
+  "name": "Kojiro and Furrari",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/581/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 215
+}

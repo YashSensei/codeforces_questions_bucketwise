@@ -1,0 +1,18 @@
+{
+  "contest_id": 533,
+  "problem_index": "A",
+  "name": "Berland Miners",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/533/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 432
+}

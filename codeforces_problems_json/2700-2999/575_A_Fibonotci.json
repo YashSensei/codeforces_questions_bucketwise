@@ -1,0 +1,15 @@
+{
+  "contest_id": 575,
+  "problem_index": "A",
+  "name": "Fibonotci",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/575/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 831
+}

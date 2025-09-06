@@ -1,0 +1,15 @@
+{
+  "contest_id": 621,
+  "problem_index": "B",
+  "name": "Wet Shark and Bishops",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "combinatorics",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/621/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 11364
+}

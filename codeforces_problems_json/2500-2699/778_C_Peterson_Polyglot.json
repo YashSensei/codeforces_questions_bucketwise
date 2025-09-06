@@ -1,0 +1,19 @@
+{
+  "contest_id": 778,
+  "problem_index": "C",
+  "name": "Peterson Polyglot",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dsu",
+    "hashing",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/778/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 959
+}

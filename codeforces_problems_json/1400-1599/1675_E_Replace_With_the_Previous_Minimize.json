@@ -1,0 +1,15 @@
+{
+  "contest_id": 1675,
+  "problem_index": "E",
+  "name": "Replace With the Previous, Minimize",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dsu",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1675/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 11595
+}

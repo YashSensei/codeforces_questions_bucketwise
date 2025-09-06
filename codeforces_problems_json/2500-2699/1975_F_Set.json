@@ -1,0 +1,20 @@
+{
+  "contest_id": 1975,
+  "problem_index": "F",
+  "name": "Set",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1975/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 942
+}

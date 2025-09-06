@@ -1,0 +1,16 @@
+{
+  "contest_id": 1437,
+  "problem_index": "A",
+  "name": "Marketing Scheme",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1437/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 18304
+}

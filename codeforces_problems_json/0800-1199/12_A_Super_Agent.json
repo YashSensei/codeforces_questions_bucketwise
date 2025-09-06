@@ -1,0 +1,13 @@
+{
+  "contest_id": 12,
+  "problem_index": "A",
+  "name": "Super Agent",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/12/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 14258
+}

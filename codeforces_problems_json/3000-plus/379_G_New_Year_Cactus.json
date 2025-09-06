@@ -1,0 +1,14 @@
+{
+  "contest_id": 379,
+  "problem_index": "G",
+  "name": "New Year Cactus",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/379/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3500.0,
+  "solved_count": 148
+}

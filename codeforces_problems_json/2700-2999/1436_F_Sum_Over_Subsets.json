@@ -1,0 +1,16 @@
+{
+  "contest_id": 1436,
+  "problem_index": "F",
+  "name": "Sum Over Subsets",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1436/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 574
+}

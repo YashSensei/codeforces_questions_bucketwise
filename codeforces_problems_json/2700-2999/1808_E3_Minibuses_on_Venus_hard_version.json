@@ -1,0 +1,17 @@
+{
+  "contest_id": 1808,
+  "problem_index": "E3",
+  "name": "Minibuses on Venus (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1808/E3",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 501
+}

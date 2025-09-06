@@ -1,0 +1,20 @@
+{
+  "contest_id": 1914,
+  "problem_index": "G1",
+  "name": "Light Bulbs (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "graphs",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1914/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2162
+}

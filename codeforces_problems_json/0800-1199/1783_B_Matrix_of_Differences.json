@@ -1,0 +1,14 @@
+{
+  "contest_id": 1783,
+  "problem_index": "B",
+  "name": "Matrix of Differences",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1783/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 18859
+}

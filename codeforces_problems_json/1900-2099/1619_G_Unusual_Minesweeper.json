@@ -1,0 +1,17 @@
+{
+  "contest_id": 1619,
+  "problem_index": "G",
+  "name": "Unusual Minesweeper",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "dsu",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1619/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2615
+}

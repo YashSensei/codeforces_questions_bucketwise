@@ -1,0 +1,16 @@
+{
+  "contest_id": 1183,
+  "problem_index": "E",
+  "name": "Subsequences (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "graphs",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1183/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5195
+}

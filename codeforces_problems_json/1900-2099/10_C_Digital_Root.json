@@ -1,0 +1,13 @@
+{
+  "contest_id": 10,
+  "problem_index": "C",
+  "name": "Digital Root",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/10/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1557
+}

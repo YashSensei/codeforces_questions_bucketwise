@@ -1,0 +1,17 @@
+{
+  "contest_id": 651,
+  "problem_index": "A",
+  "name": "Joysticks",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/651/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 23653
+}

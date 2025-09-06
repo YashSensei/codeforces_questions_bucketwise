@@ -1,0 +1,17 @@
+{
+  "contest_id": 2005,
+  "problem_index": "B2",
+  "name": "The Strict Teacher (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2005/B2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 20383
+}

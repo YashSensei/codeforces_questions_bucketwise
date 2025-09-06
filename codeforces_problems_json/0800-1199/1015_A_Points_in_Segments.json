@@ -1,0 +1,13 @@
+{
+  "contest_id": 1015,
+  "problem_index": "A",
+  "name": "Points in Segments",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1015/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 21795
+}

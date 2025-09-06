@@ -1,0 +1,13 @@
+{
+  "contest_id": 1974,
+  "problem_index": "E",
+  "name": "Money Buys Happiness",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1974/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 9885
+}

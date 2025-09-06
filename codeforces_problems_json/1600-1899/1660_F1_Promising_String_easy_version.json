@@ -1,0 +1,16 @@
+{
+  "contest_id": 1660,
+  "problem_index": "F1",
+  "name": "Promising String (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1660/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7742
+}

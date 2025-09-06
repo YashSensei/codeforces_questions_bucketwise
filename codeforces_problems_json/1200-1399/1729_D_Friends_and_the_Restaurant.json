@@ -1,0 +1,15 @@
+{
+  "contest_id": 1729,
+  "problem_index": "D",
+  "name": "Friends and the Restaurant",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1729/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 26025
+}

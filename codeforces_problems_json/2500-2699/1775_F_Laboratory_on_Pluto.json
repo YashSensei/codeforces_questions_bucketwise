@@ -1,0 +1,17 @@
+{
+  "contest_id": 1775,
+  "problem_index": "F",
+  "name": "Laboratory on Pluto",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1775/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 819
+}

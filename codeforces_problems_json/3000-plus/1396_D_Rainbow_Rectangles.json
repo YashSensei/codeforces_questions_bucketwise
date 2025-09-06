@@ -1,0 +1,16 @@
+{
+  "contest_id": 1396,
+  "problem_index": "D",
+  "name": "Rainbow Rectangles",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "data structures",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1396/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 335
+}

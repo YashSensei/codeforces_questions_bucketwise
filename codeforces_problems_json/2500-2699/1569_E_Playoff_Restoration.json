@@ -1,0 +1,17 @@
+{
+  "contest_id": 1569,
+  "problem_index": "E",
+  "name": "Playoff Restoration",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "hashing",
+    "implementation",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1569/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 844
+}

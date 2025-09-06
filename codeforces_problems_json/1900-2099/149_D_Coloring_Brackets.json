@@ -1,0 +1,14 @@
+{
+  "contest_id": 149,
+  "problem_index": "D",
+  "name": "Coloring Brackets",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/149/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 4276
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 575,
+  "problem_index": "C",
+  "name": "Party",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/575/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 230
+}

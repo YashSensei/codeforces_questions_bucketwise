@@ -1,0 +1,14 @@
+{
+  "contest_id": 340,
+  "problem_index": "A",
+  "name": "The Wall",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/340/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 8020
+}

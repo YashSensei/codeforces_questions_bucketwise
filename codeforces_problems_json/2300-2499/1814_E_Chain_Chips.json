@@ -1,0 +1,15 @@
+{
+  "contest_id": 1814,
+  "problem_index": "E",
+  "name": "Chain Chips",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dp",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1814/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1563
+}

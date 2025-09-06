@@ -1,0 +1,14 @@
+{
+  "contest_id": 2036,
+  "problem_index": "B",
+  "name": "Startup",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2036/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 28327
+}

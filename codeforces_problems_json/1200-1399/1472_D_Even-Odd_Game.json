@@ -1,0 +1,16 @@
+{
+  "contest_id": 1472,
+  "problem_index": "D",
+  "name": "Even-Odd Game",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dp",
+    "games",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1472/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 29285
+}

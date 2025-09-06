@@ -1,0 +1,13 @@
+{
+  "contest_id": 1234,
+  "problem_index": "A",
+  "name": "Equalize Prices Again",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1234/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 28869
+}

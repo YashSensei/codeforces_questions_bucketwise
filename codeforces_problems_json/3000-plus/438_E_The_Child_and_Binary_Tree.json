@@ -1,0 +1,17 @@
+{
+  "contest_id": 438,
+  "problem_index": "E",
+  "name": "The Child and Binary Tree",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "fft",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/438/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 2045
+}

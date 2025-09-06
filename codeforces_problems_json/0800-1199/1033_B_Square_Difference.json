@@ -1,0 +1,15 @@
+{
+  "contest_id": 1033,
+  "problem_index": "B",
+  "name": "Square Difference",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1033/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 10840
+}

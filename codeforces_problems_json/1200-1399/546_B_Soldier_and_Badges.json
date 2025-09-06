@@ -1,0 +1,17 @@
+{
+  "contest_id": 546,
+  "problem_index": "B",
+  "name": "Soldier and Badges",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/546/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 18230
+}

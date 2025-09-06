@@ -1,0 +1,16 @@
+{
+  "contest_id": 359,
+  "problem_index": "A",
+  "name": "Table",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/359/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 8975
+}

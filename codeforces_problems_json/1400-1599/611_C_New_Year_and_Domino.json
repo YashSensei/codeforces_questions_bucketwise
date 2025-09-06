@@ -1,0 +1,15 @@
+{
+  "contest_id": 611,
+  "problem_index": "C",
+  "name": "New Year and Domino",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/611/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 8729
+}

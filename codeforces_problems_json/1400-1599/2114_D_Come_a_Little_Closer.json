@@ -1,0 +1,16 @@
+{
+  "contest_id": 2114,
+  "problem_index": "D",
+  "name": "Come a Little Closer",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2114/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 12694
+}

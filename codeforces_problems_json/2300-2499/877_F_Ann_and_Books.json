@@ -1,0 +1,16 @@
+{
+  "contest_id": 877,
+  "problem_index": "F",
+  "name": "Ann and Books",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "flows",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/877/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 2070
+}

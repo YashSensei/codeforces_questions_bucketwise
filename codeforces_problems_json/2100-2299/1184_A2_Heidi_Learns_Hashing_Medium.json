@@ -1,0 +1,14 @@
+{
+  "contest_id": 1184,
+  "problem_index": "A2",
+  "name": "Heidi Learns Hashing (Medium)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1184/A2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1034
+}

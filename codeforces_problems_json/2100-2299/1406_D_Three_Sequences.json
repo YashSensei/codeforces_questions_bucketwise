@@ -1,0 +1,17 @@
+{
+  "contest_id": 1406,
+  "problem_index": "D",
+  "name": "Three Sequences",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1406/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 3650
+}

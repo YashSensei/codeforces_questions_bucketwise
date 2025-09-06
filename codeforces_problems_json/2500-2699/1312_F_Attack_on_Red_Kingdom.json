@@ -1,0 +1,14 @@
+{
+  "contest_id": 1312,
+  "problem_index": "F",
+  "name": "Attack on Red Kingdom",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "games",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1312/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 967
+}

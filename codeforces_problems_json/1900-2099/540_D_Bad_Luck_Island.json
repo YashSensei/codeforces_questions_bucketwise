@@ -1,0 +1,15 @@
+{
+  "contest_id": 540,
+  "problem_index": "D",
+  "name": "Bad Luck Island",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dp",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/540/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 6056
+}

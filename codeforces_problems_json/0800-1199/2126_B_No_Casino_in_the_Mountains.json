@@ -1,0 +1,14 @@
+{
+  "contest_id": 2126,
+  "problem_index": "B",
+  "name": "No Casino in the Mountains",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2126/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 33012
+}

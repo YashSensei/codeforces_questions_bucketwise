@@ -1,0 +1,15 @@
+{
+  "contest_id": 1208,
+  "problem_index": "E",
+  "name": "Let Them Slide",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1208/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 2115
+}

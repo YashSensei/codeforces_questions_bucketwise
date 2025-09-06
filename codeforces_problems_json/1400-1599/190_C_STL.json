@@ -1,0 +1,14 @@
+{
+  "contest_id": 190,
+  "problem_index": "C",
+  "name": "STL",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/190/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 3038
+}

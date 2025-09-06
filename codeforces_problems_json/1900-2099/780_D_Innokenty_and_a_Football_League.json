@@ -1,0 +1,19 @@
+{
+  "contest_id": 780,
+  "problem_index": "D",
+  "name": "Innokenty and a Football League",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "2-sat",
+    "graphs",
+    "greedy",
+    "implementation",
+    "shortest paths",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/780/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 2979
+}

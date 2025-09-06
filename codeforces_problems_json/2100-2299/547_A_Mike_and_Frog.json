@@ -1,0 +1,17 @@
+{
+  "contest_id": 547,
+  "problem_index": "A",
+  "name": "Mike and Frog",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/547/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 2679
+}

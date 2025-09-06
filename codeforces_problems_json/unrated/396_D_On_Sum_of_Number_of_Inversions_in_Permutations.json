@@ -1,0 +1,15 @@
+{
+  "contest_id": 396,
+  "problem_index": "D",
+  "name": "On Sum of Number of Inversions in Permutations",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/396/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 451
+}

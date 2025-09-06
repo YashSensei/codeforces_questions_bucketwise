@@ -1,0 +1,15 @@
+{
+  "contest_id": 2065,
+  "problem_index": "C1",
+  "name": "Skibidus and Fanum Tax (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2065/C1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 25197
+}

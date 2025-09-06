@@ -1,0 +1,14 @@
+{
+  "contest_id": 954,
+  "problem_index": "H",
+  "name": "Path Counting",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/954/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 693
+}

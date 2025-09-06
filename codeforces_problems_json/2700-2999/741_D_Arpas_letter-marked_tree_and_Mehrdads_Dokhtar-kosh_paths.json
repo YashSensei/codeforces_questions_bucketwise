@@ -1,0 +1,16 @@
+{
+  "contest_id": 741,
+  "problem_index": "D",
+  "name": "Arpa’s letter-marked tree and Mehrdad’s Dokhtar-kosh paths",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/741/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 3179
+}

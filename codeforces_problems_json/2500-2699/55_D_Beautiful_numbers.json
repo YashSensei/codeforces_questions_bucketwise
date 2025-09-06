@@ -1,0 +1,15 @@
+{
+  "contest_id": 55,
+  "problem_index": "D",
+  "name": "Beautiful numbers",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/55/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 4333
+}

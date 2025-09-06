@@ -1,0 +1,19 @@
+{
+  "contest_id": 1608,
+  "problem_index": "C",
+  "name": "Game Master",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1608/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 7098
+}

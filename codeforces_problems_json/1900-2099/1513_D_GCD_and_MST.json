@@ -1,0 +1,19 @@
+{
+  "contest_id": 1513,
+  "problem_index": "D",
+  "name": "GCD and MST",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1513/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 6071
+}

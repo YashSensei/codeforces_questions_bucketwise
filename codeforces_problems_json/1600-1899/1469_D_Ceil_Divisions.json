@@ -1,0 +1,16 @@
+{
+  "contest_id": 1469,
+  "problem_index": "D",
+  "name": "Ceil Divisions",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1469/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9927
+}

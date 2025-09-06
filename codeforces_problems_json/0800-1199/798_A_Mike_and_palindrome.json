@@ -1,0 +1,16 @@
+{
+  "contest_id": 798,
+  "problem_index": "A",
+  "name": "Mike and palindrome",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/798/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 23092
+}

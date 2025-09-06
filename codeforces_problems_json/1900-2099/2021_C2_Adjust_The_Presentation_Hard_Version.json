@@ -1,0 +1,18 @@
+{
+  "contest_id": 2021,
+  "problem_index": "C2",
+  "name": "Adjust The Presentation (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2021/C2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 4234
+}

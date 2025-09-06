@@ -1,0 +1,17 @@
+{
+  "contest_id": 1525,
+  "problem_index": "E",
+  "name": "Assimilation IV",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1525/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2241
+}

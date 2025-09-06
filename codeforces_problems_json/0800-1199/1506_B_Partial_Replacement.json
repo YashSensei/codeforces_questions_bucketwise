@@ -1,0 +1,14 @@
+{
+  "contest_id": 1506,
+  "problem_index": "B",
+  "name": "Partial Replacement",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1506/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20695
+}

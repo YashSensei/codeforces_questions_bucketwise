@@ -1,0 +1,17 @@
+{
+  "contest_id": 1659,
+  "problem_index": "F",
+  "name": "Tree and Permutation Game",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dfs and similar",
+    "games",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1659/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 234
+}

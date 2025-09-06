@@ -1,0 +1,15 @@
+{
+  "contest_id": 2111,
+  "problem_index": "C",
+  "name": "Equal Values",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2111/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 17137
+}

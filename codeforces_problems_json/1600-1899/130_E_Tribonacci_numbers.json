@@ -1,0 +1,13 @@
+{
+  "contest_id": 130,
+  "problem_index": "E",
+  "name": "Tribonacci numbers",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/130/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 309
+}

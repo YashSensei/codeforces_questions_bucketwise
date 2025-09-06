@@ -1,0 +1,22 @@
+{
+  "contest_id": 1844,
+  "problem_index": "G",
+  "name": "Tree Weights",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "data structures",
+    "dfs and similar",
+    "implementation",
+    "math",
+    "matrices",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1844/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 1092
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1978,
+  "problem_index": "B",
+  "name": "New Bakery",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1978/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 24382
+}

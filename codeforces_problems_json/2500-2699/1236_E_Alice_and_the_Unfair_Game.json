@@ -1,0 +1,17 @@
+{
+  "contest_id": 1236,
+  "problem_index": "E",
+  "name": "Alice and the Unfair Game",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1236/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 716
+}

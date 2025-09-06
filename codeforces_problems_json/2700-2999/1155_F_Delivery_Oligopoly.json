@@ -1,0 +1,15 @@
+{
+  "contest_id": 1155,
+  "problem_index": "F",
+  "name": "Delivery Oligopoly",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "brute force",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1155/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 502
+}

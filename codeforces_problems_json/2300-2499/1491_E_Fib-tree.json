@@ -1,0 +1,18 @@
+{
+  "contest_id": 1491,
+  "problem_index": "E",
+  "name": "Fib-tree",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "divide and conquer",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1491/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 2267
+}

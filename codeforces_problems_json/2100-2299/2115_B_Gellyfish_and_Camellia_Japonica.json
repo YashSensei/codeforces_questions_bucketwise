@@ -1,0 +1,20 @@
+{
+  "contest_id": 2115,
+  "problem_index": "B",
+  "name": "Gellyfish and Camellia Japonica",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2115/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 3229
+}

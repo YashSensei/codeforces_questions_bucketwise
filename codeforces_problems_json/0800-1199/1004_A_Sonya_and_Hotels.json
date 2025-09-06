@@ -1,0 +1,14 @@
+{
+  "contest_id": 1004,
+  "problem_index": "A",
+  "name": "Sonya and Hotels",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1004/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 11616
+}

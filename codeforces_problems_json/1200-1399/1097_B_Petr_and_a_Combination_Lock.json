@@ -1,0 +1,16 @@
+{
+  "contest_id": 1097,
+  "problem_index": "B",
+  "name": "Petr and a Combination Lock",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1097/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 32892
+}

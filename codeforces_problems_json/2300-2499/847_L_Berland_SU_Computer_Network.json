@@ -1,0 +1,17 @@
+{
+  "contest_id": 847,
+  "problem_index": "L",
+  "name": "Berland SU Computer Network",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "hashing",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/847/L",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 333
+}

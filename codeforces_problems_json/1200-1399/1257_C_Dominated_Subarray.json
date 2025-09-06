@@ -1,0 +1,17 @@
+{
+  "contest_id": 1257,
+  "problem_index": "C",
+  "name": "Dominated Subarray",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1257/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 16522
+}

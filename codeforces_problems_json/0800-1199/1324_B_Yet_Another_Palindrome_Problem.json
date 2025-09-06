@@ -1,0 +1,14 @@
+{
+  "contest_id": 1324,
+  "problem_index": "B",
+  "name": "Yet Another Palindrome Problem",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1324/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 29777
+}

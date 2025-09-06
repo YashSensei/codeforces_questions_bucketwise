@@ -1,0 +1,15 @@
+{
+  "contest_id": 103,
+  "problem_index": "E",
+  "name": "Buying Sets",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "flows",
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/103/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 994
+}

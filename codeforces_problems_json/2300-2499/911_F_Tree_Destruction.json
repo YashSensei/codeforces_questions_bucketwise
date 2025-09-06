@@ -1,0 +1,17 @@
+{
+  "contest_id": 911,
+  "problem_index": "F",
+  "name": "Tree Destruction",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/911/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1930
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 632,
+  "problem_index": "D",
+  "name": "Longest Subsequence",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/632/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4273
+}

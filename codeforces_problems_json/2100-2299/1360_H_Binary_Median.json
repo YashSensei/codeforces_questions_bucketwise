@@ -1,0 +1,16 @@
+{
+  "contest_id": 1360,
+  "problem_index": "H",
+  "name": "Binary Median",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1360/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4723
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1097,
+  "problem_index": "F",
+  "name": "Alex and a TV Show",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1097/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 1371
+}

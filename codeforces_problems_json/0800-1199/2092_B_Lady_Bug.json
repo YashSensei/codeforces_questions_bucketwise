@@ -1,0 +1,17 @@
+{
+  "contest_id": 2092,
+  "problem_index": "B",
+  "name": "Lady Bug",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2092/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 22420
+}

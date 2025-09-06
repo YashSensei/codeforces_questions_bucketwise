@@ -1,0 +1,18 @@
+{
+  "contest_id": 1707,
+  "problem_index": "D",
+  "name": "Partial Virtual Trees",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1707/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 762
+}

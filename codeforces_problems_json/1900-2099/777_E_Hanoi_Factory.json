@@ -1,0 +1,18 @@
+{
+  "contest_id": 777,
+  "problem_index": "E",
+  "name": "Hanoi Factory",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/777/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 4367
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1117,
+  "problem_index": "E",
+  "name": "Decypher the String",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "chinese remainder theorem",
+    "constructive algorithms",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1117/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1587
+}

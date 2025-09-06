@@ -1,0 +1,15 @@
+{
+  "contest_id": 1151,
+  "problem_index": "C",
+  "name": "Problem for Nazar",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1151/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 5499
+}

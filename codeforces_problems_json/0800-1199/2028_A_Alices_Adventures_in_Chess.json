@@ -1,0 +1,16 @@
+{
+  "contest_id": 2028,
+  "problem_index": "A",
+  "name": "Alice's Adventures in ''Chess''",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2028/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 19004
+}

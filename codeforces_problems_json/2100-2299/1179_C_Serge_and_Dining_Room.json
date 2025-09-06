@@ -1,0 +1,20 @@
+{
+  "contest_id": 1179,
+  "problem_index": "C",
+  "name": "Serge and Dining Room",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "data structures",
+    "graph matchings",
+    "greedy",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1179/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 2258
+}

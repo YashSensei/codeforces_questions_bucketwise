@@ -1,0 +1,18 @@
+{
+  "contest_id": 982,
+  "problem_index": "C",
+  "name": "Cut 'em all!",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/982/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 13658
+}

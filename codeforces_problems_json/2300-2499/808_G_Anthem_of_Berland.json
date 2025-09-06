@@ -1,0 +1,14 @@
+{
+  "contest_id": 808,
+  "problem_index": "G",
+  "name": "Anthem of Berland",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/808/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3271
+}

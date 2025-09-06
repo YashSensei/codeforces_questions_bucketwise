@@ -1,0 +1,17 @@
+{
+  "contest_id": 796,
+  "problem_index": "C",
+  "name": "Bank Hacking",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/796/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 3173
+}

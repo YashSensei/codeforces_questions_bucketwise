@@ -1,0 +1,16 @@
+{
+  "contest_id": 1034,
+  "problem_index": "E",
+  "name": "Little C Loves 3 III",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1034/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 697
+}

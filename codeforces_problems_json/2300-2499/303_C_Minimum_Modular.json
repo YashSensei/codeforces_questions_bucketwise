@@ -1,0 +1,17 @@
+{
+  "contest_id": 303,
+  "problem_index": "C",
+  "name": "Minimum Modular",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/303/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 933
+}

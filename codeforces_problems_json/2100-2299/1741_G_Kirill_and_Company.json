@@ -1,0 +1,19 @@
+{
+  "contest_id": 1741,
+  "problem_index": "G",
+  "name": "Kirill and Company",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "flows",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1741/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1706
+}

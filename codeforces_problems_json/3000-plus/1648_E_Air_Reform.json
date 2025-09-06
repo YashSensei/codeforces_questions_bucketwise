@@ -1,0 +1,20 @@
+{
+  "contest_id": 1648,
+  "problem_index": "E",
+  "name": "Air Reform",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dsu",
+    "graphs",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1648/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 457
+}

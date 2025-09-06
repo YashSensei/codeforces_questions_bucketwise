@@ -1,0 +1,19 @@
+{
+  "contest_id": 2101,
+  "problem_index": "C",
+  "name": "23 Kingdom",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "greedy",
+    "ternary search",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2101/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 1938
+}

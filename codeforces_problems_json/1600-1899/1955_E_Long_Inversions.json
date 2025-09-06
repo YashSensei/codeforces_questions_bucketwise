@@ -1,0 +1,16 @@
+{
+  "contest_id": 1955,
+  "problem_index": "E",
+  "name": "Long Inversions",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1955/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9741
+}

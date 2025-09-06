@@ -1,0 +1,18 @@
+{
+  "contest_id": 1379,
+  "problem_index": "E",
+  "name": "Inverse Genealogy",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "constructive algorithms",
+    "divide and conquer",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1379/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 449
+}

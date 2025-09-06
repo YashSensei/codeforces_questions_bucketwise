@@ -1,0 +1,15 @@
+{
+  "contest_id": 1096,
+  "problem_index": "F",
+  "name": "Inversion Expectation",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1096/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1921
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1528,
+  "problem_index": "C",
+  "name": "Trees of Tranquillity",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1528/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 2816
+}

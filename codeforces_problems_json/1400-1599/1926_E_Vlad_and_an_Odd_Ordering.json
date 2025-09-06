@@ -1,0 +1,19 @@
+{
+  "contest_id": 1926,
+  "problem_index": "E",
+  "name": "Vlad and an Odd Ordering",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1926/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13870
+}

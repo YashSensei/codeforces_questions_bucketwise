@@ -1,0 +1,17 @@
+{
+  "contest_id": 1239,
+  "problem_index": "D",
+  "name": "Catowice City",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "2-sat",
+    "dfs and similar",
+    "graph matchings",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1239/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 2427
+}

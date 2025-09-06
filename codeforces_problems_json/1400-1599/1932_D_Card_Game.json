@@ -1,0 +1,14 @@
+{
+  "contest_id": 1932,
+  "problem_index": "D",
+  "name": "Card Game",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1932/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 12813
+}

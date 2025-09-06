@@ -1,0 +1,17 @@
+{
+  "contest_id": 490,
+  "problem_index": "C",
+  "name": "Hacking Cypher",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/490/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 9299
+}

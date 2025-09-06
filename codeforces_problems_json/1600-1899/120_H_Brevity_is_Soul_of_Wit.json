@@ -1,0 +1,13 @@
+{
+  "contest_id": 120,
+  "problem_index": "H",
+  "name": "Brevity is Soul of Wit",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/120/H",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1520
+}

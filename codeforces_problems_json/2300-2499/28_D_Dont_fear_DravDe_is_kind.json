@@ -1,0 +1,17 @@
+{
+  "contest_id": 28,
+  "problem_index": "D",
+  "name": "Don't fear, DravDe is kind",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/28/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 645
+}

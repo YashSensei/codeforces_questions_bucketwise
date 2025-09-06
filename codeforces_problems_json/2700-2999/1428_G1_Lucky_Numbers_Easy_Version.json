@@ -1,0 +1,15 @@
+{
+  "contest_id": 1428,
+  "problem_index": "G1",
+  "name": "Lucky Numbers (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1428/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 617
+}

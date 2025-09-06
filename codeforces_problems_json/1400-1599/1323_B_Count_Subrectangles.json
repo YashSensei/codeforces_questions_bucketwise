@@ -1,0 +1,16 @@
+{
+  "contest_id": 1323,
+  "problem_index": "B",
+  "name": "Count Subrectangles",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1323/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 10324
+}

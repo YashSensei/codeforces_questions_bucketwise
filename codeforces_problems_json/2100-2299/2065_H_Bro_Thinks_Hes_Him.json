@@ -1,0 +1,18 @@
+{
+  "contest_id": 2065,
+  "problem_index": "H",
+  "name": "Bro Thinks He's Him",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2065/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1711
+}

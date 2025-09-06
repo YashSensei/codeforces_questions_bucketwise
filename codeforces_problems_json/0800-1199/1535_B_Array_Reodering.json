@@ -1,0 +1,17 @@
+{
+  "contest_id": 1535,
+  "problem_index": "B",
+  "name": "Array Reodering",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1535/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 32572
+}

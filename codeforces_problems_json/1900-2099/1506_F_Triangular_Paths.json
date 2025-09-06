@@ -1,0 +1,17 @@
+{
+  "contest_id": 1506,
+  "problem_index": "F",
+  "name": "Triangular Paths",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "math",
+    "shortest paths",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1506/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3558
+}

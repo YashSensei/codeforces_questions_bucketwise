@@ -1,0 +1,19 @@
+{
+  "contest_id": 1419,
+  "problem_index": "D2",
+  "name": "Sage's Birthday (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1419/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 16768
+}

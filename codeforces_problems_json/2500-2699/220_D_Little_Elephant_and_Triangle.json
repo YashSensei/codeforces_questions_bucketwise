@@ -1,0 +1,15 @@
+{
+  "contest_id": 220,
+  "problem_index": "D",
+  "name": "Little Elephant and Triangle",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/220/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 300
+}

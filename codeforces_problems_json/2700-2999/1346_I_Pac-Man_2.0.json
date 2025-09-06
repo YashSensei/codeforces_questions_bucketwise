@@ -1,0 +1,14 @@
+{
+  "contest_id": 1346,
+  "problem_index": "I",
+  "name": "Pac-Man 2.0",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "*special",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1346/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 52
+}

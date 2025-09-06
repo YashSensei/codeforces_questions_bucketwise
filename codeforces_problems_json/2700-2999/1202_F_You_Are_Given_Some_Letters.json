@@ -1,0 +1,15 @@
+{
+  "contest_id": 1202,
+  "problem_index": "F",
+  "name": "You Are Given Some Letters...",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1202/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 449
+}

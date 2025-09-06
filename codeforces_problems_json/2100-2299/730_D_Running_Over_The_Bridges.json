@@ -1,0 +1,15 @@
+{
+  "contest_id": 730,
+  "problem_index": "D",
+  "name": "Running Over The Bridges",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/730/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 895
+}

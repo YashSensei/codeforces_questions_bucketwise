@@ -1,0 +1,19 @@
+{
+  "contest_id": 1659,
+  "problem_index": "E",
+  "name": "AND-MEX Walk",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1659/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 1808
+}

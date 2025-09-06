@@ -1,0 +1,15 @@
+{
+  "contest_id": 701,
+  "problem_index": "A",
+  "name": "Cards",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/701/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 20576
+}

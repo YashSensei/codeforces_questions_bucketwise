@@ -1,0 +1,15 @@
+{
+  "contest_id": 2111,
+  "problem_index": "A",
+  "name": "Energy Crystals",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2111/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 19431
+}

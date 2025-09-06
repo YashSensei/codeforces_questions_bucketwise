@@ -1,0 +1,14 @@
+{
+  "contest_id": 1250,
+  "problem_index": "M",
+  "name": "SmartGarden",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "divide and conquer"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1250/M",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 381
+}

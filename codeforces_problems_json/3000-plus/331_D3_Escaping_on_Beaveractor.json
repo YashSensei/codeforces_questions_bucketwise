@@ -1,0 +1,16 @@
+{
+  "contest_id": 331,
+  "problem_index": "D3",
+  "name": "Escaping on Beaveractor",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/331/D3",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 40.0,
+  "solved_count": 186
+}

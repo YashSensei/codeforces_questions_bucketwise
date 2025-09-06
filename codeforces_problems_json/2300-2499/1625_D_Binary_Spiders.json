@@ -1,0 +1,19 @@
+{
+  "contest_id": 1625,
+  "problem_index": "D",
+  "name": "Binary Spiders",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "implementation",
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1625/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 2202
+}

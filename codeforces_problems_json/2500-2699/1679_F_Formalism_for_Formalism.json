@@ -1,0 +1,16 @@
+{
+  "contest_id": 1679,
+  "problem_index": "F",
+  "name": "Formalism for Formalism",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1679/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 639
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1187,
+  "problem_index": "F",
+  "name": "Expected Square Beauty",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1187/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1009
+}

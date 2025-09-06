@@ -1,0 +1,17 @@
+{
+  "contest_id": 989,
+  "problem_index": "E",
+  "name": "A Trance of Nightfall",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "dp",
+    "geometry",
+    "matrices",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/989/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 266
+}

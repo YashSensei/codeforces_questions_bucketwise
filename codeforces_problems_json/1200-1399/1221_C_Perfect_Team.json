@@ -1,0 +1,14 @@
+{
+  "contest_id": 1221,
+  "problem_index": "C",
+  "name": "Perfect Team",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1221/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 23331
+}

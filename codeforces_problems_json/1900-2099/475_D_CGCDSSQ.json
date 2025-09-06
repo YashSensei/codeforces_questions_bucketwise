@@ -1,0 +1,16 @@
+{
+  "contest_id": 475,
+  "problem_index": "D",
+  "name": "CGCDSSQ",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/475/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 5698
+}

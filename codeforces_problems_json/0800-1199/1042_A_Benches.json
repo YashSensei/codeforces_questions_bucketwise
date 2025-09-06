@@ -1,0 +1,15 @@
+{
+  "contest_id": 1042,
+  "problem_index": "A",
+  "name": "Benches",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1042/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 13664
+}

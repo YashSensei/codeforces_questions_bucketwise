@@ -1,0 +1,18 @@
+{
+  "contest_id": 501,
+  "problem_index": "C",
+  "name": "Misha and Forest",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/501/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 5923
+}

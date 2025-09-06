@@ -1,0 +1,17 @@
+{
+  "contest_id": 2064,
+  "problem_index": "F",
+  "name": "We Be Summing",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2064/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2750.0,
+  "solved_count": 608
+}

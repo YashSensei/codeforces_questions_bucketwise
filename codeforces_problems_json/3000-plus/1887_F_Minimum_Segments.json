@@ -1,0 +1,14 @@
+{
+  "contest_id": 1887,
+  "problem_index": "F",
+  "name": "Minimum Segments",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1887/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 217
+}

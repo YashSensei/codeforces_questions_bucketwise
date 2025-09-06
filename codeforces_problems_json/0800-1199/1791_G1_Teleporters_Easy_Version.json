@@ -1,0 +1,14 @@
+{
+  "contest_id": 1791,
+  "problem_index": "G1",
+  "name": "Teleporters (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1791/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 28654
+}

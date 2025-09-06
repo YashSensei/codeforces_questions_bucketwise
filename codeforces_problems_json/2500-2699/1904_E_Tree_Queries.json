@@ -1,0 +1,18 @@
+{
+  "contest_id": 1904,
+  "problem_index": "E",
+  "name": "Tree Queries",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1904/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 1180
+}

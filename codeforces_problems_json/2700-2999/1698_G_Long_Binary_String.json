@@ -1,0 +1,18 @@
+{
+  "contest_id": 1698,
+  "problem_index": "G",
+  "name": "Long Binary String",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "bitmasks",
+    "math",
+    "matrices",
+    "meet-in-the-middle",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1698/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 370
+}

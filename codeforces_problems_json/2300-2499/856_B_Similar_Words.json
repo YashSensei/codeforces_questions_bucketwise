@@ -1,0 +1,16 @@
+{
+  "contest_id": 856,
+  "problem_index": "B",
+  "name": "Similar Words",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dp",
+    "hashing",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/856/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 546
+}

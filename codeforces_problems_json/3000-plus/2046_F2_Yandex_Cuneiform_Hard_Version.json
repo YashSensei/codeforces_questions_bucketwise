@@ -1,0 +1,17 @@
+{
+  "contest_id": 2046,
+  "problem_index": "F2",
+  "name": "Yandex Cuneiform (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2046/F2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 78
+}

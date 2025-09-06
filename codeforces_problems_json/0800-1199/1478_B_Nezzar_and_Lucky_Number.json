@@ -1,0 +1,17 @@
+{
+  "contest_id": 1478,
+  "problem_index": "B",
+  "name": "Nezzar and Lucky Number",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1478/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 18712
+}

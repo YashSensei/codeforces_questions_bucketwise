@@ -1,0 +1,16 @@
+{
+  "contest_id": 797,
+  "problem_index": "F",
+  "name": "Mice and Holes",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/797/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1377
+}

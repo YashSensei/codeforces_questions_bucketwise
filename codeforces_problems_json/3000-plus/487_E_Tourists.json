@@ -1,0 +1,17 @@
+{
+  "contest_id": 487,
+  "problem_index": "E",
+  "name": "Tourists",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/487/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2640
+}

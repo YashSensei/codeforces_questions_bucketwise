@@ -1,0 +1,17 @@
+{
+  "contest_id": 1995,
+  "problem_index": "D",
+  "name": "Cases",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1995/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 2683
+}

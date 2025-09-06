@@ -1,0 +1,16 @@
+{
+  "contest_id": 1669,
+  "problem_index": "F",
+  "name": "Eating Candies",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1669/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 32973
+}

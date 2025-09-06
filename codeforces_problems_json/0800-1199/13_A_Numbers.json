@@ -1,0 +1,14 @@
+{
+  "contest_id": 13,
+  "problem_index": "A",
+  "name": "Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/13/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 8640
+}

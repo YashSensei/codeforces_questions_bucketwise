@@ -1,0 +1,15 @@
+{
+  "contest_id": 2009,
+  "problem_index": "G1",
+  "name": "Yunli's Subarray Queries (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2009/G1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 4680
+}

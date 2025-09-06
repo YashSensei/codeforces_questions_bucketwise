@@ -1,0 +1,15 @@
+{
+  "contest_id": 1867,
+  "problem_index": "A",
+  "name": "green_gold_dog, array and permutation",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1867/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 20856
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 737,
+  "problem_index": "E",
+  "name": "Tanya is 5!",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "graph matchings",
+    "graphs",
+    "greedy",
+    "schedules"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/737/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 131
+}

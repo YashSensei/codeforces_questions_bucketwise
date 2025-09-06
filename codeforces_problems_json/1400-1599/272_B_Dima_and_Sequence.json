@@ -1,0 +1,15 @@
+{
+  "contest_id": 272,
+  "problem_index": "B",
+  "name": "Dima and Sequence",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/272/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 4159
+}

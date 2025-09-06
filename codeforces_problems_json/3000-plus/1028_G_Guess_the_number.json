@@ -1,0 +1,15 @@
+{
+  "contest_id": 1028,
+  "problem_index": "G",
+  "name": "Guess the number",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dp",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1028/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3250.0,
+  "solved_count": 621
+}

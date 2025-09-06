@@ -1,0 +1,15 @@
+{
+  "contest_id": 989,
+  "problem_index": "A",
+  "name": "A Blend of Springtime",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/989/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 10846
+}

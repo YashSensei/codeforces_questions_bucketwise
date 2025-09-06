@@ -1,0 +1,16 @@
+{
+  "contest_id": 1371,
+  "problem_index": "F",
+  "name": "Raging Thunder",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1371/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 660
+}

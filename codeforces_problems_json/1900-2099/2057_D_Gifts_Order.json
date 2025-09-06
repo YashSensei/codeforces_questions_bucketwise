@@ -1,0 +1,18 @@
+{
+  "contest_id": 2057,
+  "problem_index": "D",
+  "name": "Gifts Order",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2057/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 4899
+}

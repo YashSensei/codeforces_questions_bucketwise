@@ -1,0 +1,14 @@
+{
+  "contest_id": 1970,
+  "problem_index": "G1",
+  "name": "Min-Fund Prison (Easy)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1970/G1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1659
+}

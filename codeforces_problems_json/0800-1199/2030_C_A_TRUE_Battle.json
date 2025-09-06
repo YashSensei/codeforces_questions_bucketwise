@@ -1,0 +1,16 @@
+{
+  "contest_id": 2030,
+  "problem_index": "C",
+  "name": "A TRUE Battle",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "games",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2030/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 19003
+}

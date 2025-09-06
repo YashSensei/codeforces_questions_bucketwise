@@ -1,0 +1,21 @@
+{
+  "contest_id": 1658,
+  "problem_index": "E",
+  "name": "Gojou and Matrix Game",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dp",
+    "games",
+    "hashing",
+    "implementation",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1658/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1134
+}

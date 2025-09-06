@@ -1,0 +1,20 @@
+{
+  "contest_id": 1851,
+  "problem_index": "G",
+  "name": "Vlad and the Mountains",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dsu",
+    "graphs",
+    "implementation",
+    "sortings",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1851/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3695
+}

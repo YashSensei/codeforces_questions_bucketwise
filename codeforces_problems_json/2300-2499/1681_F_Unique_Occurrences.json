@@ -1,0 +1,18 @@
+{
+  "contest_id": 1681,
+  "problem_index": "F",
+  "name": "Unique Occurrences",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1681/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2062
+}

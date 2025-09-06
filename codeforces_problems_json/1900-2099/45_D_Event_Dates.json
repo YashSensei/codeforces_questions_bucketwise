@@ -1,0 +1,15 @@
+{
+  "contest_id": 45,
+  "problem_index": "D",
+  "name": "Event Dates",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "greedy",
+    "meet-in-the-middle",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/45/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1794
+}

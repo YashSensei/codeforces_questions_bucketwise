@@ -1,0 +1,19 @@
+{
+  "contest_id": 2077,
+  "problem_index": "C",
+  "name": "Binary Subsequence Value Sum",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "fft",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2077/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 1758
+}

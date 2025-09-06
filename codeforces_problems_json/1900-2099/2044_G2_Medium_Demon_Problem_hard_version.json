@@ -1,0 +1,18 @@
+{
+  "contest_id": 2044,
+  "problem_index": "G2",
+  "name": "Medium Demon Problem (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "graphs",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2044/G2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 3257
+}

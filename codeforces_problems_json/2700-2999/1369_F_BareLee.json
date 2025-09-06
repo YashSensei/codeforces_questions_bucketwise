@@ -1,0 +1,16 @@
+{
+  "contest_id": 1369,
+  "problem_index": "F",
+  "name": "BareLee",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1369/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 688
+}

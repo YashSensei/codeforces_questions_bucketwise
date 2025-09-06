@@ -1,0 +1,16 @@
+{
+  "contest_id": 1500,
+  "problem_index": "D",
+  "name": "Tiles for Bathroom",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1500/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 567
+}

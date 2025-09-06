@@ -1,0 +1,15 @@
+{
+  "contest_id": 126,
+  "problem_index": "E",
+  "name": "Pills",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "brute force",
+    "flows"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/126/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 95
+}

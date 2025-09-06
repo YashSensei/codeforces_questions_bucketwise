@@ -1,0 +1,16 @@
+{
+  "contest_id": 1294,
+  "problem_index": "F",
+  "name": "Three Paths on a Tree",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1294/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6309
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1439,
+  "problem_index": "A2",
+  "name": "Binary Table (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1439/A2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 5292
+}

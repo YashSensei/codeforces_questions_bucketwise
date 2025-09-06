@@ -1,0 +1,16 @@
+{
+  "contest_id": 1475,
+  "problem_index": "D",
+  "name": "Cleaning the Phone",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "dp",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1475/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 10771
+}

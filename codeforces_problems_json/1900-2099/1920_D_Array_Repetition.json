@@ -1,0 +1,18 @@
+{
+  "contest_id": 1920,
+  "problem_index": "D",
+  "name": "Array Repetition",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dsu",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1920/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 6177
+}

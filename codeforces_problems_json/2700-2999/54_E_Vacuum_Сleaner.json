@@ -1,0 +1,14 @@
+{
+  "contest_id": 54,
+  "problem_index": "E",
+  "name": "Vacuum Сleaner",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/54/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 206
+}

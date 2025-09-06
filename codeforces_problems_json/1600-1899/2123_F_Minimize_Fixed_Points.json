@@ -1,0 +1,14 @@
+{
+  "contest_id": 2123,
+  "problem_index": "F",
+  "name": "Minimize Fixed Points",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2123/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 8134
+}

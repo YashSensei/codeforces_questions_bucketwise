@@ -1,0 +1,19 @@
+{
+  "contest_id": 1254,
+  "problem_index": "B2",
+  "name": "Send Boxes to Alice (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory",
+    "ternary search",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1254/B2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 3324
+}

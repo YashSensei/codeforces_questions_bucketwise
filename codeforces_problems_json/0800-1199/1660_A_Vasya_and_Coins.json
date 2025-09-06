@@ -1,0 +1,14 @@
+{
+  "contest_id": 1660,
+  "problem_index": "A",
+  "name": "Vasya and Coins",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1660/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 38034
+}

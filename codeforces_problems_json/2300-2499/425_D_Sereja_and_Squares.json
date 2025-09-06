@@ -1,0 +1,16 @@
+{
+  "contest_id": 425,
+  "problem_index": "D",
+  "name": "Sereja and Squares",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/425/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 1561
+}

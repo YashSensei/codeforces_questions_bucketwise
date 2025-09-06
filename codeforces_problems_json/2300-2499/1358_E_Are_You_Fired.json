@@ -1,0 +1,17 @@
+{
+  "contest_id": 1358,
+  "problem_index": "E",
+  "name": "Are You Fired?",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1358/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 2406
+}

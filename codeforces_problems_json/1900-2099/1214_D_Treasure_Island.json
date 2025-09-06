@@ -1,0 +1,17 @@
+{
+  "contest_id": 1214,
+  "problem_index": "D",
+  "name": "Treasure Island",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "flows",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1214/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 6034
+}

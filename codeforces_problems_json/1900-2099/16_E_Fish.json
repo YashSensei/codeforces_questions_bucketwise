@@ -1,0 +1,15 @@
+{
+  "contest_id": 16,
+  "problem_index": "E",
+  "name": "Fish",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/16/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 5981
+}

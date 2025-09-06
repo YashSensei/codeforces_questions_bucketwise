@@ -1,0 +1,17 @@
+{
+  "contest_id": 1730,
+  "problem_index": "E",
+  "name": "Maximums and Minimums",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "divide and conquer",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1730/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 699
+}

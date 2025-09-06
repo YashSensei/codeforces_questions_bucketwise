@@ -1,0 +1,16 @@
+{
+  "contest_id": 266,
+  "problem_index": "C",
+  "name": "Below the Diagonal",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/266/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 1411
+}

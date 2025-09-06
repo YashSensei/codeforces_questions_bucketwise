@@ -1,0 +1,16 @@
+{
+  "contest_id": 2067,
+  "problem_index": "A",
+  "name": "Adjacent Digit Sums",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2067/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 24318
+}

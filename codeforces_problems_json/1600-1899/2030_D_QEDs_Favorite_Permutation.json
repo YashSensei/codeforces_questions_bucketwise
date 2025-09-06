@@ -1,0 +1,16 @@
+{
+  "contest_id": 2030,
+  "problem_index": "D",
+  "name": "QED's Favorite Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2030/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 7862
+}

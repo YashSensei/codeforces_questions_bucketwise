@@ -1,0 +1,20 @@
+{
+  "contest_id": 385,
+  "problem_index": "C",
+  "name": "Bear and Prime Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/385/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 10217
+}

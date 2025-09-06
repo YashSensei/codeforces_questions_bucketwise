@@ -1,0 +1,15 @@
+{
+  "contest_id": 1427,
+  "problem_index": "D",
+  "name": "Unshuffling a Deck",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1427/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 3616
+}

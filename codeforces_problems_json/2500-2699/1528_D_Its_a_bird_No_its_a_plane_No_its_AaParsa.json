@@ -1,0 +1,16 @@
+{
+  "contest_id": 1528,
+  "problem_index": "D",
+  "name": "It's a bird! No, it's a plane! No, it's AaParsa!",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1528/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1619
+}

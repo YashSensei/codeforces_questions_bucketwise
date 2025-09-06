@@ -1,0 +1,17 @@
+{
+  "contest_id": 1916,
+  "problem_index": "E",
+  "name": "Happy Life in University",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1916/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 2455
+}

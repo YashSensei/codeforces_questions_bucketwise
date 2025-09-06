@@ -1,0 +1,15 @@
+{
+  "contest_id": 332,
+  "problem_index": "D",
+  "name": "Theft of Blueprints",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/332/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 407
+}

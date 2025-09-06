@@ -1,0 +1,15 @@
+{
+  "contest_id": 494,
+  "problem_index": "E",
+  "name": "Sharti",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/494/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 358
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 920,
+  "problem_index": "F",
+  "name": "SUM and REPLACE",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dsu",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/920/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7781
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1354,
+  "problem_index": "C2",
+  "name": "Not So Simple Polygon Embedding",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "brute force",
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1354/C2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6246
+}

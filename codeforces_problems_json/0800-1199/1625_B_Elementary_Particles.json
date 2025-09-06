@@ -1,0 +1,16 @@
+{
+  "contest_id": 1625,
+  "problem_index": "B",
+  "name": "Elementary Particles",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1625/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 16626
+}

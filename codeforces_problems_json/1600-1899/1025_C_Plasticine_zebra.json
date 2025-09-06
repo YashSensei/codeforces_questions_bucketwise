@@ -1,0 +1,15 @@
+{
+  "contest_id": 1025,
+  "problem_index": "C",
+  "name": "Plasticine zebra",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1025/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 6336
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 704,
+  "problem_index": "B",
+  "name": "Ant Man",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/704/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 2095
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 494,
+  "problem_index": "B",
+  "name": "Obsessive String",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/494/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 2976
+}

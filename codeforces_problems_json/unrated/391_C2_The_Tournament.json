@@ -1,0 +1,14 @@
+{
+  "contest_id": 391,
+  "problem_index": "C2",
+  "name": "The Tournament",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/391/C2",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 4.0,
+  "solved_count": 139
+}

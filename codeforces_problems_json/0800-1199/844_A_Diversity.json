@@ -1,0 +1,16 @@
+{
+  "contest_id": 844,
+  "problem_index": "A",
+  "name": "Diversity",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/844/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 11554
+}

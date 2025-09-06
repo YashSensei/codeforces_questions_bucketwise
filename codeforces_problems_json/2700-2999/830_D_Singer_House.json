@@ -1,0 +1,17 @@
+{
+  "contest_id": 830,
+  "problem_index": "D",
+  "name": "Singer House",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/830/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 921
+}

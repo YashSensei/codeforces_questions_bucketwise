@@ -1,0 +1,15 @@
+{
+  "contest_id": 842,
+  "problem_index": "A",
+  "name": "Kirill And The Game",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/842/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 10835
+}

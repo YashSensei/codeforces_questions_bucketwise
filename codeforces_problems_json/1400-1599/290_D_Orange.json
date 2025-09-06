@@ -1,0 +1,14 @@
+{
+  "contest_id": 290,
+  "problem_index": "D",
+  "name": "Orange",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/290/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1859
+}

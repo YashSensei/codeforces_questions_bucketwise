@@ -1,0 +1,16 @@
+{
+  "contest_id": 625,
+  "problem_index": "D",
+  "name": "Finals in arithmetic",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/625/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 648
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 2009,
+  "problem_index": "C",
+  "name": "The Legend of Freya the Frog",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2009/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 30953
+}

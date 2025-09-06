@@ -1,0 +1,15 @@
+{
+  "contest_id": 2043,
+  "problem_index": "G",
+  "name": "Problem with Queries",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2043/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 278
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 2009,
+  "problem_index": "B",
+  "name": "osu!mania",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2009/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 49557
+}

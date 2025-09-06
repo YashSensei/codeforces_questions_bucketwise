@@ -1,0 +1,16 @@
+{
+  "contest_id": 2042,
+  "problem_index": "F",
+  "name": "Two Subarrays",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2042/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 789
+}

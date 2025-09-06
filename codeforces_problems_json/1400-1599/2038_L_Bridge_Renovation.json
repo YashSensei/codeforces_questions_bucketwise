@@ -1,0 +1,17 @@
+{
+  "contest_id": 2038,
+  "problem_index": "L",
+  "name": "Bridge Renovation",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2038/L",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 7117
+}

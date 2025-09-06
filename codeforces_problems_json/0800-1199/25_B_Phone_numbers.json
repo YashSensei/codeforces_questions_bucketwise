@@ -1,0 +1,13 @@
+{
+  "contest_id": 25,
+  "problem_index": "B",
+  "name": "Phone numbers",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/25/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 10555
+}

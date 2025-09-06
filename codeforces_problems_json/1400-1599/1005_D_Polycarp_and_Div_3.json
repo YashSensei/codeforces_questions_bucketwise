@@ -1,0 +1,15 @@
+{
+  "contest_id": 1005,
+  "problem_index": "D",
+  "name": "Polycarp and Div 3",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "greedy",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1005/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 10861
+}

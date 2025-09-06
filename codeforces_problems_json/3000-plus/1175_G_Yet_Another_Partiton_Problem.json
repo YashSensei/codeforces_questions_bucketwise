@@ -1,0 +1,17 @@
+{
+  "contest_id": 1175,
+  "problem_index": "G",
+  "name": "Yet Another Partiton Problem",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "geometry",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1175/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 600
+}

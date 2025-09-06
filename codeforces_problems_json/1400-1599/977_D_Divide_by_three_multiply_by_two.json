@@ -1,0 +1,15 @@
+{
+  "contest_id": 977,
+  "problem_index": "D",
+  "name": "Divide by three, multiply by two",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/977/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 19701
+}

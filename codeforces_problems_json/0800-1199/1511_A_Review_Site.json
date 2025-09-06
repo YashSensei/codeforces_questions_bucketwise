@@ -1,0 +1,13 @@
+{
+  "contest_id": 1511,
+  "problem_index": "A",
+  "name": "Review Site",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1511/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 28312
+}

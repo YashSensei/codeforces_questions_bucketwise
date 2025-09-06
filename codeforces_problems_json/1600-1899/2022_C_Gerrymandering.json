@@ -1,0 +1,15 @@
+{
+  "contest_id": 2022,
+  "problem_index": "C",
+  "name": "Gerrymandering",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2022/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 5488
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1699,
+  "problem_index": "B",
+  "name": "Almost Ternary Matrix",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1699/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 20799
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 327,
+  "problem_index": "A",
+  "name": "Flipping Game",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/327/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 46409
+}

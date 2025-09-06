@@ -1,0 +1,17 @@
+{
+  "contest_id": 510,
+  "problem_index": "D",
+  "name": "Fox And Jumping",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/510/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 6018
+}

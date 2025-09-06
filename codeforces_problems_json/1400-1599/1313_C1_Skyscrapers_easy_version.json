@@ -1,0 +1,17 @@
+{
+  "contest_id": 1313,
+  "problem_index": "C1",
+  "name": "Skyscrapers (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1313/C1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 10783
+}

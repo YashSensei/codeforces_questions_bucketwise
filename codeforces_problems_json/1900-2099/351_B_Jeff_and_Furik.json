@@ -1,0 +1,16 @@
+{
+  "contest_id": 351,
+  "problem_index": "B",
+  "name": "Jeff and Furik",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/351/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 2631
+}

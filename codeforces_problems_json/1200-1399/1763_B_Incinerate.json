@@ -1,0 +1,19 @@
+{
+  "contest_id": 1763,
+  "problem_index": "B",
+  "name": "Incinerate",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1763/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 15783
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 375,
+  "problem_index": "E",
+  "name": "Red and Black Tree",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/375/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 460
+}

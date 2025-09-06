@@ -1,0 +1,15 @@
+{
+  "contest_id": 351,
+  "problem_index": "C",
+  "name": "Jeff and Brackets",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/351/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 593
+}

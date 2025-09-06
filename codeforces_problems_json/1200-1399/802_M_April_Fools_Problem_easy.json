@@ -1,0 +1,14 @@
+{
+  "contest_id": 802,
+  "problem_index": "M",
+  "name": "April Fools' Problem (easy)",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/M",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3417
+}

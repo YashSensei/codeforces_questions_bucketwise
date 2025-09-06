@@ -1,0 +1,14 @@
+{
+  "contest_id": 883,
+  "problem_index": "I",
+  "name": "Photo Processing",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/883/I",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2183
+}

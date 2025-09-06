@@ -1,0 +1,16 @@
+{
+  "contest_id": 525,
+  "problem_index": "A",
+  "name": "Vitaliy and Pie",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "hashing",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/525/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 15748
+}

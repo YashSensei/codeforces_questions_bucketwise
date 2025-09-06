@@ -1,0 +1,14 @@
+{
+  "contest_id": 1879,
+  "problem_index": "B",
+  "name": "Chips on the Board",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1879/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 24140
+}

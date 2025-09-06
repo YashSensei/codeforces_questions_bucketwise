@@ -1,0 +1,18 @@
+{
+  "contest_id": 1896,
+  "problem_index": "D",
+  "name": "Ones and Twos",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1896/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 6510
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 678,
+  "problem_index": "F",
+  "name": "Lena and Queries",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/678/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 964
+}

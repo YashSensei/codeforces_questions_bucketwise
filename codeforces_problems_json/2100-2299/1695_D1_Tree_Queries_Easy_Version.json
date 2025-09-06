@@ -1,0 +1,19 @@
+{
+  "contest_id": 1695,
+  "problem_index": "D1",
+  "name": "Tree Queries (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1695/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 2339
+}

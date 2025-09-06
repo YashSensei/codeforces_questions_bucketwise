@@ -1,0 +1,21 @@
+{
+  "contest_id": 2081,
+  "problem_index": "D",
+  "name": "MST in Modulo Graph",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2081/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 906
+}

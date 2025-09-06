@@ -1,0 +1,16 @@
+{
+  "contest_id": 64,
+  "problem_index": "E",
+  "name": "Prime Segment",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/64/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 274
+}

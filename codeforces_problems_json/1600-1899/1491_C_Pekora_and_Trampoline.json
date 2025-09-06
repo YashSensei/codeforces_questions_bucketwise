@@ -1,0 +1,18 @@
+{
+  "contest_id": 1491,
+  "problem_index": "C",
+  "name": "Pekora and Trampoline",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1491/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 8226
+}

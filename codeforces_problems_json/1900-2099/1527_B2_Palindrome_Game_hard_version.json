@@ -1,0 +1,15 @@
+{
+  "contest_id": 1527,
+  "problem_index": "B2",
+  "name": "Palindrome Game (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1527/B2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 8399
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1399,
+  "problem_index": "A",
+  "name": "Remove Smallest",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1399/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 73900
+}

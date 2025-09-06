@@ -1,0 +1,17 @@
+{
+  "contest_id": 2104,
+  "problem_index": "C",
+  "name": "Card Game",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2104/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 15640
+}

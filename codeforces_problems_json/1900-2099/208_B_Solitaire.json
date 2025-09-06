@@ -1,0 +1,15 @@
+{
+  "contest_id": 208,
+  "problem_index": "B",
+  "name": "Solitaire",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/208/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 1408
+}

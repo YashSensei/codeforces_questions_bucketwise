@@ -1,0 +1,16 @@
+{
+  "contest_id": 1270,
+  "problem_index": "I",
+  "name": "Xor on Figures",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1270/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4500.0,
+  "solved_count": 277
+}

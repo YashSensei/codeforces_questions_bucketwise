@@ -1,0 +1,16 @@
+{
+  "contest_id": 1762,
+  "problem_index": "A",
+  "name": "Divide and Conquer",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1762/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 20035
+}

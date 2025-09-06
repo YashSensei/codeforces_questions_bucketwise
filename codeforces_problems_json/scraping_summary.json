@@ -1,0 +1,98 @@
+{
+  "scraping_info": {
+    "scraped_at": "2025-09-06 12:49:59 UTC",
+    "total_problems": 10602,
+    "successful": 10602,
+    "failed": 0,
+    "skipped": 0,
+    "configuration": {
+      "tags_filter": null,
+      "min_rating": null,
+      "max_rating": null,
+      "language": "en",
+      "bucket_size": 400,
+      "include_gym": false
+    }
+  },
+  "rating_buckets": {
+    "0800-1199": {
+      "min_rating": 800,
+      "max_rating": 1199,
+      "problems_count": 2094,
+      "directory": "0800-1199"
+    },
+    "1200-1399": {
+      "min_rating": 1200,
+      "max_rating": 1399,
+      "problems_count": 866,
+      "directory": "1200-1399"
+    },
+    "1400-1599": {
+      "min_rating": 1400,
+      "max_rating": 1599,
+      "problems_count": 882,
+      "directory": "1400-1599"
+    },
+    "1600-1899": {
+      "min_rating": 1600,
+      "max_rating": 1899,
+      "problems_count": 1456,
+      "directory": "1600-1899"
+    },
+    "1900-2099": {
+      "min_rating": 1900,
+      "max_rating": 2099,
+      "problems_count": 974,
+      "directory": "1900-2099"
+    },
+    "2100-2299": {
+      "min_rating": 2100,
+      "max_rating": 2299,
+      "problems_count": 870,
+      "directory": "2100-2299"
+    },
+    "2300-2499": {
+      "min_rating": 2300,
+      "max_rating": 2499,
+      "problems_count": 831,
+      "directory": "2300-2499"
+    },
+    "2500-2699": {
+      "min_rating": 2500,
+      "max_rating": 2699,
+      "problems_count": 710,
+      "directory": "2500-2699"
+    },
+    "2700-2999": {
+      "min_rating": 2700,
+      "max_rating": 2999,
+      "problems_count": 743,
+      "directory": "2700-2999"
+    },
+    "3000-plus": {
+      "min_rating": 3000,
+      "max_rating": null,
+      "problems_count": 907,
+      "directory": "3000-plus"
+    },
+    "unrated": {
+      "min_rating": null,
+      "max_rating": null,
+      "problems_count": 269,
+      "directory": "unrated"
+    }
+  },
+  "bucket_statistics": {
+    "0800-1199": 2094,
+    "1200-1399": 866,
+    "1400-1599": 882,
+    "1600-1899": 1456,
+    "1900-2099": 974,
+    "2100-2299": 870,
+    "2300-2499": 831,
+    "2500-2699": 710,
+    "2700-2999": 743,
+    "3000-plus": 907,
+    "unrated": 269
+  }
+}

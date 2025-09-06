@@ -1,0 +1,14 @@
+{
+  "contest_id": 1066,
+  "problem_index": "D",
+  "name": "Boxes Packing",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1066/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5752
+}

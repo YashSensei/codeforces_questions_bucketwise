@@ -1,0 +1,15 @@
+{
+  "contest_id": 797,
+  "problem_index": "C",
+  "name": "Minimal string",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/797/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 8706
+}

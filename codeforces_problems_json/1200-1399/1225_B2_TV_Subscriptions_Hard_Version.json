@@ -1,0 +1,15 @@
+{
+  "contest_id": 1225,
+  "problem_index": "B2",
+  "name": "TV Subscriptions (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1225/B2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 11711
+}

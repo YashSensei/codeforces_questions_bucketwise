@@ -1,0 +1,16 @@
+{
+  "contest_id": 682,
+  "problem_index": "A",
+  "name": "Alyona and Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/682/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 23182
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1479,
+  "problem_index": "B2",
+  "name": "Painting the Array II",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1479/B2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 4262
+}

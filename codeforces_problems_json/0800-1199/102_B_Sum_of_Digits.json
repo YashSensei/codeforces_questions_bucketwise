@@ -1,0 +1,14 @@
+{
+  "contest_id": 102,
+  "problem_index": "B",
+  "name": "Sum of Digits",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/102/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 29714
+}

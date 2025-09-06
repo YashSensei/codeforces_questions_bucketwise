@@ -1,0 +1,20 @@
+{
+  "contest_id": 1980,
+  "problem_index": "E",
+  "name": "Permutation of Rows and Columns",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "hashing",
+    "implementation",
+    "math",
+    "matrices",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1980/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 12080
+}

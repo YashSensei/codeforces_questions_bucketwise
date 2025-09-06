@@ -1,0 +1,17 @@
+{
+  "contest_id": 1396,
+  "problem_index": "B",
+  "name": "Stoned Game",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "games",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1396/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 12212
+}

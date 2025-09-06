@@ -1,0 +1,17 @@
+{
+  "contest_id": 2127,
+  "problem_index": "D",
+  "name": "Root was Built by Love, Broken by Destiny",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2127/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 5004
+}

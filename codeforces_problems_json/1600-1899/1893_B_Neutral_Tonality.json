@@ -1,0 +1,17 @@
+{
+  "contest_id": 1893,
+  "problem_index": "B",
+  "name": "Neutral Tonality",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1893/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 10411
+}

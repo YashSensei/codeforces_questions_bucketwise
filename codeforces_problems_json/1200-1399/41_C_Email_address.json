@@ -1,0 +1,15 @@
+{
+  "contest_id": 41,
+  "problem_index": "C",
+  "name": "Email address",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "expression parsing",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/41/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 4015
+}

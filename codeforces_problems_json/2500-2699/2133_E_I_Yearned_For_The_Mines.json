@@ -1,0 +1,18 @@
+{
+  "contest_id": 2133,
+  "problem_index": "E",
+  "name": "I Yearned For The Mines",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2133/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2750.0,
+  "solved_count": 1085
+}

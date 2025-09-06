@@ -1,0 +1,14 @@
+{
+  "contest_id": 241,
+  "problem_index": "C",
+  "name": "Mirror Box",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "geometry",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/241/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 518
+}

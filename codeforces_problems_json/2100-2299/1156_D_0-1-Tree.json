@@ -1,0 +1,17 @@
+{
+  "contest_id": 1156,
+  "problem_index": "D",
+  "name": "0-1-Tree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1156/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4338
+}

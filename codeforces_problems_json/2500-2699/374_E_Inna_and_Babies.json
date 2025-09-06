@@ -1,0 +1,18 @@
+{
+  "contest_id": 374,
+  "problem_index": "E",
+  "name": "Inna and Babies",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dsu",
+    "geometry",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/374/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 193
+}

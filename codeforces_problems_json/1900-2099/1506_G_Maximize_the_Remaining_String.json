@@ -1,0 +1,17 @@
+{
+  "contest_id": 1506,
+  "problem_index": "G",
+  "name": "Maximize the Remaining String",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1506/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4608
+}

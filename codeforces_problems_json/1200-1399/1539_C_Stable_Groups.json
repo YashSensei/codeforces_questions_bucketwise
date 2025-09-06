@@ -1,0 +1,15 @@
+{
+  "contest_id": 1539,
+  "problem_index": "C",
+  "name": "Stable Groups",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1539/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 27227
+}

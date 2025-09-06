@@ -1,0 +1,15 @@
+{
+  "contest_id": 1718,
+  "problem_index": "A1",
+  "name": "Burenka and Traditions (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1718/A1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 6184
+}

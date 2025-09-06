@@ -1,0 +1,15 @@
+{
+  "contest_id": 852,
+  "problem_index": "A",
+  "name": "Digits",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/852/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 414
+}

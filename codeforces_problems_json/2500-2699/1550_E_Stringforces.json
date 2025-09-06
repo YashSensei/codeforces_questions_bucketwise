@@ -1,0 +1,18 @@
+{
+  "contest_id": 1550,
+  "problem_index": "E",
+  "name": "Stringforces",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "dp",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1550/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1713
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1624,
+  "problem_index": "E",
+  "name": "Masha-forgetful",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "hashing",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1624/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4415
+}

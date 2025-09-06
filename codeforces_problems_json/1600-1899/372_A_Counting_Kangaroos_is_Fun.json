@@ -1,0 +1,17 @@
+{
+  "contest_id": 372,
+  "problem_index": "A",
+  "name": "Counting Kangaroos is Fun",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/372/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 14335
+}

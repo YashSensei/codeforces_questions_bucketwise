@@ -1,0 +1,16 @@
+{
+  "contest_id": 1361,
+  "problem_index": "F",
+  "name": "Johnny and New Toy",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1361/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 168
+}

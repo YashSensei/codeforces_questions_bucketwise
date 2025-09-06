@@ -1,0 +1,15 @@
+{
+  "contest_id": 1060,
+  "problem_index": "D",
+  "name": "Social Circles",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1060/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 3759
+}

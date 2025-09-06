@@ -1,0 +1,19 @@
+{
+  "contest_id": 1874,
+  "problem_index": "B",
+  "name": "Jellyfish and Math",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1874/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 1284
+}

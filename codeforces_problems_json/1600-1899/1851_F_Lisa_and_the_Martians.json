@@ -1,0 +1,17 @@
+{
+  "contest_id": 1851,
+  "problem_index": "F",
+  "name": "Lisa and the Martians",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "bitmasks",
+    "greedy",
+    "math",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1851/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6766
+}

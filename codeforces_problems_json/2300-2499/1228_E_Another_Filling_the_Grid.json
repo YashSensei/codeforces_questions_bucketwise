@@ -1,0 +1,16 @@
+{
+  "contest_id": 1228,
+  "problem_index": "E",
+  "name": "Another Filling the Grid",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1228/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 3150
+}

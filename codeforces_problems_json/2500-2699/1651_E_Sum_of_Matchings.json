@@ -1,0 +1,19 @@
+{
+  "contest_id": 1651,
+  "problem_index": "E",
+  "name": "Sum of Matchings",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "dfs and similar",
+    "graph matchings",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1651/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 575
+}

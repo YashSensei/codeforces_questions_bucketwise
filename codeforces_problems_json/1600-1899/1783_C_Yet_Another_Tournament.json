@@ -1,0 +1,15 @@
+{
+  "contest_id": 1783,
+  "problem_index": "C",
+  "name": "Yet Another Tournament",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1783/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 10208
+}

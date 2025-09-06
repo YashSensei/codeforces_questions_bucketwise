@@ -1,0 +1,14 @@
+{
+  "contest_id": 802,
+  "problem_index": "K",
+  "name": "Send the Fool Further! (medium)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/K",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 689
+}

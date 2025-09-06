@@ -1,0 +1,15 @@
+{
+  "contest_id": 717,
+  "problem_index": "D",
+  "name": "Dexterina’s Lab",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "games",
+    "matrices",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/717/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1517
+}

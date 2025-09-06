@@ -1,0 +1,14 @@
+{
+  "contest_id": 1455,
+  "problem_index": "G",
+  "name": "Forbidden Value",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1455/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 450
+}

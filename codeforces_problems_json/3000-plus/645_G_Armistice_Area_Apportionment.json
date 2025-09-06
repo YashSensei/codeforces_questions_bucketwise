@@ -1,0 +1,15 @@
+{
+  "contest_id": 645,
+  "problem_index": "G",
+  "name": "Armistice Area Apportionment",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "binary search",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/645/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 125
+}

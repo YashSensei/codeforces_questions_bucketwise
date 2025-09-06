@@ -1,0 +1,15 @@
+{
+  "contest_id": 2046,
+  "problem_index": "D",
+  "name": "For the Emperor!",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2046/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 504
+}

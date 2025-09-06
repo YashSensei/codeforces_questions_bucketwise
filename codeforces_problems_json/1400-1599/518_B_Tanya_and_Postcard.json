@@ -1,0 +1,16 @@
+{
+  "contest_id": 518,
+  "problem_index": "B",
+  "name": "Tanya and Postcard",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/518/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 8239
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 567,
+  "problem_index": "E",
+  "name": "President and Roads",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "hashing",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/567/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2047
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 662,
+  "problem_index": "B",
+  "name": "Graph Coloring",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/662/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 1571
+}

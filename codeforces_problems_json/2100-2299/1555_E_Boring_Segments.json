@@ -1,0 +1,16 @@
+{
+  "contest_id": 1555,
+  "problem_index": "E",
+  "name": "Boring Segments",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "sortings",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1555/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4325
+}

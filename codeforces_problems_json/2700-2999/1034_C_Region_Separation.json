@@ -1,0 +1,17 @@
+{
+  "contest_id": 1034,
+  "problem_index": "C",
+  "name": "Region Separation",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1034/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 944
+}

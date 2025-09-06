@@ -1,0 +1,15 @@
+{
+  "contest_id": 254,
+  "problem_index": "A",
+  "name": "Cards with Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/254/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 7526
+}

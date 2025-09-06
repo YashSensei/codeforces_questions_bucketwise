@@ -1,0 +1,19 @@
+{
+  "contest_id": 1550,
+  "problem_index": "D",
+  "name": "Excellent Arrays",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1550/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1934
+}

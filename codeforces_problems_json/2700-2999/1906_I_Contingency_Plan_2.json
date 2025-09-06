@@ -1,0 +1,13 @@
+{
+  "contest_id": 1906,
+  "problem_index": "I",
+  "name": "Contingency Plan 2",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1906/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 197
+}

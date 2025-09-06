@@ -1,0 +1,15 @@
+{
+  "contest_id": 303,
+  "problem_index": "B",
+  "name": "Rectangle Puzzle II",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/303/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 1390
+}

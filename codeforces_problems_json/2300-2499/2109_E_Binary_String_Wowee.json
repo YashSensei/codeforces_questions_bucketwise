@@ -1,0 +1,16 @@
+{
+  "contest_id": 2109,
+  "problem_index": "E",
+  "name": "Binary String Wowee",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2109/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 1172
+}

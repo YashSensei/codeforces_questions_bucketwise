@@ -1,0 +1,14 @@
+{
+  "contest_id": 10,
+  "problem_index": "B",
+  "name": "Cinema Cashier",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/10/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1906
+}

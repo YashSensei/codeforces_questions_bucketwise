@@ -1,0 +1,14 @@
+{
+  "contest_id": 1033,
+  "problem_index": "G",
+  "name": "Chip Game",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1033/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 4000.0,
+  "solved_count": 466
+}

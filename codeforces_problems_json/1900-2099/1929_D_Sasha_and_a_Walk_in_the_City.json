@@ -1,0 +1,17 @@
+{
+  "contest_id": 1929,
+  "problem_index": "D",
+  "name": "Sasha and a Walk in the City",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1929/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 5375
+}

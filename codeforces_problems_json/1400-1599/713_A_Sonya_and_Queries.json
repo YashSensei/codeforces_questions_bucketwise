@@ -1,0 +1,15 @@
+{
+  "contest_id": 713,
+  "problem_index": "A",
+  "name": "Sonya and Queries",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/713/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 8707
+}

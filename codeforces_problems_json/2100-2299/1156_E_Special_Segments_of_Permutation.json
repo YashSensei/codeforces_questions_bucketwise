@@ -1,0 +1,16 @@
+{
+  "contest_id": 1156,
+  "problem_index": "E",
+  "name": "Special Segments of Permutation",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1156/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3592
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1389,
+  "problem_index": "D",
+  "name": "Segment Intersections",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1389/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4447
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1954,
+  "problem_index": "E",
+  "name": "Chain Reaction",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dsu",
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1954/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2699
+}

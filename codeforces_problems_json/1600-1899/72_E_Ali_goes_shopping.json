@@ -1,0 +1,15 @@
+{
+  "contest_id": 72,
+  "problem_index": "E",
+  "name": "Ali goes shopping",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "brute force",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/72/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 178
+}

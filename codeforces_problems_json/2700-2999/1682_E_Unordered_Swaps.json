@@ -1,0 +1,20 @@
+{
+  "contest_id": 1682,
+  "problem_index": "E",
+  "name": "Unordered Swaps",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1682/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 673
+}

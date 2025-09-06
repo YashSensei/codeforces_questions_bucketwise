@@ -1,0 +1,19 @@
+{
+  "contest_id": 1461,
+  "problem_index": "D",
+  "name": "Divide and Summarize",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1461/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 9804
+}

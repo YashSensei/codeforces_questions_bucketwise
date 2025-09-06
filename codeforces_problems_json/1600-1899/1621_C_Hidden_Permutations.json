@@ -1,0 +1,16 @@
+{
+  "contest_id": 1621,
+  "problem_index": "C",
+  "name": "Hidden Permutations",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1621/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 7260
+}

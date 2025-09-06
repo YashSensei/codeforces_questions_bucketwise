@@ -1,0 +1,16 @@
+{
+  "contest_id": 868,
+  "problem_index": "A",
+  "name": "Bark to Unlock",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/868/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 9399
+}

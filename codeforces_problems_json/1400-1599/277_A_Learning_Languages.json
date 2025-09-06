@@ -1,0 +1,15 @@
+{
+  "contest_id": 277,
+  "problem_index": "A",
+  "name": "Learning Languages",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/277/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 20410
+}

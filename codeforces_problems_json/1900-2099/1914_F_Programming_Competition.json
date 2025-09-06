@@ -1,0 +1,17 @@
+{
+  "contest_id": 1914,
+  "problem_index": "F",
+  "name": "Programming Competition",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graph matchings",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1914/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4670
+}

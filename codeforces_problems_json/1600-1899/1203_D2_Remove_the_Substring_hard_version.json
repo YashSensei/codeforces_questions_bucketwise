@@ -1,0 +1,16 @@
+{
+  "contest_id": 1203,
+  "problem_index": "D2",
+  "name": "Remove the Substring (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1203/D2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7833
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1102,
+  "problem_index": "B",
+  "name": "Array K-Coloring",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1102/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 10822
+}

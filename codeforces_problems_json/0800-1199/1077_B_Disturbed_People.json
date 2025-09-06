@@ -1,0 +1,13 @@
+{
+  "contest_id": 1077,
+  "problem_index": "B",
+  "name": "Disturbed People",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1077/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 19836
+}

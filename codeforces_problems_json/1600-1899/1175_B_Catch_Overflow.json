@@ -1,0 +1,15 @@
+{
+  "contest_id": 1175,
+  "problem_index": "B",
+  "name": "Catch Overflow!",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "data structures",
+    "expression parsing",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1175/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 11531
+}

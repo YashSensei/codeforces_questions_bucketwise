@@ -1,0 +1,17 @@
+{
+  "contest_id": 358,
+  "problem_index": "E",
+  "name": "Dima and Kicks",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "dsu",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/358/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 412
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 6,
+  "problem_index": "C",
+  "name": "Alice, Bob and Chocolate",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/6/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 15884
+}

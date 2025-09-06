@@ -1,0 +1,15 @@
+{
+  "contest_id": 360,
+  "problem_index": "B",
+  "name": "Levko and Array",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/360/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 3265
+}

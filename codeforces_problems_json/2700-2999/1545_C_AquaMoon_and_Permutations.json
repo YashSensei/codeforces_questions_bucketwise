@@ -1,0 +1,19 @@
+{
+  "contest_id": 1545,
+  "problem_index": "C",
+  "name": "AquaMoon and Permutations",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "2-sat",
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "graph matchings",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1545/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 675
+}

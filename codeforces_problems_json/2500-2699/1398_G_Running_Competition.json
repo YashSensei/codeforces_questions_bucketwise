@@ -1,0 +1,16 @@
+{
+  "contest_id": 1398,
+  "problem_index": "G",
+  "name": "Running Competition",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1398/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1205
+}

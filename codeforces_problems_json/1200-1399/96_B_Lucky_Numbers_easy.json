@@ -1,0 +1,16 @@
+{
+  "contest_id": 96,
+  "problem_index": "B",
+  "name": "Lucky Numbers (easy)",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/96/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 17433
+}

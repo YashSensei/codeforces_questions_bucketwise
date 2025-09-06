@@ -1,0 +1,15 @@
+{
+  "contest_id": 353,
+  "problem_index": "D",
+  "name": "Queue",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/353/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 3037
+}

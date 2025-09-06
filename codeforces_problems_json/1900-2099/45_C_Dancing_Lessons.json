@@ -1,0 +1,13 @@
+{
+  "contest_id": 45,
+  "problem_index": "C",
+  "name": "Dancing Lessons",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/45/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1033
+}

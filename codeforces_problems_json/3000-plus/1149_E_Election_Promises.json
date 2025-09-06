@@ -1,0 +1,15 @@
+{
+  "contest_id": 1149,
+  "problem_index": "E",
+  "name": "Election Promises",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "games",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1149/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 612
+}

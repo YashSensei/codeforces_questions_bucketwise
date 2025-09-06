@@ -1,0 +1,14 @@
+{
+  "contest_id": 1070,
+  "problem_index": "H",
+  "name": "BerOS File Suggestion",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1070/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3794
+}

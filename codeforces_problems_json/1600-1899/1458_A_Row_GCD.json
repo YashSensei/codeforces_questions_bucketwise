@@ -1,0 +1,15 @@
+{
+  "contest_id": 1458,
+  "problem_index": "A",
+  "name": "Row GCD",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1458/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 22217
+}

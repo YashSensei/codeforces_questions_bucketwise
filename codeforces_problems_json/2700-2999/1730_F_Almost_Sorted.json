@@ -1,0 +1,16 @@
+{
+  "contest_id": 1730,
+  "problem_index": "F",
+  "name": "Almost Sorted",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1730/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 639
+}

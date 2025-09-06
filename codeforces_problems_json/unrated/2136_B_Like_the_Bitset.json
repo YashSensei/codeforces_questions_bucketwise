@@ -1,0 +1,16 @@
+{
+  "contest_id": 2136,
+  "problem_index": "B",
+  "name": "Like the Bitset",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2136/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 16520
+}

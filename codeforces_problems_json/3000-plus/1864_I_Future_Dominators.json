@@ -1,0 +1,15 @@
+{
+  "contest_id": 1864,
+  "problem_index": "I",
+  "name": "Future Dominators",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1864/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4250.0,
+  "solved_count": 100
+}

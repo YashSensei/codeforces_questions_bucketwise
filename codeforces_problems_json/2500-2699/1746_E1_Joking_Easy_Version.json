@@ -1,0 +1,17 @@
+{
+  "contest_id": 1746,
+  "problem_index": "E1",
+  "name": "Joking (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "interactive",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1746/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1545
+}

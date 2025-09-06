@@ -1,0 +1,17 @@
+{
+  "contest_id": 1988,
+  "problem_index": "A",
+  "name": "Split the Multiset",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1988/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 25820
+}

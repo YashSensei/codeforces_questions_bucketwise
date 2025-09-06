@@ -1,0 +1,15 @@
+{
+  "contest_id": 706,
+  "problem_index": "E",
+  "name": "Working routine",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/706/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1231
+}

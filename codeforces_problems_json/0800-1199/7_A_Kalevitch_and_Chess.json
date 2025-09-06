@@ -1,0 +1,14 @@
+{
+  "contest_id": 7,
+  "problem_index": "A",
+  "name": "Kalevitch and Chess",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/7/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 7664
+}

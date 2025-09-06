@@ -1,0 +1,19 @@
+{
+  "contest_id": 2072,
+  "problem_index": "E",
+  "name": "Do You Love Your Hero and His Two-Hit Multi-Target Attacks?",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2072/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 11128
+}

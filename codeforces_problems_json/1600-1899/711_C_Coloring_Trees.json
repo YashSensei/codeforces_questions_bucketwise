@@ -1,0 +1,14 @@
+{
+  "contest_id": 711,
+  "problem_index": "C",
+  "name": "Coloring Trees",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/711/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 8845
+}

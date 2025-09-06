@@ -1,0 +1,20 @@
+{
+  "contest_id": 1654,
+  "problem_index": "F",
+  "name": "Minimal String Xoration",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "hashing",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1654/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 1392
+}

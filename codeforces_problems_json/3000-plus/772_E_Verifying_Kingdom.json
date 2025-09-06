@@ -1,0 +1,17 @@
+{
+  "contest_id": 772,
+  "problem_index": "E",
+  "name": "Verifying Kingdom",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "binary search",
+    "divide and conquer",
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/772/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 187
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1488,
+  "problem_index": "J",
+  "name": "Flower Shop",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "*special",
+    "data structures",
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1488/J",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 40
+}

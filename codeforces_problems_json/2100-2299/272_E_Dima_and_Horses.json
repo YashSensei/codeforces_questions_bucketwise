@@ -1,0 +1,16 @@
+{
+  "contest_id": 272,
+  "problem_index": "E",
+  "name": "Dima and Horses",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/272/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 1260
+}

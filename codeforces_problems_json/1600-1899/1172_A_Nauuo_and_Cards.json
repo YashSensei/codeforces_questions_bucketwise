@@ -1,0 +1,15 @@
+{
+  "contest_id": 1172,
+  "problem_index": "A",
+  "name": "Nauuo and Cards",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1172/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 5098
+}

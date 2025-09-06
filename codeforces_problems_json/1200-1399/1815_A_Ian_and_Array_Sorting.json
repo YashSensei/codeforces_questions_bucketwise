@@ -1,0 +1,15 @@
+{
+  "contest_id": 1815,
+  "problem_index": "A",
+  "name": "Ian and Array Sorting",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1815/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 15299
+}

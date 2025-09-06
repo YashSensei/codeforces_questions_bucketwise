@@ -1,0 +1,17 @@
+{
+  "contest_id": 1494,
+  "problem_index": "C",
+  "name": "1D Sokoban",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1494/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5608
+}

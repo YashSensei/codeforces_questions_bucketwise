@@ -1,0 +1,16 @@
+{
+  "contest_id": 1174,
+  "problem_index": "A",
+  "name": "Ehab Fails to Be Thanos",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1174/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 18436
+}

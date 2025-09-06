@@ -1,0 +1,16 @@
+{
+  "contest_id": 467,
+  "problem_index": "E",
+  "name": "Alex and Complicated Task",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/467/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 824
+}

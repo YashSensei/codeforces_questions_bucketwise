@@ -1,0 +1,15 @@
+{
+  "contest_id": 1829,
+  "problem_index": "C",
+  "name": "Mr. Perfectly Fine",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "bitmasks",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1829/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 31110
+}

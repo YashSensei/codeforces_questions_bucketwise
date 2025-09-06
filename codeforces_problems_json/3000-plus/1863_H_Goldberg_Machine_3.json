@@ -1,0 +1,15 @@
+{
+  "contest_id": 1863,
+  "problem_index": "H",
+  "name": "Goldberg Machine 3",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1863/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 105
+}

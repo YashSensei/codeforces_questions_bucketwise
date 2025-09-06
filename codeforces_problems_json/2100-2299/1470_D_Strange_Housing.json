@@ -1,0 +1,18 @@
+{
+  "contest_id": 1470,
+  "problem_index": "D",
+  "name": "Strange Housing",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graph matchings",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1470/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 3984
+}

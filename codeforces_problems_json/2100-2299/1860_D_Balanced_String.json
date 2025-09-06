@@ -1,0 +1,13 @@
+{
+  "contest_id": 1860,
+  "problem_index": "D",
+  "name": "Balanced String",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1860/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3355
+}

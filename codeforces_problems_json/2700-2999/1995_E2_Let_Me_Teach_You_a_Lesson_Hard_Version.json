@@ -1,0 +1,17 @@
+{
+  "contest_id": 1995,
+  "problem_index": "E2",
+  "name": "Let Me Teach You a Lesson (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "dp",
+    "matrices",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1995/E2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 363
+}

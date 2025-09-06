@@ -1,0 +1,19 @@
+{
+  "contest_id": 1474,
+  "problem_index": "C",
+  "name": "Array Destruction",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1474/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 13671
+}

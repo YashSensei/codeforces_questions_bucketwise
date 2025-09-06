@@ -1,0 +1,16 @@
+{
+  "contest_id": 1438,
+  "problem_index": "D",
+  "name": "Powerful Ksenia",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1438/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 4401
+}

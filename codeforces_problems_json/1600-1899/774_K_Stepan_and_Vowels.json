@@ -1,0 +1,15 @@
+{
+  "contest_id": 774,
+  "problem_index": "K",
+  "name": "Stepan and Vowels",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "*special",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/774/K",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1355
+}

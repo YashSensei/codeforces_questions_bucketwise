@@ -1,0 +1,19 @@
+{
+  "contest_id": 1980,
+  "problem_index": "G",
+  "name": "Yasya and the Mysterious Tree",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1980/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1524
+}

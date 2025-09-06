@@ -1,0 +1,14 @@
+{
+  "contest_id": 1101,
+  "problem_index": "G",
+  "name": "(Zero XOR Subset)-less",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1101/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1971
+}

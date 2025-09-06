@@ -1,0 +1,16 @@
+{
+  "contest_id": 1678,
+  "problem_index": "B2",
+  "name": "Tokitsukaze and Good 01-String (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1678/B2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 7014
+}

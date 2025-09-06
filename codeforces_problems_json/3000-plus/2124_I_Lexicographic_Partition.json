@@ -1,0 +1,16 @@
+{
+  "contest_id": 2124,
+  "problem_index": "I",
+  "name": "Lexicographic Partition",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2124/I",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 4750.0,
+  "solved_count": 142
+}

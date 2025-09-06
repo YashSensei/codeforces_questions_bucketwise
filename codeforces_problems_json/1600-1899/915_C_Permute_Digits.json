@@ -1,0 +1,14 @@
+{
+  "contest_id": 915,
+  "problem_index": "C",
+  "name": "Permute Digits",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/915/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7321
+}

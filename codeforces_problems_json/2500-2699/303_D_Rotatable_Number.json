@@ -1,0 +1,15 @@
+{
+  "contest_id": 303,
+  "problem_index": "D",
+  "name": "Rotatable Number",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/303/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 315
+}

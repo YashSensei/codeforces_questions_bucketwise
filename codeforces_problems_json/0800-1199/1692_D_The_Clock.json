@@ -1,0 +1,14 @@
+{
+  "contest_id": 1692,
+  "problem_index": "D",
+  "name": "The Clock",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1692/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20808
+}

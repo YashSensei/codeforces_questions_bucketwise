@@ -1,0 +1,19 @@
+{
+  "contest_id": 1438,
+  "problem_index": "E",
+  "name": "Yurii Can Do Everything",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "divide and conquer",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1438/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 1432
+}

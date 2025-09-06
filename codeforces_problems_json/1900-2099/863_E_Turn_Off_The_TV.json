@@ -1,0 +1,14 @@
+{
+  "contest_id": 863,
+  "problem_index": "E",
+  "name": "Turn Off The TV",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/863/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3596
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1834,
+  "problem_index": "D",
+  "name": "Survey in Class",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1834/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 5187
+}

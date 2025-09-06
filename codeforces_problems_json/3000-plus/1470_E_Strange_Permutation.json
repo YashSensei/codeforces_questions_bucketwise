@@ -1,0 +1,20 @@
+{
+  "contest_id": 1470,
+  "problem_index": "E",
+  "name": "Strange Permutation",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "graphs",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1470/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 331
+}

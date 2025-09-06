@@ -1,0 +1,14 @@
+{
+  "contest_id": 1077,
+  "problem_index": "F2",
+  "name": "Pictures with Kittens (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1077/F2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3831
+}

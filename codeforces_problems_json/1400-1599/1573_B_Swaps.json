@@ -1,0 +1,16 @@
+{
+  "contest_id": 1573,
+  "problem_index": "B",
+  "name": "Swaps",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1573/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 15198
+}

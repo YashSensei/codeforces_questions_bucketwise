@@ -1,0 +1,17 @@
+{
+  "contest_id": 175,
+  "problem_index": "E",
+  "name": "Power Defence",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "brute force",
+    "dp",
+    "geometry",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/175/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 277
+}

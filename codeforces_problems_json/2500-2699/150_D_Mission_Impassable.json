@@ -1,0 +1,15 @@
+{
+  "contest_id": 150,
+  "problem_index": "D",
+  "name": "Mission Impassable",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/150/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 713
+}

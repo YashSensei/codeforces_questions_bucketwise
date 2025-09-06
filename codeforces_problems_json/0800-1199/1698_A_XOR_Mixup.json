@@ -1,0 +1,15 @@
+{
+  "contest_id": 1698,
+  "problem_index": "A",
+  "name": "XOR Mixup",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "bitmasks",
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1698/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 250.0,
+  "solved_count": 31349
+}

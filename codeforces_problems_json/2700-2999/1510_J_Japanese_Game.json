@@ -1,0 +1,14 @@
+{
+  "contest_id": 1510,
+  "problem_index": "J",
+  "name": "Japanese Game",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1510/J",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 546
+}

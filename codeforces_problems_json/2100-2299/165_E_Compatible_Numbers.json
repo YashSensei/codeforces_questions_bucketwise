@@ -1,0 +1,17 @@
+{
+  "contest_id": 165,
+  "problem_index": "E",
+  "name": "Compatible Numbers",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/165/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 8126
+}

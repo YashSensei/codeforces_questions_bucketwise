@@ -1,0 +1,15 @@
+{
+  "contest_id": 1221,
+  "problem_index": "A",
+  "name": "2048 Game",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1221/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 17584
+}

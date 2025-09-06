@@ -1,0 +1,17 @@
+{
+  "contest_id": 2097,
+  "problem_index": "E",
+  "name": "Clearing the Snowdrift",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2097/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 162
+}

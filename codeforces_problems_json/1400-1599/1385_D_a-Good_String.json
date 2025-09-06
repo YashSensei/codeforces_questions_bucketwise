@@ -1,0 +1,17 @@
+{
+  "contest_id": 1385,
+  "problem_index": "D",
+  "name": "a-Good String",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "divide and conquer",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1385/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20821
+}

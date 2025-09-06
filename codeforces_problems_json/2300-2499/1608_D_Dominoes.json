@@ -1,0 +1,18 @@
+{
+  "contest_id": 1608,
+  "problem_index": "D",
+  "name": "Dominoes",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "combinatorics",
+    "fft",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1608/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 1491
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 613,
+  "problem_index": "D",
+  "name": "Kingdom and its Cities",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "graphs",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/613/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 3543
+}

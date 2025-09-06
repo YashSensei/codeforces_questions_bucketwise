@@ -1,0 +1,16 @@
+{
+  "contest_id": 825,
+  "problem_index": "F",
+  "name": "String Compression",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dp",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/825/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1805
+}

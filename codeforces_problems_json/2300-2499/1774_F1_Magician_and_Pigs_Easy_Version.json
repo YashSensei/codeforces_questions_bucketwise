@@ -1,0 +1,16 @@
+{
+  "contest_id": 1774,
+  "problem_index": "F1",
+  "name": "Magician and Pigs (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1774/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 1160
+}

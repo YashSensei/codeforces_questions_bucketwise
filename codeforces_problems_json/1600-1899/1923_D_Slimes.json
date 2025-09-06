@@ -1,0 +1,17 @@
+{
+  "contest_id": 1923,
+  "problem_index": "D",
+  "name": "Slimes",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1923/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7823
+}

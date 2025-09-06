@@ -1,0 +1,15 @@
+{
+  "contest_id": 1488,
+  "problem_index": "E",
+  "name": "Palindromic Doubles",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "*special",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1488/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 223
+}

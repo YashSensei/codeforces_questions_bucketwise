@@ -1,0 +1,18 @@
+{
+  "contest_id": 2001,
+  "problem_index": "D",
+  "name": "Longest Max Min Subsequence",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2001/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 5860
+}

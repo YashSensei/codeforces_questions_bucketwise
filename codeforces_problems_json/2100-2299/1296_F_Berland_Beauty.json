@@ -1,0 +1,17 @@
+{
+  "contest_id": 1296,
+  "problem_index": "F",
+  "name": "Berland Beauty",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1296/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3012
+}

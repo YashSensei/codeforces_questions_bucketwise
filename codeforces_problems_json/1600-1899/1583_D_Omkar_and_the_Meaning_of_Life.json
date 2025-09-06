@@ -1,0 +1,16 @@
+{
+  "contest_id": 1583,
+  "problem_index": "D",
+  "name": "Omkar and the Meaning of Life",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1583/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 5661
+}

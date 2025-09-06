@@ -1,0 +1,15 @@
+{
+  "contest_id": 1452,
+  "problem_index": "D",
+  "name": "Radio Towers",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1452/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8453
+}

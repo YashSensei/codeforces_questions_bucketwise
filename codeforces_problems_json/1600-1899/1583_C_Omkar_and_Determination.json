@@ -1,0 +1,15 @@
+{
+  "contest_id": 1583,
+  "problem_index": "C",
+  "name": "Omkar and Determination",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1583/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 7166
+}

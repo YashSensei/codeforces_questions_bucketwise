@@ -1,0 +1,20 @@
+{
+  "contest_id": 2093,
+  "problem_index": "G",
+  "name": "Shorten the Array",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "strings",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2093/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 3166
+}

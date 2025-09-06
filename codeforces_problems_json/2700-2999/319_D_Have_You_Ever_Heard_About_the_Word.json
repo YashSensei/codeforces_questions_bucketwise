@@ -1,0 +1,17 @@
+{
+  "contest_id": 319,
+  "problem_index": "D",
+  "name": "Have You Ever Heard About the Word?",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "greedy",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/319/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 695
+}

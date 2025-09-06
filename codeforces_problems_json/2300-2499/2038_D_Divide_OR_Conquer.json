@@ -1,0 +1,17 @@
+{
+  "contest_id": 2038,
+  "problem_index": "D",
+  "name": "Divide OR Conquer",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2038/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 738
+}

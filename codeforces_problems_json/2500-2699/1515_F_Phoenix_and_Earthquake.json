@@ -1,0 +1,19 @@
+{
+  "contest_id": 1515,
+  "problem_index": "F",
+  "name": "Phoenix and Earthquake",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1515/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 1966
+}

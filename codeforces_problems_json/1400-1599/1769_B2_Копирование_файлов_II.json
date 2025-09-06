@@ -1,0 +1,16 @@
+{
+  "contest_id": 1769,
+  "problem_index": "B2",
+  "name": "Копирование файлов II",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1769/B2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 914
+}

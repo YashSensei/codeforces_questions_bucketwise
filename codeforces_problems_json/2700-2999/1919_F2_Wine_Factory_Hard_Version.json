@@ -1,0 +1,18 @@
+{
+  "contest_id": 1919,
+  "problem_index": "F2",
+  "name": "Wine Factory (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "dp",
+    "flows",
+    "greedy",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1919/F2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 950
+}

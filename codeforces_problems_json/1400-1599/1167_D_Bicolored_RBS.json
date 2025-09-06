@@ -1,0 +1,14 @@
+{
+  "contest_id": 1167,
+  "problem_index": "D",
+  "name": "Bicolored RBS",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1167/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7232
+}

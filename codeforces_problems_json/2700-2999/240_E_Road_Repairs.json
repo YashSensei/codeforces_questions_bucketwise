@@ -1,0 +1,15 @@
+{
+  "contest_id": 240,
+  "problem_index": "E",
+  "name": "Road Repairs",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/240/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 370
+}

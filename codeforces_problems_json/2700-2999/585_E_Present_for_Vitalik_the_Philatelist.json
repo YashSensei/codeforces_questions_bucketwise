@@ -1,0 +1,16 @@
+{
+  "contest_id": 585,
+  "problem_index": "E",
+  "name": "Present for Vitalik the Philatelist ",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/585/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 1161
+}

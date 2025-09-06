@@ -1,0 +1,15 @@
+{
+  "contest_id": 1700,
+  "problem_index": "E",
+  "name": "Serega the Pirate",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1700/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 921
+}

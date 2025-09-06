@@ -1,0 +1,14 @@
+{
+  "contest_id": 378,
+  "problem_index": "A",
+  "name": "Playing with Dice",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/378/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 25129
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1762,
+  "problem_index": "F",
+  "name": "Good Pairs ",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1762/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 789
+}

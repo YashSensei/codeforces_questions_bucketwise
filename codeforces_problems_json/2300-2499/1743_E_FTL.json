@@ -1,0 +1,14 @@
+{
+  "contest_id": 1743,
+  "problem_index": "E",
+  "name": "FTL",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1743/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1761
+}

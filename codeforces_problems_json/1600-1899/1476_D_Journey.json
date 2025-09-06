@@ -1,0 +1,16 @@
+{
+  "contest_id": 1476,
+  "problem_index": "D",
+  "name": "Journey",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1476/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9021
+}

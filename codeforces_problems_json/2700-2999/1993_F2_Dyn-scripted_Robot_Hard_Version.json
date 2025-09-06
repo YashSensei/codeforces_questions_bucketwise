@@ -1,0 +1,16 @@
+{
+  "contest_id": 1993,
+  "problem_index": "F2",
+  "name": "Dyn-scripted Robot (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "chinese remainder theorem",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1993/F2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 500
+}

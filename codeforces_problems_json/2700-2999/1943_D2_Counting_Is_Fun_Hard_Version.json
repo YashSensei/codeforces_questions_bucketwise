@@ -1,0 +1,15 @@
+{
+  "contest_id": 1943,
+  "problem_index": "D2",
+  "name": "Counting Is Fun (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1943/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 983
+}

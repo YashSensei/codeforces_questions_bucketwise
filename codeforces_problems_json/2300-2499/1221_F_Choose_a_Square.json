@@ -1,0 +1,15 @@
+{
+  "contest_id": 1221,
+  "problem_index": "F",
+  "name": "Choose a Square",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1221/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1176
+}

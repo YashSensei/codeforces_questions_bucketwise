@@ -1,0 +1,18 @@
+{
+  "contest_id": 865,
+  "problem_index": "F",
+  "name": "Egg Roulette",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "divide and conquer",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/865/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 80
+}

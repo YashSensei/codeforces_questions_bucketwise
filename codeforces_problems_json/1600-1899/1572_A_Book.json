@@ -1,0 +1,20 @@
+{
+  "contest_id": 1572,
+  "problem_index": "A",
+  "name": "Book",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "graphs",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1572/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 9896
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1969,
+  "problem_index": "D",
+  "name": "Shop Game",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1969/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5295
+}

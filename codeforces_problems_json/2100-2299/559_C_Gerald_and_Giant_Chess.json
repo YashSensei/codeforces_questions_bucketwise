@@ -1,0 +1,17 @@
+{
+  "contest_id": 559,
+  "problem_index": "C",
+  "name": "Gerald and Giant Chess",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/559/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 7327
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1945,
+  "problem_index": "G",
+  "name": "Cook and Porridge",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1945/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 845
+}

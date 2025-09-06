@@ -1,0 +1,21 @@
+{
+  "contest_id": 2028,
+  "problem_index": "E",
+  "name": "Alice's Adventures in the Rabbit Hole",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "games",
+    "greedy",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2028/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 1716
+}

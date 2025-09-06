@@ -1,0 +1,18 @@
+{
+  "contest_id": 1059,
+  "problem_index": "E",
+  "name": "Split the Tree",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1059/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1546
+}

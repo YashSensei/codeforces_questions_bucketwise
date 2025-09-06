@@ -1,0 +1,15 @@
+{
+  "contest_id": 556,
+  "problem_index": "B",
+  "name": "Case of Fake Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/556/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 250.0,
+  "solved_count": 8044
+}

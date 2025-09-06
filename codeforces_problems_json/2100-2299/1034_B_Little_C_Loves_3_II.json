@@ -1,0 +1,17 @@
+{
+  "contest_id": 1034,
+  "problem_index": "B",
+  "name": "Little C Loves 3 II",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "flows",
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1034/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 2215
+}

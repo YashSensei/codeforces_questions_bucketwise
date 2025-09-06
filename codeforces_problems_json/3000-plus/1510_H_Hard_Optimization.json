@@ -1,0 +1,13 @@
+{
+  "contest_id": 1510,
+  "problem_index": "H",
+  "name": "Hard Optimization",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1510/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 133
+}

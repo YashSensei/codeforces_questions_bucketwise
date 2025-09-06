@@ -1,0 +1,15 @@
+{
+  "contest_id": 1986,
+  "problem_index": "F",
+  "name": "Non-academic Problem",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1986/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 5704
+}

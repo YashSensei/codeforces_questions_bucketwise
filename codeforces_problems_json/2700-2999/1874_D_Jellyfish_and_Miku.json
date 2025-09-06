@@ -1,0 +1,17 @@
+{
+  "contest_id": 1874,
+  "problem_index": "D",
+  "name": "Jellyfish and Miku",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "divide and conquer",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1874/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 843
+}

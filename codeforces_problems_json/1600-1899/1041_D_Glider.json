@@ -1,0 +1,16 @@
+{
+  "contest_id": 1041,
+  "problem_index": "D",
+  "name": "Glider",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1041/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 6218
+}

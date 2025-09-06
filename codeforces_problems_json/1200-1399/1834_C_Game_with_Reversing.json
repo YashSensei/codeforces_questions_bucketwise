@@ -1,0 +1,17 @@
+{
+  "contest_id": 1834,
+  "problem_index": "C",
+  "name": "Game with Reversing",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "games",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1834/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 14419
+}

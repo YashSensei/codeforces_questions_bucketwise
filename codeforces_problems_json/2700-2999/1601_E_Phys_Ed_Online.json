@@ -1,0 +1,16 @@
+{
+  "contest_id": 1601,
+  "problem_index": "E",
+  "name": "Phys Ed Online",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1601/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 536
+}

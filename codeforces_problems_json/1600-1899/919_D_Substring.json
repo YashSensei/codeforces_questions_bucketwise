@@ -1,0 +1,16 @@
+{
+  "contest_id": 919,
+  "problem_index": "D",
+  "name": "Substring",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/919/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 11249
+}

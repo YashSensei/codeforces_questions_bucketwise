@@ -1,0 +1,15 @@
+{
+  "contest_id": 1626,
+  "problem_index": "E",
+  "name": "Black and White Tree",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dfs and similar",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1626/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1745
+}

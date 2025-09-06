@@ -1,0 +1,15 @@
+{
+  "contest_id": 527,
+  "problem_index": "A",
+  "name": "Playing with Paper",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/527/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 15206
+}

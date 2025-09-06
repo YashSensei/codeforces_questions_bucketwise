@@ -1,0 +1,16 @@
+{
+  "contest_id": 1701,
+  "problem_index": "C",
+  "name": "Schedule Management",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1701/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20586
+}

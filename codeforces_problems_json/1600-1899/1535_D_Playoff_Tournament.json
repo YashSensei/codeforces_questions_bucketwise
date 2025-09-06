@@ -1,0 +1,17 @@
+{
+  "contest_id": 1535,
+  "problem_index": "D",
+  "name": "Playoff Tournament",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1535/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8164
+}

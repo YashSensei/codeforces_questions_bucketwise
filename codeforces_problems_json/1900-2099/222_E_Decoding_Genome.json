@@ -1,0 +1,15 @@
+{
+  "contest_id": 222,
+  "problem_index": "E",
+  "name": "Decoding Genome",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dp",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/222/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 3290
+}

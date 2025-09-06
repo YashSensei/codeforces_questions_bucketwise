@@ -1,0 +1,16 @@
+{
+  "contest_id": 1862,
+  "problem_index": "F",
+  "name": "Magic Will Save the World",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1862/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7087
+}

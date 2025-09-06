@@ -1,0 +1,16 @@
+{
+  "contest_id": 1860,
+  "problem_index": "C",
+  "name": "Game on Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "data structures",
+    "dp",
+    "games",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1860/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14833
+}

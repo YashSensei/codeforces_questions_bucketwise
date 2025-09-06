@@ -1,0 +1,14 @@
+{
+  "contest_id": 845,
+  "problem_index": "F",
+  "name": "Guards In The Storehouse",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/845/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 525
+}

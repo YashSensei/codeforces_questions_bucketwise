@@ -1,0 +1,18 @@
+{
+  "contest_id": 920,
+  "problem_index": "G",
+  "name": "List Of Integers",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/920/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1859
+}

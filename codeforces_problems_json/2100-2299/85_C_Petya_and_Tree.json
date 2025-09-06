@@ -1,0 +1,18 @@
+{
+  "contest_id": 85,
+  "problem_index": "C",
+  "name": "Petya and Tree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "probabilities",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/85/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 582
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1305,
+  "problem_index": "C",
+  "name": "Kuroni and Impossible Calculation",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1305/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 16832
+}

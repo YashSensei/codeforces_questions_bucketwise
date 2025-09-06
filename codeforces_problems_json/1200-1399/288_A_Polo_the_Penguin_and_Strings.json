@@ -1,0 +1,14 @@
+{
+  "contest_id": 288,
+  "problem_index": "A",
+  "name": "Polo the Penguin and Strings",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/288/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 6615
+}

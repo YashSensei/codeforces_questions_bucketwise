@@ -1,0 +1,14 @@
+{
+  "contest_id": 245,
+  "problem_index": "B",
+  "name": "Internet Address",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/245/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 5383
+}

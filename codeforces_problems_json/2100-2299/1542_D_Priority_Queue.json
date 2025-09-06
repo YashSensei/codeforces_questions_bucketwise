@@ -1,0 +1,18 @@
+{
+  "contest_id": 1542,
+  "problem_index": "D",
+  "name": "Priority Queue",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1542/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 2769
+}

@@ -1,0 +1,20 @@
+{
+  "contest_id": 1771,
+  "problem_index": "F",
+  "name": "Hossam and Range Minimum Query",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "hashing",
+    "probabilities",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1771/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 1378
+}

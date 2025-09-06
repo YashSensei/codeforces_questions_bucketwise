@@ -1,0 +1,14 @@
+{
+  "contest_id": 1970,
+  "problem_index": "A1",
+  "name": "Balanced Shuffle (Easy)",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1970/A1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6394
+}

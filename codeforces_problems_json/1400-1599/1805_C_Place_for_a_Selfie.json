@@ -1,0 +1,17 @@
+{
+  "contest_id": 1805,
+  "problem_index": "C",
+  "name": "Place for a Selfie",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1805/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 13597
+}

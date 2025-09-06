@@ -1,0 +1,15 @@
+{
+  "contest_id": 471,
+  "problem_index": "B",
+  "name": "MUH and Important Things",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/471/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 6088
+}

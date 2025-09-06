@@ -1,0 +1,17 @@
+{
+  "contest_id": 1996,
+  "problem_index": "G",
+  "name": "Penacony",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "data structures",
+    "graphs",
+    "greedy",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1996/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 2045
+}

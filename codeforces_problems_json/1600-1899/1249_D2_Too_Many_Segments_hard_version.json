@@ -1,0 +1,15 @@
+{
+  "contest_id": 1249,
+  "problem_index": "D2",
+  "name": "Too Many Segments (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1249/D2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5592
+}

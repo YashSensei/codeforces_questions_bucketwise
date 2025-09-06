@@ -1,0 +1,17 @@
+{
+  "contest_id": 1592,
+  "problem_index": "F2",
+  "name": "Alice and Recoloring 2",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "constructive algorithms",
+    "flows",
+    "graph matchings",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1592/F2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 905
+}

@@ -1,0 +1,13 @@
+{
+  "contest_id": 856,
+  "problem_index": "F",
+  "name": "To Play or not to Play",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/856/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 112
+}

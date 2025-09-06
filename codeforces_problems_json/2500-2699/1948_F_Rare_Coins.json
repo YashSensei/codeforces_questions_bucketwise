@@ -1,0 +1,15 @@
+{
+  "contest_id": 1948,
+  "problem_index": "F",
+  "name": "Rare Coins",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1948/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1495
+}

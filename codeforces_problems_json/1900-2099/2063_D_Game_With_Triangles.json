@@ -1,0 +1,22 @@
+{
+  "contest_id": 2063,
+  "problem_index": "D",
+  "name": "Game With Triangles",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math",
+    "ternary search",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2063/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 4557
+}

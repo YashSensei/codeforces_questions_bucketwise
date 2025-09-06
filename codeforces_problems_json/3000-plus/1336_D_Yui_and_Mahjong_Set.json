@@ -1,0 +1,15 @@
+{
+  "contest_id": 1336,
+  "problem_index": "D",
+  "name": "Yui and Mahjong Set",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "constructive algorithms",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1336/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 507
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1165,
+  "problem_index": "E",
+  "name": "Two Arrays and Sum of Functions",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1165/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 9298
+}

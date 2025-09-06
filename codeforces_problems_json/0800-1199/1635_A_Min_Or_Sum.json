@@ -1,0 +1,15 @@
+{
+  "contest_id": 1635,
+  "problem_index": "A",
+  "name": "Min Or Sum",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "bitmasks",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1635/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 24756
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1032,
+  "problem_index": "F",
+  "name": "Vasya and Maximum Matching",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1032/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 1050
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1765,
+  "problem_index": "L",
+  "name": "Project Manager",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1765/L",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 640
+}

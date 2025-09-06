@@ -1,0 +1,15 @@
+{
+  "contest_id": 720,
+  "problem_index": "D",
+  "name": "Slalom",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "data structures",
+    "dp",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/720/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 320
+}

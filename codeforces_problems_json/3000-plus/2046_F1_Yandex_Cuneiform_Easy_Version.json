@@ -1,0 +1,16 @@
+{
+  "contest_id": 2046,
+  "problem_index": "F1",
+  "name": "Yandex Cuneiform (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2046/F1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 95
+}

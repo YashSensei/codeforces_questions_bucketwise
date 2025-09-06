@@ -1,0 +1,13 @@
+{
+  "contest_id": 1002,
+  "problem_index": "A3",
+  "name": "Generate superposition of two basis states",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1002/A3",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 483
+}

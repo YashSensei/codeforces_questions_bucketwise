@@ -1,0 +1,15 @@
+{
+  "contest_id": 2004,
+  "problem_index": "G",
+  "name": "Substring Compression",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "dp",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2004/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 405
+}

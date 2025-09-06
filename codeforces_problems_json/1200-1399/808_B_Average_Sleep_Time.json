@@ -1,0 +1,15 @@
+{
+  "contest_id": 808,
+  "problem_index": "B",
+  "name": "Average Sleep Time",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/808/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 11070
+}

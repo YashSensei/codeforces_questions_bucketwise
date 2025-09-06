@@ -1,0 +1,17 @@
+{
+  "contest_id": 1812,
+  "problem_index": "B",
+  "name": "Was it Rated?",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "*special",
+    "*special",
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1812/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5950
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1533,
+  "problem_index": "F",
+  "name": "Binary String Partition",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "binary search",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1533/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 222
+}

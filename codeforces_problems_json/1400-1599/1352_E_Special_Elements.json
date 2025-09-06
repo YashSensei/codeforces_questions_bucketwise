@@ -1,0 +1,15 @@
+{
+  "contest_id": 1352,
+  "problem_index": "E",
+  "name": "Special Elements",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1352/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 22547
+}

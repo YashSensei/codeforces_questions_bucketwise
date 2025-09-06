@@ -1,0 +1,19 @@
+{
+  "contest_id": 2006,
+  "problem_index": "A",
+  "name": "Iris and Game on the Tree",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "games",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2006/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 8293
+}

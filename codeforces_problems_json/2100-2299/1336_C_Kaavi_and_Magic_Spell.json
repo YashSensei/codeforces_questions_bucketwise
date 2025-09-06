@@ -1,0 +1,15 @@
+{
+  "contest_id": 1336,
+  "problem_index": "C",
+  "name": "Kaavi and Magic Spell",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1336/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 3889
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1411,
+  "problem_index": "F",
+  "name": "The Thorny Path",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1411/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 409
+}

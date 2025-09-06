@@ -1,0 +1,16 @@
+{
+  "contest_id": 1612,
+  "problem_index": "G",
+  "name": "Max Sum Array",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1612/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 923
+}

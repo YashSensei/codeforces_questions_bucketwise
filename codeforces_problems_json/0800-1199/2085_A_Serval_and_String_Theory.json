@@ -1,0 +1,15 @@
+{
+  "contest_id": 2085,
+  "problem_index": "A",
+  "name": "Serval and String Theory",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2085/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 21580
+}

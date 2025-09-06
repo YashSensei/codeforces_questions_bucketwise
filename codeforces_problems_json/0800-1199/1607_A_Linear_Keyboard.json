@@ -1,0 +1,14 @@
+{
+  "contest_id": 1607,
+  "problem_index": "A",
+  "name": "Linear Keyboard",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1607/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 39475
+}

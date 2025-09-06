@@ -1,0 +1,16 @@
+{
+  "contest_id": 526,
+  "problem_index": "B",
+  "name": "Om Nom and Dark Park",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/526/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 4587
+}

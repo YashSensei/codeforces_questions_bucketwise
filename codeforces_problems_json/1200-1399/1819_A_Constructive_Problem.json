@@ -1,0 +1,15 @@
+{
+  "contest_id": 1819,
+  "problem_index": "A",
+  "name": "Constructive Problem",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1819/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 13946
+}

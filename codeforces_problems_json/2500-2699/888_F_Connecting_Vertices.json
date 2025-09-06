@@ -1,0 +1,14 @@
+{
+  "contest_id": 888,
+  "problem_index": "F",
+  "name": "Connecting Vertices",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/888/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 966
+}

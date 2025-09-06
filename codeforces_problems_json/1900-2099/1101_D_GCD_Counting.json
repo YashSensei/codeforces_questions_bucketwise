@@ -1,0 +1,17 @@
+{
+  "contest_id": 1101,
+  "problem_index": "D",
+  "name": "GCD Counting",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1101/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5097
+}

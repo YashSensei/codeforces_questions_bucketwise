@@ -1,0 +1,15 @@
+{
+  "contest_id": 1585,
+  "problem_index": "D",
+  "name": "Yet Another Sorting Problem",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1585/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 4174
+}

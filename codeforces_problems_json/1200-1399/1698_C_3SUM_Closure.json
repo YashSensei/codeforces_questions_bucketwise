@@ -1,0 +1,15 @@
+{
+  "contest_id": 1698,
+  "problem_index": "C",
+  "name": "3SUM Closure",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1698/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 19384
+}

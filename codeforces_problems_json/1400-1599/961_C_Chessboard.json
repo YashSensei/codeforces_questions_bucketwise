@@ -1,0 +1,15 @@
+{
+  "contest_id": 961,
+  "problem_index": "C",
+  "name": "Chessboard",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/961/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5461
+}

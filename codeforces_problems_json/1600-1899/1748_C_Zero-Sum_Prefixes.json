@@ -1,0 +1,18 @@
+{
+  "contest_id": 1748,
+  "problem_index": "C",
+  "name": "Zero-Sum Prefixes",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1748/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 12232
+}

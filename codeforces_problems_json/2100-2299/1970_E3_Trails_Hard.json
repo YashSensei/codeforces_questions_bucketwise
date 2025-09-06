@@ -1,0 +1,14 @@
+{
+  "contest_id": 1970,
+  "problem_index": "E3",
+  "name": "Trails (Hard)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dp",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1970/E3",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 996
+}

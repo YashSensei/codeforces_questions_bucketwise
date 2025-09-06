@@ -1,0 +1,15 @@
+{
+  "contest_id": 819,
+  "problem_index": "A",
+  "name": "Mister B and Boring Game",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "games",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/819/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 510
+}

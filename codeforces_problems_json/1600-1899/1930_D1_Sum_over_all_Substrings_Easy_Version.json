@@ -1,0 +1,17 @@
+{
+  "contest_id": 1930,
+  "problem_index": "D1",
+  "name": "Sum over all Substrings (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1930/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 4558
+}

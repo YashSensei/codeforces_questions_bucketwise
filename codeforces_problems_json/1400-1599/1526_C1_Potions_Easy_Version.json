@@ -1,0 +1,17 @@
+{
+  "contest_id": 1526,
+  "problem_index": "C1",
+  "name": "Potions (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1526/C1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 25280
+}

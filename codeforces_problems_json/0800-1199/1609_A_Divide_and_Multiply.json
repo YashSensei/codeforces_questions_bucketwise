@@ -1,0 +1,17 @@
+{
+  "contest_id": 1609,
+  "problem_index": "A",
+  "name": "Divide and Multiply",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1609/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 18152
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1251,
+  "problem_index": "C",
+  "name": "Minimize The Integer",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1251/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 13571
+}

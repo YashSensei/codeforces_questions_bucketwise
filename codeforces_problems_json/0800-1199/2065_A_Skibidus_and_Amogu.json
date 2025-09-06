@@ -1,0 +1,17 @@
+{
+  "contest_id": 2065,
+  "problem_index": "A",
+  "name": "Skibidus and Amog'u",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2065/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 49598
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1842,
+  "problem_index": "D",
+  "name": "Tenzing and His Animal Friends ",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1842/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 4454
+}

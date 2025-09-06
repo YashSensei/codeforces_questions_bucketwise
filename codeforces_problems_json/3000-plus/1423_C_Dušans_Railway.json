@@ -1,0 +1,15 @@
+{
+  "contest_id": 1423,
+  "problem_index": "C",
+  "name": "Dušan's Railway",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "divide and conquer",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1423/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 209
+}

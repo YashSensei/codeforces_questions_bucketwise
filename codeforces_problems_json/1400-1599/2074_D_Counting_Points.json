@@ -1,0 +1,17 @@
+{
+  "contest_id": 2074,
+  "problem_index": "D",
+  "name": "Counting Points",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "data structures",
+    "geometry",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2074/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 10960
+}

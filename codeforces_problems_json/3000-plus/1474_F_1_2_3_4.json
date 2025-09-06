@@ -1,0 +1,16 @@
+{
+  "contest_id": 1474,
+  "problem_index": "F",
+  "name": "1 2 3 4 ...",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dp",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1474/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 292
+}

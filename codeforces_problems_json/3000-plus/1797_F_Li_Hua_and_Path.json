@@ -1,0 +1,18 @@
+{
+  "contest_id": 1797,
+  "problem_index": "F",
+  "name": "Li Hua and Path",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dsu",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1797/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 400
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1526,
+  "problem_index": "D",
+  "name": "Kill Anton",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1526/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 2615
+}

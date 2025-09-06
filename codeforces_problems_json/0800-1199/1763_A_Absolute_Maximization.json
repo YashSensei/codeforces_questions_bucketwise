@@ -1,0 +1,17 @@
+{
+  "contest_id": 1763,
+  "problem_index": "A",
+  "name": "Absolute Maximization",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1763/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 16529
+}

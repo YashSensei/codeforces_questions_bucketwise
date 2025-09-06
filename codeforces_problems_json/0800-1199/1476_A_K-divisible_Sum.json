@@ -1,0 +1,16 @@
+{
+  "contest_id": 1476,
+  "problem_index": "A",
+  "name": "K-divisible Sum",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1476/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 42177
+}

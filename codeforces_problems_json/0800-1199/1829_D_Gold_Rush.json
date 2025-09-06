@@ -1,0 +1,16 @@
+{
+  "contest_id": 1829,
+  "problem_index": "D",
+  "name": "Gold Rush",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1829/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 30554
+}

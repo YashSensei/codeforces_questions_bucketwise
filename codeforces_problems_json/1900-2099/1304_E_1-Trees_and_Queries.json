@@ -1,0 +1,17 @@
+{
+  "contest_id": 1304,
+  "problem_index": "E",
+  "name": "1-Trees and Queries",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1304/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 5585
+}

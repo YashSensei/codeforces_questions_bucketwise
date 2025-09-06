@@ -1,0 +1,17 @@
+{
+  "contest_id": 1801,
+  "problem_index": "F",
+  "name": "Another n-dimensional chocolate bar",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "dp",
+    "math",
+    "meet-in-the-middle",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1801/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 692
+}

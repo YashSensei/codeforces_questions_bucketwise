@@ -1,0 +1,15 @@
+{
+  "contest_id": 959,
+  "problem_index": "C",
+  "name": "Mahmoud and Ehab and the wrong algorithm",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/959/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 6067
+}

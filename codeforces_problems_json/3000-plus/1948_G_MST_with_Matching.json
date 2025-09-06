@@ -1,0 +1,17 @@
+{
+  "contest_id": 1948,
+  "problem_index": "G",
+  "name": "MST with Matching",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dsu",
+    "graph matchings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1948/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 811
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1108,
+  "problem_index": "B",
+  "name": "Divisors of Two Integers",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1108/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 24413
+}

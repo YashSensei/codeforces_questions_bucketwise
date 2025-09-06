@@ -1,0 +1,16 @@
+{
+  "contest_id": 852,
+  "problem_index": "D",
+  "name": "Exploration plan",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "flows",
+    "graph matchings",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/852/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1131
+}

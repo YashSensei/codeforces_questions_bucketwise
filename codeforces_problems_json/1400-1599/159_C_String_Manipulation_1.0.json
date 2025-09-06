@@ -1,0 +1,18 @@
+{
+  "contest_id": 159,
+  "problem_index": "C",
+  "name": "String Manipulation 1.0",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "binary search",
+    "brute force",
+    "data structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/159/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 3090
+}

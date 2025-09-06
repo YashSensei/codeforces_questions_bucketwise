@@ -1,0 +1,15 @@
+{
+  "contest_id": 1574,
+  "problem_index": "B",
+  "name": "Combinatorics Homework",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "combinatorics",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1574/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 17834
+}

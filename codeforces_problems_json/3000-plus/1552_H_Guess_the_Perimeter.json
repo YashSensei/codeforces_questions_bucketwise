@@ -1,0 +1,16 @@
+{
+  "contest_id": 1552,
+  "problem_index": "H",
+  "name": "Guess the Perimeter",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "binary search",
+    "interactive",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1552/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 440
+}

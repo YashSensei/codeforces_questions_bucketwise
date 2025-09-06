@@ -1,0 +1,16 @@
+{
+  "contest_id": 1285,
+  "problem_index": "F",
+  "name": "Classical?",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1285/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 1266
+}

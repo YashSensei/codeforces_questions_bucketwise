@@ -1,0 +1,16 @@
+{
+  "contest_id": 1320,
+  "problem_index": "C",
+  "name": "World of Darkraft: Battle for Azathoth",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1320/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 3339
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 64,
+  "problem_index": "A",
+  "name": "Factorial",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/64/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 3663
+}

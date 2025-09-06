@@ -1,0 +1,18 @@
+{
+  "contest_id": 401,
+  "problem_index": "D",
+  "name": "Roman and Numbers",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/401/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 4393
+}

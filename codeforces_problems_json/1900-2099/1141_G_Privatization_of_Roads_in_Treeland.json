@@ -1,0 +1,18 @@
+{
+  "contest_id": 1141,
+  "problem_index": "G",
+  "name": "Privatization of Roads in Treeland",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1141/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2437
+}

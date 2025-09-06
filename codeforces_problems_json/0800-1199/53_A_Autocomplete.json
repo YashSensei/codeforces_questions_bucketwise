@@ -1,0 +1,14 @@
+{
+  "contest_id": 53,
+  "problem_index": "A",
+  "name": "Autocomplete",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/53/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 5510
+}

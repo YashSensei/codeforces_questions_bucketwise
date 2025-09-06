@@ -1,0 +1,15 @@
+{
+  "contest_id": 996,
+  "problem_index": "A",
+  "name": "Hit the Lottery",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/996/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 105600
+}

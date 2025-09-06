@@ -1,0 +1,16 @@
+{
+  "contest_id": 815,
+  "problem_index": "A",
+  "name": "Karen and Game",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/815/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 5799
+}

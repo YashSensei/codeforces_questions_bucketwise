@@ -1,0 +1,15 @@
+{
+  "contest_id": 38,
+  "problem_index": "B",
+  "name": "Chess",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/38/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 3776
+}

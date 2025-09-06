@@ -1,0 +1,15 @@
+{
+  "contest_id": 101,
+  "problem_index": "C",
+  "name": "Vectors",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/101/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 728
+}

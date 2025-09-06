@@ -1,0 +1,15 @@
+{
+  "contest_id": 1687,
+  "problem_index": "F",
+  "name": "Koishi's Unconscious Permutation",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1687/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 99
+}

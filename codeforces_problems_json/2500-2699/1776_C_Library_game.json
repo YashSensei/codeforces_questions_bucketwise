@@ -1,0 +1,16 @@
+{
+  "contest_id": 1776,
+  "problem_index": "C",
+  "name": "Library game",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "games",
+    "greedy",
+    "interactive",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1776/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 912
+}

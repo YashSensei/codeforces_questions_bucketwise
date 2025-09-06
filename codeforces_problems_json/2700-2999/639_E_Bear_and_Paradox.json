@@ -1,0 +1,17 @@
+{
+  "contest_id": 639,
+  "problem_index": "E",
+  "name": "Bear and Paradox",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/639/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 596
+}

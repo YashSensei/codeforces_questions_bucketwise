@@ -1,0 +1,19 @@
+{
+  "contest_id": 1383,
+  "problem_index": "B",
+  "name": "GameGame",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1383/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 5284
+}

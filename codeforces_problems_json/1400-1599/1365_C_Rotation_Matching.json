@@ -1,0 +1,17 @@
+{
+  "contest_id": 1365,
+  "problem_index": "C",
+  "name": "Rotation Matching",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1365/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 24175
+}

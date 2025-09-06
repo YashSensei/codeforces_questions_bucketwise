@@ -1,0 +1,20 @@
+{
+  "contest_id": 2042,
+  "problem_index": "E",
+  "name": "Vertex Pairs",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2042/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 469
+}

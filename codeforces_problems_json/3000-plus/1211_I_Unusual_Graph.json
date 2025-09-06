@@ -1,0 +1,14 @@
+{
+  "contest_id": 1211,
+  "problem_index": "I",
+  "name": "Unusual Graph",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "*special",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1211/I",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 47
+}

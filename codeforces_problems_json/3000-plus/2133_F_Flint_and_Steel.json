@@ -1,0 +1,16 @@
+{
+  "contest_id": 2133,
+  "problem_index": "F",
+  "name": "Flint and Steel",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2133/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3250.0,
+  "solved_count": 304
+}

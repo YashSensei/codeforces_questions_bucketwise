@@ -1,0 +1,13 @@
+{
+  "contest_id": 1002,
+  "problem_index": "E2",
+  "name": "Another array reconstruction algorithm",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1002/E2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 208
+}

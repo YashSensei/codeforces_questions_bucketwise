@@ -1,0 +1,17 @@
+{
+  "contest_id": 1990,
+  "problem_index": "A",
+  "name": "Submission Bait",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "games",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1990/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 25647
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1250,
+  "problem_index": "L",
+  "name": "Divide The Students",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1250/L",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4333
+}

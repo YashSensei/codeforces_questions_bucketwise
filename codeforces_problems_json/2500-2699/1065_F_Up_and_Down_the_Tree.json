@@ -1,0 +1,15 @@
+{
+  "contest_id": 1065,
+  "problem_index": "F",
+  "name": "Up and Down the Tree",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1065/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1273
+}

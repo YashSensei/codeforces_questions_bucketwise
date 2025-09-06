@@ -1,0 +1,17 @@
+{
+  "contest_id": 2075,
+  "problem_index": "D",
+  "name": "Equalization",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2075/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 4959
+}

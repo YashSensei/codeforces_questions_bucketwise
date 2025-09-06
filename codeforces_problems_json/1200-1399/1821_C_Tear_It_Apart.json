@@ -1,0 +1,16 @@
+{
+  "contest_id": 1821,
+  "problem_index": "C",
+  "name": "Tear It Apart",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1821/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15561
+}

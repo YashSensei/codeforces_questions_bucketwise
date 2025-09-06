@@ -1,0 +1,18 @@
+{
+  "contest_id": 2049,
+  "problem_index": "F",
+  "name": "MEX OR Mania",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "dsu",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2049/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2750.0,
+  "solved_count": 524
+}

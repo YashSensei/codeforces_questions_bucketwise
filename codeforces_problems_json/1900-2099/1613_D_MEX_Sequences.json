@@ -1,0 +1,14 @@
+{
+  "contest_id": 1613,
+  "problem_index": "D",
+  "name": "MEX Sequences",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1613/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5056
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1372,
+  "problem_index": "D",
+  "name": "Omkar and Circle",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "dp",
+    "games",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1372/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 5581
+}

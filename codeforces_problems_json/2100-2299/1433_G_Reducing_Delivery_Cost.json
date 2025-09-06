@@ -1,0 +1,15 @@
+{
+  "contest_id": 1433,
+  "problem_index": "G",
+  "name": "Reducing Delivery Cost",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1433/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4755
+}

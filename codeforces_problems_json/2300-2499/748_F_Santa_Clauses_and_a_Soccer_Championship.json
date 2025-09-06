@@ -1,0 +1,17 @@
+{
+  "contest_id": 748,
+  "problem_index": "F",
+  "name": "Santa Clauses and a Soccer Championship",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/748/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 689
+}

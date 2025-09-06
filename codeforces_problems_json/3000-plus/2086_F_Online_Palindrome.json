@@ -1,0 +1,15 @@
+{
+  "contest_id": 2086,
+  "problem_index": "F",
+  "name": "Online Palindrome",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2086/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 114
+}

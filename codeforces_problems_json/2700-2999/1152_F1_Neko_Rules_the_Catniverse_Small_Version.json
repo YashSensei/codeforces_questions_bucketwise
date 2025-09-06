@@ -1,0 +1,16 @@
+{
+  "contest_id": 1152,
+  "problem_index": "F1",
+  "name": "Neko Rules the Catniverse (Small Version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1152/F1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 634
+}

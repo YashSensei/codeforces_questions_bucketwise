@@ -1,0 +1,19 @@
+{
+  "contest_id": 1950,
+  "problem_index": "G",
+  "name": "Shuffling Songs",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "hashing",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1950/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5394
+}

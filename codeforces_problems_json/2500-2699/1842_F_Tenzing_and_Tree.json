@@ -1,0 +1,18 @@
+{
+  "contest_id": 1842,
+  "problem_index": "F",
+  "name": "Tenzing and Tree",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dfs and similar",
+    "greedy",
+    "shortest paths",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1842/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1635
+}

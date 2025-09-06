@@ -1,0 +1,15 @@
+{
+  "contest_id": 66,
+  "problem_index": "A",
+  "name": "Petya and Java",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/66/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 6733
+}

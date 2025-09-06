@@ -1,0 +1,16 @@
+{
+  "contest_id": 126,
+  "problem_index": "A",
+  "name": "Hot Bath",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/126/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 1510
+}

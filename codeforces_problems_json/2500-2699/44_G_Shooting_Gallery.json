@@ -1,0 +1,14 @@
+{
+  "contest_id": 44,
+  "problem_index": "G",
+  "name": "Shooting Gallery",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/44/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 480
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1601,
+  "problem_index": "F",
+  "name": "Two Sorts",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1601/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 261
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1177,
+  "problem_index": "B",
+  "name": "Digits Sequence (Hard Edition)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "divide and conquer",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1177/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 2756
+}

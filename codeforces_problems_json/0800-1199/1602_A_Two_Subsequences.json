@@ -1,0 +1,14 @@
+{
+  "contest_id": 1602,
+  "problem_index": "A",
+  "name": "Two Subsequences",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1602/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 19457
+}

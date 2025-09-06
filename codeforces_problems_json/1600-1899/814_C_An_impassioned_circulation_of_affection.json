@@ -1,0 +1,17 @@
+{
+  "contest_id": 814,
+  "problem_index": "C",
+  "name": "An impassioned circulation of affection",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "dp",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/814/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 7285
+}

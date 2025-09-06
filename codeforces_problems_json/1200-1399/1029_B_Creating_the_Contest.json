@@ -1,0 +1,15 @@
+{
+  "contest_id": 1029,
+  "problem_index": "B",
+  "name": "Creating the Contest",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1029/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 17854
+}

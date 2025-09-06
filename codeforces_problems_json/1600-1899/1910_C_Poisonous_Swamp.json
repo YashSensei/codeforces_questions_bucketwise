@@ -1,0 +1,16 @@
+{
+  "contest_id": 1910,
+  "problem_index": "C",
+  "name": "Poisonous Swamp",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "*special",
+    "*special",
+    "implementation",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1910/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 709
+}

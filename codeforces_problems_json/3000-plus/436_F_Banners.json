@@ -1,0 +1,16 @@
+{
+  "contest_id": 436,
+  "problem_index": "F",
+  "name": "Banners",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/436/F",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 420
+}

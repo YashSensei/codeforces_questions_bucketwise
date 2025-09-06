@@ -1,0 +1,14 @@
+{
+  "contest_id": 620,
+  "problem_index": "D",
+  "name": "Professor GukiZ and Two Arrays",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/620/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1871
+}

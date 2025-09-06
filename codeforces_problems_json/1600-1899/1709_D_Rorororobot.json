@@ -1,0 +1,16 @@
+{
+  "contest_id": 1709,
+  "problem_index": "D",
+  "name": "Rorororobot",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1709/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9406
+}

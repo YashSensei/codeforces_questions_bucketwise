@@ -1,0 +1,18 @@
+{
+  "contest_id": 914,
+  "problem_index": "F",
+  "name": "Substrings in a String",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/914/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 1880
+}

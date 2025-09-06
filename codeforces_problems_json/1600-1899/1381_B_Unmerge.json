@@ -1,0 +1,14 @@
+{
+  "contest_id": 1381,
+  "problem_index": "B",
+  "name": "Unmerge",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1381/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 9245
+}

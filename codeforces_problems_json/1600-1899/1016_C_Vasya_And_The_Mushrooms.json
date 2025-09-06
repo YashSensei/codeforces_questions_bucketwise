@@ -1,0 +1,14 @@
+{
+  "contest_id": 1016,
+  "problem_index": "C",
+  "name": "Vasya And The Mushrooms",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1016/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3912
+}

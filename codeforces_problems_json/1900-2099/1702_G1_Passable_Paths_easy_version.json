@@ -1,0 +1,14 @@
+{
+  "contest_id": 1702,
+  "problem_index": "G1",
+  "name": "Passable Paths (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1702/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5985
+}

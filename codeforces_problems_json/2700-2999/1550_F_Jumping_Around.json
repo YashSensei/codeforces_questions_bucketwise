@@ -1,0 +1,19 @@
+{
+  "contest_id": 1550,
+  "problem_index": "F",
+  "name": "Jumping Around",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1550/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 802
+}

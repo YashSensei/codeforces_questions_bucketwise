@@ -1,0 +1,18 @@
+{
+  "contest_id": 1914,
+  "problem_index": "G2",
+  "name": "Light Bulbs (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1914/G2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1636
+}

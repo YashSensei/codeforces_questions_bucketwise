@@ -1,0 +1,13 @@
+{
+  "contest_id": 1385,
+  "problem_index": "C",
+  "name": "Make It Good",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1385/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 28204
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 616,
+  "problem_index": "D",
+  "name": "Longest k-Good Segment",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "data structures",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/616/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 11143
+}

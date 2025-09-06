@@ -1,0 +1,17 @@
+{
+  "contest_id": 1556,
+  "problem_index": "G",
+  "name": "Gates to Another World",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "dsu",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1556/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 378
+}

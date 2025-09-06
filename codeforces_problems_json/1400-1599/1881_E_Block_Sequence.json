@@ -1,0 +1,13 @@
+{
+  "contest_id": 1881,
+  "problem_index": "E",
+  "name": "Block Sequence",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1881/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 19450
+}

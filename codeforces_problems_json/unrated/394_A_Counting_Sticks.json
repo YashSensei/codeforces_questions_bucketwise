@@ -1,0 +1,15 @@
+{
+  "contest_id": 394,
+  "problem_index": "A",
+  "name": "Counting Sticks",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/394/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 2713
+}

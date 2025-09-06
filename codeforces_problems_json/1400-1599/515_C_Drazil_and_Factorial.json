@@ -1,0 +1,16 @@
+{
+  "contest_id": 515,
+  "problem_index": "C",
+  "name": "Drazil and Factorial",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/515/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 27734
+}

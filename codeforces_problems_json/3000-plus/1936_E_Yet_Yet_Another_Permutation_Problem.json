@@ -1,0 +1,16 @@
+{
+  "contest_id": 1936,
+  "problem_index": "E",
+  "name": "Yet Yet Another Permutation Problem",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "divide and conquer",
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1936/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 136
+}

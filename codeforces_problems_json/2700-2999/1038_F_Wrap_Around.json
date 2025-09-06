@@ -1,0 +1,15 @@
+{
+  "contest_id": 1038,
+  "problem_index": "F",
+  "name": "Wrap Around",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1038/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 390
+}

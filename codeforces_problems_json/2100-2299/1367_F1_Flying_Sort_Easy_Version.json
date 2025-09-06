@@ -1,0 +1,15 @@
+{
+  "contest_id": 1367,
+  "problem_index": "F1",
+  "name": "Flying Sort (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1367/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3445
+}

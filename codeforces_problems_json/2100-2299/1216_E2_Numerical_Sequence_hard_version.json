@@ -1,0 +1,14 @@
+{
+  "contest_id": 1216,
+  "problem_index": "E2",
+  "name": "Numerical Sequence (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1216/E2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1571
+}

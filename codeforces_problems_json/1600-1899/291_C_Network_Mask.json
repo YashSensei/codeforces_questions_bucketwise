@@ -1,0 +1,17 @@
+{
+  "contest_id": 291,
+  "problem_index": "C",
+  "name": "Network Mask",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "*special",
+    "bitmasks",
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/291/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 1745
+}

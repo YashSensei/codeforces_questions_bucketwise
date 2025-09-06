@@ -1,0 +1,15 @@
+{
+  "contest_id": 523,
+  "problem_index": "C",
+  "name": "Name Quest",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/523/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 2534
+}

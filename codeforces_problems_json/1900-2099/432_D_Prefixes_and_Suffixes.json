@@ -1,0 +1,17 @@
+{
+  "contest_id": 432,
+  "problem_index": "D",
+  "name": "Prefixes and Suffixes",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "string suffix structures",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/432/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 10750
+}

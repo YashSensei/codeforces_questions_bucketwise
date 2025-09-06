@@ -1,0 +1,17 @@
+{
+  "contest_id": 990,
+  "problem_index": "G",
+  "name": "GCD Counting",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/990/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2090
+}

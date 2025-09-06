@@ -1,0 +1,15 @@
+{
+  "contest_id": 1614,
+  "problem_index": "B",
+  "name": "Divan and a New Project ",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1614/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 24090
+}

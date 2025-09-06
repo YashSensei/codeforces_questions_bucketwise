@@ -1,0 +1,16 @@
+{
+  "contest_id": 1511,
+  "problem_index": "C",
+  "name": "Yet Another Card Deck",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1511/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 28335
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1326,
+  "problem_index": "D1",
+  "name": "Prefix-Suffix Palindrome (Easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1326/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 12638
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1722,
+  "problem_index": "F",
+  "name": "L-shapes",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1722/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7617
+}

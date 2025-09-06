@@ -1,0 +1,15 @@
+{
+  "contest_id": 1029,
+  "problem_index": "E",
+  "name": "Tree with Small Distances",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1029/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3168
+}

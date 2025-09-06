@@ -1,0 +1,15 @@
+{
+  "contest_id": 1899,
+  "problem_index": "D",
+  "name": "Yarik and Musical Notes",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "hashing",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1899/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15028
+}

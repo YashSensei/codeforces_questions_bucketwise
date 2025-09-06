@@ -1,0 +1,16 @@
+{
+  "contest_id": 1900,
+  "problem_index": "C",
+  "name": "Anji's Binary Tree",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1900/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 13640
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1207,
+  "problem_index": "G",
+  "name": "Indie Album",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "hashing",
+    "string suffix structures",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1207/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1155
+}

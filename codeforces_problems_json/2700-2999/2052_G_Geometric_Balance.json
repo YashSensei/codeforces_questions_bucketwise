@@ -1,0 +1,15 @@
+{
+  "contest_id": 2052,
+  "problem_index": "G",
+  "name": "Geometric Balance",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "geometry",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2052/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 171
+}

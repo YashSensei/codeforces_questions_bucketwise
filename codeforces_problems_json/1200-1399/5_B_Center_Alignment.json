@@ -1,0 +1,14 @@
+{
+  "contest_id": 5,
+  "problem_index": "B",
+  "name": "Center Alignment",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/5/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 6363
+}

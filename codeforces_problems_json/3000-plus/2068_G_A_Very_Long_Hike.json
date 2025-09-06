@@ -1,0 +1,13 @@
+{
+  "contest_id": 2068,
+  "problem_index": "G",
+  "name": "A Very Long Hike",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2068/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 42
+}

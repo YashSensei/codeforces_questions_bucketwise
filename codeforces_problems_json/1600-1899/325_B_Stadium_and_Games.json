@@ -1,0 +1,15 @@
+{
+  "contest_id": 325,
+  "problem_index": "B",
+  "name": "Stadium and Games",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/325/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 1620
+}

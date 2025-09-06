@@ -1,0 +1,17 @@
+{
+  "contest_id": 1879,
+  "problem_index": "D",
+  "name": "Sum of XOR Functions",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "divide and conquer",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1879/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9003
+}

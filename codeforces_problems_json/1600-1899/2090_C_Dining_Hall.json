@@ -1,0 +1,17 @@
+{
+  "contest_id": 2090,
+  "problem_index": "C",
+  "name": "Dining Hall",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2090/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 5545
+}

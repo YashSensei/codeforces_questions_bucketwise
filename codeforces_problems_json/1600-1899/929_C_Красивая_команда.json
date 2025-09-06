@@ -1,0 +1,16 @@
+{
+  "contest_id": 929,
+  "problem_index": "C",
+  "name": "Красивая команда",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "*special",
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/929/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 1175
+}

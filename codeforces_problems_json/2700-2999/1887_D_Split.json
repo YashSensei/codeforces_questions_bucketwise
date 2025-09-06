@@ -1,0 +1,20 @@
+{
+  "contest_id": 1887,
+  "problem_index": "D",
+  "name": "Split",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "math",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1887/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 1116
+}

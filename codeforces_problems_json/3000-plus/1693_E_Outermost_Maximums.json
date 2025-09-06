@@ -1,0 +1,15 @@
+{
+  "contest_id": 1693,
+  "problem_index": "E",
+  "name": "Outermost Maximums",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1693/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 489
+}

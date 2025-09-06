@@ -1,0 +1,14 @@
+{
+  "contest_id": 1080,
+  "problem_index": "C",
+  "name": "Masha and two friends",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1080/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 4158
+}

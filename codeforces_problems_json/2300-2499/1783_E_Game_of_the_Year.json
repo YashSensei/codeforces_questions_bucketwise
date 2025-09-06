@@ -1,0 +1,16 @@
+{
+  "contest_id": 1783,
+  "problem_index": "E",
+  "name": "Game of the Year",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "data structures",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1783/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2308
+}

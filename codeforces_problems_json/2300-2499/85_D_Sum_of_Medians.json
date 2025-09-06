@@ -1,0 +1,17 @@
+{
+  "contest_id": 85,
+  "problem_index": "D",
+  "name": "Sum of Medians",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/85/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 2327
+}

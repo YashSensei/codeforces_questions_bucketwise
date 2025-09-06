@@ -1,0 +1,15 @@
+{
+  "contest_id": 522,
+  "problem_index": "D",
+  "name": "Closest Equals",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "*special",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/522/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 3571
+}

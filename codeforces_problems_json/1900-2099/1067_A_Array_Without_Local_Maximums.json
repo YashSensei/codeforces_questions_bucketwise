@@ -1,0 +1,14 @@
+{
+  "contest_id": 1067,
+  "problem_index": "A",
+  "name": "Array Without Local Maximums ",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1067/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 3033
+}

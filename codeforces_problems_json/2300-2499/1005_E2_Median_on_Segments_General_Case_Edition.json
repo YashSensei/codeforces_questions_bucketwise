@@ -1,0 +1,13 @@
+{
+  "contest_id": 1005,
+  "problem_index": "E2",
+  "name": "Median on Segments (General Case Edition)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1005/E2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1410
+}

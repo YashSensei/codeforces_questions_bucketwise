@@ -1,0 +1,16 @@
+{
+  "contest_id": 2041,
+  "problem_index": "K",
+  "name": "Trophic Balance Species",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dfs and similar",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2041/K",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 97
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1988,
+  "problem_index": "C",
+  "name": "Increasing Sequence with Fixed OR",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1988/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 19225
+}

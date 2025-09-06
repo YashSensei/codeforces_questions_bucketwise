@@ -1,0 +1,18 @@
+{
+  "contest_id": 1650,
+  "problem_index": "E",
+  "name": "Rescheduling the Exam",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1650/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4367
+}

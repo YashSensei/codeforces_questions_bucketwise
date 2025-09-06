@@ -1,0 +1,15 @@
+{
+  "contest_id": 1769,
+  "problem_index": "D1",
+  "name": "Игра в Девятку I",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "brute force",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1769/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 406
+}

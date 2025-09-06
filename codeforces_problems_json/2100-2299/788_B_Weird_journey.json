@@ -1,0 +1,18 @@
+{
+  "contest_id": 788,
+  "problem_index": "B",
+  "name": "Weird journey",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/788/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 2732
+}

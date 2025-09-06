@@ -1,0 +1,17 @@
+{
+  "contest_id": 1588,
+  "problem_index": "F",
+  "name": "Jumping Through the Array",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "binary search",
+    "data structures",
+    "graphs",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1588/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3750.0,
+  "solved_count": 336
+}

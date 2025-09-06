@@ -1,0 +1,17 @@
+{
+  "contest_id": 1332,
+  "problem_index": "E",
+  "name": "Height All the Same",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1332/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 4084
+}

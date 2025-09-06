@@ -1,0 +1,15 @@
+{
+  "contest_id": 1503,
+  "problem_index": "A",
+  "name": "Balance the Bits",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1503/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 14087
+}

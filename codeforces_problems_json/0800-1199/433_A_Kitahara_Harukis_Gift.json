@@ -1,0 +1,15 @@
+{
+  "contest_id": 433,
+  "problem_index": "A",
+  "name": "Kitahara Haruki's Gift",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/433/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 17286
+}

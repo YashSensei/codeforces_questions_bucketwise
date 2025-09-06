@@ -1,0 +1,17 @@
+{
+  "contest_id": 1975,
+  "problem_index": "A",
+  "name": "Bazoka and Mocha's Array",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1975/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 250.0,
+  "solved_count": 20259
+}

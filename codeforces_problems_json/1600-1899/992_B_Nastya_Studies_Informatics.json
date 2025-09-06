@@ -1,0 +1,15 @@
+{
+  "contest_id": 992,
+  "problem_index": "B",
+  "name": "Nastya Studies Informatics",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/992/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 6526
+}

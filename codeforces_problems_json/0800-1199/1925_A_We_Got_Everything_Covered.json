@@ -1,0 +1,16 @@
+{
+  "contest_id": 1925,
+  "problem_index": "A",
+  "name": "We Got Everything Covered!",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1925/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 30459
+}

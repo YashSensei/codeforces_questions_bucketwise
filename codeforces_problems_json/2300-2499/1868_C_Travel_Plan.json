@@ -1,0 +1,18 @@
+{
+  "contest_id": 1868,
+  "problem_index": "C",
+  "name": "Travel Plan",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1868/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 1295
+}

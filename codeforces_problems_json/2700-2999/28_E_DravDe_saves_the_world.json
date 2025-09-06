@@ -1,0 +1,15 @@
+{
+  "contest_id": 28,
+  "problem_index": "E",
+  "name": "DravDe saves the world",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/28/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 103
+}

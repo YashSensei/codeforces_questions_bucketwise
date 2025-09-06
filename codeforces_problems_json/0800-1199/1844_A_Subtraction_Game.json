@@ -1,0 +1,15 @@
+{
+  "contest_id": 1844,
+  "problem_index": "A",
+  "name": "Subtraction Game",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1844/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 25479
+}

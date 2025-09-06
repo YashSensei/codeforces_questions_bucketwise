@@ -1,0 +1,17 @@
+{
+  "contest_id": 1889,
+  "problem_index": "B",
+  "name": "Doremy's Connecting Plan",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1889/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 8216
+}

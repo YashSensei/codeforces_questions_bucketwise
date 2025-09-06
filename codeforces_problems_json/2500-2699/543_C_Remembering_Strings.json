@@ -1,0 +1,15 @@
+{
+  "contest_id": 543,
+  "problem_index": "C",
+  "name": "Remembering Strings",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/543/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 1515
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 2096,
+  "problem_index": "A",
+  "name": "Wonderful Sticks",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2096/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 19450
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1219,
+  "problem_index": "C",
+  "name": "Periodic integer number",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1219/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1998
+}

@@ -1,0 +1,20 @@
+{
+  "contest_id": 1333,
+  "problem_index": "D",
+  "name": "Challenges in school №41",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "games",
+    "graphs",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1333/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 4070
+}

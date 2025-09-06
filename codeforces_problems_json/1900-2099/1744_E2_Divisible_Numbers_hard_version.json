@@ -1,0 +1,15 @@
+{
+  "contest_id": 1744,
+  "problem_index": "E2",
+  "name": "Divisible Numbers (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1744/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6191
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1933,
+  "problem_index": "C",
+  "name": "Turtle Fingers: Count the Values of k",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1933/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 24464
+}

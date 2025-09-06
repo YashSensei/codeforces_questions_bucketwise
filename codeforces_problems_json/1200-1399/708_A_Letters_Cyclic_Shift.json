@@ -1,0 +1,17 @@
+{
+  "contest_id": 708,
+  "problem_index": "A",
+  "name": "Letters Cyclic Shift",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/708/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 9397
+}

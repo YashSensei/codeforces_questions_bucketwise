@@ -1,0 +1,17 @@
+{
+  "contest_id": 1704,
+  "problem_index": "G",
+  "name": "Mio and Lucky Array",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "fft",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1704/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 129
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 488,
+  "problem_index": "A",
+  "name": "Giga Tower",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/488/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 14680
+}

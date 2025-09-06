@@ -1,0 +1,14 @@
+{
+  "contest_id": 1133,
+  "problem_index": "C",
+  "name": "Balanced Team",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1133/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 25893
+}

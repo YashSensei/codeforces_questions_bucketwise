@@ -1,0 +1,18 @@
+{
+  "contest_id": 1924,
+  "problem_index": "A",
+  "name": "Did We Get Everything Covered?",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "shortest paths",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1924/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 15720
+}

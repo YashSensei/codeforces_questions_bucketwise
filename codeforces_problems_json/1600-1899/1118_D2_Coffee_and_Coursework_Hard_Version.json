@@ -1,0 +1,14 @@
+{
+  "contest_id": 1118,
+  "problem_index": "D2",
+  "name": "Coffee and Coursework (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1118/D2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6612
+}

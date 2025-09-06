@@ -1,0 +1,15 @@
+{
+  "contest_id": 1558,
+  "problem_index": "A",
+  "name": "Charmed by the Game",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1558/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 11322
+}

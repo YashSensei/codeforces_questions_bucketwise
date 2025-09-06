@@ -1,0 +1,16 @@
+{
+  "contest_id": 1667,
+  "problem_index": "A",
+  "name": "Make it Increasing",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1667/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 250.0,
+  "solved_count": 15399
+}

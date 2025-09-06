@@ -1,0 +1,15 @@
+{
+  "contest_id": 7,
+  "problem_index": "E",
+  "name": "Defining Macros",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dp",
+    "expression parsing",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/7/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 749
+}

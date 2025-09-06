@@ -1,0 +1,17 @@
+{
+  "contest_id": 2037,
+  "problem_index": "F",
+  "name": "Ardent Flames",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "data structures",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2037/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 2680
+}

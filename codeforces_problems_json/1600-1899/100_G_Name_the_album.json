@@ -1,0 +1,15 @@
+{
+  "contest_id": 100,
+  "problem_index": "G",
+  "name": "Name the album",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/100/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 136
+}

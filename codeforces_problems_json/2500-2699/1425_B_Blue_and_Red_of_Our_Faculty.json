@@ -1,0 +1,14 @@
+{
+  "contest_id": 1425,
+  "problem_index": "B",
+  "name": "Blue and Red of Our Faculty!",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "divide and conquer",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1425/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 331
+}

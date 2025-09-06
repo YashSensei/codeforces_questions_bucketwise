@@ -1,0 +1,15 @@
+{
+  "contest_id": 1487,
+  "problem_index": "F",
+  "name": "Ones",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dp",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1487/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 441
+}

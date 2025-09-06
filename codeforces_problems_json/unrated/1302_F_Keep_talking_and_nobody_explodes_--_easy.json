@@ -1,0 +1,15 @@
+{
+  "contest_id": 1302,
+  "problem_index": "F",
+  "name": "Keep talking and nobody explodes -- easy",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "expression parsing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1302/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 74
+}

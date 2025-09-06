@@ -1,0 +1,15 @@
+{
+  "contest_id": 711,
+  "problem_index": "A",
+  "name": "Bus to Udayland",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/711/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 30335
+}

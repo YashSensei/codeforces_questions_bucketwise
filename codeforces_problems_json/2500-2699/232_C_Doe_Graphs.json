@@ -1,0 +1,18 @@
+{
+  "contest_id": 232,
+  "problem_index": "C",
+  "name": "Doe Graphs",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "constructive algorithms",
+    "divide and conquer",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/232/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 301
+}

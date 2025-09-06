@@ -1,0 +1,17 @@
+{
+  "contest_id": 1919,
+  "problem_index": "G",
+  "name": "Tree LGM",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "divide and conquer",
+    "games",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1919/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 200
+}

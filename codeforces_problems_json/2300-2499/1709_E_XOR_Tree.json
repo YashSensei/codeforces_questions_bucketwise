@@ -1,0 +1,18 @@
+{
+  "contest_id": 1709,
+  "problem_index": "E",
+  "name": "XOR Tree",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1709/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3460
+}

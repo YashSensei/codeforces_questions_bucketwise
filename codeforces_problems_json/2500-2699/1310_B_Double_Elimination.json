@@ -1,0 +1,15 @@
+{
+  "contest_id": 1310,
+  "problem_index": "B",
+  "name": "Double Elimination",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1310/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 557
+}

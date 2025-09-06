@@ -1,0 +1,17 @@
+{
+  "contest_id": 612,
+  "problem_index": "E",
+  "name": "Square Root of Permutation",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/612/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1866
+}

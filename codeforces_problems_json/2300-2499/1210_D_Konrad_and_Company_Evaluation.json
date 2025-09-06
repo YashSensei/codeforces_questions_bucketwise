@@ -1,0 +1,14 @@
+{
+  "contest_id": 1210,
+  "problem_index": "D",
+  "name": "Konrad and Company Evaluation",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1210/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 1554
+}

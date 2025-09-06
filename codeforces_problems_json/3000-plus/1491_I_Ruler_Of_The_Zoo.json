@@ -1,0 +1,15 @@
+{
+  "contest_id": 1491,
+  "problem_index": "I",
+  "name": "Ruler Of The Zoo",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "brute force",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1491/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 5000.0,
+  "solved_count": 103
+}

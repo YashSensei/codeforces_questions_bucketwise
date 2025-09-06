@@ -1,0 +1,18 @@
+{
+  "contest_id": 1560,
+  "problem_index": "F2",
+  "name": "Nearest Beautiful Number (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1560/F2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4719
+}

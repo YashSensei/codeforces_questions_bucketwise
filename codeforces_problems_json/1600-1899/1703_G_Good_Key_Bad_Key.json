@@ -1,0 +1,17 @@
+{
+  "contest_id": 1703,
+  "problem_index": "G",
+  "name": "Good Key, Bad Key",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1703/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 11966
+}

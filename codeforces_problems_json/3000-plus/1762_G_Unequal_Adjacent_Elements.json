@@ -1,0 +1,15 @@
+{
+  "contest_id": 1762,
+  "problem_index": "G",
+  "name": "Unequal Adjacent Elements",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "constructive algorithms",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1762/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 124
+}

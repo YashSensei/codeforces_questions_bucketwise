@@ -1,0 +1,15 @@
+{
+  "contest_id": 1499,
+  "problem_index": "D",
+  "name": "The Number of Pairs",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1499/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6608
+}

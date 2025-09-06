@@ -1,0 +1,14 @@
+{
+  "contest_id": 884,
+  "problem_index": "D",
+  "name": "Boxes And Balls",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/884/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2145
+}

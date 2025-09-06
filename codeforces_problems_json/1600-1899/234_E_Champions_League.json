@@ -1,0 +1,13 @@
+{
+  "contest_id": 234,
+  "problem_index": "E",
+  "name": "Champions' League",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/234/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1027
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1373,
+  "problem_index": "D",
+  "name": "Maximum Sum on Even Positions",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1373/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 16717
+}

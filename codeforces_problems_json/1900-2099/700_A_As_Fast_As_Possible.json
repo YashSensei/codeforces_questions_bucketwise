@@ -1,0 +1,15 @@
+{
+  "contest_id": 700,
+  "problem_index": "A",
+  "name": "As Fast As Possible",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/700/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 3257
+}

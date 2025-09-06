@@ -1,0 +1,15 @@
+{
+  "contest_id": 1707,
+  "problem_index": "E",
+  "name": "Replace",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "binary search",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1707/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 897
+}

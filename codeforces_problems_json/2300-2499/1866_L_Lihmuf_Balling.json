@@ -1,0 +1,15 @@
+{
+  "contest_id": 1866,
+  "problem_index": "L",
+  "name": "Lihmuf Balling",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1866/L",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 823
+}

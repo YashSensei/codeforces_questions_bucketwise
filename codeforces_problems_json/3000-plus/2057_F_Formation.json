@@ -1,0 +1,18 @@
+{
+  "contest_id": 2057,
+  "problem_index": "F",
+  "name": "Formation",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2057/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3500.0,
+  "solved_count": 229
+}

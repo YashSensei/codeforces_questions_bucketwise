@@ -1,0 +1,20 @@
+{
+  "contest_id": 343,
+  "problem_index": "E",
+  "name": "Pumping Stations",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "divide and conquer",
+    "flows",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/343/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 850
+}

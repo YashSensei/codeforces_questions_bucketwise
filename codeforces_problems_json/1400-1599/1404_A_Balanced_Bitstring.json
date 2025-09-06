@@ -1,0 +1,15 @@
+{
+  "contest_id": 1404,
+  "problem_index": "A",
+  "name": "Balanced Bitstring",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1404/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 17362
+}

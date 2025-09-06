@@ -1,0 +1,15 @@
+{
+  "contest_id": 1725,
+  "problem_index": "M",
+  "name": "Moving Both Hands",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1725/M",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3804
+}

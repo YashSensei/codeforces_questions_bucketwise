@@ -1,0 +1,13 @@
+{
+  "contest_id": 120,
+  "problem_index": "I",
+  "name": "Luck is in Numbers",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/120/I",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 313
+}

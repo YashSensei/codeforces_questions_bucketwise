@@ -1,0 +1,15 @@
+{
+  "contest_id": 1694,
+  "problem_index": "B",
+  "name": "Paranoid String",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1694/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 20191
+}

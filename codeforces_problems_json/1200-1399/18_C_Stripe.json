@@ -1,0 +1,14 @@
+{
+  "contest_id": 18,
+  "problem_index": "C",
+  "name": "Stripe",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/18/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 14348
+}

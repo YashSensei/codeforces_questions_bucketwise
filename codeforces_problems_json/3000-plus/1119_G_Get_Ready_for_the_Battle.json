@@ -1,0 +1,15 @@
+{
+  "contest_id": 1119,
+  "problem_index": "G",
+  "name": "Get Ready for the Battle",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1119/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 546
+}

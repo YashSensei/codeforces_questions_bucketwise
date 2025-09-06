@@ -1,0 +1,18 @@
+{
+  "contest_id": 1819,
+  "problem_index": "B",
+  "name": "The Butcher",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "geometry",
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1819/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 3966
+}

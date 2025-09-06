@@ -1,0 +1,14 @@
+{
+  "contest_id": 1926,
+  "problem_index": "C",
+  "name": "Vlad and a Sum of Sum of Digits",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1926/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 30386
+}

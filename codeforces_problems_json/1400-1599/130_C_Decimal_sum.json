@@ -1,0 +1,13 @@
+{
+  "contest_id": 130,
+  "problem_index": "C",
+  "name": "Decimal sum",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/130/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 525
+}

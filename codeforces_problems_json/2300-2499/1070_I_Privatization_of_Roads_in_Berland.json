@@ -1,0 +1,15 @@
+{
+  "contest_id": 1070,
+  "problem_index": "I",
+  "name": "Privatization of Roads in Berland",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "flows",
+    "graph matchings",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1070/I",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 758
+}

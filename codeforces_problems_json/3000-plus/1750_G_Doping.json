@@ -1,0 +1,16 @@
+{
+  "contest_id": 1750,
+  "problem_index": "G",
+  "name": "Doping",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1750/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 288
+}

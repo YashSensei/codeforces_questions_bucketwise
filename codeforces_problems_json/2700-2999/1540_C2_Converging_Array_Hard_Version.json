@@ -1,0 +1,15 @@
+{
+  "contest_id": 1540,
+  "problem_index": "C2",
+  "name": "Converging Array (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1540/C2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 511
+}

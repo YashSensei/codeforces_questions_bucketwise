@@ -1,0 +1,16 @@
+{
+  "contest_id": 449,
+  "problem_index": "B",
+  "name": "Jzzhu and Cities",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/449/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 9659
+}

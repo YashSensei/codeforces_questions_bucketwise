@@ -1,0 +1,15 @@
+{
+  "contest_id": 509,
+  "problem_index": "C",
+  "name": "Sums of Digits",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/509/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2243
+}

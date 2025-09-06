@@ -1,0 +1,16 @@
+{
+  "contest_id": 472,
+  "problem_index": "G",
+  "name": "Design Tutorial: Increase the Constraints",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "fft"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/472/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 432
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1209,
+  "problem_index": "H",
+  "name": "Moving Walkways",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1209/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 4000.0,
+  "solved_count": 163
+}

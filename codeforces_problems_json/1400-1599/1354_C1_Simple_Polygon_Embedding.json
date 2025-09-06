@@ -1,0 +1,16 @@
+{
+  "contest_id": 1354,
+  "problem_index": "C1",
+  "name": "Simple Polygon Embedding",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "geometry",
+    "math",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1354/C1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 16151
+}

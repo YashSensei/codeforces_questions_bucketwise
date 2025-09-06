@@ -1,0 +1,14 @@
+{
+  "contest_id": 1165,
+  "problem_index": "F1",
+  "name": "Microtransactions (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1165/F1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2052
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1800,
+  "problem_index": "C1",
+  "name": "Powering the Hero (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1800/C1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 25851
+}

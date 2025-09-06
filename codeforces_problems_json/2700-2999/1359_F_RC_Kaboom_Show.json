@@ -1,0 +1,17 @@
+{
+  "contest_id": 1359,
+  "problem_index": "F",
+  "name": "RC Kaboom Show",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1359/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 564
+}

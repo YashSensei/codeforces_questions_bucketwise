@@ -1,0 +1,16 @@
+{
+  "contest_id": 545,
+  "problem_index": "E",
+  "name": "Paths and Trees",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/545/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 5163
+}

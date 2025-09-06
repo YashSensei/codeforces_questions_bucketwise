@@ -1,0 +1,17 @@
+{
+  "contest_id": 1598,
+  "problem_index": "F",
+  "name": "RBS",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1598/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1535
+}

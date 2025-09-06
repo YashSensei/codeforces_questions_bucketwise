@@ -1,0 +1,18 @@
+{
+  "contest_id": 724,
+  "problem_index": "G",
+  "name": "Xor-matic Number of the Graph",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "graphs",
+    "math",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/724/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1182
+}

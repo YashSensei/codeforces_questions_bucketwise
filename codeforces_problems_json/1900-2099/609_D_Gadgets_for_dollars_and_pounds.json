@@ -1,0 +1,15 @@
+{
+  "contest_id": 609,
+  "problem_index": "D",
+  "name": "Gadgets for dollars and pounds",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/609/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2968
+}

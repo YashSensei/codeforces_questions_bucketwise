@@ -1,0 +1,18 @@
+{
+  "contest_id": 2119,
+  "problem_index": "F",
+  "name": "Volcanic Eruptions",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2119/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 122
+}

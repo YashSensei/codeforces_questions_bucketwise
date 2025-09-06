@@ -1,0 +1,14 @@
+{
+  "contest_id": 813,
+  "problem_index": "C",
+  "name": "The Tag Game",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/813/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7240
+}

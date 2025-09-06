@@ -1,0 +1,15 @@
+{
+  "contest_id": 1185,
+  "problem_index": "C1",
+  "name": "Exam in BerSU (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1185/C1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 11640
+}

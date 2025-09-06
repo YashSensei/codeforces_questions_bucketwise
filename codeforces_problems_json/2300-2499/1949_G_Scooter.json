@@ -1,0 +1,14 @@
+{
+  "contest_id": 1949,
+  "problem_index": "G",
+  "name": "Scooter",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1949/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 944
+}

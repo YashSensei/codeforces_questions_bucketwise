@@ -1,0 +1,14 @@
+{
+  "contest_id": 1975,
+  "problem_index": "I",
+  "name": "Mind Bloom",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1975/I",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 6000.0,
+  "solved_count": 145
+}

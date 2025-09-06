@@ -1,0 +1,17 @@
+{
+  "contest_id": 1866,
+  "problem_index": "G",
+  "name": "Grouped Carriages",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "flows",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1866/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1979
+}

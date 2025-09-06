@@ -1,0 +1,19 @@
+{
+  "contest_id": 1558,
+  "problem_index": "E",
+  "name": "Down Below",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "meet-in-the-middle",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1558/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 569
+}

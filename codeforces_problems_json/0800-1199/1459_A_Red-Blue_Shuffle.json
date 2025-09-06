@@ -1,0 +1,15 @@
+{
+  "contest_id": 1459,
+  "problem_index": "A",
+  "name": "Red-Blue Shuffle",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1459/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 17403
+}

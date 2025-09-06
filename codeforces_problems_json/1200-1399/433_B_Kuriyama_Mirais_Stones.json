@@ -1,0 +1,16 @@
+{
+  "contest_id": 433,
+  "problem_index": "B",
+  "name": "Kuriyama Mirai's Stones",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dp",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/433/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 47205
+}

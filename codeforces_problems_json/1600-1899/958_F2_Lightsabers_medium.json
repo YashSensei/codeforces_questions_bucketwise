@@ -1,0 +1,14 @@
+{
+  "contest_id": 958,
+  "problem_index": "F2",
+  "name": "Lightsabers (medium)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/958/F2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1345
+}

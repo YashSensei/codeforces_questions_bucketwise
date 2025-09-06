@@ -1,0 +1,17 @@
+{
+  "contest_id": 1969,
+  "problem_index": "E",
+  "name": "Unique Array",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1969/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1686
+}

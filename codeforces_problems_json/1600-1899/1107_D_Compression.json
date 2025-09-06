@@ -1,0 +1,16 @@
+{
+  "contest_id": 1107,
+  "problem_index": "D",
+  "name": "Compression",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1107/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3814
+}

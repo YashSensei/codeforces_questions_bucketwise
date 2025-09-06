@@ -1,0 +1,14 @@
+{
+  "contest_id": 1970,
+  "problem_index": "A3",
+  "name": "Balanced Unshuffle (Hard)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1970/A3",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 584
+}

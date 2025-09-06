@@ -1,0 +1,15 @@
+{
+  "contest_id": 2060,
+  "problem_index": "F",
+  "name": "Multiplicative Arrays",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2060/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 2341
+}

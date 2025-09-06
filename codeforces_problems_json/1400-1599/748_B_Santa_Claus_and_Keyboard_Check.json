@@ -1,0 +1,15 @@
+{
+  "contest_id": 748,
+  "problem_index": "B",
+  "name": "Santa Claus and Keyboard Check",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/748/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 5472
+}

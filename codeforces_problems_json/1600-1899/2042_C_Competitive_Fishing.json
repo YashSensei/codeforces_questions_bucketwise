@@ -1,0 +1,13 @@
+{
+  "contest_id": 2042,
+  "problem_index": "C",
+  "name": "Competitive Fishing",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2042/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 7980
+}

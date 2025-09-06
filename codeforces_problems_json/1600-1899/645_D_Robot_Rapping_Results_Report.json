@@ -1,0 +1,16 @@
+{
+  "contest_id": 645,
+  "problem_index": "D",
+  "name": "Robot Rapping Results Report",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/645/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 3198
+}

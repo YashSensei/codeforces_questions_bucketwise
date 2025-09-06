@@ -1,0 +1,15 @@
+{
+  "contest_id": 362,
+  "problem_index": "B",
+  "name": "Petya and Staircases",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/362/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 14386
+}

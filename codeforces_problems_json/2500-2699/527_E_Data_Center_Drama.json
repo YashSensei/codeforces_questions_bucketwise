@@ -1,0 +1,15 @@
+{
+  "contest_id": 527,
+  "problem_index": "E",
+  "name": "Data Center Drama",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/527/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2096
+}

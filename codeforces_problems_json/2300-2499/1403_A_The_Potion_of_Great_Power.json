@@ -1,0 +1,20 @@
+{
+  "contest_id": 1403,
+  "problem_index": "A",
+  "name": "The Potion of Great Power",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "*special",
+    "2-sat",
+    "binary search",
+    "data structures",
+    "graphs",
+    "interactive",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1403/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 300
+}

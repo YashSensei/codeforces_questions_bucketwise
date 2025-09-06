@@ -1,0 +1,19 @@
+{
+  "contest_id": 1990,
+  "problem_index": "E2",
+  "name": "Catch the Mole(Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1990/E2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 1007
+}

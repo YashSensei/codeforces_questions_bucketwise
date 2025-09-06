@@ -1,0 +1,15 @@
+{
+  "contest_id": 1614,
+  "problem_index": "D2",
+  "name": "Divan and Kostomuksha (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dp",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1614/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 2565
+}

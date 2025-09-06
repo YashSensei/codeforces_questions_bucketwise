@@ -1,0 +1,15 @@
+{
+  "contest_id": 847,
+  "problem_index": "D",
+  "name": "Dog Show",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/847/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1315
+}

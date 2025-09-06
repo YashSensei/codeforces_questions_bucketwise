@@ -1,0 +1,14 @@
+{
+  "contest_id": 1189,
+  "problem_index": "A",
+  "name": "Keanu Reeves",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1189/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 15695
+}

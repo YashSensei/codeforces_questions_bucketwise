@@ -1,0 +1,19 @@
+{
+  "contest_id": 2021,
+  "problem_index": "E2",
+  "name": "Digital Village (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dp",
+    "dsu",
+    "graphs",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2021/E2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 1068
+}

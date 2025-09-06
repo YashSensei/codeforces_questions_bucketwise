@@ -1,0 +1,15 @@
+{
+  "contest_id": 1349,
+  "problem_index": "D",
+  "name": "Slime and Biscuits",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1349/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 984
+}

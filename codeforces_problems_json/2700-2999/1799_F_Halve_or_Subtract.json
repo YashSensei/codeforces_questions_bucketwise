@@ -1,0 +1,18 @@
+{
+  "contest_id": 1799,
+  "problem_index": "F",
+  "name": "Halve or Subtract",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1799/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 959
+}

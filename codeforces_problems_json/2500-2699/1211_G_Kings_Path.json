@@ -1,0 +1,15 @@
+{
+  "contest_id": 1211,
+  "problem_index": "G",
+  "name": "King's Path",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "*special",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1211/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 79
+}

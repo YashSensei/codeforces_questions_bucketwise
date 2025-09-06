@@ -1,0 +1,17 @@
+{
+  "contest_id": 1795,
+  "problem_index": "E",
+  "name": "Explosions?",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1795/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2251
+}

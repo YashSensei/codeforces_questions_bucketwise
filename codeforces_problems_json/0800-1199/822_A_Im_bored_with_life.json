@@ -1,0 +1,16 @@
+{
+  "contest_id": 822,
+  "problem_index": "A",
+  "name": "I'm bored with life",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/822/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 35264
+}

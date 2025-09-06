@@ -1,0 +1,16 @@
+{
+  "contest_id": 76,
+  "problem_index": "A",
+  "name": "Gift",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dsu",
+    "graphs",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/76/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1982
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1732,
+  "problem_index": "A",
+  "name": "Bestie",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1732/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 16541
+}

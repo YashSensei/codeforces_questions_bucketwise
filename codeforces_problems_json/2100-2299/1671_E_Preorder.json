@@ -1,0 +1,19 @@
+{
+  "contest_id": 1671,
+  "problem_index": "E",
+  "name": "Preorder",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "hashing",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1671/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2981
+}

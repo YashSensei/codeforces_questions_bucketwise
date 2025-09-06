@@ -1,0 +1,19 @@
+{
+  "contest_id": 912,
+  "problem_index": "E",
+  "name": "Prime Gift",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "math",
+    "meet-in-the-middle",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/912/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1859
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 2070,
+  "problem_index": "E",
+  "name": "Game with Binary String",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2070/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1592
+}

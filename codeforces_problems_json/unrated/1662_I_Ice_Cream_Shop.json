@@ -1,0 +1,15 @@
+{
+  "contest_id": 1662,
+  "problem_index": "I",
+  "name": "Ice Cream Shop",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "brute force",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1662/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2299
+}

@@ -1,0 +1,22 @@
+{
+  "contest_id": 1537,
+  "problem_index": "E1",
+  "name": "Erase and Extend (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "greedy",
+    "hashing",
+    "implementation",
+    "string suffix structures",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1537/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 14717
+}

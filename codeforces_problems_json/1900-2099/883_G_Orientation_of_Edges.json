@@ -1,0 +1,14 @@
+{
+  "contest_id": 883,
+  "problem_index": "G",
+  "name": "Orientation of Edges",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/883/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1479
+}

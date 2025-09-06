@@ -1,0 +1,18 @@
+{
+  "contest_id": 1533,
+  "problem_index": "I",
+  "name": "Excursions",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "constructive algorithms",
+    "dfs and similar",
+    "flows",
+    "graph matchings",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1533/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 58
+}

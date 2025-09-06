@@ -1,0 +1,18 @@
+{
+  "contest_id": 1693,
+  "problem_index": "D",
+  "name": "Decinc Dividing",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1693/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 1036
+}

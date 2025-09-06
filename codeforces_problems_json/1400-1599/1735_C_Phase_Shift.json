@@ -1,0 +1,19 @@
+{
+  "contest_id": 1735,
+  "problem_index": "C",
+  "name": "Phase Shift",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1735/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 10539
+}

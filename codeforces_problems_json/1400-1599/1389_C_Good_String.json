@@ -1,0 +1,16 @@
+{
+  "contest_id": 1389,
+  "problem_index": "C",
+  "name": "Good String",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1389/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20006
+}

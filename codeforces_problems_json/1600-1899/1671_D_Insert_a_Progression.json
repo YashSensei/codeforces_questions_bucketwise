@@ -1,0 +1,15 @@
+{
+  "contest_id": 1671,
+  "problem_index": "D",
+  "name": "Insert a Progression",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1671/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8199
+}

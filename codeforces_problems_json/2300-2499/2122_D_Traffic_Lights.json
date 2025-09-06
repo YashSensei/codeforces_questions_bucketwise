@@ -1,0 +1,20 @@
+{
+  "contest_id": 2122,
+  "problem_index": "D",
+  "name": "Traffic Lights",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2122/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 2122
+}

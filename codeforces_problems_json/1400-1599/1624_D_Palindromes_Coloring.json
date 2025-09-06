@@ -1,0 +1,16 @@
+{
+  "contest_id": 1624,
+  "problem_index": "D",
+  "name": "Palindromes Coloring",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1624/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 18305
+}

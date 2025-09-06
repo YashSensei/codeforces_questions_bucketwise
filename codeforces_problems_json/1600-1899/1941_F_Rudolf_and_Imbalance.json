@@ -1,0 +1,16 @@
+{
+  "contest_id": 1941,
+  "problem_index": "F",
+  "name": "Rudolf and Imbalance",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1941/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6940
+}

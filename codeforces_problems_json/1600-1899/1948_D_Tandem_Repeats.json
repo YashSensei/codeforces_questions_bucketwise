@@ -1,0 +1,15 @@
+{
+  "contest_id": 1948,
+  "problem_index": "D",
+  "name": "Tandem Repeats?",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1948/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 11071
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 2118,
+  "problem_index": "F",
+  "name": "Shifts and Swaps",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "data structures",
+    "graphs",
+    "hashing",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2118/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3500.0,
+  "solved_count": 213
+}

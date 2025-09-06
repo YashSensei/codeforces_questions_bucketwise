@@ -1,0 +1,18 @@
+{
+  "contest_id": 1200,
+  "problem_index": "E",
+  "name": "Compress Words",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "hashing",
+    "implementation",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1200/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 8559
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1213,
+  "problem_index": "D2",
+  "name": "Equalizing by Division (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1213/D2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 11905
+}

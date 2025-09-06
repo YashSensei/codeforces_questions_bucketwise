@@ -1,0 +1,16 @@
+{
+  "contest_id": 622,
+  "problem_index": "E",
+  "name": "Ants in Leaves",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/622/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2298
+}

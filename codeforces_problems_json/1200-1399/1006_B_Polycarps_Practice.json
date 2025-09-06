@@ -1,0 +1,15 @@
+{
+  "contest_id": 1006,
+  "problem_index": "B",
+  "name": "Polycarp's Practice",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1006/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 14037
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1731,
+  "problem_index": "C",
+  "name": "Even Subarrays",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "hashing",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1731/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 11026
+}

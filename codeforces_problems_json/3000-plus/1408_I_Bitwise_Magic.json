@@ -1,0 +1,15 @@
+{
+  "contest_id": 1408,
+  "problem_index": "I",
+  "name": "Bitwise Magic",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1408/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3750.0,
+  "solved_count": 187
+}

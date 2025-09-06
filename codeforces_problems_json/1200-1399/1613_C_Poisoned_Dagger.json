@@ -1,0 +1,13 @@
+{
+  "contest_id": 1613,
+  "problem_index": "C",
+  "name": "Poisoned Dagger",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1613/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 27466
+}

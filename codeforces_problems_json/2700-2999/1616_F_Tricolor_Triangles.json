@@ -1,0 +1,17 @@
+{
+  "contest_id": 1616,
+  "problem_index": "F",
+  "name": "Tricolor Triangles",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "brute force",
+    "graphs",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1616/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 671
+}

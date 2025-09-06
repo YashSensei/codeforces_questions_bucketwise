@@ -1,0 +1,15 @@
+{
+  "contest_id": 620,
+  "problem_index": "F",
+  "name": "Xors on Segments",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/620/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 824
+}

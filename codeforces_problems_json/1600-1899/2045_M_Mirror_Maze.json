@@ -1,0 +1,16 @@
+{
+  "contest_id": 2045,
+  "problem_index": "M",
+  "name": "Mirror Maze",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2045/M",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1853
+}

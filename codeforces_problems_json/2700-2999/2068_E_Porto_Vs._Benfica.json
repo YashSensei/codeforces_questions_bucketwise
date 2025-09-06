@@ -1,0 +1,17 @@
+{
+  "contest_id": 2068,
+  "problem_index": "E",
+  "name": "Porto Vs. Benfica",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2068/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 281
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 76,
+  "problem_index": "B",
+  "name": "Mice",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/76/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 776
+}

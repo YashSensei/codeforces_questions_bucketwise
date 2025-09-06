@@ -1,0 +1,15 @@
+{
+  "contest_id": 1214,
+  "problem_index": "A",
+  "name": "Optimal Currency Exchange",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1214/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 9311
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 952,
+  "problem_index": "B",
+  "name": "A Map of the Cat",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "*special",
+    "brute force",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/952/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2099
+}

@@ -1,0 +1,20 @@
+{
+  "contest_id": 2062,
+  "problem_index": "F",
+  "name": "Traveling Salescat",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "geometry",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2062/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3500.0,
+  "solved_count": 529
+}

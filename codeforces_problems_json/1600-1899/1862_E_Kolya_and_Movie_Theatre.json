@@ -1,0 +1,15 @@
+{
+  "contest_id": 1862,
+  "problem_index": "E",
+  "name": "Kolya and Movie Theatre",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1862/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 12132
+}

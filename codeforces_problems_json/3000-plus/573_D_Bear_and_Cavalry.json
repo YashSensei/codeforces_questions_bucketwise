@@ -1,0 +1,16 @@
+{
+  "contest_id": 573,
+  "problem_index": "D",
+  "name": "Bear and Cavalry",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/573/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 637
+}

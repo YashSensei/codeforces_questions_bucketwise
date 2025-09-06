@@ -1,0 +1,15 @@
+{
+  "contest_id": 864,
+  "problem_index": "A",
+  "name": "Fair Game",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/864/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 11981
+}

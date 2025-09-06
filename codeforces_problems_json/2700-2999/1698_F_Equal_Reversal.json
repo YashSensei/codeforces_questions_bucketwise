@@ -1,0 +1,17 @@
+{
+  "contest_id": 1698,
+  "problem_index": "F",
+  "name": "Equal Reversal",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1698/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 705
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1543,
+  "problem_index": "D2",
+  "name": "RPD and Rap Sheet (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1543/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 2082
+}

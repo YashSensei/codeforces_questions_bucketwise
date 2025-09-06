@@ -1,0 +1,17 @@
+{
+  "contest_id": 1552,
+  "problem_index": "G",
+  "name": "A Serious Referee",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1552/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 623
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1912,
+  "problem_index": "K",
+  "name": "Kim's Quest",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1912/K",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3377
+}

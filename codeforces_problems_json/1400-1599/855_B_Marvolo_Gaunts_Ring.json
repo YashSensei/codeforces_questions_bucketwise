@@ -1,0 +1,16 @@
+{
+  "contest_id": 855,
+  "problem_index": "B",
+  "name": "Marvolo Gaunt's Ring",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/855/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 9398
+}

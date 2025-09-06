@@ -1,0 +1,18 @@
+{
+  "contest_id": 1705,
+  "problem_index": "D",
+  "name": "Mark and Lightbulbs",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1705/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 6785
+}

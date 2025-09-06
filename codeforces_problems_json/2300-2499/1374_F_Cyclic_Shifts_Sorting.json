@@ -1,0 +1,16 @@
+{
+  "contest_id": 1374,
+  "problem_index": "F",
+  "name": "Cyclic Shifts Sorting",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1374/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1360
+}

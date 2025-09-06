@@ -1,0 +1,17 @@
+{
+  "contest_id": 1872,
+  "problem_index": "F",
+  "name": "Selling a Menagerie",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1872/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7115
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 364,
+  "problem_index": "A",
+  "name": "Matrix",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/364/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 4833
+}

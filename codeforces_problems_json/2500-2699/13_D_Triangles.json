@@ -1,0 +1,14 @@
+{
+  "contest_id": 13,
+  "problem_index": "D",
+  "name": "Triangles",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dp",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/13/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 707
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1734,
+  "problem_index": "E",
+  "name": "Rectangular Congruence",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1734/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 3098
+}

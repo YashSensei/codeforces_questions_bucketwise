@@ -1,0 +1,17 @@
+{
+  "contest_id": 757,
+  "problem_index": "C",
+  "name": "Felicity is Coming!",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "hashing",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/757/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 2421
+}

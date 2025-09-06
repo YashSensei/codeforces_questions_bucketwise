@@ -1,0 +1,16 @@
+{
+  "contest_id": 903,
+  "problem_index": "E",
+  "name": "Swapping Characters",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "hashing",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/903/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1533
+}

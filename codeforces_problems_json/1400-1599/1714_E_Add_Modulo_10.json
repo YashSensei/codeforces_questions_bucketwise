@@ -1,0 +1,15 @@
+{
+  "contest_id": 1714,
+  "problem_index": "E",
+  "name": "Add Modulo 10",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1714/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20201
+}

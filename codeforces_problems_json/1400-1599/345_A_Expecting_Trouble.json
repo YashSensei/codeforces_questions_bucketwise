@@ -1,0 +1,14 @@
+{
+  "contest_id": 345,
+  "problem_index": "A",
+  "name": "Expecting Trouble",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "*special",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/345/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 516
+}

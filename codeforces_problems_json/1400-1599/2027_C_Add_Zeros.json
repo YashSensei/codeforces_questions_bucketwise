@@ -1,0 +1,19 @@
+{
+  "contest_id": 2027,
+  "problem_index": "C",
+  "name": "Add Zeros",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2027/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 12511
+}

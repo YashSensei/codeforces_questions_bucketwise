@@ -1,0 +1,16 @@
+{
+  "contest_id": 1373,
+  "problem_index": "F",
+  "name": "Network Coverage",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1373/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1778
+}

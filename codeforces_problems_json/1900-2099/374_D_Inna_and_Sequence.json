@@ -1,0 +1,17 @@
+{
+  "contest_id": 374,
+  "problem_index": "D",
+  "name": "Inna and Sequence ",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/374/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 933
+}

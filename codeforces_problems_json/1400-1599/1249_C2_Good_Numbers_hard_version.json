@@ -1,0 +1,16 @@
+{
+  "contest_id": 1249,
+  "problem_index": "C2",
+  "name": "Good Numbers (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1249/C2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 13203
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1843,
+  "problem_index": "E",
+  "name": "Tracking Segments",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1843/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15453
+}

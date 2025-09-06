@@ -1,0 +1,17 @@
+{
+  "contest_id": 1630,
+  "problem_index": "F",
+  "name": "Making It Bipartite",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "flows",
+    "graph matchings",
+    "graphs",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1630/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 745
+}

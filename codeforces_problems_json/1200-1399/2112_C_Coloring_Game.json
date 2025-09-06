@@ -1,0 +1,16 @@
+{
+  "contest_id": 2112,
+  "problem_index": "C",
+  "name": "Coloring Game",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2112/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 15277
+}

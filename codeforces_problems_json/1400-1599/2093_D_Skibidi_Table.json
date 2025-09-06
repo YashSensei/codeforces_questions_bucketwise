@@ -1,0 +1,14 @@
+{
+  "contest_id": 2093,
+  "problem_index": "D",
+  "name": "Skibidi Table",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "bitmasks",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2093/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 11230
+}

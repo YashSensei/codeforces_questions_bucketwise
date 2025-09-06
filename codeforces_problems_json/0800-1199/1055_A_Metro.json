@@ -1,0 +1,14 @@
+{
+  "contest_id": 1055,
+  "problem_index": "A",
+  "name": "Metro",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1055/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 12214
+}

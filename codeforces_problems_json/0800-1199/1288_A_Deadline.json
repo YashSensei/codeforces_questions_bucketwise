@@ -1,0 +1,16 @@
+{
+  "contest_id": 1288,
+  "problem_index": "A",
+  "name": "Deadline",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1288/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 18960
+}

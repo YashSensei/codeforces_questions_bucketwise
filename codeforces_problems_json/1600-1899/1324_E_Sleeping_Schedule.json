@@ -1,0 +1,14 @@
+{
+  "contest_id": 1324,
+  "problem_index": "E",
+  "name": "Sleeping Schedule",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1324/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15673
+}

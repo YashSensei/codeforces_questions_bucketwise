@@ -1,0 +1,15 @@
+{
+  "contest_id": 1095,
+  "problem_index": "F",
+  "name": "Make It Connected",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1095/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6963
+}

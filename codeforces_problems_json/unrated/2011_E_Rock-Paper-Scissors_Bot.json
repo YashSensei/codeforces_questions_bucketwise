@@ -1,0 +1,15 @@
+{
+  "contest_id": 2011,
+  "problem_index": "E",
+  "name": "Rock-Paper-Scissors Bot",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2011/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 174
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1249,
+  "problem_index": "C1",
+  "name": "Good Numbers (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1249/C1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 16173
+}

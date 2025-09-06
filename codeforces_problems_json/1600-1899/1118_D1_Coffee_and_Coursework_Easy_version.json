@@ -1,0 +1,14 @@
+{
+  "contest_id": 1118,
+  "problem_index": "D1",
+  "name": "Coffee and Coursework (Easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1118/D1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5921
+}

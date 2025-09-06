@@ -1,0 +1,16 @@
+{
+  "contest_id": 1889,
+  "problem_index": "A",
+  "name": "Qingshan Loves Strings 2",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1889/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 14640
+}

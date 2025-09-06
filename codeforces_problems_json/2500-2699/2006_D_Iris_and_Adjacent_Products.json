@@ -1,0 +1,17 @@
+{
+  "contest_id": 2006,
+  "problem_index": "D",
+  "name": "Iris and Adjacent Products",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2006/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 850
+}

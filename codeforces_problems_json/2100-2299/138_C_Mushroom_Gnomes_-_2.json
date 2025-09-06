@@ -1,0 +1,17 @@
+{
+  "contest_id": 138,
+  "problem_index": "C",
+  "name": "Mushroom Gnomes - 2",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "data structures",
+    "probabilities",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/138/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 902
+}

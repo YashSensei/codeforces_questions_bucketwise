@@ -1,0 +1,15 @@
+{
+  "contest_id": 1205,
+  "problem_index": "E",
+  "name": "Expected Value Again",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "combinatorics",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1205/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 340
+}

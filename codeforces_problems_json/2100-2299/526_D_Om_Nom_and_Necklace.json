@@ -1,0 +1,16 @@
+{
+  "contest_id": 526,
+  "problem_index": "D",
+  "name": "Om Nom and Necklace",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/526/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 2274
+}

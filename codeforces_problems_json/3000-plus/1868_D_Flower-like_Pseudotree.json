@@ -1,0 +1,18 @@
+{
+  "contest_id": 1868,
+  "problem_index": "D",
+  "name": "Flower-like Pseudotree",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1868/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 325
+}

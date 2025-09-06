@@ -1,0 +1,17 @@
+{
+  "contest_id": 1254,
+  "problem_index": "E",
+  "name": "Send Tree to Charlie",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dsu",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1254/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 300
+}

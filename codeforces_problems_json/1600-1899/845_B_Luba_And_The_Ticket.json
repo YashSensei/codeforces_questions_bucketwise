@@ -1,0 +1,15 @@
+{
+  "contest_id": 845,
+  "problem_index": "B",
+  "name": "Luba And The Ticket",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/845/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5213
+}

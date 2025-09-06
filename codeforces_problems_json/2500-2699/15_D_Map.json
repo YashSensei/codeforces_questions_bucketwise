@@ -1,0 +1,15 @@
+{
+  "contest_id": 15,
+  "problem_index": "D",
+  "name": "Map",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/15/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 843
+}

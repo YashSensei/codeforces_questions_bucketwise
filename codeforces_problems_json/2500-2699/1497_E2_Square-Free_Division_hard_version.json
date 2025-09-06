@@ -1,0 +1,19 @@
+{
+  "contest_id": 1497,
+  "problem_index": "E2",
+  "name": "Square-Free Division (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1497/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 1849
+}

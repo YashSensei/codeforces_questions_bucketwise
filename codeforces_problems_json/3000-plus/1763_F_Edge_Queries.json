@@ -1,0 +1,19 @@
+{
+  "contest_id": 1763,
+  "problem_index": "F",
+  "name": "Edge Queries",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1763/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 568
+}

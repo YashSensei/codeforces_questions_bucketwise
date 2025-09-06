@@ -1,0 +1,17 @@
+{
+  "contest_id": 1466,
+  "problem_index": "I",
+  "name": "The Riddle of the Sphinx",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "data structures",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1466/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 221
+}

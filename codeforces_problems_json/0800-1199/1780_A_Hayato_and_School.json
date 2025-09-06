@@ -1,0 +1,15 @@
+{
+  "contest_id": 1780,
+  "problem_index": "A",
+  "name": "Hayato and School",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1780/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 22371
+}

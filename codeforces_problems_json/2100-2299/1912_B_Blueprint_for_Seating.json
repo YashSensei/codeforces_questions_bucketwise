@@ -1,0 +1,15 @@
+{
+  "contest_id": 1912,
+  "problem_index": "B",
+  "name": "Blueprint for Seating",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1912/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1281
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1450,
+  "problem_index": "H2",
+  "name": "Multithreading (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "combinatorics",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1450/H2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 252
+}

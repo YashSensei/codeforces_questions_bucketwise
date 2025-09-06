@@ -1,0 +1,22 @@
+{
+  "contest_id": 1617,
+  "problem_index": "E",
+  "name": "Christmas Chocolates",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "graphs",
+    "implementation",
+    "math",
+    "number theory",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1617/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 933
+}

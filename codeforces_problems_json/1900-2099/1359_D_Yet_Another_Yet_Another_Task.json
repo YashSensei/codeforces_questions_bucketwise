@@ -1,0 +1,16 @@
+{
+  "contest_id": 1359,
+  "problem_index": "D",
+  "name": "Yet Another Yet Another Task",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1359/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 10154
+}

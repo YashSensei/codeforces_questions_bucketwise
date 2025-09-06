@@ -1,0 +1,16 @@
+{
+  "contest_id": 1913,
+  "problem_index": "C",
+  "name": "Game with Multiset",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1913/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 16652
+}

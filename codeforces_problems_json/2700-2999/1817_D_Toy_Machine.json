@@ -1,0 +1,16 @@
+{
+  "contest_id": 1817,
+  "problem_index": "D",
+  "name": "Toy Machine",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "games",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1817/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 967
+}

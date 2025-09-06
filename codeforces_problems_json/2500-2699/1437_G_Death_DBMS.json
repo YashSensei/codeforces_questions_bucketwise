@@ -1,0 +1,16 @@
+{
+  "contest_id": 1437,
+  "problem_index": "G",
+  "name": "Death DBMS",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "data structures",
+    "string suffix structures",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1437/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1142
+}

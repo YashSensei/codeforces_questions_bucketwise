@@ -1,0 +1,14 @@
+{
+  "contest_id": 1279,
+  "problem_index": "C",
+  "name": "Stack of Presents",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1279/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 12180
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1999,
+  "problem_index": "G1",
+  "name": "Ruler (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1999/G1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 13069
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 2008,
+  "problem_index": "G",
+  "name": "Sakurako's Task",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2008/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 6205
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1487,
+  "problem_index": "D",
+  "name": "Pythagorean Triples",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1487/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 19624
+}

@@ -1,0 +1,22 @@
+{
+  "contest_id": 1416,
+  "problem_index": "C",
+  "name": "XOR Inverse",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "math",
+    "sortings",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1416/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 4761
+}

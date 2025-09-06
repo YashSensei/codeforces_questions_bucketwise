@@ -1,0 +1,16 @@
+{
+  "contest_id": 1884,
+  "problem_index": "E",
+  "name": "Hard Design",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1884/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 355
+}

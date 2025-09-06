@@ -1,0 +1,18 @@
+{
+  "contest_id": 1792,
+  "problem_index": "D",
+  "name": "Fixed Prefix Permutations",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "hashing",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1792/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7215
+}

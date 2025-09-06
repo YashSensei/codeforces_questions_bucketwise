@@ -1,0 +1,15 @@
+{
+  "contest_id": 1738,
+  "problem_index": "H",
+  "name": "Palindrome Addicts",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "data structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1738/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 262
+}

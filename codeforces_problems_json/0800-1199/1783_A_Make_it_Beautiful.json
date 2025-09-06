@@ -1,0 +1,15 @@
+{
+  "contest_id": 1783,
+  "problem_index": "A",
+  "name": "Make it Beautiful",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1783/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 39262
+}

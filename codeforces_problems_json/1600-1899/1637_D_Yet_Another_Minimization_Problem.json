@@ -1,0 +1,16 @@
+{
+  "contest_id": 1637,
+  "problem_index": "D",
+  "name": "Yet Another Minimization Problem",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1637/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 8352
+}

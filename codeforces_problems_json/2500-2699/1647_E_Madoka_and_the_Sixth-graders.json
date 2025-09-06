@@ -1,0 +1,16 @@
+{
+  "contest_id": 1647,
+  "problem_index": "E",
+  "name": "Madoka and the Sixth-graders",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1647/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1071
+}

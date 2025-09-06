@@ -1,0 +1,18 @@
+{
+  "contest_id": 1873,
+  "problem_index": "H",
+  "name": "Mad City",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "games",
+    "graphs",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1873/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8713
+}

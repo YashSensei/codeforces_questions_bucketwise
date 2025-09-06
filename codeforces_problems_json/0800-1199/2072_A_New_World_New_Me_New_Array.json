@@ -1,0 +1,15 @@
+{
+  "contest_id": 2072,
+  "problem_index": "A",
+  "name": "New World, New Me, New Array",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2072/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 38373
+}

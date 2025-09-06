@@ -1,0 +1,19 @@
+{
+  "contest_id": 1371,
+  "problem_index": "E2",
+  "name": "Asterism (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1371/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 2437
+}

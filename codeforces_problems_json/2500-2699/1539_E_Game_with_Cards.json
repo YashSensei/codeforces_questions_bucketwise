@@ -1,0 +1,19 @@
+{
+  "contest_id": 1539,
+  "problem_index": "E",
+  "name": "Game with Cards",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1539/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1019
+}

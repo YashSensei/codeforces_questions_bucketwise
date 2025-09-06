@@ -1,0 +1,14 @@
+{
+  "contest_id": 188,
+  "problem_index": "B",
+  "name": "A + Reverse B",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/188/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 764
+}

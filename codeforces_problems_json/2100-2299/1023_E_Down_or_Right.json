@@ -1,0 +1,16 @@
+{
+  "contest_id": 1023,
+  "problem_index": "E",
+  "name": "Down or Right",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "interactive",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1023/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 2136
+}

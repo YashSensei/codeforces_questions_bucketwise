@@ -1,0 +1,15 @@
+{
+  "contest_id": 612,
+  "problem_index": "A",
+  "name": "The Text Splitting",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/612/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7656
+}

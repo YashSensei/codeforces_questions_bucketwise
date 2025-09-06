@@ -1,0 +1,20 @@
+{
+  "contest_id": 1982,
+  "problem_index": "E",
+  "name": "Number of k-good subarrays",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "divide and conquer",
+    "dp",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1982/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 1792
+}

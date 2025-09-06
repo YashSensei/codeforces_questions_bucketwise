@@ -1,0 +1,19 @@
+{
+  "contest_id": 1738,
+  "problem_index": "D",
+  "name": "Permutation Addicts",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1738/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 3645
+}

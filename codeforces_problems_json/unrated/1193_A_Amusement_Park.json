@@ -1,0 +1,15 @@
+{
+  "contest_id": 1193,
+  "problem_index": "A",
+  "name": "Amusement Park",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1193/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 359
+}

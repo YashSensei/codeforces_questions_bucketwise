@@ -1,0 +1,17 @@
+{
+  "contest_id": 2122,
+  "problem_index": "G",
+  "name": "Tree Parking",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "combinatorics",
+    "fft",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2122/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 4000.0,
+  "solved_count": 160
+}

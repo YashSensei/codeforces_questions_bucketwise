@@ -1,0 +1,17 @@
+{
+  "contest_id": 1672,
+  "problem_index": "D",
+  "name": "Cyclic Rotation",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1672/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 6693
+}

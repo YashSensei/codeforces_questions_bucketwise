@@ -1,0 +1,15 @@
+{
+  "contest_id": 1065,
+  "problem_index": "D",
+  "name": "Three Pieces",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1065/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1386
+}

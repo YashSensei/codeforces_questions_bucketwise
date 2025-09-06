@@ -1,0 +1,16 @@
+{
+  "contest_id": 1832,
+  "problem_index": "D1",
+  "name": "Red-Blue Operations (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1832/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3174
+}

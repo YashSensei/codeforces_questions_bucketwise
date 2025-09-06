@@ -1,0 +1,16 @@
+{
+  "contest_id": 1615,
+  "problem_index": "F",
+  "name": "LEGOndary Grandmaster",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1615/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 1043
+}

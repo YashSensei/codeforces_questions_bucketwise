@@ -1,0 +1,17 @@
+{
+  "contest_id": 1819,
+  "problem_index": "E",
+  "name": "Roads in E City",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "interactive",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1819/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 353
+}

@@ -1,0 +1,21 @@
+{
+  "contest_id": 1697,
+  "problem_index": "E",
+  "name": "Coloring",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "dp",
+    "geometry",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1697/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1357
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1656,
+  "problem_index": "I",
+  "name": "Neighbour Ordering",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1656/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4500.0,
+  "solved_count": 145
+}

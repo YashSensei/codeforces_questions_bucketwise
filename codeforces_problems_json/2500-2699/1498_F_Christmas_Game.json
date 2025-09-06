@@ -1,0 +1,20 @@
+{
+  "contest_id": 1498,
+  "problem_index": "F",
+  "name": "Christmas Game",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "games",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1498/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 1007
+}

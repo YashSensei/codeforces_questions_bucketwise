@@ -1,0 +1,13 @@
+{
+  "contest_id": 985,
+  "problem_index": "C",
+  "name": "Liebig's Barrels",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/985/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5894
+}

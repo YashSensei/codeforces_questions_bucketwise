@@ -1,0 +1,16 @@
+{
+  "contest_id": 1192,
+  "problem_index": "C",
+  "name": "Cubeword",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "brute force",
+    "dp",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1192/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 341
+}

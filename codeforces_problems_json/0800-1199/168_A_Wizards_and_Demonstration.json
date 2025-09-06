@@ -1,0 +1,15 @@
+{
+  "contest_id": 168,
+  "problem_index": "A",
+  "name": "Wizards and Demonstration",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/168/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 11086
+}

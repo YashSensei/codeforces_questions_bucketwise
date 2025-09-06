@@ -1,0 +1,18 @@
+{
+  "contest_id": 1553,
+  "problem_index": "B",
+  "name": "Reverse String",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "dp",
+    "hashing",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1553/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 15001
+}

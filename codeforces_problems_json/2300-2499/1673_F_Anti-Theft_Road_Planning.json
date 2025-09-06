@@ -1,0 +1,19 @@
+{
+  "contest_id": 1673,
+  "problem_index": "F",
+  "name": "Anti-Theft Road Planning",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "divide and conquer",
+    "greedy",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1673/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 905
+}

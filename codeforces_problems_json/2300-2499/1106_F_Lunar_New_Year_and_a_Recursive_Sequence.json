@@ -1,0 +1,16 @@
+{
+  "contest_id": 1106,
+  "problem_index": "F",
+  "name": "Lunar New Year and a Recursive Sequence",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1106/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 1093
+}

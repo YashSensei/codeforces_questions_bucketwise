@@ -1,0 +1,15 @@
+{
+  "contest_id": 1750,
+  "problem_index": "C",
+  "name": "Complementary XOR",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1750/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 10124
+}

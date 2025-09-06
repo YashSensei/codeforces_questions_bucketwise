@@ -1,0 +1,17 @@
+{
+  "contest_id": 291,
+  "problem_index": "E",
+  "name": "Tree-String Problem",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "*special",
+    "dfs and similar",
+    "hashing",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/291/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 1457
+}

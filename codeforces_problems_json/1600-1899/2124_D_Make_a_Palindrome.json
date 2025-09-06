@@ -1,0 +1,16 @@
+{
+  "contest_id": 2124,
+  "problem_index": "D",
+  "name": "Make a Palindrome",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2124/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 6993
+}

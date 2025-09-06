@@ -1,0 +1,14 @@
+{
+  "contest_id": 946,
+  "problem_index": "E",
+  "name": "Largest Beautiful Number",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/946/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1156
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1616,
+  "problem_index": "E",
+  "name": "Lexicographically Small Enough",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1616/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 2601
+}

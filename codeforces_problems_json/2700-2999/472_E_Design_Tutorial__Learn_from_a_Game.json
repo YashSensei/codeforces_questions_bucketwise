@@ -1,0 +1,15 @@
+{
+  "contest_id": 472,
+  "problem_index": "E",
+  "name": "Design Tutorial: Learn from a Game",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/472/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 136
+}

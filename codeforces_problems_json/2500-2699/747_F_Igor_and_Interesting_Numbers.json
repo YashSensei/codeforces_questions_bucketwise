@@ -1,0 +1,17 @@
+{
+  "contest_id": 747,
+  "problem_index": "F",
+  "name": "Igor and Interesting Numbers",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/747/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 447
+}

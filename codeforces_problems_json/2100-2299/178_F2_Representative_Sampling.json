@@ -1,0 +1,16 @@
+{
+  "contest_id": 178,
+  "problem_index": "F2",
+  "name": "Representative Sampling",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dp",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/178/F2",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 30.0,
+  "solved_count": 370
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 873,
+  "problem_index": "B",
+  "name": "Balanced Substring",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/873/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 8431
+}

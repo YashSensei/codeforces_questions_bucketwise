@@ -1,0 +1,15 @@
+{
+  "contest_id": 1863,
+  "problem_index": "C",
+  "name": "MEX Repetition",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1863/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 15095
+}

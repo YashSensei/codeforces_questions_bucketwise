@@ -1,0 +1,15 @@
+{
+  "contest_id": 576,
+  "problem_index": "A",
+  "name": "Vasya and Petya's Game",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/576/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 15275
+}

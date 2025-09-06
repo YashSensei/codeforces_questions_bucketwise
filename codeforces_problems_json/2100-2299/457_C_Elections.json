@@ -1,0 +1,14 @@
+{
+  "contest_id": 457,
+  "problem_index": "C",
+  "name": "Elections",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/457/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 914
+}

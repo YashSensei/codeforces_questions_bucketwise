@@ -1,0 +1,17 @@
+{
+  "contest_id": 2069,
+  "problem_index": "F",
+  "name": "Graph Inclusion",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2069/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 673
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1566,
+  "problem_index": "G",
+  "name": "Four Vertices",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "greedy",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1566/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 364
+}

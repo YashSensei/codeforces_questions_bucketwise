@@ -1,0 +1,15 @@
+{
+  "contest_id": 1228,
+  "problem_index": "C",
+  "name": "Primes and Multiplication",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1228/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 9404
+}

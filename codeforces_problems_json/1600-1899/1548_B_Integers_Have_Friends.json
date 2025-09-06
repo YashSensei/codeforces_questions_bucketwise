@@ -1,0 +1,19 @@
+{
+  "contest_id": 1548,
+  "problem_index": "B",
+  "name": "Integers Have Friends",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1548/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 10769
+}

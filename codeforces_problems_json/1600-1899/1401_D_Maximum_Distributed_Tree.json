@@ -1,0 +1,21 @@
+{
+  "contest_id": 1401,
+  "problem_index": "D",
+  "name": "Maximum Distributed Tree",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "implementation",
+    "math",
+    "number theory",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1401/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 9917
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 804,
+  "problem_index": "D",
+  "name": "Expected diameter of a tree",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/804/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 1476
+}

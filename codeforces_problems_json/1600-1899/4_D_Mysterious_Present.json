@@ -1,0 +1,14 @@
+{
+  "contest_id": 4,
+  "problem_index": "D",
+  "name": "Mysterious Present",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/4/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 11315
+}

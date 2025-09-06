@@ -1,0 +1,19 @@
+{
+  "contest_id": 1371,
+  "problem_index": "E1",
+  "name": "Asterism (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1371/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 5400
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1725,
+  "problem_index": "C",
+  "name": "Circular Mirror",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "geometry",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1725/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1797
+}

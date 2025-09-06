@@ -1,0 +1,15 @@
+{
+  "contest_id": 686,
+  "problem_index": "A",
+  "name": "Free Ice Cream",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/686/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 41046
+}

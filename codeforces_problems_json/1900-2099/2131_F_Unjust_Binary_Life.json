@@ -1,0 +1,19 @@
+{
+  "contest_id": 2131,
+  "problem_index": "F",
+  "name": "Unjust Binary Life",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "greedy",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2131/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 3347
+}

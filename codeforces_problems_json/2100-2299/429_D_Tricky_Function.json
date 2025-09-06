@@ -1,0 +1,16 @@
+{
+  "contest_id": 429,
+  "problem_index": "D",
+  "name": "Tricky Function",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/429/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 3074
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1194,
+  "problem_index": "E",
+  "name": "Count The Rectangles",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "geometry",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1194/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1978
+}

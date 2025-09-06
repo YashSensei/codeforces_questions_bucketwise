@@ -1,0 +1,15 @@
+{
+  "contest_id": 659,
+  "problem_index": "A",
+  "name": "Round House",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/659/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 16364
+}

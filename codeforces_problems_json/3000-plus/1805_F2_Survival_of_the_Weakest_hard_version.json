@@ -1,0 +1,17 @@
+{
+  "contest_id": 1805,
+  "problem_index": "F2",
+  "name": "Survival of the Weakest (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1805/F2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 407
+}

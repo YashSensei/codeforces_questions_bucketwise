@@ -1,0 +1,15 @@
+{
+  "contest_id": 1559,
+  "problem_index": "C",
+  "name": "Mocha and Hiking",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1559/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 21914
+}

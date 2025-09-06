@@ -1,0 +1,14 @@
+{
+  "contest_id": 8,
+  "problem_index": "D",
+  "name": "Two Friends",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/8/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 556
+}

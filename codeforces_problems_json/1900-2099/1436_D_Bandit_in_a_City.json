@@ -1,0 +1,18 @@
+{
+  "contest_id": 1436,
+  "problem_index": "D",
+  "name": "Bandit in a City",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1436/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 6318
+}

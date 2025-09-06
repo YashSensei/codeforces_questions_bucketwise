@@ -1,0 +1,14 @@
+{
+  "contest_id": 792,
+  "problem_index": "D",
+  "name": "Paths in a Complete Binary Tree",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/792/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3221
+}

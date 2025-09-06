@@ -1,0 +1,18 @@
+{
+  "contest_id": 723,
+  "problem_index": "E",
+  "name": "One-Way Reform",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "flows",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/723/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2131
+}

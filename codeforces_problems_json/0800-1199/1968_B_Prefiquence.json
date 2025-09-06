@@ -1,0 +1,14 @@
+{
+  "contest_id": 1968,
+  "problem_index": "B",
+  "name": "Prefiquence",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1968/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 30144
+}

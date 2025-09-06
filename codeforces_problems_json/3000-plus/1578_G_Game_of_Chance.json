@@ -1,0 +1,14 @@
+{
+  "contest_id": 1578,
+  "problem_index": "G",
+  "name": "Game of Chance",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1578/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 51
+}

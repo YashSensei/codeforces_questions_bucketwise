@@ -1,0 +1,15 @@
+{
+  "contest_id": 808,
+  "problem_index": "C",
+  "name": "Tea Party",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/808/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6661
+}

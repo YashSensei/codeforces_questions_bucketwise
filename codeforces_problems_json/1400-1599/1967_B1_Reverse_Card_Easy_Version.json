@@ -1,0 +1,16 @@
+{
+  "contest_id": 1967,
+  "problem_index": "B1",
+  "name": "Reverse Card (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1967/B1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 15121
+}

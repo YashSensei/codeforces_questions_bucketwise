@@ -1,0 +1,14 @@
+{
+  "contest_id": 1250,
+  "problem_index": "J",
+  "name": "The Parade",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1250/J",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3165
+}

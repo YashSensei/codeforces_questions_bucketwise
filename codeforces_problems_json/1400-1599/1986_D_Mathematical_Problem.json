@@ -1,0 +1,18 @@
+{
+  "contest_id": 1986,
+  "problem_index": "D",
+  "name": "Mathematical Problem",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1986/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 17122
+}

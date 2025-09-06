@@ -1,0 +1,14 @@
+{
+  "contest_id": 1175,
+  "problem_index": "D",
+  "name": "Array Splitting",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1175/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6773
+}

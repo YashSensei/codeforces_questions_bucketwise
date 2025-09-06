@@ -1,0 +1,18 @@
+{
+  "contest_id": 1807,
+  "problem_index": "G1",
+  "name": "Subsequence Addition (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1807/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 21098
+}

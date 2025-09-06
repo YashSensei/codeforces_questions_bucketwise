@@ -1,0 +1,19 @@
+{
+  "contest_id": 1886,
+  "problem_index": "E",
+  "name": "I Wanna be the Team Leader",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1886/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1693
+}

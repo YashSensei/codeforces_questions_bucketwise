@@ -1,0 +1,16 @@
+{
+  "contest_id": 1477,
+  "problem_index": "A",
+  "name": "Nezzar and Board",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1477/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 6270
+}

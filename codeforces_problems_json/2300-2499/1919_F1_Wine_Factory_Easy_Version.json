@@ -1,0 +1,15 @@
+{
+  "contest_id": 1919,
+  "problem_index": "F1",
+  "name": "Wine Factory (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1919/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 2381
+}

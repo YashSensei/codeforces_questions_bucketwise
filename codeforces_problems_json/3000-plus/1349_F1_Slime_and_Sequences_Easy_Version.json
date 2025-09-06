@@ -1,0 +1,16 @@
+{
+  "contest_id": 1349,
+  "problem_index": "F1",
+  "name": "Slime and Sequences (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "dp",
+    "fft",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1349/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 486
+}

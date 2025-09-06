@@ -1,0 +1,15 @@
+{
+  "contest_id": 883,
+  "problem_index": "J",
+  "name": "Renovation",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/883/J",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 594
+}

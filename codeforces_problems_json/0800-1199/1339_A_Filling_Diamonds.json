@@ -1,0 +1,17 @@
+{
+  "contest_id": 1339,
+  "problem_index": "A",
+  "name": "Filling Diamonds",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1339/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 33423
+}

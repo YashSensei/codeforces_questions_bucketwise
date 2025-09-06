@@ -1,0 +1,16 @@
+{
+  "contest_id": 559,
+  "problem_index": "D",
+  "name": "Randomizer",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "combinatorics",
+    "geometry",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/559/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 465
+}

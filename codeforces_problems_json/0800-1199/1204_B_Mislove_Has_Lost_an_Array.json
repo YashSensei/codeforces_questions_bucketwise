@@ -1,0 +1,15 @@
+{
+  "contest_id": 1204,
+  "problem_index": "B",
+  "name": "Mislove Has Lost an Array",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1204/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 17909
+}

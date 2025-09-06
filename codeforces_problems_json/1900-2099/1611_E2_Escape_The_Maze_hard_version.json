@@ -1,0 +1,17 @@
+{
+  "contest_id": 1611,
+  "problem_index": "E2",
+  "name": "Escape The Maze (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1611/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4124
+}

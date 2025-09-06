@@ -1,0 +1,15 @@
+{
+  "contest_id": 1974,
+  "problem_index": "G",
+  "name": "Money Buys Less Happiness Now ",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1974/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 5232
+}

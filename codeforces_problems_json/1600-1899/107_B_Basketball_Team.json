@@ -1,0 +1,17 @@
+{
+  "contest_id": 107,
+  "problem_index": "B",
+  "name": "Basketball Team",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/107/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 4010
+}

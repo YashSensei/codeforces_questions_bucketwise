@@ -1,0 +1,16 @@
+{
+  "contest_id": 812,
+  "problem_index": "B",
+  "name": "Sagheer, the Hausmeister",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/812/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 5402
+}

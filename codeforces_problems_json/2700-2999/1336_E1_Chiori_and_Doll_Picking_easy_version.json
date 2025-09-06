@@ -1,0 +1,17 @@
+{
+  "contest_id": 1336,
+  "problem_index": "E1",
+  "name": "Chiori and Doll Picking (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1336/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 765
+}

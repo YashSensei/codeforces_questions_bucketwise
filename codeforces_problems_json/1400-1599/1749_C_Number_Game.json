@@ -1,0 +1,17 @@
+{
+  "contest_id": 1749,
+  "problem_index": "C",
+  "name": "Number Game",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "games",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1749/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15133
+}

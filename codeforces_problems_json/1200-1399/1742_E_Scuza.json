@@ -1,0 +1,15 @@
+{
+  "contest_id": 1742,
+  "problem_index": "E",
+  "name": "Scuza",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1742/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 31935
+}

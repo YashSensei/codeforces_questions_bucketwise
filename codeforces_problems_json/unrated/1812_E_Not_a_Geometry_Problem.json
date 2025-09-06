@@ -1,0 +1,17 @@
+{
+  "contest_id": 1812,
+  "problem_index": "E",
+  "name": "Not a Geometry Problem",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "*special",
+    "constructive algorithms",
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1812/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4198
+}

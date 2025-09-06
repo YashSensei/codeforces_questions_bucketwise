@@ -1,0 +1,17 @@
+{
+  "contest_id": 557,
+  "problem_index": "D",
+  "name": "Vitaly and Cycle",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/557/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 2290
+}

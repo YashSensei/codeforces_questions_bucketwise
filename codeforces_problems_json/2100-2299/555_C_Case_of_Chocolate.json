@@ -1,0 +1,14 @@
+{
+  "contest_id": 555,
+  "problem_index": "C",
+  "name": "Case of Chocolate",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/555/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 2006
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 2062,
+  "problem_index": "E1",
+  "name": "The Game (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "games",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2062/E1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 3951
+}

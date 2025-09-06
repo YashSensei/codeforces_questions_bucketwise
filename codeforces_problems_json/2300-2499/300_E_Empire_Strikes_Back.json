@@ -1,0 +1,16 @@
+{
+  "contest_id": 300,
+  "problem_index": "E",
+  "name": "Empire Strikes Back",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/300/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 1079
+}

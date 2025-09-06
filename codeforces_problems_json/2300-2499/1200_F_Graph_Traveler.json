@@ -1,0 +1,21 @@
+{
+  "contest_id": 1200,
+  "problem_index": "F",
+  "name": "Graph Traveler",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1200/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1130
+}

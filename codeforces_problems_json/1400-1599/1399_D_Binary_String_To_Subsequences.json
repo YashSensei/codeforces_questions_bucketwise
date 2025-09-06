@@ -1,0 +1,16 @@
+{
+  "contest_id": 1399,
+  "problem_index": "D",
+  "name": "Binary String To Subsequences",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1399/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 19304
+}

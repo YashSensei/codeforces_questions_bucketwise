@@ -1,0 +1,16 @@
+{
+  "contest_id": 2094,
+  "problem_index": "H",
+  "name": "La Vaca Saturno Saturnita",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2094/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 3246
+}

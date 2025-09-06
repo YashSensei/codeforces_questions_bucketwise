@@ -1,0 +1,15 @@
+{
+  "contest_id": 1016,
+  "problem_index": "D",
+  "name": "Vasya And The Matrix",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "flows",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1016/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4854
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1129,
+  "problem_index": "E",
+  "name": "Legendary Tree",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "binary search",
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1129/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 498
+}

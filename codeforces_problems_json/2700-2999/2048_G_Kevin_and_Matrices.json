@@ -1,0 +1,17 @@
+{
+  "contest_id": 2048,
+  "problem_index": "G",
+  "name": "Kevin and Matrices",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2048/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 594
+}

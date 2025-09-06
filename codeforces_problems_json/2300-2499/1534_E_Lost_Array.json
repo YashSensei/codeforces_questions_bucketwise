@@ -1,0 +1,17 @@
+{
+  "contest_id": 1534,
+  "problem_index": "E",
+  "name": "Lost Array",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "graphs",
+    "greedy",
+    "interactive",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1534/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 2034
+}

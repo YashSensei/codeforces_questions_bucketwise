@@ -1,0 +1,15 @@
+{
+  "contest_id": 1899,
+  "problem_index": "C",
+  "name": "Yarik and Array",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1899/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 28309
+}

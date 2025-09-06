@@ -1,0 +1,16 @@
+{
+  "contest_id": 1138,
+  "problem_index": "A",
+  "name": "Sushi for Two",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "binary search",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1138/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 20266
+}

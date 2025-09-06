@@ -1,0 +1,16 @@
+{
+  "contest_id": 820,
+  "problem_index": "B",
+  "name": "Mister B and Angle in Polygon",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/820/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 5384
+}

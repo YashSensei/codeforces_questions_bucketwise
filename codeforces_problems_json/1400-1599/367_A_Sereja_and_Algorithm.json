@@ -1,0 +1,15 @@
+{
+  "contest_id": 367,
+  "problem_index": "A",
+  "name": "Sereja and Algorithm ",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/367/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 4436
+}

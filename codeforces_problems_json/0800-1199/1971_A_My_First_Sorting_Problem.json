@@ -1,0 +1,14 @@
+{
+  "contest_id": 1971,
+  "problem_index": "A",
+  "name": "My First Sorting Problem",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1971/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 53870
+}

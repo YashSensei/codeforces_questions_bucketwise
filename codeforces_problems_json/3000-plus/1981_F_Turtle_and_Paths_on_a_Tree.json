@@ -1,0 +1,16 @@
+{
+  "contest_id": 1981,
+  "problem_index": "F",
+  "name": "Turtle and Paths on a Tree",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1981/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3500.0,
+  "solved_count": 316
+}

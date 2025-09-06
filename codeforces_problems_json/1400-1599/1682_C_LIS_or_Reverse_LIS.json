@@ -1,0 +1,17 @@
+{
+  "contest_id": 1682,
+  "problem_index": "C",
+  "name": "LIS or Reverse LIS?",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1682/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 15956
+}

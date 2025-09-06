@@ -1,0 +1,17 @@
+{
+  "contest_id": 1530,
+  "problem_index": "C",
+  "name": "Pursuit",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1530/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 15208
+}

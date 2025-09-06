@@ -1,0 +1,17 @@
+{
+  "contest_id": 1508,
+  "problem_index": "B",
+  "name": "Almost Sorted",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1508/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 4244
+}

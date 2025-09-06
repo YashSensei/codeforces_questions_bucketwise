@@ -1,0 +1,16 @@
+{
+  "contest_id": 1120,
+  "problem_index": "A",
+  "name": "Diana and Liana",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1120/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 1696
+}

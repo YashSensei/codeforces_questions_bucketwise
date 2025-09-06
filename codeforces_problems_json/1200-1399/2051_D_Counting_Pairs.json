@@ -1,0 +1,15 @@
+{
+  "contest_id": 2051,
+  "problem_index": "D",
+  "name": "Counting Pairs",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2051/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 21691
+}

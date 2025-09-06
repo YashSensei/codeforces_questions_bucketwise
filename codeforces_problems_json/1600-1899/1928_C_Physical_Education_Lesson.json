@@ -1,0 +1,16 @@
+{
+  "contest_id": 1928,
+  "problem_index": "C",
+  "name": "Physical Education Lesson",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1928/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 9777
+}

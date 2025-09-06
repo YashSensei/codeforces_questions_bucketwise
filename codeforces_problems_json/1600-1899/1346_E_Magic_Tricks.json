@@ -1,0 +1,15 @@
+{
+  "contest_id": 1346,
+  "problem_index": "E",
+  "name": "Magic Tricks",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "*special",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1346/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 396
+}

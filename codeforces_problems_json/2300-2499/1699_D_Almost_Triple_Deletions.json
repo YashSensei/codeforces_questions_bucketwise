@@ -1,0 +1,16 @@
+{
+  "contest_id": 1699,
+  "problem_index": "D",
+  "name": "Almost Triple Deletions",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1699/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 3368
+}

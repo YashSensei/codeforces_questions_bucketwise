@@ -1,0 +1,17 @@
+{
+  "contest_id": 1327,
+  "problem_index": "F",
+  "name": "AND Segments",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1327/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1892
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 757,
+  "problem_index": "E",
+  "name": "Bash Plays with Functions",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/757/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1467
+}

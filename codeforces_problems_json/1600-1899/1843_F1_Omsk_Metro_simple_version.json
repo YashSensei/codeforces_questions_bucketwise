@@ -1,0 +1,19 @@
+{
+  "contest_id": 1843,
+  "problem_index": "F1",
+  "name": "Omsk Metro (simple version)",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1843/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5933
+}

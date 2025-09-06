@@ -1,0 +1,14 @@
+{
+  "contest_id": 585,
+  "problem_index": "C",
+  "name": "Alice, Bob, Oranges and Apples",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/585/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 1026
+}

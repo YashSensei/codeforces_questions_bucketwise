@@ -1,0 +1,16 @@
+{
+  "contest_id": 832,
+  "problem_index": "D",
+  "name": "Misha, Grisha and Underground",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/832/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 4192
+}

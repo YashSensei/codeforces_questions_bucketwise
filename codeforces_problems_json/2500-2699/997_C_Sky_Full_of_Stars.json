@@ -1,0 +1,15 @@
+{
+  "contest_id": 997,
+  "problem_index": "C",
+  "name": "Sky Full of Stars",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/997/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 1994
+}

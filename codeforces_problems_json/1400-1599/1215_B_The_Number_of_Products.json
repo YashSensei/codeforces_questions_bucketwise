@@ -1,0 +1,16 @@
+{
+  "contest_id": 1215,
+  "problem_index": "B",
+  "name": "The Number of Products",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1215/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 15618
+}

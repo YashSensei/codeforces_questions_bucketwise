@@ -1,0 +1,14 @@
+{
+  "contest_id": 1045,
+  "problem_index": "E",
+  "name": "Ancient civilizations",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "constructive algorithms",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1045/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 245
+}

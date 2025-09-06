@@ -1,0 +1,15 @@
+{
+  "contest_id": 590,
+  "problem_index": "E",
+  "name": "Birthday",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "graph matchings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/590/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 826
+}

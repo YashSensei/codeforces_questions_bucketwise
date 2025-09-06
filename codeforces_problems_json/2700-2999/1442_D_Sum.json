@@ -1,0 +1,17 @@
+{
+  "contest_id": 1442,
+  "problem_index": "D",
+  "name": "Sum",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1442/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 2629
+}

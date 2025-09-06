@@ -1,0 +1,18 @@
+{
+  "contest_id": 710,
+  "problem_index": "F",
+  "name": "String Set Queries",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "data structures",
+    "hashing",
+    "interactive",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/710/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2164
+}

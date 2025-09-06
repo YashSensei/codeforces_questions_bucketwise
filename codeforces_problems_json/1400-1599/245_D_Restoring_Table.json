@@ -1,0 +1,14 @@
+{
+  "contest_id": 245,
+  "problem_index": "D",
+  "name": "Restoring Table",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/245/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 2497
+}

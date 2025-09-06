@@ -1,0 +1,14 @@
+{
+  "contest_id": 730,
+  "problem_index": "A",
+  "name": "Toda 2",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/730/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1675
+}

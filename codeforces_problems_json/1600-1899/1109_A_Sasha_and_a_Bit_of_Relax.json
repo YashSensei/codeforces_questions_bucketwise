@@ -1,0 +1,15 @@
+{
+  "contest_id": 1109,
+  "problem_index": "A",
+  "name": "Sasha and a Bit of Relax",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1109/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 8769
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1335,
+  "problem_index": "D",
+  "name": "Anti-Sudoku",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1335/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 28694
+}

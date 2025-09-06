@@ -1,0 +1,17 @@
+{
+  "contest_id": 1916,
+  "problem_index": "D",
+  "name": "Mathematical Problem",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1916/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 9349
+}

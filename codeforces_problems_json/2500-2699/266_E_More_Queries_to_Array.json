@@ -1,0 +1,15 @@
+{
+  "contest_id": 266,
+  "problem_index": "E",
+  "name": "More Queries to Array...",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/266/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 995
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 893,
+  "problem_index": "D",
+  "name": "Credit Card",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/893/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3217
+}

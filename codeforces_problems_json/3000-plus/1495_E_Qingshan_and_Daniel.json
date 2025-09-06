@@ -1,0 +1,17 @@
+{
+  "contest_id": 1495,
+  "problem_index": "E",
+  "name": "Qingshan and Daniel",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1495/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 533
+}

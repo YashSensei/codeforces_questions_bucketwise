@@ -1,0 +1,14 @@
+{
+  "contest_id": 1430,
+  "problem_index": "F",
+  "name": "Realistic Gameplay",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1430/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 976
+}

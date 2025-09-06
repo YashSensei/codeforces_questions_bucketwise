@@ -1,0 +1,16 @@
+{
+  "contest_id": 1111,
+  "problem_index": "B",
+  "name": "Average Superhero Gang Power ",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1111/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 6415
+}

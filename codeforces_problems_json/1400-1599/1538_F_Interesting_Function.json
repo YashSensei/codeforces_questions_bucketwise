@@ -1,0 +1,16 @@
+{
+  "contest_id": 1538,
+  "problem_index": "F",
+  "name": "Interesting Function",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1538/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20996
+}

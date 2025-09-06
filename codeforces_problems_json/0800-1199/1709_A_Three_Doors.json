@@ -1,0 +1,16 @@
+{
+  "contest_id": 1709,
+  "problem_index": "A",
+  "name": "Three Doors",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1709/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 30757
+}

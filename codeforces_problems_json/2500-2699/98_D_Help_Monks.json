@@ -1,0 +1,14 @@
+{
+  "contest_id": 98,
+  "problem_index": "D",
+  "name": "Help Monks",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/98/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 196
+}

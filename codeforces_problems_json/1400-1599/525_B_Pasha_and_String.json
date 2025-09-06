@@ -1,0 +1,17 @@
+{
+  "contest_id": 525,
+  "problem_index": "B",
+  "name": "Pasha and String",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/525/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 9850
+}

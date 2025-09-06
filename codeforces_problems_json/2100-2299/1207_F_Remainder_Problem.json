@@ -1,0 +1,15 @@
+{
+  "contest_id": 1207,
+  "problem_index": "F",
+  "name": "Remainder Problem",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1207/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6187
+}

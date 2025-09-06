@@ -1,0 +1,15 @@
+{
+  "contest_id": 677,
+  "problem_index": "B",
+  "name": "Vanya and Food Processor",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/677/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 7808
+}

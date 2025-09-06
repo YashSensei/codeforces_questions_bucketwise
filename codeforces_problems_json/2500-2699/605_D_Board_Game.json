@@ -1,0 +1,15 @@
+{
+  "contest_id": 605,
+  "problem_index": "D",
+  "name": "Board Game",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dfs and similar"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/605/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 874
+}

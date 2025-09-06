@@ -1,0 +1,15 @@
+{
+  "contest_id": 2007,
+  "problem_index": "C",
+  "name": "Dora and C++",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2007/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 14727
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 492,
+  "problem_index": "D",
+  "name": "Vanya and Computer Game",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/492/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 3247
+}

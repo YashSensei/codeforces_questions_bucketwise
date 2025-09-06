@@ -1,0 +1,13 @@
+{
+  "contest_id": 180,
+  "problem_index": "C",
+  "name": "Letter",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/180/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 8057
+}

@@ -1,0 +1,13 @@
+{
+  "contest_id": 45,
+  "problem_index": "G",
+  "name": "Prime Problem",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/45/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1129
+}

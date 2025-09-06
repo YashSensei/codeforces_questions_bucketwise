@@ -1,0 +1,18 @@
+{
+  "contest_id": 1998,
+  "problem_index": "C",
+  "name": "Perform Operations to Maximize Score",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1998/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 6802
+}

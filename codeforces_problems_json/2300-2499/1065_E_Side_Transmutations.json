@@ -1,0 +1,14 @@
+{
+  "contest_id": 1065,
+  "problem_index": "E",
+  "name": "Side Transmutations",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1065/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1167
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 449,
+  "problem_index": "E",
+  "name": "Jzzhu and Squares",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/449/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 298
+}

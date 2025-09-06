@@ -1,0 +1,15 @@
+{
+  "contest_id": 1310,
+  "problem_index": "F",
+  "name": "Bad Cryptography",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1310/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 86
+}

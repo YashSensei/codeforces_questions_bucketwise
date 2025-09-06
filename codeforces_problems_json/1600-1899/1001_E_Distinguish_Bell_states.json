@@ -1,0 +1,13 @@
+{
+  "contest_id": 1001,
+  "problem_index": "E",
+  "name": "Distinguish Bell states",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1001/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 565
+}

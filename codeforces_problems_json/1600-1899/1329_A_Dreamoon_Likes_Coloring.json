@@ -1,0 +1,17 @@
+{
+  "contest_id": 1329,
+  "problem_index": "A",
+  "name": "Dreamoon Likes Coloring",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1329/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 9494
+}

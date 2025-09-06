@@ -1,0 +1,16 @@
+{
+  "contest_id": 331,
+  "problem_index": "E1",
+  "name": "Deja Vu",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/331/E1",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 50.0,
+  "solved_count": 204
+}

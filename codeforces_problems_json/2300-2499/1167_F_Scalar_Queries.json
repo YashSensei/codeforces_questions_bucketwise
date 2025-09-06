@@ -1,0 +1,16 @@
+{
+  "contest_id": 1167,
+  "problem_index": "F",
+  "name": "Scalar Queries",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1167/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1752
+}

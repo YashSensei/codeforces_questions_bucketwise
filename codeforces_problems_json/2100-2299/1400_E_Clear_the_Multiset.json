@@ -1,0 +1,16 @@
+{
+  "contest_id": 1400,
+  "problem_index": "E",
+  "name": "Clear the Multiset",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1400/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5949
+}

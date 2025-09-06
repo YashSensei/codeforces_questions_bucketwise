@@ -1,0 +1,15 @@
+{
+  "contest_id": 2084,
+  "problem_index": "G1",
+  "name": "Wish Upon a Satellite (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dp",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2084/G1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 594
+}

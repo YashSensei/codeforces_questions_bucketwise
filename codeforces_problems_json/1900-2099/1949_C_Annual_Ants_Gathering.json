@@ -1,0 +1,16 @@
+{
+  "contest_id": 1949,
+  "problem_index": "C",
+  "name": "Annual Ants' Gathering",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1949/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2267
+}

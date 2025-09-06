@@ -1,0 +1,15 @@
+{
+  "contest_id": 1007,
+  "problem_index": "C",
+  "name": "Guess two numbers",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1007/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 428
+}

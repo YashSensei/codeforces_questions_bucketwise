@@ -1,0 +1,14 @@
+{
+  "contest_id": 1766,
+  "problem_index": "C",
+  "name": "Hamiltonian Wall",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1766/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14457
+}

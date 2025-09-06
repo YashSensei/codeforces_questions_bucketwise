@@ -1,0 +1,14 @@
+{
+  "contest_id": 1472,
+  "problem_index": "C",
+  "name": "Long Jumps",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1472/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 33739
+}

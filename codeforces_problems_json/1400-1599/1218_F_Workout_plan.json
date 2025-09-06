@@ -1,0 +1,14 @@
+{
+  "contest_id": 1218,
+  "problem_index": "F",
+  "name": "Workout plan",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1218/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3064
+}

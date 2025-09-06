@@ -1,0 +1,19 @@
+{
+  "contest_id": 1827,
+  "problem_index": "B1",
+  "name": "Range Sorting (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "dp",
+    "dsu",
+    "greedy",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1827/B1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 4281
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 2014,
+  "problem_index": "H",
+  "name": "Robin Hood Archery",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "hashing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2014/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 4798
+}

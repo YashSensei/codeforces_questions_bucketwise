@@ -1,0 +1,15 @@
+{
+  "contest_id": 779,
+  "problem_index": "A",
+  "name": "Pupils Redistribution",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/779/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 9499
+}

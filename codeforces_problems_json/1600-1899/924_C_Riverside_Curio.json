@@ -1,0 +1,16 @@
+{
+  "contest_id": 924,
+  "problem_index": "C",
+  "name": "Riverside Curio",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/924/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 4155
+}

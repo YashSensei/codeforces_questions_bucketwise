@@ -1,0 +1,15 @@
+{
+  "contest_id": 1054,
+  "problem_index": "F",
+  "name": "Electric Scheme",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "flows",
+    "graph matchings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1054/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 358
+}

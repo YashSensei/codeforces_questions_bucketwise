@@ -1,0 +1,18 @@
+{
+  "contest_id": 2114,
+  "problem_index": "G",
+  "name": "Build an Array",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2114/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1723
+}

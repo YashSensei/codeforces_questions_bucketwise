@@ -1,0 +1,15 @@
+{
+  "contest_id": 1671,
+  "problem_index": "B",
+  "name": "Consecutive Points Segment",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1671/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 19232
+}

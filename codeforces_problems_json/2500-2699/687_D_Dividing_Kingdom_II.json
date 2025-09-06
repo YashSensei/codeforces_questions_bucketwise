@@ -1,0 +1,18 @@
+{
+  "contest_id": 687,
+  "problem_index": "D",
+  "name": "Dividing Kingdom II",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dsu",
+    "graphs",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/687/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 1002
+}

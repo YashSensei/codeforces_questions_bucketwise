@@ -1,0 +1,15 @@
+{
+  "contest_id": 1108,
+  "problem_index": "D",
+  "name": "Diverse Garland",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1108/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 16048
+}

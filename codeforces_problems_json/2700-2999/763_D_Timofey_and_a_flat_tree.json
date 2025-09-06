@@ -1,0 +1,18 @@
+{
+  "contest_id": 763,
+  "problem_index": "D",
+  "name": "Timofey and a flat tree",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "data structures",
+    "graphs",
+    "hashing",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/763/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 619
+}

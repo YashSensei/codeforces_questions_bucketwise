@@ -1,0 +1,15 @@
+{
+  "contest_id": 1919,
+  "problem_index": "H",
+  "name": "Tree Diameter",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1919/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 5000.0,
+  "solved_count": 164
+}

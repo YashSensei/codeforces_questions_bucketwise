@@ -1,0 +1,14 @@
+{
+  "contest_id": 1060,
+  "problem_index": "H",
+  "name": "Sophisticated Device",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1060/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 234
+}

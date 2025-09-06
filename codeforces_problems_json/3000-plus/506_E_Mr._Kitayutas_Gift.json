@@ -1,0 +1,17 @@
+{
+  "contest_id": 506,
+  "problem_index": "E",
+  "name": "Mr. Kitayuta's Gift",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "matrices",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/506/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 829
+}

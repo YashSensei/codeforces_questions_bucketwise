@@ -1,0 +1,14 @@
+{
+  "contest_id": 867,
+  "problem_index": "A",
+  "name": "Between the Offices",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/867/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 20146
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 848,
+  "problem_index": "D",
+  "name": "Shake It!",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/848/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 433
+}

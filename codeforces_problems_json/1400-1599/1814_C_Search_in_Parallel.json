@@ -1,0 +1,15 @@
+{
+  "contest_id": 1814,
+  "problem_index": "C",
+  "name": "Search in Parallel",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1814/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 11970
+}

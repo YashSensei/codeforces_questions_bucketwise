@@ -1,0 +1,16 @@
+{
+  "contest_id": 379,
+  "problem_index": "E",
+  "name": "New Year Tree Decorations",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "geometry",
+    "schedules",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/379/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 368
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1765,
+  "problem_index": "H",
+  "name": "Hospital Queue",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1765/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1461
+}

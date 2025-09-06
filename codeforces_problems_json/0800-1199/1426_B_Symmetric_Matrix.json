@@ -1,0 +1,13 @@
+{
+  "contest_id": 1426,
+  "problem_index": "B",
+  "name": "Symmetric Matrix",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1426/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 21291
+}

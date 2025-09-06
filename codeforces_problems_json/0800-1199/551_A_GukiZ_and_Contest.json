@@ -1,0 +1,16 @@
+{
+  "contest_id": 551,
+  "problem_index": "A",
+  "name": "GukiZ and Contest",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/551/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 17180
+}

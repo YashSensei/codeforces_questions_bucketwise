@@ -1,0 +1,16 @@
+{
+  "contest_id": 729,
+  "problem_index": "D",
+  "name": "Sea Battle",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/729/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 3929
+}

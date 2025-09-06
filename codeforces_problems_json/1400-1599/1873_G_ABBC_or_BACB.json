@@ -1,0 +1,14 @@
+{
+  "contest_id": 1873,
+  "problem_index": "G",
+  "name": "ABBC or BACB",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1873/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15559
+}

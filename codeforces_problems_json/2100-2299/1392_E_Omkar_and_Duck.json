@@ -1,0 +1,17 @@
+{
+  "contest_id": 1392,
+  "problem_index": "E",
+  "name": "Omkar and Duck",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1392/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 3673
+}

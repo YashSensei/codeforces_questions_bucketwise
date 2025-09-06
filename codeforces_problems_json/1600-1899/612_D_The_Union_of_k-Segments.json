@@ -1,0 +1,14 @@
+{
+  "contest_id": 612,
+  "problem_index": "D",
+  "name": "The Union of k-Segments",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/612/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4158
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 2077,
+  "problem_index": "B",
+  "name": "Finding OR Sum",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "implementation",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2077/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 3095
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1593,
+  "problem_index": "G",
+  "name": "Changing Brackets",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1593/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1817
+}

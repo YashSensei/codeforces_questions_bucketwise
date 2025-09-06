@@ -1,0 +1,16 @@
+{
+  "contest_id": 158,
+  "problem_index": "D",
+  "name": "Ice Sculptures",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "*special",
+    "brute force",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/158/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 6364
+}

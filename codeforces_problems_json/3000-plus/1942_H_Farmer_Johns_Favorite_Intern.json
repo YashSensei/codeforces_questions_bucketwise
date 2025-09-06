@@ -1,0 +1,17 @@
+{
+  "contest_id": 1942,
+  "problem_index": "H",
+  "name": "Farmer John's Favorite Intern",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "data structures",
+    "dp",
+    "flows",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1942/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4500.0,
+  "solved_count": 176
+}

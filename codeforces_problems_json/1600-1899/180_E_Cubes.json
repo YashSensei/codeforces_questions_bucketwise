@@ -1,0 +1,15 @@
+{
+  "contest_id": 180,
+  "problem_index": "E",
+  "name": "Cubes",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "dp",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/180/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1957
+}

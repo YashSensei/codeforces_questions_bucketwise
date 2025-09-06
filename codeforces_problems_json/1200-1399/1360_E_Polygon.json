@@ -1,0 +1,16 @@
+{
+  "contest_id": 1360,
+  "problem_index": "E",
+  "name": "Polygon",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "dp",
+    "graphs",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1360/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 26961
+}

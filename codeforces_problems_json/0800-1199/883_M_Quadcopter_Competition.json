@@ -1,0 +1,14 @@
+{
+  "contest_id": 883,
+  "problem_index": "M",
+  "name": "Quadcopter Competition",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/883/M",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3718
+}

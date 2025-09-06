@@ -1,0 +1,16 @@
+{
+  "contest_id": 1810,
+  "problem_index": "C",
+  "name": "Make It Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1810/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 15857
+}

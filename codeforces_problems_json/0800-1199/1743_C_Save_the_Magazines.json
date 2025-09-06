@@ -1,0 +1,15 @@
+{
+  "contest_id": 1743,
+  "problem_index": "C",
+  "name": "Save the Magazines",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1743/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20136
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1513,
+  "problem_index": "E",
+  "name": "Cost Equilibrium",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1513/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 1588
+}

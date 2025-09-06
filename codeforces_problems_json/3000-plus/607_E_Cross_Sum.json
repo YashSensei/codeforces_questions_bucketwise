@@ -1,0 +1,15 @@
+{
+  "contest_id": 607,
+  "problem_index": "E",
+  "name": "Cross Sum",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "binary search",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/607/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 288
+}

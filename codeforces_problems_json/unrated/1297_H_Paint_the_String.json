@@ -1,0 +1,15 @@
+{
+  "contest_id": 1297,
+  "problem_index": "H",
+  "name": "Paint the String",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1297/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 50
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 707,
+  "problem_index": "B",
+  "name": "Bakery",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/707/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 13335
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1873,
+  "problem_index": "E",
+  "name": "Building an Aquarium",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1873/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 35399
+}

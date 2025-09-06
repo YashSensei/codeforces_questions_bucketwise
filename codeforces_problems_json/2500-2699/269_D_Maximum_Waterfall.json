@@ -1,0 +1,17 @@
+{
+  "contest_id": 269,
+  "problem_index": "D",
+  "name": "Maximum Waterfall",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "data structures",
+    "dp",
+    "graphs",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/269/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 477
+}

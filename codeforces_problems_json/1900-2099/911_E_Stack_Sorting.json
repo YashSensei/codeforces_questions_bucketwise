@@ -1,0 +1,16 @@
+{
+  "contest_id": 911,
+  "problem_index": "E",
+  "name": "Stack Sorting",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/911/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2713
+}

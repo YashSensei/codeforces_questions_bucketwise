@@ -1,0 +1,16 @@
+{
+  "contest_id": 1372,
+  "problem_index": "E",
+  "name": "Omkar and Last Floor",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1372/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1341
+}

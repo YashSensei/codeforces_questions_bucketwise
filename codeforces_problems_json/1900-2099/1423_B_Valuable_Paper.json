@@ -1,0 +1,16 @@
+{
+  "contest_id": 1423,
+  "problem_index": "B",
+  "name": "Valuable Paper",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "flows",
+    "graph matchings",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1423/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1946
+}

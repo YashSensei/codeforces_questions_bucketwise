@@ -1,0 +1,15 @@
+{
+  "contest_id": 1791,
+  "problem_index": "G2",
+  "name": "Teleporters (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1791/G2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5346
+}

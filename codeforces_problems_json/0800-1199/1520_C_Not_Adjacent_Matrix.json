@@ -1,0 +1,13 @@
+{
+  "contest_id": 1520,
+  "problem_index": "C",
+  "name": "Not Adjacent Matrix",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1520/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 33546
+}

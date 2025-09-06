@@ -1,0 +1,17 @@
+{
+  "contest_id": 434,
+  "problem_index": "E",
+  "name": "Furukawa Nagisa's Tree",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "divide and conquer",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/434/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 3000.0,
+  "solved_count": 305
+}

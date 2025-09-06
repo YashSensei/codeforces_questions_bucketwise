@@ -1,0 +1,17 @@
+{
+  "contest_id": 2104,
+  "problem_index": "B",
+  "name": "Move to the End",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2104/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 18229
+}

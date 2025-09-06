@@ -1,0 +1,16 @@
+{
+  "contest_id": 1343,
+  "problem_index": "D",
+  "name": "Constant Palindrome Sum",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1343/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13149
+}

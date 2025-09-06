@@ -1,0 +1,16 @@
+{
+  "contest_id": 354,
+  "problem_index": "E",
+  "name": "Lucky Number Representation",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/354/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 891
+}

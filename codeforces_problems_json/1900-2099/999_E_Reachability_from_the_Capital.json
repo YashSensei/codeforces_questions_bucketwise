@@ -1,0 +1,15 @@
+{
+  "contest_id": 999,
+  "problem_index": "E",
+  "name": "Reachability from the Capital",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/999/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7265
+}

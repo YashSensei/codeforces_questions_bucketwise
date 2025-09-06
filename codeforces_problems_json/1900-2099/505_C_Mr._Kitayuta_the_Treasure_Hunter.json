@@ -1,0 +1,16 @@
+{
+  "contest_id": 505,
+  "problem_index": "C",
+  "name": "Mr. Kitayuta, the Treasure Hunter",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/505/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 6911
+}

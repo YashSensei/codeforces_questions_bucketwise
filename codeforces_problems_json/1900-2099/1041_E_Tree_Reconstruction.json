@@ -1,0 +1,17 @@
+{
+  "contest_id": 1041,
+  "problem_index": "E",
+  "name": "Tree Reconstruction",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1041/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 3737
+}

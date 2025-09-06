@@ -1,0 +1,19 @@
+{
+  "contest_id": 1857,
+  "problem_index": "G",
+  "name": "Counting Graphs",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1857/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5052
+}

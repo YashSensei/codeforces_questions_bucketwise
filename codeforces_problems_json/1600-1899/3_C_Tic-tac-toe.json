@@ -1,0 +1,15 @@
+{
+  "contest_id": 3,
+  "problem_index": "C",
+  "name": "Tic-tac-toe",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "games",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/3/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 7913
+}

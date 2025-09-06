@@ -1,0 +1,16 @@
+{
+  "contest_id": 1606,
+  "problem_index": "D",
+  "name": "Red-Blue Matrix",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1606/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1541
+}

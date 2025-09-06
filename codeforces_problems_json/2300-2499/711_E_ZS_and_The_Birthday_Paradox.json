@@ -1,0 +1,16 @@
+{
+  "contest_id": 711,
+  "problem_index": "E",
+  "name": "ZS and The Birthday Paradox",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "math",
+    "number theory",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/711/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1324
+}

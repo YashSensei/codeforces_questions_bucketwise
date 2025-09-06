@@ -1,0 +1,18 @@
+{
+  "contest_id": 1739,
+  "problem_index": "D",
+  "name": "Reset K Edges",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1739/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5771
+}

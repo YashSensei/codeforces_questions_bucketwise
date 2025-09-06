@@ -1,0 +1,15 @@
+{
+  "contest_id": 722,
+  "problem_index": "B",
+  "name": "Verse Pattern",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/722/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 6642
+}

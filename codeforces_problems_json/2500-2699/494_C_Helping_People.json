@@ -1,0 +1,15 @@
+{
+  "contest_id": 494,
+  "problem_index": "C",
+  "name": "Helping People",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dp",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/494/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 918
+}

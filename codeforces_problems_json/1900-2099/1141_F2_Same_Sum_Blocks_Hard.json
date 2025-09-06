@@ -1,0 +1,14 @@
+{
+  "contest_id": 1141,
+  "problem_index": "F2",
+  "name": "Same Sum Blocks (Hard)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1141/F2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4444
+}

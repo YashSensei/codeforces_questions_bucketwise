@@ -1,0 +1,17 @@
+{
+  "contest_id": 1301,
+  "problem_index": "F",
+  "name": "Super Jaber",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1301/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 1368
+}

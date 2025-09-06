@@ -1,0 +1,15 @@
+{
+  "contest_id": 845,
+  "problem_index": "G",
+  "name": "Shortest Path Problem?",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/845/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1928
+}

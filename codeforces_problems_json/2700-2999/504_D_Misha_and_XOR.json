@@ -1,0 +1,14 @@
+{
+  "contest_id": 504,
+  "problem_index": "D",
+  "name": "Misha and XOR",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/504/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 320
+}

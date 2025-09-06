@@ -1,0 +1,16 @@
+{
+  "contest_id": 1307,
+  "problem_index": "B",
+  "name": "Cow and Friend",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1307/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 13649
+}

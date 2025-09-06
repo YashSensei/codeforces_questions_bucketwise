@@ -1,0 +1,21 @@
+{
+  "contest_id": 1706,
+  "problem_index": "D2",
+  "name": "Chopping Carrots (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1706/D2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 1853
+}

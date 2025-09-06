@@ -1,0 +1,14 @@
+{
+  "contest_id": 1551,
+  "problem_index": "B1",
+  "name": "Wonderful Coloring - 1",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1551/B1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 30586
+}

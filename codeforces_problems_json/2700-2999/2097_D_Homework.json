@@ -1,0 +1,16 @@
+{
+  "contest_id": 2097,
+  "problem_index": "D",
+  "name": "Homework",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "bitmasks",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2097/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 407
+}

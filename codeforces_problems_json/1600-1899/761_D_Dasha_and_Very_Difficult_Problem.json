@@ -1,0 +1,18 @@
+{
+  "contest_id": 761,
+  "problem_index": "D",
+  "name": "Dasha and Very Difficult Problem",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/761/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 4125
+}

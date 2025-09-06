@@ -1,0 +1,16 @@
+{
+  "contest_id": 1555,
+  "problem_index": "D",
+  "name": "Say No to Palindromes",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1555/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14003
+}

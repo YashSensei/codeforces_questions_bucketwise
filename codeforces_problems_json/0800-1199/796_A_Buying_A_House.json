@@ -1,0 +1,15 @@
+{
+  "contest_id": 796,
+  "problem_index": "A",
+  "name": "Buying A House",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/796/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 13412
+}

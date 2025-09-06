@@ -1,0 +1,15 @@
+{
+  "contest_id": 113,
+  "problem_index": "A",
+  "name": "Grammar Lessons",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/113/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 2441
+}

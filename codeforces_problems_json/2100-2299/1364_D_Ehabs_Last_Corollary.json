@@ -1,0 +1,19 @@
+{
+  "contest_id": 1364,
+  "problem_index": "D",
+  "name": "Ehab's Last Corollary",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1364/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 4647
+}

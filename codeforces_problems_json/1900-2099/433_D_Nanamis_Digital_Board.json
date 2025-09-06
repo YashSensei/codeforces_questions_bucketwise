@@ -1,0 +1,15 @@
+{
+  "contest_id": 433,
+  "problem_index": "D",
+  "name": "Nanami's Digital Board",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dsu",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/433/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 1276
+}

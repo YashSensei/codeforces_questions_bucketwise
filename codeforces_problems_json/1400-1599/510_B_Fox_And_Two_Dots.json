@@ -1,0 +1,14 @@
+{
+  "contest_id": 510,
+  "problem_index": "B",
+  "name": "Fox And Two Dots",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/510/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 15245
+}

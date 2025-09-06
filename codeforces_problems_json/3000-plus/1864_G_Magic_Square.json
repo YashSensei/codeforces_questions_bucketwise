@@ -1,0 +1,16 @@
+{
+  "contest_id": 1864,
+  "problem_index": "G",
+  "name": "Magic Square",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1864/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 299
+}

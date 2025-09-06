@@ -1,0 +1,16 @@
+{
+  "contest_id": 925,
+  "problem_index": "B",
+  "name": "Resource Distribution",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/925/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 2274
+}

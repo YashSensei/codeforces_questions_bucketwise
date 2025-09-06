@@ -1,0 +1,15 @@
+{
+  "contest_id": 1857,
+  "problem_index": "D",
+  "name": "Strong Vertices",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1857/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 24771
+}

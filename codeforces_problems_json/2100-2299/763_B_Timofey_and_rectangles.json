@@ -1,0 +1,15 @@
+{
+  "contest_id": 763,
+  "problem_index": "B",
+  "name": "Timofey and rectangles",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/763/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 2960
+}

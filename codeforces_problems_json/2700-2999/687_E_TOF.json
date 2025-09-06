@@ -1,0 +1,15 @@
+{
+  "contest_id": 687,
+  "problem_index": "E",
+  "name": "TOF",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/687/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 428
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 337,
+  "problem_index": "A",
+  "name": "Puzzles",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/337/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 87880
+}

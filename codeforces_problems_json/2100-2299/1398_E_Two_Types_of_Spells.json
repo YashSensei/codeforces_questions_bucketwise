@@ -1,0 +1,18 @@
+{
+  "contest_id": 1398,
+  "problem_index": "E",
+  "name": "Two Types of Spells",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1398/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2514
+}

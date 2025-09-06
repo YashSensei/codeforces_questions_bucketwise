@@ -1,0 +1,16 @@
+{
+  "contest_id": 1657,
+  "problem_index": "E",
+  "name": "Star MST",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "graph matchings",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1657/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2324
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1811,
+  "problem_index": "G1",
+  "name": "Vlad and the Nice Paths (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1811/G1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2309
+}

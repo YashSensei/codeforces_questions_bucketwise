@@ -1,0 +1,17 @@
+{
+  "contest_id": 2113,
+  "problem_index": "F",
+  "name": "Two Arrays",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2113/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 713
+}

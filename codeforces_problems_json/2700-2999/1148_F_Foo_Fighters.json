@@ -1,0 +1,15 @@
+{
+  "contest_id": 1148,
+  "problem_index": "F",
+  "name": "Foo Fighters",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1148/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 1097
+}

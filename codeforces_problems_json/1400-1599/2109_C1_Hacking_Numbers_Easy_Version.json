@@ -1,0 +1,18 @@
+{
+  "contest_id": 2109,
+  "problem_index": "C1",
+  "name": "Hacking Numbers (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "interactive",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2109/C1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 9791
+}

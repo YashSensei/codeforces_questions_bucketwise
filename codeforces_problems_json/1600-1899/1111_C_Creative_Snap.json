@@ -1,0 +1,17 @@
+{
+  "contest_id": 1111,
+  "problem_index": "C",
+  "name": "Creative Snap",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "divide and conquer",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1111/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 6580
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1914,
+  "problem_index": "E1",
+  "name": "Game with Marbles (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "games",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1914/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13645
+}

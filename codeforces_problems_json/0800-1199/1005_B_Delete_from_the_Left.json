@@ -1,0 +1,15 @@
+{
+  "contest_id": 1005,
+  "problem_index": "B",
+  "name": "Delete from the Left",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1005/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 25815
+}

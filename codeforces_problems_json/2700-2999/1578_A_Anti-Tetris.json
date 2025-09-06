@@ -1,0 +1,15 @@
+{
+  "contest_id": 1578,
+  "problem_index": "A",
+  "name": "Anti-Tetris",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1578/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 406
+}

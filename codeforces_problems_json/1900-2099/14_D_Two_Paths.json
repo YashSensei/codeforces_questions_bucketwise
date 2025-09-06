@@ -1,0 +1,18 @@
+{
+  "contest_id": 14,
+  "problem_index": "D",
+  "name": "Two Paths",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths",
+    "trees",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/14/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 4941
+}

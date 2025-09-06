@@ -1,0 +1,18 @@
+{
+  "contest_id": 1811,
+  "problem_index": "G2",
+  "name": "Vlad and the Nice Paths (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1811/G2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1974
+}

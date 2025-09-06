@@ -1,0 +1,15 @@
+{
+  "contest_id": 1355,
+  "problem_index": "D",
+  "name": "Game With Array",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1355/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 18684
+}

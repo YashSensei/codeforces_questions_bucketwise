@@ -1,0 +1,17 @@
+{
+  "contest_id": 1843,
+  "problem_index": "D",
+  "name": "Apple Tree",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1843/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20169
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 2035,
+  "problem_index": "H",
+  "name": "Peak Productivity Forces",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2035/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 4500.0,
+  "solved_count": 84
+}

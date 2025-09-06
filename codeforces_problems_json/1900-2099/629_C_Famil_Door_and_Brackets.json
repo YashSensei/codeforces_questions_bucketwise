@@ -1,0 +1,15 @@
+{
+  "contest_id": 629,
+  "problem_index": "C",
+  "name": "Famil Door and Brackets",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/629/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 2931
+}

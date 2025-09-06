@@ -1,0 +1,14 @@
+{
+  "contest_id": 2095,
+  "problem_index": "A",
+  "name": "Piecing It Together",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "string suffix structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2095/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 12305
+}

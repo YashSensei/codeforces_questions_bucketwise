@@ -1,0 +1,15 @@
+{
+  "contest_id": 2114,
+  "problem_index": "A",
+  "name": "Square Year",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2114/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 37589
+}

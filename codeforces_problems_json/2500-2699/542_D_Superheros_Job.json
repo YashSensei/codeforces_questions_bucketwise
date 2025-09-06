@@ -1,0 +1,18 @@
+{
+  "contest_id": 542,
+  "problem_index": "D",
+  "name": "Superhero's Job",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "hashing",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/542/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 533
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 690,
+  "problem_index": "F2",
+  "name": "Tree of Life (medium)",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "constructive algorithms",
+    "hashing",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/690/F2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 90
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1105,
+  "problem_index": "E",
+  "name": "Helping Hiasat ",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1105/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1766
+}

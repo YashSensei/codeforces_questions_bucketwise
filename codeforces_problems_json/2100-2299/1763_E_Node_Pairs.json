@@ -1,0 +1,17 @@
+{
+  "contest_id": 1763,
+  "problem_index": "E",
+  "name": "Node Pairs",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dp",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1763/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1974
+}

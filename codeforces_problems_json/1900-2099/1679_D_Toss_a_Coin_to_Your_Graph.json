@@ -1,0 +1,17 @@
+{
+  "contest_id": 1679,
+  "problem_index": "D",
+  "name": "Toss a Coin to Your Graph...",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1679/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 5501
+}

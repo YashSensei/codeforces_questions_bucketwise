@@ -1,0 +1,14 @@
+{
+  "contest_id": 1303,
+  "problem_index": "F",
+  "name": "Number of Components",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dsu",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1303/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 572
+}

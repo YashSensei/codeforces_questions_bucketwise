@@ -1,0 +1,18 @@
+{
+  "contest_id": 1367,
+  "problem_index": "E",
+  "name": "Necklace Assembly",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1367/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5678
+}

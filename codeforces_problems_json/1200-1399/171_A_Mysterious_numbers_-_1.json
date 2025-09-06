@@ -1,0 +1,14 @@
+{
+  "contest_id": 171,
+  "problem_index": "A",
+  "name": "Mysterious numbers - 1",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "*special",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/171/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 4790
+}

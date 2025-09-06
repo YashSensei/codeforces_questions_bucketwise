@@ -1,0 +1,17 @@
+{
+  "contest_id": 1792,
+  "problem_index": "C",
+  "name": "Min Max Sort",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1792/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15789
+}

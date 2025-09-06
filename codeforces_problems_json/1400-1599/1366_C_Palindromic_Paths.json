@@ -1,0 +1,14 @@
+{
+  "contest_id": 1366,
+  "problem_index": "C",
+  "name": "Palindromic Paths",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1366/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13942
+}

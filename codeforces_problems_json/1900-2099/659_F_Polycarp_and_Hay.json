@@ -1,0 +1,18 @@
+{
+  "contest_id": 659,
+  "problem_index": "F",
+  "name": "Polycarp and Hay",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/659/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 1885
+}

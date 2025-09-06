@@ -1,0 +1,18 @@
+{
+  "contest_id": 253,
+  "problem_index": "C",
+  "name": "Text Editor",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/253/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 2794
+}

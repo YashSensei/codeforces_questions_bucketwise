@@ -1,0 +1,18 @@
+{
+  "contest_id": 1976,
+  "problem_index": "E",
+  "name": "Splittable Permutations",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1976/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1225
+}

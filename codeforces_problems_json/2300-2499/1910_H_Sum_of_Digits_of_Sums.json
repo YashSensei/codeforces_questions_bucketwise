@@ -1,0 +1,15 @@
+{
+  "contest_id": 1910,
+  "problem_index": "H",
+  "name": "Sum of Digits of Sums",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "*special",
+    "binary search",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1910/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 104
+}

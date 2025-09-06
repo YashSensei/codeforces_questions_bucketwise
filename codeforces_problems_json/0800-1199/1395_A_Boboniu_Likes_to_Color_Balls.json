@@ -1,0 +1,15 @@
+{
+  "contest_id": 1395,
+  "problem_index": "A",
+  "name": "Boboniu Likes to Color Balls",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1395/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 24953
+}

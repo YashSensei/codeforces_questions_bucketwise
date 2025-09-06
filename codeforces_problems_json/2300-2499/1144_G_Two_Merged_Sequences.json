@@ -1,0 +1,14 @@
+{
+  "contest_id": 1144,
+  "problem_index": "G",
+  "name": "Two Merged Sequences",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1144/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2190
+}

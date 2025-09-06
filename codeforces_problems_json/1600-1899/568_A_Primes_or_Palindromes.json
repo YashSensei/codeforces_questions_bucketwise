@@ -1,0 +1,17 @@
+{
+  "contest_id": 568,
+  "problem_index": "A",
+  "name": "Primes or Palindromes?",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/568/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 5230
+}

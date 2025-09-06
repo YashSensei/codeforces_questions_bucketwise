@@ -1,0 +1,15 @@
+{
+  "contest_id": 609,
+  "problem_index": "A",
+  "name": "USB Flash Drives",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/609/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 18522
+}

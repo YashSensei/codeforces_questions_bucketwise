@@ -1,0 +1,20 @@
+{
+  "contest_id": 2053,
+  "problem_index": "I2",
+  "name": "Affectionate Arrays (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "data structures",
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "shortest paths",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2053/I2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 62
+}

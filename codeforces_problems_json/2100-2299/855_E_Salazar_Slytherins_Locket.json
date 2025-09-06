@@ -1,0 +1,15 @@
+{
+  "contest_id": 855,
+  "problem_index": "E",
+  "name": "Salazar Slytherin's Locket",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/855/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2017
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 923,
+  "problem_index": "E",
+  "name": "Perpetual Subtraction",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "fft",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/923/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 490
+}

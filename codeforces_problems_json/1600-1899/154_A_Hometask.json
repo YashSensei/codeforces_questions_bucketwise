@@ -1,0 +1,14 @@
+{
+  "contest_id": 154,
+  "problem_index": "A",
+  "name": "Hometask",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/154/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 4181
+}

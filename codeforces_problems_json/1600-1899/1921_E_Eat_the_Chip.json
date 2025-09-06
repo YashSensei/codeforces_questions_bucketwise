@@ -1,0 +1,16 @@
+{
+  "contest_id": 1921,
+  "problem_index": "E",
+  "name": "Eat the Chip",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1921/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 10844
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 665,
+  "problem_index": "D",
+  "name": "Simple Subset",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/665/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3959
+}

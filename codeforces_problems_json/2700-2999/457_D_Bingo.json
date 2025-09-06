@@ -1,0 +1,16 @@
+{
+  "contest_id": 457,
+  "problem_index": "D",
+  "name": "Bingo!",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "combinatorics",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/457/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 320
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1269,
+  "problem_index": "B",
+  "name": "Modulo Equality",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1269/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 9442
+}

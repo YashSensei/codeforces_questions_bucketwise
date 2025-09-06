@@ -1,0 +1,16 @@
+{
+  "contest_id": 1498,
+  "problem_index": "C",
+  "name": "Planar Reflections",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1498/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 11030
+}

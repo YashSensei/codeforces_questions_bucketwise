@@ -1,0 +1,14 @@
+{
+  "contest_id": 802,
+  "problem_index": "G",
+  "name": "Fake News (easy)",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7608
+}

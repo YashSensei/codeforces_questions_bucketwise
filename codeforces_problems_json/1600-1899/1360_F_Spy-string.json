@@ -1,0 +1,18 @@
+{
+  "contest_id": 1360,
+  "problem_index": "F",
+  "name": "Spy-string",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "hashing",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1360/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13042
+}

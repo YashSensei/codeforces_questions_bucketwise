@@ -1,0 +1,17 @@
+{
+  "contest_id": 1949,
+  "problem_index": "A",
+  "name": "Grove",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "geometry",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1949/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 191
+}

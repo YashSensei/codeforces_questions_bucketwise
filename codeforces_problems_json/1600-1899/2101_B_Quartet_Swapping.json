@@ -1,0 +1,18 @@
+{
+  "contest_id": 2101,
+  "problem_index": "B",
+  "name": "Quartet Swapping",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2101/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1250.0,
+  "solved_count": 5906
+}

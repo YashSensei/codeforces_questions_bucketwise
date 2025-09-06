@@ -1,0 +1,17 @@
+{
+  "contest_id": 266,
+  "problem_index": "B",
+  "name": "Queue at the School",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "graph matchings",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/266/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 152837
+}

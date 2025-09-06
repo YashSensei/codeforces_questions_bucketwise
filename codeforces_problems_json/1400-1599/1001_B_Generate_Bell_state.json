@@ -1,0 +1,13 @@
+{
+  "contest_id": 1001,
+  "problem_index": "B",
+  "name": "Generate Bell state",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1001/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 719
+}

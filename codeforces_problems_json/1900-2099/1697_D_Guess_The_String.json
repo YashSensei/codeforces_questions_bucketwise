@@ -1,0 +1,15 @@
+{
+  "contest_id": 1697,
+  "problem_index": "D",
+  "name": "Guess The String",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1697/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4789
+}

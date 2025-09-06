@@ -1,0 +1,13 @@
+{
+  "contest_id": 903,
+  "problem_index": "C",
+  "name": "Boxes Packing",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/903/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 20561
+}

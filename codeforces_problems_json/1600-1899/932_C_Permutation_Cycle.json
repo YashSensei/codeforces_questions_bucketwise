@@ -1,0 +1,15 @@
+{
+  "contest_id": 932,
+  "problem_index": "C",
+  "name": "Permutation Cycle",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/932/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 4164
+}

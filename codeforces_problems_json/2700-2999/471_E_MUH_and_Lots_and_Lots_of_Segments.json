@@ -1,0 +1,15 @@
+{
+  "contest_id": 471,
+  "problem_index": "E",
+  "name": "MUH and Lots and Lots of Segments",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "data structures",
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/471/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 85
+}

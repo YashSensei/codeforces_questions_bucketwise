@@ -1,0 +1,16 @@
+{
+  "contest_id": 1934,
+  "problem_index": "D1",
+  "name": "XOR Break --- Solo Version",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1934/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 3865
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1898,
+  "problem_index": "E",
+  "name": "Sofia and Strings",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "greedy",
+    "sortings",
+    "strings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1898/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 2560
+}

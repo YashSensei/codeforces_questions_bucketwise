@@ -1,0 +1,14 @@
+{
+  "contest_id": 1311,
+  "problem_index": "B",
+  "name": "WeirdSort",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dfs and similar",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1311/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 19587
+}

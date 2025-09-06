@@ -1,0 +1,14 @@
+{
+  "contest_id": 1773,
+  "problem_index": "H",
+  "name": "Hot and Cold",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1773/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 415
+}

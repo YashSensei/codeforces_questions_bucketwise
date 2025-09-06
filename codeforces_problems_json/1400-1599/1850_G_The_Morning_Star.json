@@ -1,0 +1,18 @@
+{
+  "contest_id": 1850,
+  "problem_index": "G",
+  "name": "The Morning Star",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "geometry",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1850/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14454
+}

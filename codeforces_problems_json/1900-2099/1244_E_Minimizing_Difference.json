@@ -1,0 +1,19 @@
+{
+  "contest_id": 1244,
+  "problem_index": "E",
+  "name": "Minimizing Difference",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "ternary search",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1244/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 5835
+}

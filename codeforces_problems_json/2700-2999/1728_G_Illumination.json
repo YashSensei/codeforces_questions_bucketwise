@@ -1,0 +1,19 @@
+{
+  "contest_id": 1728,
+  "problem_index": "G",
+  "name": "Illumination",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1728/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 529
+}

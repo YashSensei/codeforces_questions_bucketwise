@@ -1,0 +1,17 @@
+{
+  "contest_id": 336,
+  "problem_index": "E",
+  "name": "Vasily the Bear and Painting Square",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/336/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 126
+}

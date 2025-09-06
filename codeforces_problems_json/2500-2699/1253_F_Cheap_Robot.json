@@ -1,0 +1,18 @@
+{
+  "contest_id": 1253,
+  "problem_index": "F",
+  "name": "Cheap Robot",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "dsu",
+    "graphs",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1253/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 2110
+}

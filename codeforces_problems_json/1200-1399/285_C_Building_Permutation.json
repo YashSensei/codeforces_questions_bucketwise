@@ -1,0 +1,16 @@
+{
+  "contest_id": 285,
+  "problem_index": "C",
+  "name": "Building Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/285/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 25394
+}

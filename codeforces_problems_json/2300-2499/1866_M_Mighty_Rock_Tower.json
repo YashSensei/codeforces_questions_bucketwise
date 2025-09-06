@@ -1,0 +1,17 @@
+{
+  "contest_id": 1866,
+  "problem_index": "M",
+  "name": "Mighty Rock Tower",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1866/M",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 907
+}

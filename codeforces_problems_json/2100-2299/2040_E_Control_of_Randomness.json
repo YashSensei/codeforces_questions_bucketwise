@@ -1,0 +1,21 @@
+{
+  "contest_id": 2040,
+  "problem_index": "E",
+  "name": "Control of Randomness",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2040/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 2359
+}

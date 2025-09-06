@@ -1,0 +1,18 @@
+{
+  "contest_id": 1593,
+  "problem_index": "E",
+  "name": "Gardener and Tree",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1593/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13885
+}

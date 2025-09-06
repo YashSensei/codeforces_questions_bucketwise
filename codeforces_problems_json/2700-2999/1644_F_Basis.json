@@ -1,0 +1,16 @@
+{
+  "contest_id": 1644,
+  "problem_index": "F",
+  "name": "Basis",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "combinatorics",
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1644/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 396
+}

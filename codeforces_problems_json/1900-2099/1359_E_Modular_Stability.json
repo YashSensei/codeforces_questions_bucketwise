@@ -1,0 +1,15 @@
+{
+  "contest_id": 1359,
+  "problem_index": "E",
+  "name": "Modular Stability",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1359/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6390
+}

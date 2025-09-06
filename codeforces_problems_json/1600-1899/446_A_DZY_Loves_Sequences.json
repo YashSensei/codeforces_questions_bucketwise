@@ -1,0 +1,16 @@
+{
+  "contest_id": 446,
+  "problem_index": "A",
+  "name": "DZY Loves Sequences",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "dp",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/446/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 13177
+}

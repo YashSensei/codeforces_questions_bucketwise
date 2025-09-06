@@ -1,0 +1,15 @@
+{
+  "contest_id": 267,
+  "problem_index": "A",
+  "name": "Subtractions",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/267/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 8623
+}

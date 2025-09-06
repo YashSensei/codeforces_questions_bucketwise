@@ -1,0 +1,20 @@
+{
+  "contest_id": 1715,
+  "problem_index": "E",
+  "name": "Long Way Home",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "geometry",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1715/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 1971
+}

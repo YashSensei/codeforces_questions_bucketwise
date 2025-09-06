@@ -1,0 +1,20 @@
+{
+  "contest_id": 2018,
+  "problem_index": "E1",
+  "name": "Complex Segments (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2018/E1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 206
+}

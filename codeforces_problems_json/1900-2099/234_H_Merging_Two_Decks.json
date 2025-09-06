@@ -1,0 +1,14 @@
+{
+  "contest_id": 234,
+  "problem_index": "H",
+  "name": "Merging Two Decks",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/234/H",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 603
+}

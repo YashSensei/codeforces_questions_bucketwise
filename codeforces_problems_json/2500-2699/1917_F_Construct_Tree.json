@@ -1,0 +1,17 @@
+{
+  "contest_id": 1917,
+  "problem_index": "F",
+  "name": "Construct Tree",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1917/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 1121
+}

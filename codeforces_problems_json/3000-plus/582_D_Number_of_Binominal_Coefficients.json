@@ -1,0 +1,16 @@
+{
+  "contest_id": 582,
+  "problem_index": "D",
+  "name": "Number of Binominal Coefficients",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/582/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 712
+}

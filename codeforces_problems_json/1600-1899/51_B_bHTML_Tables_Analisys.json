@@ -1,0 +1,14 @@
+{
+  "contest_id": 51,
+  "problem_index": "B",
+  "name": "bHTML Tables Analisys",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "expression parsing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/51/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 920
+}

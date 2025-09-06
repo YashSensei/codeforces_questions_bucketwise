@@ -1,0 +1,17 @@
+{
+  "contest_id": 1943,
+  "problem_index": "D1",
+  "name": "Counting Is Fun (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1943/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 1769
+}

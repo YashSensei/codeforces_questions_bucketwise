@@ -1,0 +1,19 @@
+{
+  "contest_id": 2043,
+  "problem_index": "E",
+  "name": "Matrix Transformation",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2043/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1686
+}

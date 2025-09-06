@@ -1,0 +1,16 @@
+{
+  "contest_id": 862,
+  "problem_index": "B",
+  "name": "Mahmoud and Ehab and the bipartiteness",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/862/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 21867
+}

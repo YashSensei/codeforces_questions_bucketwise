@@ -1,0 +1,17 @@
+{
+  "contest_id": 2049,
+  "problem_index": "B",
+  "name": "pspspsps",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "graph matchings",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2049/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 750.0,
+  "solved_count": 17799
+}

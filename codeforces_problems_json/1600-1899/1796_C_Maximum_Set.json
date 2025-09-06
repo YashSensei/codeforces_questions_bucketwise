@@ -1,0 +1,14 @@
+{
+  "contest_id": 1796,
+  "problem_index": "C",
+  "name": "Maximum Set",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1796/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 11508
+}

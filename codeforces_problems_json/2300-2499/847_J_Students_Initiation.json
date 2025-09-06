@@ -1,0 +1,15 @@
+{
+  "contest_id": 847,
+  "problem_index": "J",
+  "name": "Students Initiation",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "flows",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/847/J",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 739
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1454,
+  "problem_index": "D",
+  "name": "Number into Sequence",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1454/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 21427
+}

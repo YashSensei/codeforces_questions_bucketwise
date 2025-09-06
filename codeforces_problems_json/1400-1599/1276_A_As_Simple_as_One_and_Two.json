@@ -1,0 +1,15 @@
+{
+  "contest_id": 1276,
+  "problem_index": "A",
+  "name": "As Simple as One and Two",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1276/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 12641
+}

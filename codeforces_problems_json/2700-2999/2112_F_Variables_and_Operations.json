@@ -1,0 +1,15 @@
+{
+  "contest_id": 2112,
+  "problem_index": "F",
+  "name": "Variables and Operations",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2112/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 489
+}

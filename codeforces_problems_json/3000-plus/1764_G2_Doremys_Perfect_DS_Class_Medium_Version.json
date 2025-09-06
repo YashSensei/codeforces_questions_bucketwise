@@ -1,0 +1,15 @@
+{
+  "contest_id": 1764,
+  "problem_index": "G2",
+  "name": "Doremy's Perfect DS Class (Medium Version)",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1764/G2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 578
+}

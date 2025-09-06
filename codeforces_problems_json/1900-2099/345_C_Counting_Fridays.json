@@ -1,0 +1,13 @@
+{
+  "contest_id": 345,
+  "problem_index": "C",
+  "name": "Counting Fridays",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "*special"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/345/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 128
+}

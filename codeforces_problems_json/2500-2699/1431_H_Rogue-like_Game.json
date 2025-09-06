@@ -1,0 +1,16 @@
+{
+  "contest_id": 1431,
+  "problem_index": "H",
+  "name": "Rogue-like Game",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "*special",
+    "brute force",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1431/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 71
+}

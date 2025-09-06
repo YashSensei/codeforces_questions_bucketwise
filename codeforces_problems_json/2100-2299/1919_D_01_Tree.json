@@ -1,0 +1,19 @@
+{
+  "contest_id": 1919,
+  "problem_index": "D",
+  "name": "01 Tree",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dsu",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1919/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 4247
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1528,
+  "problem_index": "A",
+  "name": "Parsa's Humongous Tree",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1528/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 16919
+}

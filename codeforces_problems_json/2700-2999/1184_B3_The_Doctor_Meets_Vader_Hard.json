@@ -1,0 +1,14 @@
+{
+  "contest_id": 1184,
+  "problem_index": "B3",
+  "name": "The Doctor Meets Vader (Hard)",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "flows",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1184/B3",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 229
+}

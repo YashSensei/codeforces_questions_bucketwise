@@ -1,0 +1,18 @@
+{
+  "contest_id": 1266,
+  "problem_index": "H",
+  "name": "Red-Blue Graph",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "dp",
+    "graphs",
+    "math",
+    "matrices",
+    "meet-in-the-middle"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1266/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 130
+}

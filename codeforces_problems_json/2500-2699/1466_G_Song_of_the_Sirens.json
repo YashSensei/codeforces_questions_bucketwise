@@ -1,0 +1,19 @@
+{
+  "contest_id": 1466,
+  "problem_index": "G",
+  "name": "Song of the Sirens",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "hashing",
+    "math",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1466/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 972
+}

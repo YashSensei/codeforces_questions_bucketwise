@@ -1,0 +1,18 @@
+{
+  "contest_id": 1990,
+  "problem_index": "D",
+  "name": "Grid Puzzle",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1990/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 7309
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1004,
+  "problem_index": "E",
+  "name": "Sonya and Ice Cream",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1004/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 1149
+}

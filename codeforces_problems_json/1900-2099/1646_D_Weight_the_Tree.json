@@ -1,0 +1,18 @@
+{
+  "contest_id": 1646,
+  "problem_index": "D",
+  "name": "Weight the Tree",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1646/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 4164
+}

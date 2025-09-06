@@ -1,0 +1,15 @@
+{
+  "contest_id": 273,
+  "problem_index": "E",
+  "name": "Dima and Game",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "dp",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/273/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 383
+}

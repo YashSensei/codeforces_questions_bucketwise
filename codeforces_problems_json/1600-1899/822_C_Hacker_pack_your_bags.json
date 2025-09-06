@@ -1,0 +1,17 @@
+{
+  "contest_id": 822,
+  "problem_index": "C",
+  "name": "Hacker, pack your bags!",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/822/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 4762
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1984,
+  "problem_index": "H",
+  "name": "Tower Capturing",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1984/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 5000.0,
+  "solved_count": 201
+}

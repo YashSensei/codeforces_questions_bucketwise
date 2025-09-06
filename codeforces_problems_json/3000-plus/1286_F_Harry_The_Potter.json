@@ -1,0 +1,19 @@
+{
+  "contest_id": 1286,
+  "problem_index": "F",
+  "name": "Harry The Potter",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "fft",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1286/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 272
+}

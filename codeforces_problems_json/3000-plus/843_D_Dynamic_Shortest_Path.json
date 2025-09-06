@@ -1,0 +1,15 @@
+{
+  "contest_id": 843,
+  "problem_index": "D",
+  "name": "Dynamic Shortest Path",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/843/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 1042
+}

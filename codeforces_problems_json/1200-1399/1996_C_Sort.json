@@ -1,0 +1,16 @@
+{
+  "contest_id": 1996,
+  "problem_index": "C",
+  "name": "Sort",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dp",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1996/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 26433
+}

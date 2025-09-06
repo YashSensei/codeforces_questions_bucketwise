@@ -1,0 +1,14 @@
+{
+  "contest_id": 36,
+  "problem_index": "D",
+  "name": "New Game with a Chess Piece",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/36/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 743
+}

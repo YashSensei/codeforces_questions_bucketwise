@@ -1,0 +1,16 @@
+{
+  "contest_id": 1941,
+  "problem_index": "G",
+  "name": "Rudolf and Subway",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1941/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4200
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 2000,
+  "problem_index": "G",
+  "name": "Call During the Journey",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "binary search",
+    "brute force",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2000/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 2877
+}

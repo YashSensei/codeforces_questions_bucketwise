@@ -1,0 +1,14 @@
+{
+  "contest_id": 1611,
+  "problem_index": "D",
+  "name": "Weights Assignment For Tree Edges",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1611/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 10881
+}

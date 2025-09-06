@@ -1,0 +1,16 @@
+{
+  "contest_id": 1299,
+  "problem_index": "A",
+  "name": "Anu Has a Function",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1299/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 12333
+}

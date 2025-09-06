@@ -1,0 +1,17 @@
+{
+  "contest_id": 1806,
+  "problem_index": "F1",
+  "name": "GCD Master (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1806/F1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 429
+}

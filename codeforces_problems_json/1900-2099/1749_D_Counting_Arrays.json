@@ -1,0 +1,16 @@
+{
+  "contest_id": 1749,
+  "problem_index": "D",
+  "name": "Counting Arrays",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1749/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6034
+}

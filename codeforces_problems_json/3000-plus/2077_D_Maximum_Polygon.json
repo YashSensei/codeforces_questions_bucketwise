@@ -1,0 +1,18 @@
+{
+  "contest_id": 2077,
+  "problem_index": "D",
+  "name": "Maximum Polygon",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2077/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 303
+}

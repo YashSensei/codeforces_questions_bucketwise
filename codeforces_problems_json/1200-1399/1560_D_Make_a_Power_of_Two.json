@@ -1,0 +1,15 @@
+{
+  "contest_id": 1560,
+  "problem_index": "D",
+  "name": "Make a Power of Two",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1560/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 18962
+}

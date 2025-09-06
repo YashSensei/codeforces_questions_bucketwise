@@ -1,0 +1,16 @@
+{
+  "contest_id": 1185,
+  "problem_index": "G1",
+  "name": "Playlist for Polycarp (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1185/G1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 3065
+}

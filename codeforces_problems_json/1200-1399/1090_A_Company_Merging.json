@@ -1,0 +1,13 @@
+{
+  "contest_id": 1090,
+  "problem_index": "A",
+  "name": "Company Merging",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1090/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4740
+}

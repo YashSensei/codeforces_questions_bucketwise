@@ -1,0 +1,14 @@
+{
+  "contest_id": 575,
+  "problem_index": "G",
+  "name": "Run for beer",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dfs and similar",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/575/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 948
+}

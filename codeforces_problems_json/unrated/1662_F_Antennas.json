@@ -1,0 +1,20 @@
+{
+  "contest_id": 1662,
+  "problem_index": "F",
+  "name": "Antennas",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "graphs",
+    "implementation",
+    "implementation",
+    "shortest paths",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1662/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1128
+}

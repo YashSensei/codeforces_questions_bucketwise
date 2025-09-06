@@ -1,0 +1,19 @@
+{
+  "contest_id": 1670,
+  "problem_index": "D",
+  "name": "Very Suspicious",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1670/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 5444
+}

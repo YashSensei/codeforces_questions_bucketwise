@@ -1,0 +1,15 @@
+{
+  "contest_id": 2041,
+  "problem_index": "B",
+  "name": "Bowling Frame",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2041/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 6329
+}

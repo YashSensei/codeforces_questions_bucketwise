@@ -1,0 +1,15 @@
+{
+  "contest_id": 425,
+  "problem_index": "A",
+  "name": "Sereja and Swaps",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/425/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 4030
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 349,
+  "problem_index": "A",
+  "name": "Cinema Line",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/349/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 32367
+}

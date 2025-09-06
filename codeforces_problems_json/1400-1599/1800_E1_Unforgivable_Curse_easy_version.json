@@ -1,0 +1,18 @@
+{
+  "contest_id": 1800,
+  "problem_index": "E1",
+  "name": "Unforgivable Curse (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1800/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14569
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 377,
+  "problem_index": "E",
+  "name": "Cookie Clicker",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dp",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/377/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 503
+}

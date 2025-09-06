@@ -1,0 +1,14 @@
+{
+  "contest_id": 1352,
+  "problem_index": "C",
+  "name": "K-th Not Divisible by n",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "binary search",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1352/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 63312
+}

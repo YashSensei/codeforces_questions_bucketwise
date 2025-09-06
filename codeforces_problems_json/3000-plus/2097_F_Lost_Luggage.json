@@ -1,0 +1,15 @@
+{
+  "contest_id": 2097,
+  "problem_index": "F",
+  "name": "Lost Luggage",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "dp",
+    "flows"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2097/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3500.0,
+  "solved_count": 89
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1534,
+  "problem_index": "D",
+  "name": "Lost Tree",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "interactive",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1534/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 6432
+}

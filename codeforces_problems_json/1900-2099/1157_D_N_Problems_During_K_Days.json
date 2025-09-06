@@ -1,0 +1,15 @@
+{
+  "contest_id": 1157,
+  "problem_index": "D",
+  "name": "N Problems During K Days",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1157/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3902
+}

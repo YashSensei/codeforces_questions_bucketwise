@@ -1,0 +1,15 @@
+{
+  "contest_id": 1140,
+  "problem_index": "E",
+  "name": "Palindrome-less Arrays",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1140/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2049
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1905,
+  "problem_index": "D",
+  "name": "Cyclic MEX",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1905/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 4343
+}

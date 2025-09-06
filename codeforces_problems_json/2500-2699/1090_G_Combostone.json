@@ -1,0 +1,14 @@
+{
+  "contest_id": 1090,
+  "problem_index": "G",
+  "name": "Combostone",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "games",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1090/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 118
+}

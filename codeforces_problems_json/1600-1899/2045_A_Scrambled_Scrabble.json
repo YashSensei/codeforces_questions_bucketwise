@@ -1,0 +1,14 @@
+{
+  "contest_id": 2045,
+  "problem_index": "A",
+  "name": "Scrambled Scrabble",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2045/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 2133
+}

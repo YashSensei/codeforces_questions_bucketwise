@@ -1,0 +1,17 @@
+{
+  "contest_id": 383,
+  "problem_index": "B",
+  "name": "Volcanoes",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/383/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 749
+}

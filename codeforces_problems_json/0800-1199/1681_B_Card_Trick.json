@@ -1,0 +1,14 @@
+{
+  "contest_id": 1681,
+  "problem_index": "B",
+  "name": "Card Trick",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1681/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20676
+}

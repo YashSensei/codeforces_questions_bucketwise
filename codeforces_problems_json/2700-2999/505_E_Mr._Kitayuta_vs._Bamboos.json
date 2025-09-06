@@ -1,0 +1,15 @@
+{
+  "contest_id": 505,
+  "problem_index": "E",
+  "name": "Mr. Kitayuta vs. Bamboos",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "binary search",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/505/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2750.0,
+  "solved_count": 1506
+}

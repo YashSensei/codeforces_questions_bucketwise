@@ -1,0 +1,15 @@
+{
+  "contest_id": 512,
+  "problem_index": "D",
+  "name": "Fox And Travelling",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/512/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 1080
+}

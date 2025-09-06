@@ -1,0 +1,18 @@
+{
+  "contest_id": 1228,
+  "problem_index": "D",
+  "name": "Complete Tripartite",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "graphs",
+    "hashing",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1228/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 5355
+}

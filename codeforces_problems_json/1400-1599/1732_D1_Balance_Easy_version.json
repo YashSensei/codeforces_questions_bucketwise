@@ -1,0 +1,17 @@
+{
+  "contest_id": 1732,
+  "problem_index": "D1",
+  "name": "Balance (Easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1732/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 9483
+}

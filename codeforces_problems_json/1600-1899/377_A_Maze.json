@@ -1,0 +1,14 @@
+{
+  "contest_id": 377,
+  "problem_index": "A",
+  "name": "Maze",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "dfs and similar"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/377/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 24915
+}

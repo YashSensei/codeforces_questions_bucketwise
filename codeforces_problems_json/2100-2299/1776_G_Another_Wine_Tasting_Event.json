@@ -1,0 +1,16 @@
+{
+  "contest_id": 1776,
+  "problem_index": "G",
+  "name": "Another Wine Tasting Event",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "math",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1776/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2239
+}

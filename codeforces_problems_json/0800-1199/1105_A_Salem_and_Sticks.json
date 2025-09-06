@@ -1,0 +1,15 @@
+{
+  "contest_id": 1105,
+  "problem_index": "A",
+  "name": "Salem and Sticks ",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1105/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 11311
+}

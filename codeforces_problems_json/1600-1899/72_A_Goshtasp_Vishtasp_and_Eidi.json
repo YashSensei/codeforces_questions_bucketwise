@@ -1,0 +1,15 @@
+{
+  "contest_id": 72,
+  "problem_index": "A",
+  "name": "Goshtasp, Vishtasp and Eidi",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/72/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 192
+}

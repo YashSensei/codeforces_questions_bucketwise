@@ -1,0 +1,16 @@
+{
+  "contest_id": 283,
+  "problem_index": "E",
+  "name": "Cow Tennis Tournament",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/283/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 804
+}

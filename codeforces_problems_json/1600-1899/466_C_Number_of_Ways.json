@@ -1,0 +1,18 @@
+{
+  "contest_id": 466,
+  "problem_index": "C",
+  "name": "Number of Ways",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/466/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 39177
+}

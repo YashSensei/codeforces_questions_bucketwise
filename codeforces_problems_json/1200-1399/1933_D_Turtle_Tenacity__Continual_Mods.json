@@ -1,0 +1,17 @@
+{
+  "contest_id": 1933,
+  "problem_index": "D",
+  "name": "Turtle Tenacity: Continual Mods",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1933/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 22404
+}

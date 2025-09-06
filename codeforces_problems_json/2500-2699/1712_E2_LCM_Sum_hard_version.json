@@ -1,0 +1,18 @@
+{
+  "contest_id": 1712,
+  "problem_index": "E2",
+  "name": "LCM Sum (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "data structures",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1712/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 1504
+}

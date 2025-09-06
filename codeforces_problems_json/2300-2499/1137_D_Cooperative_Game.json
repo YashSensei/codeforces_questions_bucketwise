@@ -1,0 +1,16 @@
+{
+  "contest_id": 1137,
+  "problem_index": "D",
+  "name": "Cooperative Game",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "constructive algorithms",
+    "interactive",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1137/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 1936
+}

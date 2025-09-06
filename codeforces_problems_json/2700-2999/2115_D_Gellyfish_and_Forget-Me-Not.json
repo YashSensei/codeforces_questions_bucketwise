@@ -1,0 +1,18 @@
+{
+  "contest_id": 2115,
+  "problem_index": "D",
+  "name": "Gellyfish and Forget-Me-Not",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2115/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 619
+}

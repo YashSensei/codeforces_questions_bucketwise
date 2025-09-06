@@ -1,0 +1,14 @@
+{
+  "contest_id": 1102,
+  "problem_index": "E",
+  "name": "Monotonic Renumeration",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "combinatorics",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1102/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6488
+}

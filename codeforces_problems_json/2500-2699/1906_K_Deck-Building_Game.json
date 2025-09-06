@@ -1,0 +1,14 @@
+{
+  "contest_id": 1906,
+  "problem_index": "K",
+  "name": "Deck-Building Game",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "divide and conquer",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1906/K",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 393
+}

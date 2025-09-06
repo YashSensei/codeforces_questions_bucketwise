@@ -1,0 +1,18 @@
+{
+  "contest_id": 486,
+  "problem_index": "E",
+  "name": "LIS of Sequence",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "hashing",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/486/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 2454
+}

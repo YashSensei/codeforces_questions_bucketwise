@@ -1,0 +1,14 @@
+{
+  "contest_id": 1907,
+  "problem_index": "F",
+  "name": "Shift and Reverse",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1907/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5550
+}

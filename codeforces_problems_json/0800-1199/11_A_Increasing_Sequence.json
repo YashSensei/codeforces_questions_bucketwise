@@ -1,0 +1,15 @@
+{
+  "contest_id": 11,
+  "problem_index": "A",
+  "name": "Increasing Sequence",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/11/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 14550
+}

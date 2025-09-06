@@ -1,0 +1,15 @@
+{
+  "contest_id": 1632,
+  "problem_index": "B",
+  "name": "Roof Construction",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1632/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 26882
+}

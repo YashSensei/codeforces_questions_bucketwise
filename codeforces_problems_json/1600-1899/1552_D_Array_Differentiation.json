@@ -1,0 +1,20 @@
+{
+  "contest_id": 1552,
+  "problem_index": "D",
+  "name": "Array Differentiation",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1552/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 7531
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 451,
+  "problem_index": "D",
+  "name": "Count Good Substrings",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/451/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 4933
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1530,
+  "problem_index": "H",
+  "name": "Turing's Award",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1530/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4750.0,
+  "solved_count": 186
+}

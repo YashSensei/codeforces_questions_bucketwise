@@ -1,0 +1,16 @@
+{
+  "contest_id": 1472,
+  "problem_index": "G",
+  "name": "Moving to the Capital",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1472/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5237
+}

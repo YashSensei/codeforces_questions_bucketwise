@@ -1,0 +1,18 @@
+{
+  "contest_id": 1404,
+  "problem_index": "C",
+  "name": "Fixed Point Removal",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1404/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 2850
+}

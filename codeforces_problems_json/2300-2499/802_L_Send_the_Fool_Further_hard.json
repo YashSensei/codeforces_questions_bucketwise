@@ -1,0 +1,16 @@
+{
+  "contest_id": 802,
+  "problem_index": "L",
+  "name": "Send the Fool Further! (hard)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/802/L",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 358
+}

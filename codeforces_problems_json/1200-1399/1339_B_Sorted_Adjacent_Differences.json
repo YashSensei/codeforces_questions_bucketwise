@@ -1,0 +1,15 @@
+{
+  "contest_id": 1339,
+  "problem_index": "B",
+  "name": "Sorted Adjacent Differences",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1339/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 27503
+}

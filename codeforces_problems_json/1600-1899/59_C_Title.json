@@ -1,0 +1,14 @@
+{
+  "contest_id": 59,
+  "problem_index": "C",
+  "name": "Title",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "expression parsing"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/59/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 2299
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1368,
+  "problem_index": "H1",
+  "name": "Breadboard Capacity (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "dp",
+    "flows",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1368/H1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 414
+}

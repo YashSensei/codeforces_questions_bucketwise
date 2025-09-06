@@ -1,0 +1,20 @@
+{
+  "contest_id": 1770,
+  "problem_index": "E",
+  "name": "Koxia and Tree",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1770/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1487
+}

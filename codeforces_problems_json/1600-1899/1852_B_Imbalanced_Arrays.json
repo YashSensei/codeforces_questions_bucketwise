@@ -1,0 +1,19 @@
+{
+  "contest_id": 1852,
+  "problem_index": "B",
+  "name": "Imbalanced Arrays",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1852/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 750.0,
+  "solved_count": 5122
+}

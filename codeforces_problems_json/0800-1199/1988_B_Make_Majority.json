@@ -1,0 +1,15 @@
+{
+  "contest_id": 1988,
+  "problem_index": "B",
+  "name": "Make Majority",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1988/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 25384
+}

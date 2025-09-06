@@ -1,0 +1,18 @@
+{
+  "contest_id": 839,
+  "problem_index": "C",
+  "name": "Journey",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/839/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 18695
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1257,
+  "problem_index": "D",
+  "name": "Yet Another Monster Killing Problem",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1257/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7949
+}

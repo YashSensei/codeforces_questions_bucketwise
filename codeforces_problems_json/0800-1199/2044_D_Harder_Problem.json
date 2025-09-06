@@ -1,0 +1,15 @@
+{
+  "contest_id": 2044,
+  "problem_index": "D",
+  "name": "Harder Problem",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2044/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 22316
+}

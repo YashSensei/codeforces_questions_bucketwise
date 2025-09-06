@@ -1,0 +1,16 @@
+{
+  "contest_id": 2070,
+  "problem_index": "F",
+  "name": "Friends and Pizza",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "bitmasks",
+    "divide and conquer",
+    "dp",
+    "fft"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2070/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 302
+}

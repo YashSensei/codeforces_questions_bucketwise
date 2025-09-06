@@ -1,0 +1,17 @@
+{
+  "contest_id": 577,
+  "problem_index": "B",
+  "name": "Modulo Sum",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/577/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 13537
+}

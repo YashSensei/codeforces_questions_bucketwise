@@ -1,0 +1,16 @@
+{
+  "contest_id": 2036,
+  "problem_index": "F",
+  "name": "XORificator 3000",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2036/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 4642
+}

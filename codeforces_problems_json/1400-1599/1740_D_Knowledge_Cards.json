@@ -1,0 +1,15 @@
+{
+  "contest_id": 1740,
+  "problem_index": "D",
+  "name": "Knowledge Cards",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1740/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 8774
+}

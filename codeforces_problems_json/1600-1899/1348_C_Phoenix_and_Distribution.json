@@ -1,0 +1,17 @@
+{
+  "contest_id": 1348,
+  "problem_index": "C",
+  "name": "Phoenix and Distribution",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1348/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 15190
+}

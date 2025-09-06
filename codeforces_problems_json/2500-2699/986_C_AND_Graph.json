@@ -1,0 +1,17 @@
+{
+  "contest_id": 986,
+  "problem_index": "C",
+  "name": "AND Graph",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/986/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 2603
+}

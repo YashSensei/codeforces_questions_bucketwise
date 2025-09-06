@@ -1,0 +1,13 @@
+{
+  "contest_id": 1141,
+  "problem_index": "F1",
+  "name": "Same Sum Blocks (Easy)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1141/F1",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4066
+}

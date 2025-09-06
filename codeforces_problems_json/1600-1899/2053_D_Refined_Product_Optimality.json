@@ -1,0 +1,19 @@
+{
+  "contest_id": 2053,
+  "problem_index": "D",
+  "name": "Refined Product Optimality",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "math",
+    "schedules",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2053/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 7180
+}

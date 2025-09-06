@@ -1,0 +1,16 @@
+{
+  "contest_id": 1365,
+  "problem_index": "F",
+  "name": "Swaps Again",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1365/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 4617
+}

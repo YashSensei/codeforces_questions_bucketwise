@@ -1,0 +1,16 @@
+{
+  "contest_id": 670,
+  "problem_index": "F",
+  "name": "Restore a Number",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/670/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 873
+}

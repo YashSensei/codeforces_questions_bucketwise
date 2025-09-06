@@ -1,0 +1,17 @@
+{
+  "contest_id": 1430,
+  "problem_index": "C",
+  "name": "Numbers on Whiteboard",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1430/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 26542
+}

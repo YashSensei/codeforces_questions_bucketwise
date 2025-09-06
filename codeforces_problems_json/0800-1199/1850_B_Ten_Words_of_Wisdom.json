@@ -1,0 +1,14 @@
+{
+  "contest_id": 1850,
+  "problem_index": "B",
+  "name": "Ten Words of Wisdom",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1850/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 47490
+}

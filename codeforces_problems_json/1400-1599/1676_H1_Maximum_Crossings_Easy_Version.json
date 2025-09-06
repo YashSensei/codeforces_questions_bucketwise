@@ -1,0 +1,13 @@
+{
+  "contest_id": 1676,
+  "problem_index": "H1",
+  "name": "Maximum Crossings (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1676/H1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15488
+}

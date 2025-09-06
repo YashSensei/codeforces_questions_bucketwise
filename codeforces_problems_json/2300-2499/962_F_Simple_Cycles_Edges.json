@@ -1,0 +1,15 @@
+{
+  "contest_id": 962,
+  "problem_index": "F",
+  "name": "Simple Cycles Edges",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/962/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1478
+}

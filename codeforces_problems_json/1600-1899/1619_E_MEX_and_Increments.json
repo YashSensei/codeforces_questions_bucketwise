@@ -1,0 +1,19 @@
+{
+  "contest_id": 1619,
+  "problem_index": "E",
+  "name": "MEX and Increments",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1619/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9831
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1543,
+  "problem_index": "C",
+  "name": "Need for Pink Slips",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "implementation",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1543/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 5490
+}

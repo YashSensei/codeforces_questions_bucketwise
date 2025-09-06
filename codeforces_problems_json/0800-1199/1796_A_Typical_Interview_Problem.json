@@ -1,0 +1,15 @@
+{
+  "contest_id": 1796,
+  "problem_index": "A",
+  "name": "Typical Interview Problem",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1796/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 19382
+}

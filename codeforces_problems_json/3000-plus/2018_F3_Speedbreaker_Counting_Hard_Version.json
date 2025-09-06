@@ -1,0 +1,16 @@
+{
+  "contest_id": 2018,
+  "problem_index": "F3",
+  "name": "Speedbreaker Counting (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2018/F3",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 259
+}

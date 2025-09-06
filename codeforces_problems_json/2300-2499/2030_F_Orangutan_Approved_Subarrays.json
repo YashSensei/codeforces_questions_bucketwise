@@ -1,0 +1,19 @@
+{
+  "contest_id": 2030,
+  "problem_index": "F",
+  "name": "Orangutan Approved Subarrays",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2030/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2500.0,
+  "solved_count": 1028
+}

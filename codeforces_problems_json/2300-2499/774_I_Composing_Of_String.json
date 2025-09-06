@@ -1,0 +1,14 @@
+{
+  "contest_id": 774,
+  "problem_index": "I",
+  "name": "Composing Of String",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "*special",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/774/I",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 119
+}

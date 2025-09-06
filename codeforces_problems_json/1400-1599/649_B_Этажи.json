@@ -1,0 +1,14 @@
+{
+  "contest_id": 649,
+  "problem_index": "B",
+  "name": "Этажи",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/649/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 591
+}

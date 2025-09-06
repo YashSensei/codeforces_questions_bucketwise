@@ -1,0 +1,14 @@
+{
+  "contest_id": 64,
+  "problem_index": "I",
+  "name": "Sort the Table",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "*special",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/64/I",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 92
+}

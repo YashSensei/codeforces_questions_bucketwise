@@ -1,0 +1,16 @@
+{
+  "contest_id": 396,
+  "problem_index": "C",
+  "name": "On Changing Tree",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "data structures",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/396/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 1700
+}

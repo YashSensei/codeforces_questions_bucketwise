@@ -1,0 +1,17 @@
+{
+  "contest_id": 2027,
+  "problem_index": "E1",
+  "name": "Bit Game (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "games",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2027/E1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2000.0,
+  "solved_count": 212
+}

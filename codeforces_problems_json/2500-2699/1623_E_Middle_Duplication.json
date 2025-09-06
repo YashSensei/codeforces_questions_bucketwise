@@ -1,0 +1,18 @@
+{
+  "contest_id": 1623,
+  "problem_index": "E",
+  "name": "Middle Duplication",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1623/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2750.0,
+  "solved_count": 1211
+}

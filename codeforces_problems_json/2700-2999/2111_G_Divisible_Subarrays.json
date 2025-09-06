@@ -1,0 +1,17 @@
+{
+  "contest_id": 2111,
+  "problem_index": "G",
+  "name": "Divisible Subarrays",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2111/G",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 321
+}

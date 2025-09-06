@@ -1,0 +1,15 @@
+{
+  "contest_id": 316,
+  "problem_index": "B1",
+  "name": "EKG",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "dfs and similar"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/316/B1",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 30.0,
+  "solved_count": 1444
+}

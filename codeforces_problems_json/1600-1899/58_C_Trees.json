@@ -1,0 +1,14 @@
+{
+  "contest_id": 58,
+  "problem_index": "C",
+  "name": "Trees",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/58/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 2146
+}

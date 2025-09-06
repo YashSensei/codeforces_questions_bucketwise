@@ -1,0 +1,16 @@
+{
+  "contest_id": 1864,
+  "problem_index": "H",
+  "name": "Asterism Stream",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "dp",
+    "math",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1864/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 417
+}

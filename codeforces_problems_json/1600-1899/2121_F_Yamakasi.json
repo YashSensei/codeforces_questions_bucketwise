@@ -1,0 +1,17 @@
+{
+  "contest_id": 2121,
+  "problem_index": "F",
+  "name": "Yamakasi",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2121/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 6514
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 603,
+  "problem_index": "E",
+  "name": "Pastoral Oddities",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/603/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 1461
+}

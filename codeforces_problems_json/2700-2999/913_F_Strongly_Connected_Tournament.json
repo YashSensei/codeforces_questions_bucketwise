@@ -1,0 +1,17 @@
+{
+  "contest_id": 913,
+  "problem_index": "F",
+  "name": "Strongly Connected Tournament",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "dp",
+    "graphs",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/913/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 724
+}

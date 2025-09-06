@@ -1,0 +1,16 @@
+{
+  "contest_id": 1073,
+  "problem_index": "D",
+  "name": "Berland Fair",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1073/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 6590
+}

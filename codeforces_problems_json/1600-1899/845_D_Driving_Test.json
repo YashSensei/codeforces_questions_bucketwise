@@ -1,0 +1,15 @@
+{
+  "contest_id": 845,
+  "problem_index": "D",
+  "name": "Driving Test",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/845/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2500
+}

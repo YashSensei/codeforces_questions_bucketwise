@@ -1,0 +1,15 @@
+{
+  "contest_id": 722,
+  "problem_index": "C",
+  "name": "Destroying Array",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "data structures",
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/722/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 10654
+}

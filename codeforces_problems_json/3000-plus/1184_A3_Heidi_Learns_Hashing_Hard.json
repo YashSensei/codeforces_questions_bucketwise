@@ -1,0 +1,15 @@
+{
+  "contest_id": 1184,
+  "problem_index": "A3",
+  "name": "Heidi Learns Hashing (Hard)",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1184/A3",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 153
+}

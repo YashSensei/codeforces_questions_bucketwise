@@ -1,0 +1,15 @@
+{
+  "contest_id": 593,
+  "problem_index": "E",
+  "name": "Strange Calculation and Cats",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "dp",
+    "matrices"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/593/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 672
+}

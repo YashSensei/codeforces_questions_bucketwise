@@ -1,0 +1,15 @@
+{
+  "contest_id": 1783,
+  "problem_index": "D",
+  "name": "Different Arrays",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "brute force",
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1783/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4967
+}

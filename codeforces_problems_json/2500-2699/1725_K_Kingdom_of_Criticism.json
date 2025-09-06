@@ -1,0 +1,14 @@
+{
+  "contest_id": 1725,
+  "problem_index": "K",
+  "name": "Kingdom of Criticism",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "data structures",
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1725/K",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 736
+}

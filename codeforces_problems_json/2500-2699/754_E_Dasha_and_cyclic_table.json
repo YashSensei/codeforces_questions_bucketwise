@@ -1,0 +1,18 @@
+{
+  "contest_id": 754,
+  "problem_index": "E",
+  "name": "Dasha and cyclic table",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "fft",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/754/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 522
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 553,
+  "problem_index": "E",
+  "name": "Kyoya and Train",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "dp",
+    "fft",
+    "graphs",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/553/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 590
+}

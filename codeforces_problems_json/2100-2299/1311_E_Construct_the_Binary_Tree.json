@@ -1,0 +1,15 @@
+{
+  "contest_id": 1311,
+  "problem_index": "E",
+  "name": "Construct the Binary Tree",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1311/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2559
+}

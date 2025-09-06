@@ -1,0 +1,16 @@
+{
+  "contest_id": 1080,
+  "problem_index": "F",
+  "name": "Katya and Segments Sets",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "data structures",
+    "interactive",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1080/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 830
+}

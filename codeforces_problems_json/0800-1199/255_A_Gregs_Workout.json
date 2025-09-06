@@ -1,0 +1,14 @@
+{
+  "contest_id": 255,
+  "problem_index": "A",
+  "name": "Greg's Workout",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/255/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 30029
+}

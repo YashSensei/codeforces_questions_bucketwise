@@ -1,0 +1,16 @@
+{
+  "contest_id": 1186,
+  "problem_index": "E",
+  "name": "Vus the Cossack and a Field",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "divide and conquer",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1186/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 654
+}

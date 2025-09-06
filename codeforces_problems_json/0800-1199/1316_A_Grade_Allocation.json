@@ -1,0 +1,14 @@
+{
+  "contest_id": 1316,
+  "problem_index": "A",
+  "name": "Grade Allocation",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1316/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 19412
+}

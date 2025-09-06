@@ -1,0 +1,21 @@
+{
+  "contest_id": 2127,
+  "problem_index": "G2",
+  "name": "Inter Active (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "graphs",
+    "implementation",
+    "interactive",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2127/G2",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2750.0,
+  "solved_count": 54
+}

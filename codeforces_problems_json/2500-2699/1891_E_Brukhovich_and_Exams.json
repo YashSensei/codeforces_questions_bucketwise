@@ -1,0 +1,18 @@
+{
+  "contest_id": 1891,
+  "problem_index": "E",
+  "name": "Brukhovich and Exams",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1891/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 943
+}

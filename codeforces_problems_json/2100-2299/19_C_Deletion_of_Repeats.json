@@ -1,0 +1,15 @@
+{
+  "contest_id": 19,
+  "problem_index": "C",
+  "name": "Deletion of Repeats",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "greedy",
+    "hashing",
+    "string suffix structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/19/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1199
+}

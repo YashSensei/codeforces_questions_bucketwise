@@ -1,0 +1,15 @@
+{
+  "contest_id": 219,
+  "problem_index": "A",
+  "name": "k-String",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/219/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 30712
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 2034,
+  "problem_index": "A",
+  "name": "King Keykhosrow's Mystery",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "chinese remainder theorem",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2034/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 17593
+}

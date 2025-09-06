@@ -1,0 +1,15 @@
+{
+  "contest_id": 702,
+  "problem_index": "A",
+  "name": "Maximum Increase",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/702/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 50475
+}

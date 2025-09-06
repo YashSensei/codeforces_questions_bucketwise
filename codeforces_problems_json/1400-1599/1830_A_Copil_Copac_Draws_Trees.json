@@ -1,0 +1,17 @@
+{
+  "contest_id": 1830,
+  "problem_index": "A",
+  "name": "Copil Copac Draws Trees",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1830/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 500.0,
+  "solved_count": 17199
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 891,
+  "problem_index": "D",
+  "name": "Sloth",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graph matchings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/891/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 218
+}

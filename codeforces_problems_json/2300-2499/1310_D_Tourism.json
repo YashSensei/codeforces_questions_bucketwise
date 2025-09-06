@@ -1,0 +1,16 @@
+{
+  "contest_id": 1310,
+  "problem_index": "D",
+  "name": "Tourism",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dp",
+    "graphs",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1310/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 1830
+}

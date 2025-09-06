@@ -1,0 +1,14 @@
+{
+  "contest_id": 1009,
+  "problem_index": "C",
+  "name": "Annoying Present",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1009/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 5418
+}

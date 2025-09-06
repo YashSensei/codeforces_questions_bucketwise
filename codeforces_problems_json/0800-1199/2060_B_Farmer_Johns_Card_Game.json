@@ -1,0 +1,14 @@
+{
+  "contest_id": 2060,
+  "problem_index": "B",
+  "name": "Farmer John's Card Game",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2060/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 26732
+}

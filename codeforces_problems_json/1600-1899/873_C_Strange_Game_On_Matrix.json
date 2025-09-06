@@ -1,0 +1,14 @@
+{
+  "contest_id": 873,
+  "problem_index": "C",
+  "name": "Strange Game On Matrix",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/873/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3478
+}

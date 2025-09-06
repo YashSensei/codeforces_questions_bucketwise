@@ -1,0 +1,14 @@
+{
+  "contest_id": 1211,
+  "problem_index": "B",
+  "name": "Traveling Around the Golden Ring of Berland",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1211/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 782
+}

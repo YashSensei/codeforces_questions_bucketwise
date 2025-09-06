@@ -1,0 +1,15 @@
+{
+  "contest_id": 704,
+  "problem_index": "D",
+  "name": "Captain America",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "flows",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/704/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 952
+}

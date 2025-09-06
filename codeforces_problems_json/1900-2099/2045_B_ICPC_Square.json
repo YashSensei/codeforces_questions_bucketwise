@@ -1,0 +1,14 @@
+{
+  "contest_id": 2045,
+  "problem_index": "B",
+  "name": "ICPC Square",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2045/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1389
+}

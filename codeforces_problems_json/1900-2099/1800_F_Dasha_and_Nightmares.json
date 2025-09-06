@@ -1,0 +1,16 @@
+{
+  "contest_id": 1800,
+  "problem_index": "F",
+  "name": "Dasha and Nightmares",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "hashing",
+    "meet-in-the-middle",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1800/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 4330
+}

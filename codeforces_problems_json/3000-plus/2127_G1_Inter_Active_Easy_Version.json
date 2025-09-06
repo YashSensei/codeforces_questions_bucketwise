@@ -1,0 +1,17 @@
+{
+  "contest_id": 2127,
+  "problem_index": "G1",
+  "name": "Inter Active (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "interactive",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2127/G1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2750.0,
+  "solved_count": 62
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1701,
+  "problem_index": "D",
+  "name": "Permutation Restoration",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1701/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6097
+}

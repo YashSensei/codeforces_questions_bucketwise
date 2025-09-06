@@ -1,0 +1,15 @@
+{
+  "contest_id": 1342,
+  "problem_index": "F",
+  "name": "Make It Ascending",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1342/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 883
+}

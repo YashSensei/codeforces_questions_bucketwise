@@ -1,0 +1,14 @@
+{
+  "contest_id": 616,
+  "problem_index": "A",
+  "name": "Comparing Two Long Integers",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/616/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 10417
+}

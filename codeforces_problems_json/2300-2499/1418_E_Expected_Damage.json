@@ -1,0 +1,15 @@
+{
+  "contest_id": 1418,
+  "problem_index": "E",
+  "name": "Expected Damage",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1418/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 2063
+}

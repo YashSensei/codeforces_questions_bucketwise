@@ -1,0 +1,17 @@
+{
+  "contest_id": 2075,
+  "problem_index": "E",
+  "name": "XOR Matrix",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2075/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 941
+}

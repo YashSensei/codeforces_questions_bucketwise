@@ -1,0 +1,15 @@
+{
+  "contest_id": 936,
+  "problem_index": "D",
+  "name": "World of Tank",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/936/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 346
+}

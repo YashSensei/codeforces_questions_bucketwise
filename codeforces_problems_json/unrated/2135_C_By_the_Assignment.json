@@ -1,0 +1,20 @@
+{
+  "contest_id": 2135,
+  "problem_index": "C",
+  "name": "By the Assignment",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "combinatorics",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2135/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 2383
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1845,
+  "problem_index": "A",
+  "name": "Forbidden Integer",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1845/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 36968
+}

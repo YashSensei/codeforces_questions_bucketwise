@@ -1,0 +1,14 @@
+{
+  "contest_id": 660,
+  "problem_index": "E",
+  "name": "Different Subsets For All Tuples",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/660/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1735
+}

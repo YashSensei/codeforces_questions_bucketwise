@@ -1,0 +1,17 @@
+{
+  "contest_id": 1901,
+  "problem_index": "D",
+  "name": "Yet Another Monster Fight",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1901/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7953
+}

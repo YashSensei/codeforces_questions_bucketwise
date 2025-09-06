@@ -1,0 +1,14 @@
+{
+  "contest_id": 1949,
+  "problem_index": "H",
+  "name": "Division Avoidance",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1949/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 150
+}

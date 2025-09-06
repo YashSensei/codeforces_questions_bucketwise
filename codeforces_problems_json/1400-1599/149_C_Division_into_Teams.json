@@ -1,0 +1,16 @@
+{
+  "contest_id": 149,
+  "problem_index": "C",
+  "name": "Division into Teams",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/149/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 5575
+}

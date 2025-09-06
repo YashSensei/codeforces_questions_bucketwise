@@ -1,0 +1,14 @@
+{
+  "contest_id": 345,
+  "problem_index": "G",
+  "name": "Suffix Subgroup",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "*special",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/345/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 103
+}

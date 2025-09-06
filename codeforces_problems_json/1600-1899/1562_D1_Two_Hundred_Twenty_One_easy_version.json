@@ -1,0 +1,16 @@
+{
+  "contest_id": 1562,
+  "problem_index": "D1",
+  "name": "Two Hundred Twenty One (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1562/D1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 6544
+}

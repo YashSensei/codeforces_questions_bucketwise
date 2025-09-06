@@ -1,0 +1,14 @@
+{
+  "contest_id": 1520,
+  "problem_index": "E",
+  "name": "Arranging The Sheep",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1520/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 25150
+}

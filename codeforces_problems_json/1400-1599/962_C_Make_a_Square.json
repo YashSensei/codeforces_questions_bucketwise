@@ -1,0 +1,15 @@
+{
+  "contest_id": 962,
+  "problem_index": "C",
+  "name": "Make a Square",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/962/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 8115
+}

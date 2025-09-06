@@ -1,0 +1,20 @@
+{
+  "contest_id": 2028,
+  "problem_index": "D",
+  "name": "Alice's Adventures in Cards",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "graphs",
+    "greedy",
+    "implementation",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2028/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1750.0,
+  "solved_count": 3399
+}

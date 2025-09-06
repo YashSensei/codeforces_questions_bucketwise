@@ -1,0 +1,15 @@
+{
+  "contest_id": 76,
+  "problem_index": "D",
+  "name": "Plus and xor",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/76/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 2203
+}

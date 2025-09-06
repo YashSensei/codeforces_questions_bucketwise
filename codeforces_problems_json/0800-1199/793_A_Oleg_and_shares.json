@@ -1,0 +1,15 @@
+{
+  "contest_id": 793,
+  "problem_index": "A",
+  "name": "Oleg and shares",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/793/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 7641
+}

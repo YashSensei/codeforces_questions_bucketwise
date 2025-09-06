@@ -1,0 +1,16 @@
+{
+  "contest_id": 582,
+  "problem_index": "A",
+  "name": "GCD Table",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/582/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 8106
+}

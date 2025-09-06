@@ -1,0 +1,16 @@
+{
+  "contest_id": 290,
+  "problem_index": "C",
+  "name": "WTF?",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "*special",
+    "graph matchings",
+    "implementation",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/290/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1590
+}

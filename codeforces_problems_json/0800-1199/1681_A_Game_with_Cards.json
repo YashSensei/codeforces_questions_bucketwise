@@ -1,0 +1,14 @@
+{
+  "contest_id": 1681,
+  "problem_index": "A",
+  "name": "Game with Cards",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "games",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1681/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 21467
+}

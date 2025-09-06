@@ -1,0 +1,16 @@
+{
+  "contest_id": 730,
+  "problem_index": "I",
+  "name": "Olympiad in Programming and Sports",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "dp",
+    "flows",
+    "graphs",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/730/I",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 2388
+}

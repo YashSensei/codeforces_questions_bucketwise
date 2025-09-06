@@ -1,0 +1,16 @@
+{
+  "contest_id": 1598,
+  "problem_index": "G",
+  "name": "The Sum of Good Numbers",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "hashing",
+    "math",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1598/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 374
+}

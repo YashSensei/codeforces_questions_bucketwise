@@ -1,0 +1,15 @@
+{
+  "contest_id": 607,
+  "problem_index": "A",
+  "name": "Chain Reaction",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/607/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 10224
+}

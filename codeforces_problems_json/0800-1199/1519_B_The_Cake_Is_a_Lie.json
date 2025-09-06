@@ -1,0 +1,14 @@
+{
+  "contest_id": 1519,
+  "problem_index": "B",
+  "name": "The Cake Is a Lie",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1519/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 32439
+}

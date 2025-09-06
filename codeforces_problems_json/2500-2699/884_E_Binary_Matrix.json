@@ -1,0 +1,13 @@
+{
+  "contest_id": 884,
+  "problem_index": "E",
+  "name": "Binary Matrix",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dsu"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/884/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 749
+}

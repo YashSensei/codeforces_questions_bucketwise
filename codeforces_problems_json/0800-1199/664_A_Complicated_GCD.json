@@ -1,0 +1,15 @@
+{
+  "contest_id": 664,
+  "problem_index": "A",
+  "name": "Complicated GCD",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/664/A",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 20081
+}

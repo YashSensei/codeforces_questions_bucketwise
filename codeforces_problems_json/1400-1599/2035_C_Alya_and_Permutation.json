@@ -1,0 +1,16 @@
+{
+  "contest_id": 2035,
+  "problem_index": "C",
+  "name": "Alya and Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2035/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1000.0,
+  "solved_count": 10630
+}

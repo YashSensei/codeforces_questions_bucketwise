@@ -1,0 +1,17 @@
+{
+  "contest_id": 1632,
+  "problem_index": "E2",
+  "name": "Distance Tree (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "binary search",
+    "dfs and similar",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1632/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 1091
+}

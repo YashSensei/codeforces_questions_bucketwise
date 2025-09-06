@@ -1,0 +1,15 @@
+{
+  "contest_id": 1045,
+  "problem_index": "D",
+  "name": "Interstellar battle",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1045/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 802
+}

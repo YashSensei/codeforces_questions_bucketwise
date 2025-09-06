@@ -1,0 +1,16 @@
+{
+  "contest_id": 1428,
+  "problem_index": "D",
+  "name": "Bouncing Boomerangs",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1428/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 4617
+}

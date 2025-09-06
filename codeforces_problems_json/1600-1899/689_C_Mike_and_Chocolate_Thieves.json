@@ -1,0 +1,16 @@
+{
+  "contest_id": 689,
+  "problem_index": "C",
+  "name": "Mike and Chocolate Thieves",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/689/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 5841
+}

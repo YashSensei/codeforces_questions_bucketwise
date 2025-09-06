@@ -1,0 +1,17 @@
+{
+  "contest_id": 1922,
+  "problem_index": "E",
+  "name": "Increasing Subsequences",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "divide and conquer",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1922/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 8602
+}

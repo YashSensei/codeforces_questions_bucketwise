@@ -1,0 +1,20 @@
+{
+  "contest_id": 1887,
+  "problem_index": "C",
+  "name": "Minimum Array",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "hashing",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1887/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 2067
+}

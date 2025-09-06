@@ -1,0 +1,19 @@
+{
+  "contest_id": 755,
+  "problem_index": "G",
+  "name": "PolandBall and Many Other Balls",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dp",
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/755/G",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 983
+}

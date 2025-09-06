@@ -1,0 +1,16 @@
+{
+  "contest_id": 729,
+  "problem_index": "C",
+  "name": "Road to Cinema",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/729/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 4058
+}

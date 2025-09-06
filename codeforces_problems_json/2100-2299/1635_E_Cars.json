@@ -1,0 +1,20 @@
+{
+  "contest_id": 1635,
+  "problem_index": "E",
+  "name": "Cars ",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "2-sat",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1635/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 2555
+}

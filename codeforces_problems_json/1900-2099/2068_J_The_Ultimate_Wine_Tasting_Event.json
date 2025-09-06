@@ -1,0 +1,14 @@
+{
+  "contest_id": 2068,
+  "problem_index": "J",
+  "name": "The Ultimate Wine Tasting Event",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "combinatorics",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2068/J",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1261
+}

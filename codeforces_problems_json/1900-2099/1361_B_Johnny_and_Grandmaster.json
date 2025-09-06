@@ -1,0 +1,17 @@
+{
+  "contest_id": 1361,
+  "problem_index": "B",
+  "name": "Johnny and Grandmaster",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1361/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 3783
+}

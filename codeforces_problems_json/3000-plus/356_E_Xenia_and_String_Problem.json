@@ -1,0 +1,18 @@
+{
+  "contest_id": 356,
+  "problem_index": "E",
+  "name": "Xenia and String Problem",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dp",
+    "hashing",
+    "implementation",
+    "string suffix structures",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/356/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 430
+}

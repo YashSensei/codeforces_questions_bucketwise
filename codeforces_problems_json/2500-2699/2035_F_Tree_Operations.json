@@ -1,0 +1,18 @@
+{
+  "contest_id": 2035,
+  "problem_index": "F",
+  "name": "Tree Operations",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2035/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 2250.0,
+  "solved_count": 1006
+}

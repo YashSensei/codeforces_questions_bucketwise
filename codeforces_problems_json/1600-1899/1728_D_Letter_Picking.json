@@ -1,0 +1,16 @@
+{
+  "contest_id": 1728,
+  "problem_index": "D",
+  "name": "Letter Picking",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "games",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1728/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 7878
+}

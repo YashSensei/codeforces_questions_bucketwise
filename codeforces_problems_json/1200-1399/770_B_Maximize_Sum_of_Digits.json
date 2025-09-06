@@ -1,0 +1,16 @@
+{
+  "contest_id": 770,
+  "problem_index": "B",
+  "name": "Maximize Sum of Digits",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "*special",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/770/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 2949
+}

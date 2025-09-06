@@ -1,0 +1,17 @@
+{
+  "contest_id": 1051,
+  "problem_index": "E",
+  "name": "Vasya and Big Integers",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "hashing",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1051/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1101
+}

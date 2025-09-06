@@ -1,0 +1,14 @@
+{
+  "contest_id": 100,
+  "problem_index": "F",
+  "name": "Polynom",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/100/F",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 153
+}

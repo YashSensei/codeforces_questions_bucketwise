@@ -1,0 +1,16 @@
+{
+  "contest_id": 1969,
+  "problem_index": "F",
+  "name": "Card Pairing",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "dp",
+    "greedy",
+    "hashing",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1969/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 358
+}

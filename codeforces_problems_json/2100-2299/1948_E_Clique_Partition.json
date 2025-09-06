@@ -1,0 +1,17 @@
+{
+  "contest_id": 1948,
+  "problem_index": "E",
+  "name": "Clique Partition",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1948/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 3312
+}

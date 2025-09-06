@@ -1,0 +1,24 @@
+{
+  "contest_id": 979,
+  "problem_index": "D",
+  "name": "Kuro and GCD and XOR and SUM",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "math",
+    "number theory",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/979/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 2058
+}

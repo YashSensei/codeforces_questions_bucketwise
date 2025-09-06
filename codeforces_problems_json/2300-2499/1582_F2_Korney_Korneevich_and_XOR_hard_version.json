@@ -1,0 +1,18 @@
+{
+  "contest_id": 1582,
+  "problem_index": "F2",
+  "name": "Korney Korneevich and XOR (hard version)",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1582/F2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 1985
+}

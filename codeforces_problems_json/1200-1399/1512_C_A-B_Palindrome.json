@@ -1,0 +1,15 @@
+{
+  "contest_id": 1512,
+  "problem_index": "C",
+  "name": "A-B Palindrome",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1512/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 21156
+}

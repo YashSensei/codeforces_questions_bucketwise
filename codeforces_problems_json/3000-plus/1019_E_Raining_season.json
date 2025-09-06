@@ -1,0 +1,16 @@
+{
+  "contest_id": 1019,
+  "problem_index": "E",
+  "name": "Raining season",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "divide and conquer",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1019/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2250.0,
+  "solved_count": 389
+}

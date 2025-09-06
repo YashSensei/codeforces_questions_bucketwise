@@ -1,0 +1,17 @@
+{
+  "contest_id": 129,
+  "problem_index": "B",
+  "name": "Students and Shoelaces",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/129/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 13186
+}

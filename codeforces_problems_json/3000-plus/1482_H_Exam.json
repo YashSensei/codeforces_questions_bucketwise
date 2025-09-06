@@ -1,0 +1,16 @@
+{
+  "contest_id": 1482,
+  "problem_index": "H",
+  "name": "Exam",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "data structures",
+    "string suffix structures",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1482/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3500.0,
+  "solved_count": 540
+}

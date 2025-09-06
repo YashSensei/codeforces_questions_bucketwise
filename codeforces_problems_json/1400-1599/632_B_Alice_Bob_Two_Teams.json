@@ -1,0 +1,14 @@
+{
+  "contest_id": 632,
+  "problem_index": "B",
+  "name": "Alice, Bob, Two Teams",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/632/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 4212
+}

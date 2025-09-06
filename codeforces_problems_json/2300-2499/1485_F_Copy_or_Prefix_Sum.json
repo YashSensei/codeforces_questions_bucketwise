@@ -1,0 +1,17 @@
+{
+  "contest_id": 1485,
+  "problem_index": "F",
+  "name": "Copy or Prefix Sum",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1485/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 2151
+}

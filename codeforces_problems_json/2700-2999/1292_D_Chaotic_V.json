@@ -1,0 +1,19 @@
+{
+  "contest_id": 1292,
+  "problem_index": "D",
+  "name": "Chaotic V.",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "number theory",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1292/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 915
+}

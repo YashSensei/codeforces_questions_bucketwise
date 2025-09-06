@@ -1,0 +1,14 @@
+{
+  "contest_id": 1882,
+  "problem_index": "E2",
+  "name": "Two Permutations (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1882/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 333
+}

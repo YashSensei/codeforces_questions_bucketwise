@@ -1,0 +1,17 @@
+{
+  "contest_id": 923,
+  "problem_index": "C",
+  "name": "Perfect Security",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "greedy",
+    "strings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/923/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 4573
+}

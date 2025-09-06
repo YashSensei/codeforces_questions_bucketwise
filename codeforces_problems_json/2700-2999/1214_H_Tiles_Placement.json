@@ -1,0 +1,16 @@
+{
+  "contest_id": 1214,
+  "problem_index": "H",
+  "name": "Tiles Placement",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1214/H",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3500.0,
+  "solved_count": 432
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1753,
+  "problem_index": "E",
+  "name": "N Machines",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1753/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2500.0,
+  "solved_count": 401
+}

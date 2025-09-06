@@ -1,0 +1,15 @@
+{
+  "contest_id": 234,
+  "problem_index": "G",
+  "name": "Practice",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "divide and conquer",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/234/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1551
+}

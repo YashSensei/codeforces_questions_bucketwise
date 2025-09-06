@@ -1,0 +1,15 @@
+{
+  "contest_id": 1933,
+  "problem_index": "A",
+  "name": "Turtle Puzzle: Rearrange and Negate",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1933/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 40577
+}

@@ -1,0 +1,20 @@
+{
+  "contest_id": 1940,
+  "problem_index": "C",
+  "name": "Burenka and Pether",
+  "type": "PROGRAMMING",
+  "rating": null,
+  "tags": [
+    "*special",
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dsu",
+    "graphs",
+    "sortings",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1940/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 38
+}

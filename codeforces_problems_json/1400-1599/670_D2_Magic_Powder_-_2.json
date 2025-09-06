@@ -1,0 +1,15 @@
+{
+  "contest_id": 670,
+  "problem_index": "D2",
+  "name": "Magic Powder - 2",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/670/D2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 500.0,
+  "solved_count": 17035
+}

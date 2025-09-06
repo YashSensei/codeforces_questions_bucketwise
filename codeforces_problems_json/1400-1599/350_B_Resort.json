@@ -1,0 +1,14 @@
+{
+  "contest_id": 350,
+  "problem_index": "B",
+  "name": "Resort",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/350/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 3275
+}

@@ -1,0 +1,19 @@
+{
+  "contest_id": 1737,
+  "problem_index": "D",
+  "name": "Ela and the Wiring Wizard",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "brute force",
+    "dp",
+    "graphs",
+    "greedy",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1737/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 2018
+}

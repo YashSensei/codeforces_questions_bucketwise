@@ -1,0 +1,16 @@
+{
+  "contest_id": 2128,
+  "problem_index": "F",
+  "name": "Strict Triangle",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2128/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 4000.0,
+  "solved_count": 270
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 2117,
+  "problem_index": "E",
+  "name": "Lost Soul",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2117/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 10155
+}

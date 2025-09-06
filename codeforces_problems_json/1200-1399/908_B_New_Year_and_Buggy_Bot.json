@@ -1,0 +1,15 @@
+{
+  "contest_id": 908,
+  "problem_index": "B",
+  "name": "New Year and Buggy Bot",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/908/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 750.0,
+  "solved_count": 7806
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1428,
+  "problem_index": "H",
+  "name": "Rotary Laser Lock",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "binary search",
+    "interactive"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1428/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 118
+}

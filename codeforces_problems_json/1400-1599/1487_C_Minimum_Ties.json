@@ -1,0 +1,19 @@
+{
+  "contest_id": 1487,
+  "problem_index": "C",
+  "name": "Minimum Ties",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1487/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 15008
+}

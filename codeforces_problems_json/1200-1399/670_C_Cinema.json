@@ -1,0 +1,15 @@
+{
+  "contest_id": 670,
+  "problem_index": "C",
+  "name": "Cinema",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/670/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 9645
+}

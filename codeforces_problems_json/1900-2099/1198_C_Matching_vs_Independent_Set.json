@@ -1,0 +1,17 @@
+{
+  "contest_id": 1198,
+  "problem_index": "C",
+  "name": "Matching vs  Independent Set",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1198/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 3866
+}

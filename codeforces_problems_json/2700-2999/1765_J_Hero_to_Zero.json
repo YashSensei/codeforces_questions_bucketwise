@@ -1,0 +1,14 @@
+{
+  "contest_id": 1765,
+  "problem_index": "J",
+  "name": "Hero to Zero",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "graph matchings",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1765/J",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 241
+}

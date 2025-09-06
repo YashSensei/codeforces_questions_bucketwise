@@ -1,0 +1,16 @@
+{
+  "contest_id": 2125,
+  "problem_index": "C",
+  "name": "Count Good Numbers",
+  "type": "PROGRAMMING",
+  "rating": 1100,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2125/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 19667
+}

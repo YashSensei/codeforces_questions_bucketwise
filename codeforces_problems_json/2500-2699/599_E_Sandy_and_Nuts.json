@@ -1,0 +1,16 @@
+{
+  "contest_id": 599,
+  "problem_index": "E",
+  "name": "Sandy and Nuts",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/599/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 709
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1615,
+  "problem_index": "A",
+  "name": "Closing The Gap",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1615/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 250.0,
+  "solved_count": 21310
+}

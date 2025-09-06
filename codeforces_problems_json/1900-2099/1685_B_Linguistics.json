@@ -1,0 +1,17 @@
+{
+  "contest_id": 1685,
+  "problem_index": "B",
+  "name": "Linguistics",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1685/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 3505
+}

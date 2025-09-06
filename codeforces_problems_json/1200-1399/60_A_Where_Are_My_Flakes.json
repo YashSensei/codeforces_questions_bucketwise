@@ -1,0 +1,15 @@
+{
+  "contest_id": 60,
+  "problem_index": "A",
+  "name": "Where Are My Flakes?",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/60/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 3999
+}

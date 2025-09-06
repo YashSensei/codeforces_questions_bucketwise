@@ -1,0 +1,16 @@
+{
+  "contest_id": 1310,
+  "problem_index": "C",
+  "name": "Au Pont Rouge",
+  "type": "PROGRAMMING",
+  "rating": 2800,
+  "tags": [
+    "binary search",
+    "dp",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1310/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 674
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 2097,
+  "problem_index": "C",
+  "name": "Bermuda Triangle",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "chinese remainder theorem",
+    "geometry",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2097/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 820
+}

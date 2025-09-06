@@ -1,0 +1,15 @@
+{
+  "contest_id": 1207,
+  "problem_index": "B",
+  "name": "Square Filling",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1207/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 13548
+}

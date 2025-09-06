@@ -1,0 +1,14 @@
+{
+  "contest_id": 1252,
+  "problem_index": "C",
+  "name": "Even Path",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1252/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3866
+}

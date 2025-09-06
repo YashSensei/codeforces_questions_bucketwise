@@ -1,0 +1,17 @@
+{
+  "contest_id": 74,
+  "problem_index": "C",
+  "name": "Chessboard Billiard",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/74/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 1345
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 2114,
+  "problem_index": "C",
+  "name": "Need More Arrays",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2114/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 27122
+}

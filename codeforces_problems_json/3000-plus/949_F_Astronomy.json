@@ -1,0 +1,15 @@
+{
+  "contest_id": 949,
+  "problem_index": "F",
+  "name": "Astronomy",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "geometry",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/949/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 62
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1684,
+  "problem_index": "F",
+  "name": "Diverse Segments",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "data structures",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1684/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1025
+}

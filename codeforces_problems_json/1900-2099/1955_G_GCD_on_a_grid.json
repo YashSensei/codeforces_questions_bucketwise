@@ -1,0 +1,18 @@
+{
+  "contest_id": 1955,
+  "problem_index": "G",
+  "name": "GCD on a grid",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1955/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 5389
+}

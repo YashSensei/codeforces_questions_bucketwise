@@ -1,0 +1,17 @@
+{
+  "contest_id": 959,
+  "problem_index": "D",
+  "name": "Mahmoud and Ehab and another array construction task",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/959/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1750.0,
+  "solved_count": 3184
+}

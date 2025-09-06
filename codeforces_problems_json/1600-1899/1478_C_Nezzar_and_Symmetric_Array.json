@@ -1,0 +1,16 @@
+{
+  "contest_id": 1478,
+  "problem_index": "C",
+  "name": "Nezzar and Symmetric Array",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1478/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 10317
+}

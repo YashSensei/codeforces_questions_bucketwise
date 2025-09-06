@@ -1,0 +1,14 @@
+{
+  "contest_id": 845,
+  "problem_index": "E",
+  "name": "Fire in the City",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "binary search",
+    "data structures"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/845/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 653
+}

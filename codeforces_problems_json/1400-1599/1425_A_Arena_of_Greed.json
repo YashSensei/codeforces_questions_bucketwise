@@ -1,0 +1,14 @@
+{
+  "contest_id": 1425,
+  "problem_index": "A",
+  "name": "Arena of Greed",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "games",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1425/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6945
+}

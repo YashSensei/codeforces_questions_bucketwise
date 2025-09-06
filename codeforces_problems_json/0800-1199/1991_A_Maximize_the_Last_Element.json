@@ -1,0 +1,15 @@
+{
+  "contest_id": 1991,
+  "problem_index": "A",
+  "name": "Maximize the Last Element",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1991/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 250.0,
+  "solved_count": 23519
+}

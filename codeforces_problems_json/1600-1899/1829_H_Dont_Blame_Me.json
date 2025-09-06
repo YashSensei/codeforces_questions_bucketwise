@@ -1,0 +1,16 @@
+{
+  "contest_id": 1829,
+  "problem_index": "H",
+  "name": "Don't Blame Me",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1829/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 9342
+}

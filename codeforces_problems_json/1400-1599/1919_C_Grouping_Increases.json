@@ -1,0 +1,16 @@
+{
+  "contest_id": 1919,
+  "problem_index": "C",
+  "name": "Grouping Increases",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1919/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1000.0,
+  "solved_count": 24149
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 1146,
+  "problem_index": "E",
+  "name": "Hot is Cold",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "data structures",
+    "divide and conquer",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1146/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 978
+}

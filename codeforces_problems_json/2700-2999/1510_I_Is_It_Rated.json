@@ -1,0 +1,16 @@
+{
+  "contest_id": 1510,
+  "problem_index": "I",
+  "name": "Is It Rated?",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "greedy",
+    "interactive",
+    "math",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1510/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 545
+}

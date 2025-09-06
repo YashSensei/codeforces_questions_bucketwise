@@ -1,0 +1,14 @@
+{
+  "contest_id": 1861,
+  "problem_index": "A",
+  "name": "Prime Deletion",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1861/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 25169
+}

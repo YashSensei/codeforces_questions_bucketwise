@@ -1,0 +1,16 @@
+{
+  "contest_id": 2124,
+  "problem_index": "H",
+  "name": "Longest Good Subsequence",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "dp",
+    "math",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2124/H",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 4750.0,
+  "solved_count": 143
+}

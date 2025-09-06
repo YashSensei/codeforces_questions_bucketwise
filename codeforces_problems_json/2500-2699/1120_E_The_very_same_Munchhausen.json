@@ -1,0 +1,14 @@
+{
+  "contest_id": 1120,
+  "problem_index": "E",
+  "name": "The very same Munchhausen",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1120/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 137
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 285,
+  "problem_index": "B",
+  "name": "Find Marble",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/285/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 15454
+}

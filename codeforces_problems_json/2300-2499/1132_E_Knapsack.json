@@ -1,0 +1,15 @@
+{
+  "contest_id": 1132,
+  "problem_index": "E",
+  "name": "Knapsack",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1132/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 1778
+}

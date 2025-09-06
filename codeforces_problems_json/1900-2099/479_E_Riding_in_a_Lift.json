@@ -1,0 +1,15 @@
+{
+  "contest_id": 479,
+  "problem_index": "E",
+  "name": "Riding in a Lift",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/479/E",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2500.0,
+  "solved_count": 5387
+}

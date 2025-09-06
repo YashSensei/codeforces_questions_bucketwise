@@ -1,0 +1,16 @@
+{
+  "contest_id": 1609,
+  "problem_index": "G",
+  "name": "A Stroll Around the Matrix",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1609/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3250.0,
+  "solved_count": 453
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 913,
+  "problem_index": "D",
+  "name": "Too Easy Problems",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/913/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1250.0,
+  "solved_count": 4971
+}

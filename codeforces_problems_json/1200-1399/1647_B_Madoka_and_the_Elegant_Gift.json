@@ -1,0 +1,17 @@
+{
+  "contest_id": 1647,
+  "problem_index": "B",
+  "name": "Madoka and the Elegant Gift",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "graphs",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1647/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 16438
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1776,
+  "problem_index": "B",
+  "name": "Vittorio Plays with LEGO Bricks",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dp",
+    "geometry"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1776/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1472
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1558,
+  "problem_index": "B",
+  "name": "Up the Strip",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "dp",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1558/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1250.0,
+  "solved_count": 5096
+}

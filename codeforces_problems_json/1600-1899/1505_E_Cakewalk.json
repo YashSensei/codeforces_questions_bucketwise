@@ -1,0 +1,16 @@
+{
+  "contest_id": 1505,
+  "problem_index": "E",
+  "name": "Cakewalk",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "greedy",
+    "implementation",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1505/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 1850
+}

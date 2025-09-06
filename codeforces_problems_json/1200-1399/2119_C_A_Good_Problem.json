@@ -1,0 +1,16 @@
+{
+  "contest_id": 2119,
+  "problem_index": "C",
+  "name": "A Good Problem",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2119/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 1500.0,
+  "solved_count": 13565
+}

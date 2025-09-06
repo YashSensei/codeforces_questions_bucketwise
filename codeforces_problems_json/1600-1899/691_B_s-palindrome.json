@@ -1,0 +1,14 @@
+{
+  "contest_id": 691,
+  "problem_index": "B",
+  "name": "s-palindrome",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/691/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7693
+}

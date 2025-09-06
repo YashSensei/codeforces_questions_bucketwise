@@ -1,0 +1,18 @@
+{
+  "contest_id": 1895,
+  "problem_index": "D",
+  "name": "XOR Construction",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "data structures",
+    "math",
+    "string suffix structures",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1895/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6674
+}

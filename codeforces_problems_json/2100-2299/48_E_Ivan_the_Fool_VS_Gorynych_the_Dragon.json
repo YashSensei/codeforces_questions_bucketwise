@@ -1,0 +1,15 @@
+{
+  "contest_id": 48,
+  "problem_index": "E",
+  "name": "Ivan the Fool VS Gorynych the Dragon",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "games",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/48/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 644
+}

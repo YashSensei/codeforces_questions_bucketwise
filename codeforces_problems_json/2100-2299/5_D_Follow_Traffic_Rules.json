@@ -1,0 +1,14 @@
+{
+  "contest_id": 5,
+  "problem_index": "D",
+  "name": "Follow Traffic Rules",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/5/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 1817
+}

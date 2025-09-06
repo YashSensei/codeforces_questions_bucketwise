@@ -1,0 +1,20 @@
+{
+  "contest_id": 1615,
+  "problem_index": "H",
+  "name": "Reindeer Games",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "flows",
+    "graphs",
+    "shortest paths"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1615/H",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 4000.0,
+  "solved_count": 365
+}

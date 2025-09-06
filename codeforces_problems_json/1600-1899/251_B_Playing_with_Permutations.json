@@ -1,0 +1,15 @@
+{
+  "contest_id": 251,
+  "problem_index": "B",
+  "name": "Playing with Permutations",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/251/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 1332
+}

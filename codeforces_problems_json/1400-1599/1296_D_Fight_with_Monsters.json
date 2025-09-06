@@ -1,0 +1,14 @@
+{
+  "contest_id": 1296,
+  "problem_index": "D",
+  "name": "Fight with Monsters",
+  "type": "PROGRAMMING",
+  "rating": 1500,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1296/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14784
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 286,
+  "problem_index": "B",
+  "name": "Shifting",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/286/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 1143
+}

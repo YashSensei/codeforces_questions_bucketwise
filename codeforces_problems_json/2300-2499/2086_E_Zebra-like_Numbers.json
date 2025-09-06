@@ -1,0 +1,19 @@
+{
+  "contest_id": 2086,
+  "problem_index": "E",
+  "name": "Zebra-like Numbers",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2086/E",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 1385
+}

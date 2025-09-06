@@ -1,0 +1,14 @@
+{
+  "contest_id": 1359,
+  "problem_index": "C",
+  "name": "Mixing Water",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1359/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 14635
+}

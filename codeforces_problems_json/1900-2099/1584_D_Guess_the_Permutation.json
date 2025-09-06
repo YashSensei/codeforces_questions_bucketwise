@@ -1,0 +1,17 @@
+{
+  "contest_id": 1584,
+  "problem_index": "D",
+  "name": "Guess the Permutation",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "interactive",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1584/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 3845
+}

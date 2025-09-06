@@ -1,0 +1,15 @@
+{
+  "contest_id": 152,
+  "problem_index": "B",
+  "name": "Steps",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/152/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 7098
+}

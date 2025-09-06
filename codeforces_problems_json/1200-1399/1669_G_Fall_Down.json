@@ -1,0 +1,14 @@
+{
+  "contest_id": 1669,
+  "problem_index": "G",
+  "name": "Fall Down",
+  "type": "PROGRAMMING",
+  "rating": 1200,
+  "tags": [
+    "dfs and similar",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1669/G",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 20554
+}

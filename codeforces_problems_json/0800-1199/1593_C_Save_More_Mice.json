@@ -1,0 +1,15 @@
+{
+  "contest_id": 1593,
+  "problem_index": "C",
+  "name": "Save More Mice",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "binary search",
+    "greedy",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1593/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 26868
+}

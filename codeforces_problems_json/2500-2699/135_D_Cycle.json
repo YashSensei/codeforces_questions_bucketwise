@@ -1,0 +1,16 @@
+{
+  "contest_id": 135,
+  "problem_index": "D",
+  "name": "Cycle",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/135/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 311
+}

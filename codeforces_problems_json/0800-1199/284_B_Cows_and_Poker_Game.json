@@ -1,0 +1,15 @@
+{
+  "contest_id": 284,
+  "problem_index": "B",
+  "name": "Cows and Poker Game",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/284/B",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1000.0,
+  "solved_count": 7110
+}

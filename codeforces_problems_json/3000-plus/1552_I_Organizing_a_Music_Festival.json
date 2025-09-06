@@ -1,0 +1,15 @@
+{
+  "contest_id": 1552,
+  "problem_index": "I",
+  "name": "Organizing a Music Festival",
+  "type": "PROGRAMMING",
+  "rating": 3400,
+  "tags": [
+    "dfs and similar",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1552/I",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3750.0,
+  "solved_count": 142
+}

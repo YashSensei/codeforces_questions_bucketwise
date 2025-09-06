@@ -1,0 +1,19 @@
+{
+  "contest_id": 1381,
+  "problem_index": "C",
+  "name": "Mastermind",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "constructive algorithms",
+    "graph matchings",
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1381/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 1683
+}

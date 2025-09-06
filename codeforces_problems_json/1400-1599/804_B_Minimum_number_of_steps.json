@@ -1,0 +1,17 @@
+{
+  "contest_id": 804,
+  "problem_index": "B",
+  "name": "Minimum number of steps",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "combinatorics",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/804/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 9944
+}

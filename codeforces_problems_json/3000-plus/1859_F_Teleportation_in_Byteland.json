@@ -1,0 +1,19 @@
+{
+  "contest_id": 1859,
+  "problem_index": "F",
+  "name": "Teleportation in Byteland",
+  "type": "PROGRAMMING",
+  "rating": 3200,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "graphs",
+    "shortest paths",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1859/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 434
+}

@@ -1,0 +1,14 @@
+{
+  "contest_id": 1841,
+  "problem_index": "A",
+  "name": "Game with Board",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "games"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1841/A",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 25531
+}

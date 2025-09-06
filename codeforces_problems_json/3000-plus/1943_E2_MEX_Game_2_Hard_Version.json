@@ -1,0 +1,16 @@
+{
+  "contest_id": 1943,
+  "problem_index": "E2",
+  "name": "MEX Game 2 (Hard Version)",
+  "type": "PROGRAMMING",
+  "rating": 3300,
+  "tags": [
+    "binary search",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1943/E2",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1500.0,
+  "solved_count": 338
+}

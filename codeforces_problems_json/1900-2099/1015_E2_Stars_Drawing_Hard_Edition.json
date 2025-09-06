@@ -1,0 +1,15 @@
+{
+  "contest_id": 1015,
+  "problem_index": "E2",
+  "name": "Stars Drawing (Hard Edition)",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1015/E2",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 3849
+}

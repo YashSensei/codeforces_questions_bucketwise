@@ -1,0 +1,15 @@
+{
+  "contest_id": 1762,
+  "problem_index": "C",
+  "name": "Binary Strings are Fun",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1762/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 9811
+}

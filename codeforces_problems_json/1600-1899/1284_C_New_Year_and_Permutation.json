@@ -1,0 +1,15 @@
+{
+  "contest_id": 1284,
+  "problem_index": "C",
+  "name": "New Year and Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1284/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 8481
+}

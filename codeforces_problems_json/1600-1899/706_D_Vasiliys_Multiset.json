@@ -1,0 +1,17 @@
+{
+  "contest_id": 706,
+  "problem_index": "D",
+  "name": "Vasiliy's Multiset",
+  "type": "PROGRAMMING",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/706/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 2000.0,
+  "solved_count": 11315
+}

@@ -1,0 +1,18 @@
+{
+  "contest_id": 1784,
+  "problem_index": "E",
+  "name": "Infinite Game",
+  "type": "PROGRAMMING",
+  "rating": 3100,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "games",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1784/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 385
+}

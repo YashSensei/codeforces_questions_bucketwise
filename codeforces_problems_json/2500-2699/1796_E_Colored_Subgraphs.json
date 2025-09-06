@@ -1,0 +1,17 @@
+{
+  "contest_id": 1796,
+  "problem_index": "E",
+  "name": "Colored Subgraphs",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1796/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 879
+}

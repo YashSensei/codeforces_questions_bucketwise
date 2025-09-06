@@ -1,0 +1,17 @@
+{
+  "contest_id": 2038,
+  "problem_index": "F",
+  "name": "Alternative Platforms",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "data structures",
+    "fft",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2038/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 430
+}

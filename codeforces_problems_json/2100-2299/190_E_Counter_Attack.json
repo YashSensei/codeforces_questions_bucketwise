@@ -1,0 +1,18 @@
+{
+  "contest_id": 190,
+  "problem_index": "E",
+  "name": "Counter Attack",
+  "type": "PROGRAMMING",
+  "rating": 2100,
+  "tags": [
+    "data structures",
+    "dsu",
+    "graphs",
+    "hashing",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/190/E",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2500.0,
+  "solved_count": 1634
+}

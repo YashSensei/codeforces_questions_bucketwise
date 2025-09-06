@@ -1,0 +1,14 @@
+{
+  "contest_id": 622,
+  "problem_index": "C",
+  "name": "Not Equal on a Segment",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/622/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7194
+}

@@ -1,0 +1,15 @@
+{
+  "contest_id": 1425,
+  "problem_index": "D",
+  "name": "Danger of Mad Snakes",
+  "type": "PROGRAMMING",
+  "rating": 2300,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1425/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 872
+}

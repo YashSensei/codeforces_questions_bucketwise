@@ -1,0 +1,14 @@
+{
+  "contest_id": 1271,
+  "problem_index": "F",
+  "name": "Divide The Students",
+  "type": "PROGRAMMING",
+  "rating": 2700,
+  "tags": [
+    "brute force"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1271/F",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 3000.0,
+  "solved_count": 217
+}

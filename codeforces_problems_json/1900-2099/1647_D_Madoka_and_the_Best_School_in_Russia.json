@@ -1,0 +1,17 @@
+{
+  "contest_id": 1647,
+  "problem_index": "D",
+  "name": "Madoka and the Best School in Russia",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1647/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2000.0,
+  "solved_count": 5565
+}

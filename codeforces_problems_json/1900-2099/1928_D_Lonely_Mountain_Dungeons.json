@@ -1,0 +1,18 @@
+{
+  "contest_id": 1928,
+  "problem_index": "D",
+  "name": "Lonely Mountain Dungeons",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "math",
+    "ternary search"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1928/D",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 1750.0,
+  "solved_count": 4855
+}

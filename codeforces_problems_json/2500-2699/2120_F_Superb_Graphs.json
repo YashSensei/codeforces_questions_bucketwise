@@ -1,0 +1,15 @@
+{
+  "contest_id": 2120,
+  "problem_index": "F",
+  "name": "Superb Graphs",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "2-sat",
+    "graphs"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2120/F",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 3000.0,
+  "solved_count": 292
+}

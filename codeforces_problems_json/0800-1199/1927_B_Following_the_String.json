@@ -1,0 +1,15 @@
+{
+  "contest_id": 1927,
+  "problem_index": "B",
+  "name": "Following the String",
+  "type": "PROGRAMMING",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1927/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 36400
+}

@@ -1,0 +1,17 @@
+{
+  "contest_id": 2033,
+  "problem_index": "D",
+  "name": "Kousuke's Assignment",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2033/D",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 16807
+}

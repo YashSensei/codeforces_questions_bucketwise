@@ -1,0 +1,16 @@
+{
+  "contest_id": 2005,
+  "problem_index": "B1",
+  "name": "The Strict Teacher (Easy Version)",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2005/B1",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 23516
+}

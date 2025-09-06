@@ -1,0 +1,14 @@
+{
+  "contest_id": 234,
+  "problem_index": "C",
+  "name": "Weather",
+  "type": "PROGRAMMING",
+  "rating": 1300,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/234/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 5787
+}

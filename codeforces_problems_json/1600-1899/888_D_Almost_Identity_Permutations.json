@@ -1,0 +1,15 @@
+{
+  "contest_id": 888,
+  "problem_index": "D",
+  "name": "Almost Identity Permutations",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/888/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 9633
+}

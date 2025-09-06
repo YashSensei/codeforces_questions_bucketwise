@@ -1,0 +1,16 @@
+{
+  "contest_id": 2079,
+  "problem_index": "B",
+  "name": "Arithmetic Exercise",
+  "type": "PROGRAMMING",
+  "rating": 2600,
+  "tags": [
+    "*special",
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2079/B",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 134
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1399,
+  "problem_index": "E1",
+  "name": "Weights Division (easy version)",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "trees"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1399/E1",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 6128
+}

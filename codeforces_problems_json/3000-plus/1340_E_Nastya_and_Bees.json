@@ -1,0 +1,16 @@
+{
+  "contest_id": 1340,
+  "problem_index": "E",
+  "name": "Nastya and Bees",
+  "type": "PROGRAMMING",
+  "rating": 3000,
+  "tags": [
+    "graphs",
+    "interactive",
+    "probabilities"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1340/E",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "points": 2250.0,
+  "solved_count": 56
+}

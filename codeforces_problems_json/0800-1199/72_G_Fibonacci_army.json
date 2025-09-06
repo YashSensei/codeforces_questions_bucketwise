@@ -1,0 +1,14 @@
+{
+  "contest_id": 72,
+  "problem_index": "G",
+  "name": "Fibonacci army",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "*special",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/72/G",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 2584
+}

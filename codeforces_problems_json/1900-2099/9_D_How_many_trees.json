@@ -1,0 +1,15 @@
+{
+  "contest_id": 9,
+  "problem_index": "D",
+  "name": "How many trees?",
+  "type": "PROGRAMMING",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/9/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "solved_count": 4201
+}

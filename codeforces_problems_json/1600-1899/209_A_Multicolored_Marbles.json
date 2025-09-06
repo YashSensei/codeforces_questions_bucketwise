@@ -1,0 +1,15 @@
+{
+  "contest_id": 209,
+  "problem_index": "A",
+  "name": "Multicolored Marbles",
+  "type": "PROGRAMMING",
+  "rating": 1600,
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/209/A",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 500.0,
+  "solved_count": 2648
+}

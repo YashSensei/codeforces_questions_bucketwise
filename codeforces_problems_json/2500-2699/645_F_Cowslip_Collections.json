@@ -1,0 +1,16 @@
+{
+  "contest_id": 645,
+  "problem_index": "F",
+  "name": "Cowslip Collections",
+  "type": "PROGRAMMING",
+  "rating": 2500,
+  "tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/645/F",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 3000.0,
+  "solved_count": 911
+}

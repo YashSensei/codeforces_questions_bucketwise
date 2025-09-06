@@ -1,0 +1,14 @@
+{
+  "contest_id": 582,
+  "problem_index": "C",
+  "name": "Superior Periodic Subarrays",
+  "type": "PROGRAMMING",
+  "rating": 2400,
+  "tags": [
+    "number theory"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/582/C",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1500.0,
+  "solved_count": 772
+}

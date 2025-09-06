@@ -1,0 +1,17 @@
+{
+  "contest_id": 1386,
+  "problem_index": "B",
+  "name": "Mixture",
+  "type": "PROGRAMMING",
+  "rating": 2900,
+  "tags": [
+    "*special",
+    "data structures",
+    "geometry",
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1386/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 131
+}

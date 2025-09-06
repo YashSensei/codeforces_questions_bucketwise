@@ -1,0 +1,15 @@
+{
+  "contest_id": 967,
+  "problem_index": "B",
+  "name": "Watering System",
+  "type": "PROGRAMMING",
+  "rating": 1000,
+  "tags": [
+    "math",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/967/B",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "points": 1000.0,
+  "solved_count": 7602
+}

@@ -1,0 +1,16 @@
+{
+  "contest_id": 1972,
+  "problem_index": "A",
+  "name": "Contest Proposal",
+  "type": "PROGRAMMING",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "greedy",
+    "two pointers"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1972/A",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "points": 500.0,
+  "solved_count": 24987
+}

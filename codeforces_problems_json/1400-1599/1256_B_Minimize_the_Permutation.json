@@ -1,0 +1,13 @@
+{
+  "contest_id": 1256,
+  "problem_index": "B",
+  "name": "Minimize the Permutation",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "greedy"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1256/B",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13468
+}

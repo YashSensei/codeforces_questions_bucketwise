@@ -1,0 +1,15 @@
+{
+  "contest_id": 288,
+  "problem_index": "C",
+  "name": "Polo the Penguin and XOR operation",
+  "type": "PROGRAMMING",
+  "rating": 1700,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/288/C",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 1500.0,
+  "solved_count": 2390
+}

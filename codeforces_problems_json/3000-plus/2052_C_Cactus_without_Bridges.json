@@ -1,0 +1,14 @@
+{
+  "contest_id": 2052,
+  "problem_index": "C",
+  "name": "Cactus without Bridges",
+  "type": "PROGRAMMING",
+  "rating": 3500,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/2052/C",
+  "scraped_at": "2025-09-06 12:49:56 UTC",
+  "solved_count": 38
+}

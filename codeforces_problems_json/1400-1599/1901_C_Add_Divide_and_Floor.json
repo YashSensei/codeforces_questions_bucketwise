@@ -1,0 +1,15 @@
+{
+  "contest_id": 1901,
+  "problem_index": "C",
+  "name": "Add, Divide and Floor",
+  "type": "PROGRAMMING",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/1901/C",
+  "scraped_at": "2025-09-06 12:49:57 UTC",
+  "solved_count": 13515
+}

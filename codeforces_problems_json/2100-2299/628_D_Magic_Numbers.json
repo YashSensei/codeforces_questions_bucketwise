@@ -1,0 +1,13 @@
+{
+  "contest_id": 628,
+  "problem_index": "D",
+  "name": "Magic Numbers",
+  "type": "PROGRAMMING",
+  "rating": 2200,
+  "tags": [
+    "dp"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/628/D",
+  "scraped_at": "2025-09-06 12:49:58 UTC",
+  "solved_count": 7222
+}

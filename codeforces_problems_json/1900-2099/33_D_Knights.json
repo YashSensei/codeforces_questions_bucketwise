@@ -1,0 +1,17 @@
+{
+  "contest_id": 33,
+  "problem_index": "D",
+  "name": "Knights",
+  "type": "PROGRAMMING",
+  "rating": 2000,
+  "tags": [
+    "geometry",
+    "graphs",
+    "shortest paths",
+    "sortings"
+  ],
+  "problem_statement_link": "https://codeforces.com/problemset/problem/33/D",
+  "scraped_at": "2025-09-06 12:49:59 UTC",
+  "points": 2000.0,
+  "solved_count": 1320
+}

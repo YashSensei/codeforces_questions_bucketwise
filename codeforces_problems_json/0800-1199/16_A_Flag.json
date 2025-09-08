@@ -9,5 +9,366 @@
   ],
   "problem_statement_link": "https://codeforces.com/problemset/problem/16/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
-  "solved_count": 15821
+  "solved_count": 15821,
+  "problem": {
+    "title": "Flag",
+    "time_limit": "2 seconds",
+    "memory_limit": "64 megabytes",
+    "story": "According to a new ISO standard, a flag of every country should have a chequered field n × m, each square should be of one of 10 colours, and the flag should be «striped»: each horizontal row of the flag should contain squares of the same colour, and the colours of adjacent horizontal rows should be different. Berland's government asked you to find out whether their flag meets the new ISO standard.",
+    "input_format": "The first line of the input contains numbers n and m (1 ≤ n, m ≤ 100), n — the amount of rows, m — the amount of columns on the flag of Berland. Then there follows the description of the flag: each of the following n lines contain m characters. Each character is a digit between 0 and 9, and stands for the colour of the corresponding square.",
+    "output_format": "Output YES, if the flag meets the new ISO standard, and NO otherwise.",
+    "examples": [
+      {
+        "input": "3 3\n000\n111\n222",
+        "output": "YES"
+      },
+      {
+        "input": "3 3\n000\n000\n111",
+        "output": "NO"
+      },
+      {
+        "input": "3 3\n000\n111\n002",
+        "output": "NO"
+      }
+    ]
+  },
+  "test_cases": [
+    {
+      "id": 1,
+      "title": "Minimum-size single cell all valid",
+      "tags": ["min","edge","short"],
+      "input": "1 1\n0\n",
+      "expected_output": "YES\n",
+      "size_bytes": 6,
+      "difficulty_estimate": "trivial",
+      "why_included": "Absolute minimum n=m=1 where both conditions vacuously hold. Ensures base-case handling.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 2,
+      "title": "Single row uniform digits passes",
+      "tags": ["edge","short"],
+      "input": "1 5\n77777\n",
+      "expected_output": "YES\n",
+      "size_bytes": 10,
+      "difficulty_estimate": "easy",
+      "why_included": "Only one row; row-uniformity is required but adjacent-row constraint is vacuous.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 3,
+      "title": "Single row with mixed digits fails",
+      "tags": ["edge","short","adversarial"],
+      "input": "1 5\n01234\n",
+      "expected_output": "NO\n",
+      "size_bytes": 10,
+      "difficulty_estimate": "easy",
+      "why_included": "One row exists but it is not uniform, so it must fail regardless of adjacency.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 4,
+      "title": "Single column strictly alternating digits",
+      "tags": ["edge","short"],
+      "input": "5 1\n0\n1\n2\n3\n4\n",
+      "expected_output": "YES\n",
+      "size_bytes": 14,
+      "difficulty_estimate": "easy",
+      "why_included": "Each row has one cell (always uniform) and adjacent rows differ; tests column-shaped inputs.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 5,
+      "title": "Single column with adjacent duplicate fails",
+      "tags": ["edge","short","adversarial"],
+      "input": "5 1\n0\n1\n1\n2\n3\n",
+      "expected_output": "NO\n",
+      "size_bytes": 14,
+      "difficulty_estimate": "easy",
+      "why_included": "n×1 grid where two adjacent rows have same colour; catches adjacency rule violations.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 6,
+      "title": "Two rows uniform and different digits",
+      "tags": ["short"],
+      "input": "2 2\n00\n11\n",
+      "expected_output": "YES\n",
+      "size_bytes": 10,
+      "difficulty_estimate": "easy",
+      "why_included": "Smallest multi-row passing case; validates both constraints together.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 7,
+      "title": "Two rows uniform but identical fails",
+      "tags": ["short","adversarial"],
+      "input": "2 2\n00\n00\n",
+      "expected_output": "NO\n",
+      "size_bytes": 10,
+      "difficulty_estimate": "easy",
+      "why_included": "Adjacent rows equal should be rejected even if each row is uniform.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 8,
+      "title": "Two rows first row non-uniform fails",
+      "tags": ["short","adversarial"],
+      "input": "2 2\n01\n11\n",
+      "expected_output": "NO\n",
+      "size_bytes": 10,
+      "difficulty_estimate": "easy",
+      "why_included": "Row-uniformity must be enforced; single differing digit in a row should invalidate.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 9,
+      "title": "Three perfect stripes zero one two",
+      "tags": ["short"],
+      "input": "3 3\n000\n111\n222\n",
+      "expected_output": "YES\n",
+      "size_bytes": 16,
+      "difficulty_estimate": "easy",
+      "why_included": "Canonical positive example of strict horizontal stripes.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 10,
+      "title": "Three rows first two identical fails",
+      "tags": ["short","adversarial"],
+      "input": "3 3\n000\n000\n111\n",
+      "expected_output": "NO\n",
+      "size_bytes": 16,
+      "difficulty_estimate": "easy",
+      "why_included": "Adjacent rows must differ even if later rows are valid.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 11,
+      "title": "Third row has single off digit fails",
+      "tags": ["short","adversarial"],
+      "input": "3 3\n000\n111\n002\n",
+      "expected_output": "NO\n",
+      "size_bytes": 16,
+      "difficulty_estimate": "easy",
+      "why_included": "Detects non-uniform row due to one mismatched cell.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 12,
+      "title": "Ten rows alternate zeros and ones",
+      "tags": ["medium","random"],
+      "input": "10 10\n0000000000\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n",
+      "expected_output": "YES\n",
+      "size_bytes": 116,
+      "difficulty_estimate": "easy",
+      "why_included": "Multiple alternating stripes; exercises adjacency checks over longer inputs.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 13,
+      "title": "Ten rows one corrupted non-uniform row",
+      "tags": ["medium","adversarial"],
+      "input": "10 10\n0000000000\n1111111111\n0000000000\n1111111111\n1111111101\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n",
+      "expected_output": "NO\n",
+      "size_bytes": 116,
+      "difficulty_estimate": "medium",
+      "why_included": "All rows but one are valid; a single non-uniform row must cause failure.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 14,
+      "title": "Ten rows cycle 0,1,2 repeating stripes",
+      "tags": ["medium","random"],
+      "input": "10 10\n0000000000\n1111111111\n2222222222\n0000000000\n1111111111\n2222222222\n0000000000\n1111111111\n2222222222\n0000000000\n",
+      "expected_output": "YES\n",
+      "size_bytes": 116,
+      "difficulty_estimate": "easy",
+      "why_included": "Non-binary valid pattern; non-adjacent equal rows are allowed.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 15,
+      "title": "Three rows wide stripes nine eight nine",
+      "tags": ["short"],
+      "input": "3 7\n9999999\n8888888\n9999999\n",
+      "expected_output": "YES\n",
+      "size_bytes": 28,
+      "difficulty_estimate": "easy",
+      "why_included": "Checks acceptance when the first and third rows match but are not adjacent.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 16,
+      "title": "Three rows last two identical fails",
+      "tags": ["short","adversarial"],
+      "input": "3 7\n0000000\n1111111\n1111111\n",
+      "expected_output": "NO\n",
+      "size_bytes": 28,
+      "difficulty_estimate": "easy",
+      "why_included": "Adjacent equal rows at the bottom should invalidate the flag.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 17,
+      "title": "Tall thin column alternating digits to max n",
+      "tags": ["long","edge","max","stress"],
+      "input": "100 1\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n",
+      "expected_output": "YES\n",
+      "size_bytes": 206,
+      "difficulty_estimate": "medium",
+      "why_included": "Maximal n with m=1; all adjacent rows differ. Stresses adjacency logic over long chains.",
+      "time_complexity_trigger": "linear scan over rows"
+    },
+    {
+      "id": 18,
+      "title": "Tall thin column single adjacent duplicate",
+      "tags": ["long","edge","adversarial"],
+      "input": "100 1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n",
+      "expected_output": "NO\n",
+      "size_bytes": 206,
+      "difficulty_estimate": "medium",
+      "why_included": "Maximal n with a single adjacency violation (rows 51–52 both 0). Designed adversarially.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 19,
+      "title": "Fifty-by-fifty perfect alternating stripes",
+      "tags": ["long","random","stress"],
+      "input": "50 50\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n",
+      "expected_output": "YES\n",
+      "size_bytes": 2556,
+      "difficulty_estimate": "medium",
+      "why_included": "Large square stresses I/O and linear checks over bigger inputs; still straightforward stripes.",
+      "time_complexity_trigger": "O(n·m) scan"
+    },
+    {
+      "id": 20,
+      "title": "Fifty-by-fifty one adjacency violation fails",
+      "tags": ["long","adversarial","stress"],
+      "input": "50 50\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n00000000000000000000000000000000000000000000000000\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n",
+      "expected_output": "NO\n",
+      "size_bytes": 2556,
+      "difficulty_estimate": "medium",
+      "why_included": "Two consecutive middle rows set to the same colour create a single adjacency violation in a large grid.",
+      "time_complexity_trigger": "O(n·m) scan"
+    },
+    {
+      "id": 21,
+      "title": "All rows identical colour five fails",
+      "tags": ["short","adversarial"],
+      "input": "9 9\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n",
+      "expected_output": "NO\n",
+      "size_bytes": 94,
+      "difficulty_estimate": "easy",
+      "why_included": "Uniform rows but adjacency rule fails everywhere; helps catch solutions that only check per-row uniformity.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 22,
+      "title": "Four rows four columns 0 1 2 3",
+      "tags": ["short"],
+      "input": "4 4\n0000\n1111\n2222\n3333\n",
+      "expected_output": "YES\n",
+      "size_bytes": 24,
+      "difficulty_estimate": "easy",
+      "why_included": "Simple passing case with four distinct stripes.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 23,
+      "title": "First two stripes equal then different",
+      "tags": ["short","adversarial"],
+      "input": "4 4\n0000\n0000\n1111\n2222\n",
+      "expected_output": "NO\n",
+      "size_bytes": 24,
+      "difficulty_estimate": "easy",
+      "why_included": "Ensures early detection of adjacency violation at the top.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 24,
+      "title": "Single row very wide all threes",
+      "tags": ["edge","long","max"],
+      "input": "1 100\n3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333\n",
+      "expected_output": "YES\n",
+      "size_bytes": 107,
+      "difficulty_estimate": "easy",
+      "why_included": "Maximal m with single row; stresses per-row uniformity and input length.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 25,
+      "title": "Single row very wide one digit off",
+      "tags": ["edge","long","adversarial"],
+      "input": "1 100\n3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333334\n",
+      "expected_output": "NO\n",
+      "size_bytes": 107,
+      "difficulty_estimate": "easy",
+      "why_included": "Maximal m where only the last position differs; catches incomplete uniformity checks.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 26,
+      "title": "Seven by three strictly increasing colours",
+      "tags": ["short","random"],
+      "input": "7 3\n000\n111\n222\n333\n444\n555\n666\n",
+      "expected_output": "YES\n",
+      "size_bytes": 32,
+      "difficulty_estimate": "easy",
+      "why_included": "Multiple valid stripes with all digits 0–6 appearing once each.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 27,
+      "title": "Seven by three one row not uniform",
+      "tags": ["short","adversarial"],
+      "input": "7 3\n000\n111\n210\n333\n444\n555\n666\n",
+      "expected_output": "NO\n",
+      "size_bytes": 32,
+      "difficulty_estimate": "easy",
+      "why_included": "Single corrupted row in the middle breaks row-uniformity.",
+      "time_complexity_trigger": "row uniformity check"
+    },
+    {
+      "id": 28,
+      "title": "Three by one top two equal fails",
+      "tags": ["edge","short","adversarial"],
+      "input": "3 1\n9\n9\n0\n",
+      "expected_output": "NO\n",
+      "size_bytes": 10,
+      "difficulty_estimate": "easy",
+      "why_included": "Very small failing case focusing purely on adjacency violation.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": 29,
+      "title": "Eight by eight alternating zero one stripes",
+      "tags": ["medium","random"],
+      "input": "8 8\n00000000\n11111111\n00000000\n11111111\n00000000\n11111111\n00000000\n11111111\n",
+      "expected_output": "YES\n",
+      "size_bytes": 76,
+      "difficulty_estimate": "easy",
+      "why_included": "Balanced medium-sized valid stripes to test typical solutions.",
+      "time_complexity_trigger": "single pass over grid"
+    },
+    {
+      "id": 30,
+      "title": "Six by six with one duplicate stripe",
+      "tags": ["medium","adversarial"],
+      "input": "6 6\n000000\n111111\n111111\n222222\n333333\n444444\n",
+      "expected_output": "NO\n",
+      "size_bytes": 46,
+      "difficulty_estimate": "easy",
+      "why_included": "Adjacent equal rows appear once; ensures strict inequality between neighbours.",
+      "time_complexity_trigger": "adjacent row compare"
+    },
+    {
+      "id": "combined",
+      "title": "Combined T-file",
+      "tags": ["formatting","long","stress"],
+      "input": "30\n1 1\n0\n1 5\n77777\n1 5\n01234\n5 1\n0\n1\n2\n3\n4\n5 1\n0\n1\n1\n2\n3\n2 2\n00\n11\n2 2\n00\n00\n2 2\n01\n11\n3 3\n000\n111\n222\n3 3\n000\n000\n111\n3 3\n000\n111\n002\n10 10\n0000000000\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n10 10\n0000000000\n1111111111\n0000000000\n1111111111\n1111111101\n1111111111\n0000000000\n1111111111\n0000000000\n1111111111\n10 10\n0000000000\n1111111111\n2222222222\n0000000000\n1111111111\n2222222222\n0000000000\n1111111111\n2222222222\n0000000000\n3 7\n9999999\n8888888\n9999999\n3 7\n0000000\n1111111\n1111111\n100 1\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n100 1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n1\n0\n50 50\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n00000000000000000000000000000000000000000000000000\n11111111111111111111111111111111111111111111111111\n9 9\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n555555555\n4 4\n0000\n1111\n2222\n3333\n4 4\n0000\n0000\n1111\n2222\n1 100\n3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333\n1 100\n3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333334\n7 3\n000\n111\n222\n333\n444\n555\n666\n7 3\n000\n111\n210\n333\n444\n555\n666\n3 1\n9\n9\n0\n8 8\n00000000\n11111111\n00000000\n11111111\n00000000\n11111111\n00000000\n11111111\n6 6\n000000\n111111\n111111\n222222\n333333\n444444\n",
+      "expected_output": "YES\nNO\nNO\nYES\nNO\nYES\nNO\nNO\nYES\nNO\nNO\nYES\nNO\nYES\nYES\nNO\nYES\nNO\nYES\nNO\nNO\nYES\nNO\nYES\nNO\nYES\nNO\nNO\nYES\nNO\n"
+    }
+  ]
 }

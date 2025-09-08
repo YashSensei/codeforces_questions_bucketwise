@@ -9,5 +9,388 @@
   ],
   "problem_statement_link": "https://codeforces.com/problemset/problem/14/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
-  "solved_count": 11581
+  "solved_count": 11581,
+  "problem": {
+    "title": "Letter",
+    "time_limit": "1 second",
+    "memory_limit": "64 megabytes",
+    "story": "A boy Bob likes to draw. Not long ago he bought a rectangular graph (checked) sheet with n rows and m columns. Bob shaded some of the squares on the sheet. Having seen his masterpiece, he decided to share it with his elder brother, who lives in Flatland. Now Bob has to send his picture by post, but because of the world economic crisis and high oil prices, he wants to send his creation, but to spend as little money as possible. For each sent square of paper (no matter whether it is shaded or not) Bob has to pay 3.14 burles. Please, help Bob cut out of his masterpiece a rectangle of the minimum cost, that will contain all the shaded squares. The rectangle's sides should be parallel to the sheet's sides.",
+    "input_format": "The first line of the input data contains numbers n and m (1 ≤ n, m ≤ 50), n — amount of lines, and m — amount of columns on Bob's sheet. The following n lines contain m characters each. Character «.» stands for a non-shaded square on the sheet, and «*» — for a shaded square. It is guaranteed that Bob has shaded at least one square.",
+    "output_format": "Output the required rectangle of the minimum cost. Study the output data in the sample tests to understand the output format better.",
+    "examples": [
+      {
+        "input": "6 7\n.......\n..***..\n..*....\n..***..\n..*....\n..***..",
+        "output": "***\n*..\n***\n*..\n***"
+      },
+      {
+        "input": "3 3\n***\n*.*\n***",
+        "output": "***\n*.*\n***"
+      }
+    ]
+  },
+  "test_cases": [
+    {
+      "id": "1",
+      "title": "Single shaded square in the middle",
+      "tags": ["minimal", "center", "basic"],
+      "input": "3 3\n...\n.*.\n...",
+      "expected_output": "*",
+      "size_bytes": 23,
+      "difficulty_estimate": 1,
+      "why_included": "Tests minimal bounding rectangle for a single cell.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "2",
+      "title": "All shaded",
+      "tags": ["full", "all", "trivial"],
+      "input": "2 2\n**\n**",
+      "expected_output": "**\n**",
+      "size_bytes": 14,
+      "difficulty_estimate": 1,
+      "why_included": "Tests case where all cells are shaded.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "3",
+      "title": "Single row, one shaded at start",
+      "tags": ["edge", "row"],
+      "input": "1 5\n*....",
+      "expected_output": "*",
+      "size_bytes": 13,
+      "difficulty_estimate": 1,
+      "why_included": "Checks trimming of unshaded columns.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "4",
+      "title": "Single column, shaded at bottom",
+      "tags": ["edge", "column"],
+      "input": "4 1\n.\n.\n.\n*",
+      "expected_output": "*",
+      "size_bytes": 13,
+      "difficulty_estimate": 1,
+      "why_included": "Checks trimming of unshaded rows.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "5",
+      "title": "Shaded rectangle at corner",
+      "tags": ["corner", "rectangle"],
+      "input": "5 5\n**...\n**...\n.....\n.....\n.....",
+      "expected_output": "**\n**",
+      "size_bytes": 29,
+      "difficulty_estimate": 2,
+      "why_included": "Tests finding rectangle at the top-left.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "6",
+      "title": "Shaded rectangle at bottom right",
+      "tags": ["corner", "rectangle"],
+      "input": "5 5\n.....\n.....\n.....\n...**\n...**",
+      "expected_output": "**\n**",
+      "size_bytes": 29,
+      "difficulty_estimate": 2,
+      "why_included": "Tests finding rectangle at bottom-right.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "7",
+      "title": "Multiple disconnected shaded cells",
+      "tags": ["disconnected", "spread"],
+      "input": "4 4\n*..*\n....\n....\n*..*",
+      "expected_output": "*..*\n....\n....\n*..*",
+      "size_bytes": 29,
+      "difficulty_estimate": 3,
+      "why_included": "Tests that bounding rectangle includes all.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "8",
+      "title": "Shaded diagonal",
+      "tags": ["diagonal", "spread"],
+      "input": "3 3\n*..\n.*.\n..*",
+      "expected_output": "*..\n.*.\n..*",
+      "size_bytes": 23,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is the whole grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "9",
+      "title": "Shaded in a column",
+      "tags": ["column", "vertical"],
+      "input": "5 5\n..*..\n..*..\n..*..\n..*..\n..*..",
+      "expected_output": "*\n*\n*\n*\n*",
+      "size_bytes": 32,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is a column.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "10",
+      "title": "Shaded in a row",
+      "tags": ["row", "horizontal"],
+      "input": "5 5\n.....\n.....\n*****\n.....\n.....",
+      "expected_output": "*****",
+      "size_bytes": 29,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is a row.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "11",
+      "title": "Shaded at all four corners",
+      "tags": ["corners", "spread"],
+      "input": "3 3\n*.*\n...\n*.*",
+      "expected_output": "*.*\n...\n*.*",
+      "size_bytes": 23,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is the whole grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "12",
+      "title": "Shaded in a 1x2 rectangle",
+      "tags": ["rectangle", "small"],
+      "input": "2 3\n*..\n*..",
+      "expected_output": "*\n*",
+      "size_bytes": 15,
+      "difficulty_estimate": 1,
+      "why_included": "Bounding rectangle is a column.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "13",
+      "title": "Shaded in a 2x1 rectangle",
+      "tags": ["rectangle", "small"],
+      "input": "3 2\n.*\n.*\n..",
+      "expected_output": "*\n*",
+      "size_bytes": 15,
+      "difficulty_estimate": 1,
+      "why_included": "Bounding rectangle is a column on the right.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "14",
+      "title": "Single shaded cell at top-left",
+      "tags": ["single", "corner"],
+      "input": "2 2\n*.\n..",
+      "expected_output": "*",
+      "size_bytes": 10,
+      "difficulty_estimate": 1,
+      "why_included": "Checks handling of top-left corner.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "15",
+      "title": "Single shaded cell at bottom-right",
+      "tags": ["single", "corner"],
+      "input": "2 2\n..\n.*",
+      "expected_output": "*",
+      "size_bytes": 10,
+      "difficulty_estimate": 1,
+      "why_included": "Checks handling of bottom-right corner.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "16",
+      "title": "Shaded cells forming a cross",
+      "tags": ["cross", "pattern"],
+      "input": "3 3\n.*.\n***\n.*.",
+      "expected_output": ".*.\n***\n.*.",
+      "size_bytes": 23,
+      "difficulty_estimate": 2,
+      "why_included": "Pattern covers all rows and columns.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "17",
+      "title": "Shaded border",
+      "tags": ["border", "frame"],
+      "input": "4 4\n****\n*..*\n*..*\n****",
+      "expected_output": "****\n*..*\n*..*\n****",
+      "size_bytes": 29,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is the whole grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "18",
+      "title": "Large grid, small shaded area",
+      "tags": ["large", "small-shaded"],
+      "input": "10 10\n..........\n..........\n..........\n.....*....\n.....*....\n.....*....\n..........\n..........\n..........\n..........",
+      "expected_output": "*\n*\n*",
+      "size_bytes": 97,
+      "difficulty_estimate": 2,
+      "why_included": "Checks ignoring large unshaded area.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "19",
+      "title": "Shaded cells in a block not touching edges",
+      "tags": ["block", "center"],
+      "input": "5 5\n.....\n.***.\n.***.\n.***.\n.....",
+      "expected_output": "***\n***\n***",
+      "size_bytes": 35,
+      "difficulty_estimate": 2,
+      "why_included": "Block not at the edge.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "20",
+      "title": "Zigzag pattern",
+      "tags": ["pattern", "zigzag"],
+      "input": "4 4\n*.*.\n.*.*\n*.*.\n.*.*",
+      "expected_output": "*.*.\n.*.*\n*.*.\n.*.*",
+      "size_bytes": 29,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is the whole grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "21",
+      "title": "Shaded cells only in first and last columns",
+      "tags": ["columns", "spread"],
+      "input": "3 5\n*...*\n.....\n*...*",
+      "expected_output": "*...*\n.....\n*...*",
+      "size_bytes": 25,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle covers all columns.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "22",
+      "title": "Shaded cells only in first and last rows",
+      "tags": ["rows", "spread"],
+      "input": "4 4\n****\n....\n....\n****",
+      "expected_output": "****\n....\n....\n****",
+      "size_bytes": 25,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle covers all rows.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "23",
+      "title": "Single shaded cell in large grid",
+      "tags": ["large", "single"],
+      "input": "8 8\n........\n........\n........\n....*...\n........\n........\n........\n........",
+      "expected_output": "*",
+      "size_bytes": 65,
+      "difficulty_estimate": 1,
+      "why_included": "Checks minimal rectangle in a large grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "24",
+      "title": "All shaded except one cell",
+      "tags": ["almost-full", "missing-one"],
+      "input": "3 3\n***\n*.*\n***",
+      "expected_output": "***\n*.*\n***",
+      "size_bytes": 23,
+      "difficulty_estimate": 1,
+      "why_included": "Almost all shaded.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "25",
+      "title": "Shaded cells forming a hollow square",
+      "tags": ["hollow", "square"],
+      "input": "5 5\n*****\n*...*\n*...*\n*...*\n*****",
+      "expected_output": "*****\n*...*\n*...*\n*...*\n*****",
+      "size_bytes": 37,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is the whole grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "26",
+      "title": "Shaded cells forming a plus sign",
+      "tags": ["plus", "pattern"],
+      "input": "5 5\n..*..\n..*..\n*****\n..*..\n..*..",
+      "expected_output": "..*..\n..*..\n*****\n..*..\n..*..",
+      "size_bytes": 35,
+      "difficulty_estimate": 2,
+      "why_included": "Pattern covers all rows and columns.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "27",
+      "title": "Shaded cells form L shape",
+      "tags": ["L-shape", "pattern"],
+      "input": "4 4\n*...\n*...\n****\n....",
+      "expected_output": "*..\n*..\n***",
+      "size_bytes": 25,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is not full grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "28",
+      "title": "Shaded cells form T shape",
+      "tags": ["T-shape", "pattern"],
+      "input": "4 5\n*****\n..*..\n..*..\n.....",
+      "expected_output": "*****\n..*..\n..*..",
+      "size_bytes": 29,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle covers only necessary rows.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "29",
+      "title": "Shaded cells in checkerboard",
+      "tags": ["checkerboard", "pattern"],
+      "input": "3 3\n*.*\n.*.\n*.*",
+      "expected_output": "*.*\n.*.\n*.*",
+      "size_bytes": 23,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is the whole grid.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "30",
+      "title": "Minimal 1x1 grid, shaded",
+      "tags": ["minimal", "single"],
+      "input": "1 1\n*",
+      "expected_output": "*",
+      "size_bytes": 7,
+      "difficulty_estimate": 1,
+      "why_included": "Smallest possible input.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "31",
+      "title": "Minimal 1x1 grid, unshaded (invalid, should not occur)",
+      "tags": ["minimal", "single", "invalid"],
+      "input": "1 1\n.",
+      "expected_output": "",
+      "size_bytes": 7,
+      "difficulty_estimate": 1,
+      "why_included": "Should not occur, but included for robustness.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "32",
+      "title": "Shaded cells form a vertical line at the edge",
+      "tags": ["vertical", "edge"],
+      "input": "5 5\n*....\n*....\n*....\n*....\n*....",
+      "expected_output": "*\n*\n*\n*\n*",
+      "size_bytes": 32,
+      "difficulty_estimate": 2,
+      "why_included": "Bounding rectangle is the first column.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "combined",
+      "title": "Combined test case with multiple patterns",
+      "tags": ["combined", "edge", "center", "spread"],
+      "input": "7 7\n*.....*\n.*...*.\n..*.*..\n...*...\n..*.*..\n.*...*.\n*.....*",
+      "expected_output": "*.....*\n.*...*.\n..*.*..\n...*...\n..*.*..\n.*...*.\n*.....*",
+      "size_bytes": 59,
+      "difficulty_estimate": 3,
+      "why_included": "Contains multiple patterns and edge cases.",
+      "time_complexity_trigger": false
+    }
+  ]
 }

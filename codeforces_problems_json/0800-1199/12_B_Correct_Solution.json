@@ -10,5 +10,367 @@
   ],
   "problem_statement_link": "https://codeforces.com/problemset/problem/12/B",
   "scraped_at": "2025-09-06 12:49:59 UTC",
-  "solved_count": 9188
+  "solved_count": 9188,
+  "problem": {
+    "title": "Correct Solution?",
+    "time_limit": "2 seconds",
+    "memory_limit": "256 megabytes",
+    "story": "One cold winter evening Alice and her older brother Bob was sitting at home near the fireplace and giving each other interesting problems to solve. When it was Alice's turn, she told the number n to Bob and said:\n\n—Shuffle the digits in this number in order to obtain the smallest possible number without leading zeroes.\n\n—No problem! — said Bob and immediately gave her an answer.\n\nAlice said a random number, so she doesn't know whether Bob's answer is correct. Help her to find this out, because impatient brother is waiting for the verdict.",
+    "input_format": "The first line contains one integer n (0 ≤ n ≤ 10^9) without leading zeroes. The second line contains one integer m (0 ≤ m ≤ 10^9) — Bob's answer, possibly with leading zeroes.",
+    "output_format": "Print OK if Bob's answer is correct and WRONG_ANSWER otherwise.",
+    "examples": [
+      {
+        "input": "3310\n1033",
+        "output": "OK"
+      },
+      {
+        "input": "4\n5",
+        "output": "WRONG_ANSWER"
+      }
+    ]
+  }
+  ,
+  "test_cases": [
+    {
+      "id": 1,
+      "title": "Simple correct answer, smallest digits rearranged",
+      "tags": ["basic", "sorting", "no leading zeros"],
+      "input": "3310\n1033",
+      "expected_output": "OK",
+      "size_bytes": 9,
+      "difficulty_estimate": 1,
+      "why_included": "Directly matches example, tests basic functionality.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 2,
+      "title": "Single digit, correct",
+      "tags": ["single digit", "trivial"],
+      "input": "7\n7",
+      "expected_output": "OK",
+      "size_bytes": 3,
+      "difficulty_estimate": 1,
+      "why_included": "Trivial case, single digit.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 3,
+      "title": "Single digit, incorrect",
+      "tags": ["single digit", "trivial"],
+      "input": "4\n5",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 3,
+      "difficulty_estimate": 1,
+      "why_included": "Trivial case, wrong answer.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 4,
+      "title": "Multiple digits, correct, no leading zeros allowed",
+      "tags": ["sorting", "leading zeros"],
+      "input": "210\n102",
+      "expected_output": "OK",
+      "size_bytes": 7,
+      "difficulty_estimate": 2,
+      "why_included": "Tests that answer has no leading zeros.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 5,
+      "title": "Multiple digits, incorrect answer",
+      "tags": ["sorting", "wrong answer"],
+      "input": "210\n120",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 7,
+      "difficulty_estimate": 2,
+      "why_included": "Digits rearranged incorrectly.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 6,
+      "title": "Leading zero in Bob's answer",
+      "tags": ["leading zero", "wrong answer"],
+      "input": "102\n012",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 7,
+      "difficulty_estimate": 2,
+      "why_included": "Bob's answer has leading zero.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 7,
+      "title": "Zero as input",
+      "tags": ["zero", "edge case"],
+      "input": "0\n0",
+      "expected_output": "OK",
+      "size_bytes": 3,
+      "difficulty_estimate": 1,
+      "why_included": "Edge case: only zero.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 8,
+      "title": "Bob's answer missing a digit",
+      "tags": ["missing digit", "wrong answer"],
+      "input": "1234\n124",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 9,
+      "difficulty_estimate": 2,
+      "why_included": "Bob omits a digit.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 9,
+      "title": "Bob's answer has extra digit",
+      "tags": ["extra digit", "wrong answer"],
+      "input": "1234\n12345",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 11,
+      "difficulty_estimate": 2,
+      "why_included": "Bob adds a digit.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 10,
+      "title": "All digits same",
+      "tags": ["all same digits", "simple"],
+      "input": "1111\n1111",
+      "expected_output": "OK",
+      "size_bytes": 9,
+      "difficulty_estimate": 1,
+      "why_included": "All digits identical.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 11,
+      "title": "All digits same, wrong answer",
+      "tags": ["all same digits", "wrong answer"],
+      "input": "2222\n2223",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 9,
+      "difficulty_estimate": 1,
+      "why_included": "All digits identical except one.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 12,
+      "title": "Bob's answer is not a permutation",
+      "tags": ["not permutation", "wrong answer"],
+      "input": "54321\n12345",
+      "expected_output": "OK",
+      "size_bytes": 11,
+      "difficulty_estimate": 2,
+      "why_included": "Bob correctly sorts digits.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 13,
+      "title": "Input has leading zeros in Bob's answer",
+      "tags": ["leading zeros", "wrong answer"],
+      "input": "1002\n0120",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 9,
+      "difficulty_estimate": 2,
+      "why_included": "Bob's answer has leading zero.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 14,
+      "title": "Input is palindrome",
+      "tags": ["palindrome", "sorting"],
+      "input": "1221\n1122",
+      "expected_output": "OK",
+      "size_bytes": 9,
+      "difficulty_estimate": 2,
+      "why_included": "Palindrome input, correct answer.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 15,
+      "title": "Maximum allowed input",
+      "tags": ["max value", "large input"],
+      "input": "1000000000\n1000000000",
+      "expected_output": "OK",
+      "size_bytes": 21,
+      "difficulty_estimate": 3,
+      "why_included": "Edge case: maximum input.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 16,
+      "title": "Maximum allowed input, wrong answer",
+      "tags": ["max value", "large input", "wrong answer"],
+      "input": "1000000000\n0000000001",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 21,
+      "difficulty_estimate": 3,
+      "why_included": "Edge case: maximum input, leading zeros.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 17,
+      "title": "Largest number, digits reversed",
+      "tags": ["max value", "sorting"],
+      "input": "9876543210\n1023456789",
+      "expected_output": "OK",
+      "size_bytes": 21,
+      "difficulty_estimate": 3,
+      "why_included": "Maximum digit variety.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 18,
+      "title": "Input with multiple zeros",
+      "tags": ["multiple zeros", "sorting"],
+      "input": "1000200\n1000020",
+      "expected_output": "OK",
+      "size_bytes": 15,
+      "difficulty_estimate": 2,
+      "why_included": "Zeros must not be leading.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 19,
+      "title": "Input with multiple zeros, wrong answer",
+      "tags": ["multiple zeros", "wrong answer"],
+      "input": "1000200\n0000012",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 15,
+      "difficulty_estimate": 2,
+      "why_included": "Bob's answer has too many leading zeros.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 20,
+      "title": "Input with all digits",
+      "tags": ["all digits", "sorting"],
+      "input": "9876543210\n1023456789",
+      "expected_output": "OK",
+      "size_bytes": 21,
+      "difficulty_estimate": 3,
+      "why_included": "All digits in input.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 21,
+      "title": "Bob's answer has wrong digit count",
+      "tags": ["wrong digit count", "wrong answer"],
+      "input": "12345\n1234",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 11,
+      "difficulty_estimate": 2,
+      "why_included": "Bob omits a digit.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 22,
+      "title": "Bob's answer has correct digits but wrong order",
+      "tags": ["wrong order", "sorting"],
+      "input": "4312\n1234",
+      "expected_output": "OK",
+      "size_bytes": 9,
+      "difficulty_estimate": 2,
+      "why_included": "Bob correctly sorts digits.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 23,
+      "title": "Bob's answer is correct but with spaces",
+      "tags": ["formatting", "wrong answer"],
+      "input": "321\n 123",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 8,
+      "difficulty_estimate": 2,
+      "why_included": "Bob's answer has invalid formatting.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 24,
+      "title": "Bob's answer is empty",
+      "tags": ["empty", "wrong answer"],
+      "input": "123\n",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 7,
+      "difficulty_estimate": 2,
+      "why_included": "Bob's answer missing.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 25,
+      "title": "Bob's answer has non-digit characters",
+      "tags": ["non-digit", "wrong answer"],
+      "input": "123\n12a",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 8,
+      "difficulty_estimate": 2,
+      "why_included": "Bob's answer contains a letter.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 26,
+      "title": "Bob's answer is correct with maximum digits",
+      "tags": ["max digits", "sorting"],
+      "input": "999999999\n999999999",
+      "expected_output": "OK",
+      "size_bytes": 19,
+      "difficulty_estimate": 3,
+      "why_included": "All digits same, maximum allowed.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 27,
+      "title": "Bob's answer is reversed correct answer",
+      "tags": ["reverse", "wrong answer"],
+      "input": "321\n321",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 7,
+      "difficulty_estimate": 2,
+      "why_included": "Bob did not sort digits.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 28,
+      "title": "Input and answer both have only zeros",
+      "tags": ["all zeros", "edge case"],
+      "input": "0\n0",
+      "expected_output": "OK",
+      "size_bytes": 3,
+      "difficulty_estimate": 1,
+      "why_included": "Only zeros present.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 29,
+      "title": "Input has zeros and ones",
+      "tags": ["zeros and ones", "sorting"],
+      "input": "1001\n1001",
+      "expected_output": "OK",
+      "size_bytes": 9,
+      "difficulty_estimate": 2,
+      "why_included": "Zeros and ones, correct answer.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 30,
+      "title": "Input has zeros and ones, wrong answer",
+      "tags": ["zeros and ones", "wrong answer"],
+      "input": "1001\n1010",
+      "expected_output": "WRONG_ANSWER",
+      "size_bytes": 9,
+      "difficulty_estimate": 2,
+      "why_included": "Zeros and ones, wrong answer.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "combined",
+      "title": "Combined stress test",
+      "tags": ["stress", "large input", "edge case"],
+      "input": "9876543210\n1023456789",
+      "expected_output": "OK",
+      "size_bytes": 21,
+      "difficulty_estimate": 3,
+      "why_included": "Combined case for stress testing.",
+      "time_complexity_trigger": true
+    }
+  ]
 }

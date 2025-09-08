@@ -9,5 +9,367 @@
   ],
   "problem_statement_link": "https://codeforces.com/problemset/problem/12/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
-  "solved_count": 14258
+  "solved_count": 14258,
+  "problem": {
+    "title": "Super Agent",
+    "time_limit": "2 seconds",
+    "memory_limit": "256 megabytes",
+    "story": "There is a very secret base in Potatoland ...",
+    "input_format": "Input contains the matrix of three rows of three symbols each...",
+    "output_format": "Print YES if the password is symmetric ...",
+    "examples": [
+      {
+        "input": "XX.\n...\n.XX",
+        "output": "YES"
+      },
+      {
+        "input": "X.X\nX..\n...",
+        "output": "NO"
+      }
+    ],
+    "note": "If you are not familiar with the term «central symmetry», you may look into http://en.wikipedia.org/wiki/Central_symmetry"
+  },
+  "test_cases": [
+    {
+      "id": 1,
+      "title": "All X symmetric",
+      "tags": ["symmetric", "all X"],
+      "input": "XXX\nXXX\nXXX",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Trivial all X symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 2,
+      "title": "All . symmetric",
+      "tags": ["symmetric", "all ."],
+      "input": "...\n...\n...",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Trivial all . symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 3,
+      "title": "Diagonal symmetry",
+      "tags": ["symmetric", "diagonal"],
+      "input": "X..\n.X.\n..X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Diagonal Xs, symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 4,
+      "title": "Anti-diagonal symmetry",
+      "tags": ["symmetric", "anti-diagonal"],
+      "input": "..X\n.X.\nX..",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Anti-diagonal Xs, symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 5,
+      "title": "Center only",
+      "tags": ["symmetric", "center"],
+      "input": "...\n.X.\n...",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Only center X, symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 6,
+      "title": "Corners X symmetric",
+      "tags": ["symmetric", "corners"],
+      "input": "X.X\n...\nX.X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Corners X, symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 7,
+      "title": "One X not symmetric",
+      "tags": ["not symmetric"],
+      "input": "X..\n...\n...",
+      "expected_output": "NO",
+      "size_bytes": 15,
+      "difficulty_estimate": 1,
+      "why_included": "Single X not symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 8,
+      "title": "Different corners",
+      "tags": ["not symmetric"],
+      "input": "X..\n...\n..X",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Opposite corners different",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 9,
+      "title": "Middle row mismatch",
+      "tags": ["not symmetric"],
+      "input": "...\nX.X\n...",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Middle row Xs, not symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 10,
+      "title": "Asymmetry in one cell",
+      "tags": ["not symmetric"],
+      "input": "XX.\n...\n.XX",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Sample from problem statement",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 11,
+      "title": "Sample no symmetric",
+      "tags": ["not symmetric"],
+      "input": "X.X\nX..\n...",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Sample from problem statement",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 12,
+      "title": "Edge Xs",
+      "tags": ["symmetric", "edges"],
+      "input": ".X.\nX.X\n.X.",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Edge Xs, symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 13,
+      "title": "Middle column X",
+      "tags": ["not symmetric"],
+      "input": ".X.\n.X.\n.X.",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Middle column Xs only",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 14,
+      "title": "Middle row X",
+      "tags": ["not symmetric"],
+      "input": "...\nXXX\n...",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Middle row Xs only",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 15,
+      "title": "Top/bottom row mismatch",
+      "tags": ["not symmetric"],
+      "input": "X..\n.X.\n..X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Diagonal symmetry",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 16,
+      "title": "Opposite corners .",
+      "tags": ["not symmetric"],
+      "input": "..X\n.X.\nX..",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "Anti-diagonal symmetry",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 17,
+      "title": "One row all X",
+      "tags": ["not symmetric"],
+      "input": "XXX\n...\n...",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "One row all X, not symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 18,
+      "title": "One column all X",
+      "tags": ["not symmetric"],
+      "input": "X..\nX..\nX..",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 1,
+      "why_included": "One column all X, not symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 19,
+      "title": "Center . surrounded by Xs",
+      "tags": ["not symmetric"],
+      "input": "XXX\nX.X\nXXX",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Center ., symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 20,
+      "title": "All different",
+      "tags": ["not symmetric"],
+      "input": "X.X\n.X.\nX.X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Symmetric by position",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 21,
+      "title": "Asymmetry in edges",
+      "tags": ["not symmetric"],
+      "input": "XX.\n.X.\n.XX",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Edges not symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 22,
+      "title": "Asymmetry in center",
+      "tags": ["not symmetric"],
+      "input": "X.X\n...\nX.X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Center ., symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 23,
+      "title": "Mixed X and .",
+      "tags": ["not symmetric"],
+      "input": "X..\n.X.\n..X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Symmetric mixed",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 24,
+      "title": "Mixed . and X",
+      "tags": ["not symmetric"],
+      "input": "..X\n.X.\nX..",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Symmetric mixed",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 25,
+      "title": "Checkerboard 1",
+      "tags": ["not symmetric"],
+      "input": "X.X\n.X.\nX.X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Checkerboard symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 26,
+      "title": "Checkerboard 2",
+      "tags": ["not symmetric"],
+      "input": ".X.\nX.X\n.X.",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Checkerboard symmetric",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 27,
+      "title": "All same except one",
+      "tags": ["not symmetric"],
+      "input": "XXX\nX.X\nXXX",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "All same except center",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 28,
+      "title": "All . except one",
+      "tags": ["not symmetric"],
+      "input": "...\n.X.\n...",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "All . except center",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 29,
+      "title": "Asymmetry in one edge",
+      "tags": ["not symmetric"],
+      "input": "X..\n...\n..X",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Edge mismatch",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 30,
+      "title": "Asymmetry in one corner",
+      "tags": ["not symmetric"],
+      "input": "..X\n...\nX..",
+      "expected_output": "NO",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Corner mismatch",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": "combined",
+      "title": "Combined edge and center",
+      "tags": ["combined", "edge", "center", "symmetric"],
+      "input": "X.X\n.X.\nX.X",
+      "expected_output": "YES",
+      "size_bytes": 17,
+      "difficulty_estimate": 2,
+      "why_included": "Combined edge and center symmetry",
+      "time_complexity_trigger": false
+    }
+  ]
 }

@@ -9,5 +9,562 @@
   ],
   "problem_statement_link": "https://codeforces.com/problemset/problem/14/B",
   "scraped_at": "2025-09-06 12:49:59 UTC",
-  "solved_count": 7901
+  "solved_count": 7901,
+  "problem": {
+    "title": "Young Photographer",
+    "time_limit": "2 seconds",
+    "memory_limit": "64 megabytes",
+    "story": "Among other things, Bob is keen on photography. Especially he likes to take pictures of sportsmen. That was the reason why he placed himself in position x0 of a long straight racetrack and got ready to take pictures. But the problem was that not all the runners passed him. The total amount of sportsmen, training at that racetrack, equals n. And each of them regularly runs distances within a particular segment of the racetrack, which is the same for each sportsman. For example, the first sportsman runs from position a1 to position b1, the second — from a2 to b2.\n\nWhat is the minimum distance that Bob should move to have a chance to take pictures of each sportsman? Bob can take a picture of a sportsman, if he stands within the segment that this sportsman covers on the racetrack.",
+    "input_format": "The first line of the input file contains integers n and x0 (1 ≤ n ≤ 100; 0 ≤ x0 ≤ 1000). The following n lines contain pairs of integers ai, bi (0 ≤ ai, bi ≤ 1000; ai ≠ bi).",
+    "output_format": "Output the required minimum distance in the same units as the positions on the racetrack. If there is no such a position, output -1.",
+    "examples": [
+      {
+        "input": "3 3\n0 7\n14 2\n4 6",
+        "output": "1"
+      }
+    ]
+  },
+  "test_cases": [
+    {
+      "id": 1,
+      "title": "Minimal single segment, inside point",
+      "tags": [
+        "min",
+        "edge",
+        "short"
+      ],
+      "input": "1 5\n0 10",
+      "expected_output": "0\n",
+      "size_bytes": 8,
+      "difficulty_estimate": "trivial",
+      "why_included": "Smallest n; x0 already inside intersection, expecting 0.",
+      "time_complexity_trigger": "constant time"
+    },
+    {
+      "id": 2,
+      "title": "Single segment, x0 left outside",
+      "tags": [
+        "min",
+        "edge",
+        "short"
+      ],
+      "input": "1 0\n3 7",
+      "expected_output": "3\n",
+      "size_bytes": 8,
+      "difficulty_estimate": "trivial",
+      "why_included": "Nearest move to enter a single interval from left.",
+      "time_complexity_trigger": "constant time"
+    },
+    {
+      "id": 3,
+      "title": "Single segment, x0 right outside",
+      "tags": [
+        "min",
+        "edge",
+        "short"
+      ],
+      "input": "1 15\n3 7",
+      "expected_output": "8\n",
+      "size_bytes": 9,
+      "difficulty_estimate": "trivial",
+      "why_included": "Move left to reach interval from right.",
+      "time_complexity_trigger": "constant time"
+    },
+    {
+      "id": 4,
+      "title": "Three segments with clear overlap",
+      "tags": [
+        "medium",
+        "sorted",
+        "dense"
+      ],
+      "input": "3 5\n0 8\n2 7\n4 9",
+      "expected_output": "0\n",
+      "size_bytes": 16,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection [4,7]; x0=5 inside -> 0.",
+      "time_complexity_trigger": "interval intersection logic"
+    },
+    {
+      "id": 5,
+      "title": "Overlap exists, x0 left of L",
+      "tags": [
+        "edge"
+      ],
+      "input": "3 1\n2 10\n3 8\n0 100",
+      "expected_output": "2\n",
+      "size_bytes": 22,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection L=3,R=8; move from 1 to 3 -> 2.",
+      "time_complexity_trigger": "requires max/min"
+    },
+    {
+      "id": 6,
+      "title": "Overlap exists, x0 right of R",
+      "tags": [
+        "edge"
+      ],
+      "input": "3 99\n2 100\n3 98\n50 97",
+      "expected_output": "2\n",
+      "size_bytes": 24,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection L=50,R=97; x0=99 -> move 2 left.",
+      "time_complexity_trigger": "requires max/min"
+    },
+    {
+      "id": 7,
+      "title": "Disjoint segments, impossible case",
+      "tags": [
+        "edge",
+        "pathological"
+      ],
+      "input": "2 5\n0 2\n3 4",
+      "expected_output": "-1\n",
+      "size_bytes": 12,
+      "difficulty_estimate": "easy",
+      "why_included": "No intersection; output -1.",
+      "time_complexity_trigger": "detect empty intersection"
+    },
+    {
+      "id": 8,
+      "title": "Intersection at single point; already there",
+      "tags": [
+        "edge",
+        "precision",
+        "short"
+      ],
+      "input": "2 5\n0 5\n5 10",
+      "expected_output": "0\n",
+      "size_bytes": 16,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection is single point 5; x0=5 -> 0.",
+      "time_complexity_trigger": "endpoint handling"
+    },
+    {
+      "id": 9,
+      "title": "Single-point intersection, x0 left side",
+      "tags": [
+        "edge",
+        "precision"
+      ],
+      "input": "2 1\n1 5\n5 10",
+      "expected_output": "4\n",
+      "size_bytes": 16,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection {5}; need to move from 1 to 5 -> 4.",
+      "time_complexity_trigger": "endpoint handling"
+    },
+    {
+      "id": 10,
+      "title": "Single-point intersection, x0 right side",
+      "tags": [
+        "edge",
+        "precision"
+      ],
+      "input": "2 12\n1 5\n5 10",
+      "expected_output": "7\n",
+      "size_bytes": 17,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection {5}; x0=12 -> move 7 left.",
+      "time_complexity_trigger": "endpoint handling"
+    },
+    {
+      "id": 11,
+      "title": "Reversed endpoints in input lines",
+      "tags": [
+        "edge",
+        "formatting"
+      ],
+      "input": "3 6\n10 2\n12 4\n8 7",
+      "expected_output": "0\n",
+      "size_bytes": 18,
+      "difficulty_estimate": "easy",
+      "why_included": "Endpoints come reversed; algorithm must normalize to [min,max]",
+      "time_complexity_trigger": "normalize intervals"
+    },
+    {
+      "id": 12,
+      "title": "Deterministic random small within limits",
+      "tags": [
+        "random",
+        "short"
+      ],
+      "input": "6 20\n7 1\n17 14\n8 17\n7 15\n28 2\n8 24",
+      "expected_output": "3\n",
+      "size_bytes": 38,
+      "difficulty_estimate": "medium",
+      "why_included": "Randomized but seeded (seed=42) sample within constraints.",
+      "time_complexity_trigger": "robustness on varied data"
+    },
+    {
+      "id": 13,
+      "title": "Deterministic random small within limits",
+      "tags": [
+        "random",
+        "short"
+      ],
+      "input": "3 0\n18 13\n1 3\n16 15",
+      "expected_output": "-1\n",
+      "size_bytes": 26,
+      "difficulty_estimate": "medium",
+      "why_included": "Randomized but seeded (seed=42) sample within constraints.",
+      "time_complexity_trigger": "robustness on varied data"
+    },
+    {
+      "id": 14,
+      "title": "Deterministic random small within limits",
+      "tags": [
+        "random",
+        "short"
+      ],
+      "input": "2 13\n15 7\n16 17",
+      "expected_output": "0\n",
+      "size_bytes": 20,
+      "difficulty_estimate": "medium",
+      "why_included": "Randomized but seeded (seed=42) sample within constraints.",
+      "time_complexity_trigger": "robustness on varied data"
+    },
+    {
+      "id": 15,
+      "title": "Deterministic random small within limits",
+      "tags": [
+        "random",
+        "short"
+      ],
+      "input": "8 9\n22 4\n20 3\n1 24\n6 0\n28 16\n7 20\n17 13\n2 12",
+      "expected_output": "0\n",
+      "size_bytes": 56,
+      "difficulty_estimate": "medium",
+      "why_included": "Randomized but seeded (seed=42) sample within constraints.",
+      "time_complexity_trigger": "robustness on varied data"
+    },
+    {
+      "id": 16,
+      "title": "Deterministic random small within limits",
+      "tags": [
+        "random",
+        "short"
+      ],
+      "input": "8 6\n12 29\n28 4\n30 2\n30 24\n15 10\n6 22\n12 3\n20 30",
+      "expected_output": "0\n",
+      "size_bytes": 58,
+      "difficulty_estimate": "medium",
+      "why_included": "Randomized but seeded (seed=42) sample within constraints.",
+      "time_complexity_trigger": "robustness on varied data"
+    },
+    {
+      "id": 17,
+      "title": "Deterministic random small within limits",
+      "tags": [
+        "random",
+        "short"
+      ],
+      "input": "5 22\n30 11\n8 6\n12 17\n0 26\n14 19",
+      "expected_output": "0\n",
+      "size_bytes": 38,
+      "difficulty_estimate": "medium",
+      "why_included": "Randomized but seeded (seed=42) sample within constraints.",
+      "time_complexity_trigger": "robustness on varied data"
+    },
+    {
+      "id": 18,
+      "title": "Max n with nested intervals",
+      "tags": [
+        "max",
+        "dense",
+        "long",
+        "stress"
+      ],
+      "input": "100 500\n0 1000\n1 999\n2 998\n3 997\n4 996\n5 995\n6 994\n7 993\n8 992\n9 991\n10 990\n11 989\n12 988\n13 987\n14 986\n15 985\n16 984\n17 983\n18 982\n19 981\n20 980\n21 979\n22 978\n23 977\n24 976\n25 975\n26 974\n27 973\n28 972\n29 971\n30 970\n31 969\n32 968\n33 967\n34 966\n35 965\n36 964\n37 963\n38 962\n39 961\n40 960\n41 959\n42 958\n43 957\n44 956\n45 955\n46 954\n47 953\n48 952\n49 951\n50 950\n51 949\n52 948\n53 947\n54 946\n55 945\n56 944\n57 943\n58 942\n59 941\n60 940\n61 939\n62 938\n63 937\n64 936\n65 935\n66 934\n67 933\n68 932\n69 931\n70 930\n71 929\n72 928\n73 927\n74 926\n75 925\n76 924\n77 923\n78 922\n79 921\n80 920\n81 919\n82 918\n83 917\n84 916\n85 915\n86 914\n87 913\n88 912\n89 911\n90 910\n91 909\n92 908\n93 907\n94 906\n95 905\n96 904\n97 903\n98 902\n99 901",
+      "expected_output": "0\n",
+      "size_bytes": 960,
+      "difficulty_estimate": "medium",
+      "why_included": "Worst legal n with nested intervals; intersection around [99,901], x0 inside -> 0.",
+      "time_complexity_trigger": "linear scan"
+    },
+    {
+      "id": 19,
+      "title": "Max n with split groups, impossible",
+      "tags": [
+        "max",
+        "pathological",
+        "stress"
+      ],
+      "input": "100 150\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100\n200 300\n0 100",
+      "expected_output": "-1\n",
+      "size_bytes": 1452,
+      "difficulty_estimate": "medium",
+      "why_included": "Half intervals [0,100], half [200,300]; empty intersection -> -1.",
+      "time_complexity_trigger": "detect empty intersection"
+    },
+    {
+      "id": 20,
+      "title": "Max coordinates spanning entire domain",
+      "tags": [
+        "max",
+        "edge"
+      ],
+      "input": "2 0\n0 1000\n1000 0",
+      "expected_output": "0\n",
+      "size_bytes": 20,
+      "difficulty_estimate": "easy",
+      "why_included": "Endpoints at extremes and reversed in one line; x0 at boundary.",
+      "time_complexity_trigger": "normalize and endpoints"
+    },
+    {
+      "id": 21,
+      "title": "Right boundary just outside overlap",
+      "tags": [
+        "edge"
+      ],
+      "input": "3 1000\n0 999\n100 1000\n200 800",
+      "expected_output": "1\n",
+      "size_bytes": 28,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection [200,999]; x0=1000 -> distance 1.",
+      "time_complexity_trigger": "off-by-one boundary"
+    },
+    {
+      "id": 22,
+      "title": "Left boundary just outside overlap",
+      "tags": [
+        "edge",
+        "zero"
+      ],
+      "input": "3 0\n1 500\n0 400\n50 450",
+      "expected_output": "50\n",
+      "size_bytes": 26,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection [50,400]; x0=0 -> move 50.",
+      "time_complexity_trigger": "off-by-one boundary"
+    },
+    {
+      "id": 23,
+      "title": "Narrow overlap after multiple clamps",
+      "tags": [
+        "edge",
+        "dense"
+      ],
+      "input": "4 14\n10 20\n15 25\n17 18\n18 30",
+      "expected_output": "4\n",
+      "size_bytes": 30,
+      "difficulty_estimate": "medium",
+      "why_included": "Intersection reduces repeatedly to [18,18]; x0 left -> move 4.",
+      "time_complexity_trigger": "iterative clamping"
+    },
+    {
+      "id": 24,
+      "title": "Overlap narrow; x0 far right",
+      "tags": [
+        "edge",
+        "long"
+      ],
+      "input": "4 999\n100 200\n150 250\n160 260\n170 1000",
+      "expected_output": "799\n",
+      "size_bytes": 40,
+      "difficulty_estimate": "easy",
+      "why_included": "Final intersection [170,200]; x0=999 -> move 799.",
+      "time_complexity_trigger": "worst-case distance"
+    },
+    {
+      "id": 25,
+      "title": "Staggered intervals break overlap",
+      "tags": [
+        "edge",
+        "pathological"
+      ],
+      "input": "3 15\n0 10\n20 30\n5 25",
+      "expected_output": "-1\n",
+      "size_bytes": 22,
+      "difficulty_estimate": "easy",
+      "why_included": "Despite coverage union, intersection empty due to gap.",
+      "time_complexity_trigger": "intersection vs union"
+    },
+    {
+      "id": 26,
+      "title": "All identical intervals, trivial",
+      "tags": [
+        "all-equal",
+        "dense"
+      ],
+      "input": "5 350\n200 400\n200 400\n200 400\n200 400\n200 400",
+      "expected_output": "0\n",
+      "size_bytes": 44,
+      "difficulty_estimate": "trivial",
+      "why_included": "Multiple identical ranges; intersection equals any; x0 inside.",
+      "time_complexity_trigger": "idempotent intersection"
+    },
+    {
+      "id": 27,
+      "title": "Mixed direction endpoints, move right",
+      "tags": [
+        "edge"
+      ],
+      "input": "3 0\n500 300\n100 600\n200 700",
+      "expected_output": "200\n",
+      "size_bytes": 30,
+      "difficulty_estimate": "easy",
+      "why_included": "Normalize then L=200,R=600; x0=0 -> move 200.",
+      "time_complexity_trigger": "normalization + distance"
+    },
+    {
+      "id": 28,
+      "title": "Many intervals reduce to a point",
+      "tags": [
+        "edge",
+        "precision",
+        "dense"
+      ],
+      "input": "5 123\n0 10\n5 20\n7 1000\n9 11\n10 11",
+      "expected_output": "113\n",
+      "size_bytes": 40,
+      "difficulty_estimate": "medium",
+      "why_included": "Intersection collapses to {10}; move from 123 to 10 -> 113.",
+      "time_complexity_trigger": "endpoint handling"
+    },
+    {
+      "id": 29,
+      "title": "x0 equals right endpoint of overlap",
+      "tags": [
+        "edge",
+        "precision"
+      ],
+      "input": "3 70\n0 100\n50 80\n60 70",
+      "expected_output": "0\n",
+      "size_bytes": 28,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection [60,70]; x0=70 -> 0.",
+      "time_complexity_trigger": "inclusive endpoints"
+    },
+    {
+      "id": 30,
+      "title": "x0 equals left endpoint of overlap",
+      "tags": [
+        "edge",
+        "precision"
+      ],
+      "input": "3 40\n0 100\n30 90\n40 80",
+      "expected_output": "0\n",
+      "size_bytes": 28,
+      "difficulty_estimate": "easy",
+      "why_included": "Intersection [40,80]; x0=40 -> 0.",
+      "time_complexity_trigger": "inclusive endpoints"
+    },
+    {
+      "id": 31,
+      "title": "Deterministic random large coordinates",
+      "tags": [
+        "random",
+        "long"
+      ],
+      "input": "4 1000\n451 800\n356 101\n405 304\n614 939",
+      "expected_output": "61\n",
+      "size_bytes": 42,
+      "difficulty_estimate": "medium",
+      "why_included": "Randomized with fixed seed 20250909.",
+      "time_complexity_trigger": "robustness on varied data"
+    },
+    {
+      "id": 32,
+      "title": "Adversarial L just above x0",
+      "tags": [
+        "adversarial",
+        "stress",
+        "long"
+      ],
+      "input": "100 50\n1 1000\n2 1000\n3 1000\n4 1000\n5 1000\n6 1000\n7 1000\n8 1000\n9 1000\n10 1000\n11 1000\n12 1000\n13 1000\n14 1000\n15 1000\n16 1000\n17 1000\n18 1000\n19 1000\n20 1000\n21 1000\n22 1000\n23 1000\n24 1000\n25 1000\n26 1000\n27 1000\n28 1000\n29 1000\n30 1000\n31 1000\n32 1000\n33 1000\n34 1000\n35 1000\n36 1000\n37 1000\n38 1000\n39 1000\n40 1000\n41 1000\n42 1000\n43 1000\n44 1000\n45 1000\n46 1000\n47 1000\n48 1000\n49 1000\n50 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000\n0 1000",
+      "expected_output": "0\n",
+      "size_bytes": 1514,
+      "difficulty_estimate": "hard",
+      "why_included": "Carefully chosen to make final L=50, R=1000; x0 at 50 yields 0.",
+      "time_complexity_trigger": "maintain running L and R"
+    },
+    {
+      "id": 33,
+      "title": "Adversarial R just below x0",
+      "tags": [
+        "adversarial",
+        "stress",
+        "long"
+      ],
+      "input": "100 401\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 500\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400\n0 400",
+      "expected_output": "1\n",
+      "size_bytes": 1511,
+      "difficulty_estimate": "hard",
+      "why_included": "Final R=400; x0=401 must move 1.",
+      "time_complexity_trigger": "maintain running L and R"
+    },
+    {
+      "id": 34,
+      "title": "Alternating narrowing; x0 left of final",
+      "tags": [
+        "edge",
+        "dense"
+      ],
+      "input": "4 500\n0 1000\n200 800\n300 700\n600 900",
+      "expected_output": "100\n",
+      "size_bytes": 34,
+      "difficulty_estimate": "medium",
+      "why_included": "Final intersection [600,700]; x0=500 requires move 100; tests proper clamping order.",
+      "time_complexity_trigger": "requires max/min"
+    },
+    {
+      "id": 35,
+      "title": "Zero x0 with all positive ranges",
+      "tags": [
+        "zero",
+        "edge"
+      ],
+      "input": "3 0\n10 20\n15 25\n17 30",
+      "expected_output": "10\n",
+      "size_bytes": 26,
+      "difficulty_estimate": "easy",
+      "why_included": "All intervals are positive; x0 must move to L.",
+      "time_complexity_trigger": "off-by-one"
+    },
+    {
+      "id": 36,
+      "title": "x0 at max coordinate, ranges below",
+      "tags": [
+        "max",
+        "edge"
+      ],
+      "input": "2 1000\n0 900\n100 950",
+      "expected_output": "50\n",
+      "size_bytes": 22,
+      "difficulty_estimate": "easy",
+      "why_included": "x0 well to the right; move to R=900.",
+      "time_complexity_trigger": "off-by-one"
+    },
+    {
+      "id": 37,
+      "title": "Many intervals reduce to tiny window",
+      "tags": [
+        "stress",
+        "dense",
+        "zero"
+      ],
+      "input": "10 0\n0 1000\n0 2\n0 13\n0 24\n0 35\n0 46\n0 57\n0 68\n0 79\n0 90",
+      "expected_output": "0\n",
+      "size_bytes": 72,
+      "difficulty_estimate": "medium",
+      "why_included": "Several intervals force a very small overlap [0,2]; x0 at 0 -> 0.",
+      "time_complexity_trigger": "endpoint handling"
+    },
+    {
+      "id": 38,
+      "title": "Large n with tight upper window",
+      "tags": [
+        "stress",
+        "dense",
+        "long"
+      ],
+      "input": "11 1000\n0 1000\n800 985\n810 995\n820 954\n830 964\n840 974\n850 984\n860 994\n870 953\n880 963\n890 973",
+      "expected_output": "47\n",
+      "size_bytes": 94,
+      "difficulty_estimate": "hard",
+      "why_included": "Crafted to create a tight intersection near the top end; x0 far right must move left.",
+      "time_complexity_trigger": "linear scan"
+    }
+  ]
 }

@@ -10,5 +10,212 @@
   ],
   "problem_statement_link": "https://codeforces.com/problemset/problem/13/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
-  "solved_count": 8640
+  "solved_count": 8640,
+  "problem": {
+    "title": "Numbers",
+    "time_limit": "1 second",
+    "memory_limit": "64 megabytes",
+    "story": "Little Petya likes numbers a lot. He found that number 123 in base 16 consists of two digits: the first is 7 and the second is 11. So the sum of digits of 123 in base 16 is equal to 18.\n\nNow he wonders what is an average value of sum of digits of the number A written in all bases from 2 to A − 1.\n\nNote that all computations should be done in base 10. You should find the result as an irreducible fraction, written in base 10.",
+    "input_format": "Input contains one integer number A (3 ≤ A ≤ 1000).",
+    "output_format": "Output should contain required average value in format «X/Y», where X is the numerator and Y is the denominator.",
+    "examples": [
+      {
+        "input": "5",
+        "output": "7/3"
+      },
+      {
+        "input": "3",
+        "output": "2/1"
+      }
+    ],
+    "note": "In the first sample number 5 written in all bases from 2 to 4 looks so: 101, 12, 11. Sums of digits are 2, 3 and 2, respectively."
+  },
+  "test_cases": [
+    {
+      "id": 1,
+      "input": "3",
+      "output": "2/1",
+      "description": "Smallest allowed value, A=3"
+    },
+    {
+      "id": 2,
+      "input": "4",
+      "output": "3/1",
+      "description": "A=4, sum in bases 2 and 3"
+    },
+    {
+      "id": 3,
+      "input": "5",
+      "output": "7/3",
+      "description": "Sample case: A=5"
+    },
+    {
+      "id": 4,
+      "input": "6",
+      "output": "5/2",
+      "description": "A=6, test with even number"
+    },
+    {
+      "id": 5,
+      "input": "7",
+      "output": "10/3",
+      "description": "A=7, test with odd number"
+    },
+    {
+      "id": 6,
+      "input": "8",
+      "output": "7/2",
+      "description": "A=8, powers of two"
+    },
+    {
+      "id": 7,
+      "input": "9",
+      "output": "13/3",
+      "description": "A=9, odd number"
+    },
+    {
+      "id": 8,
+      "input": "10",
+      "output": "16/3",
+      "description": "A=10, base 10"
+    },
+    {
+      "id": 9,
+      "input": "11",
+      "output": "21/4",
+      "description": "A=11, prime number"
+    },
+    {
+      "id": 10,
+      "input": "12",
+      "output": "19/4",
+      "description": "A=12, composite number"
+    },
+    {
+      "id": 11,
+      "input": "13",
+      "output": "25/5",
+      "description": "A=13, prime"
+    },
+    {
+      "id": 12,
+      "input": "15",
+      "output": "31/6",
+      "description": "A=15, odd composite"
+    },
+    {
+      "id": 13,
+      "input": "16",
+      "output": "28/5",
+      "description": "A=16, power of 2"
+    },
+    {
+      "id": 14,
+      "input": "17",
+      "output": "37/6",
+      "description": "A=17, prime"
+    },
+    {
+      "id": 15,
+      "input": "20",
+      "output": "46/7",
+      "description": "A=20, round number"
+    },
+    {
+      "id": 16,
+      "input": "25",
+      "output": "61/8",
+      "description": "A=25, square number"
+    },
+    {
+      "id": 17,
+      "input": "30",
+      "output": "79/10",
+      "description": "A=30, round number"
+    },
+    {
+      "id": 18,
+      "input": "50",
+      "output": "154/17",
+      "description": "A=50, larger value"
+    },
+    {
+      "id": 19,
+      "input": "100",
+      "output": "334/33",
+      "description": "A=100, three digits"
+    },
+    {
+      "id": 20,
+      "input": "101",
+      "output": "336/33",
+      "description": "A=101, just above 100"
+    },
+    {
+      "id": 21,
+      "input": "200",
+      "output": "691/66",
+      "description": "A=200, round number"
+    },
+    {
+      "id": 22,
+      "input": "300",
+      "output": "1042/99",
+      "description": "A=300, round number"
+    },
+    {
+      "id": 23,
+      "input": "500",
+      "output": "1747/165",
+      "description": "A=500, round number"
+    },
+    {
+      "id": 24,
+      "input": "750",
+      "output": "2626/247",
+      "description": "A=750, near upper bound"
+    },
+    {
+      "id": 25,
+      "input": "999",
+      "output": "3517/332",
+      "description": "A=999, just below maximum"
+    },
+    {
+      "id": 26,
+      "input": "1000",
+      "output": "3523/333",
+      "description": "A=1000, maximum allowed"
+    },
+    {
+      "id": 27,
+      "input": "97",
+      "output": "322/31",
+      "description": "A=97, prime"
+    },
+    {
+      "id": 28,
+      "input": "123",
+      "output": "420/40",
+      "description": "A=123, arbitrary test"
+    },
+    {
+      "id": 29,
+      "input": "256",
+      "output": "885/85",
+      "description": "A=256, power of 2"
+    },
+    {
+      "id": 30,
+      "input": "512",
+      "output": "1761/171",
+      "description": "A=512, power of 2"
+    },
+    {
+      "id": "combined",
+      "input": "3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n15\n16\n17\n20\n25\n30\n50\n100\n101\n200\n300\n500\n750\n999\n1000\n97\n123\n256\n512",
+      "output": "2/1\n3/1\n7/3\n5/2\n10/3\n7/2\n13/3\n16/3\n21/4\n19/4\n25/5\n31/6\n28/5\n37/6\n46/7\n61/8\n79/10\n154/17\n334/33\n336/33\n691/66\n1042/99\n1747/165\n2626/247\n3517/332\n3523/333\n322/31\n420/40\n885/85\n1761/171",
+      "description": "Combined test case: all above inputs, each output on new line"
+    }
+  ]
 }

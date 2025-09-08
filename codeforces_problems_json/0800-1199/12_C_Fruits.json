@@ -11,5 +11,363 @@
   ],
   "problem_statement_link": "https://codeforces.com/problemset/problem/12/C",
   "scraped_at": "2025-09-06 12:49:59 UTC",
-  "solved_count": 6734
+  "solved_count": 6734,
+  "problem": {
+    "title": "Fruits",
+    "time_limit": "1 second",
+    "memory_limit": "256 megabytes",
+    "story": "The spring is coming and it means that a lot of fruits appear on the counters. One sunny day little boy Valera decided to go shopping. He made a list of m fruits he wanted to buy. If Valera want to buy more than one fruit of some kind, he includes it into the list several times.\n\nWhen he came to the fruit stall of Ashot, he saw that the seller hadn't distributed price tags to the goods, but put all price tags on the counter. Later Ashot will attach every price tag to some kind of fruits, and Valera will be able to count the total price of all fruits from his list. But Valera wants to know now what can be the smallest total price (in case of the most «lucky» for him distribution of price tags) and the largest total price (in case of the most «unlucky» for him distribution of price tags).",
+    "input_format": "The first line of the input contains two integer numbers n and m (1 ≤ n, m ≤ 100) — the number of price tags (equal to the number of different kinds of fruits that Ashot sells) and the number of items in Valera's list. The second line contains n space-separated positive integers, each not exceeding 100, representing prices of fruits. The following m lines contain names of the fruits from the list. Each name is a non-empty string of lowercase Latin letters of length not exceeding 32. It is guaranteed that the number of distinct fruits from the list is less than or equal to n. The seller has all fruits that Valera wants to buy.",
+    "output_format": "Print two numbers a and b (a ≤ b) — the minimum and the maximum possible sum which Valera may need to buy all fruits from his list.",
+    "examples": [
+      {
+        "input": "5 3\n4 2 1 10 5\napple\norange\nmango",
+        "output": "7 19"
+      },
+      {
+        "input": "6 5\n3 5 1 6 8 1\npeach\ngrapefruit\nbanana\norange\norange",
+        "output": "11 30"
+      }
+    ]
+  }
+,
+  "test_cases": [
+    {
+      "id": 1,
+      "title": "Minimum input values",
+      "tags": ["min", "edge", "tiny"],
+      "input": "1 1\n1\napple",
+      "expected_output": "1 1",
+      "size_bytes": 20,
+      "difficulty_estimate": 1,
+      "why_included": "Tests the smallest valid input.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 2,
+      "title": "All fruits unique, prices sorted ascending",
+      "tags": ["unique", "sorted", "small"],
+      "input": "3 3\n2 4 6\napple\nbanana\ncherry",
+      "expected_output": "12 12",
+      "size_bytes": 36,
+      "difficulty_estimate": 2,
+      "why_included": "Checks if all unique fruits with sorted prices are handled.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 3,
+      "title": "All fruits unique, prices sorted descending",
+      "tags": ["unique", "sorted", "descending"],
+      "input": "3 3\n6 4 2\napple\nbanana\ncherry",
+      "expected_output": "12 12",
+      "size_bytes": 36,
+      "difficulty_estimate": 2,
+      "why_included": "Checks descending price order handling.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 4,
+      "title": "Duplicate fruits in list",
+      "tags": ["duplicates", "medium"],
+      "input": "4 5\n2 3 4 5\napple\nbanana\napple\nbanana\napple",
+      "expected_output": "10 15",
+      "size_bytes": 47,
+      "difficulty_estimate": 3,
+      "why_included": "Tests multiple occurrences of the same fruit.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 5,
+      "title": "All prices equal",
+      "tags": ["equal", "uniform"],
+      "input": "5 3\n7 7 7 7 7\napple\nbanana\ncherry",
+      "expected_output": "21 21",
+      "size_bytes": 38,
+      "difficulty_estimate": 1,
+      "why_included": "Checks if identical prices are handled.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 6,
+      "title": "All fruits in list are the same",
+      "tags": ["single-fruit", "duplicates"],
+      "input": "2 4\n10 20\napple\napple\napple\napple",
+      "expected_output": "40 80",
+      "size_bytes": 40,
+      "difficulty_estimate": 2,
+      "why_included": "Tests case where only one fruit type is repeatedly bought.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 7,
+      "title": "Random prices and random fruit list",
+      "tags": ["random"],
+      "input": "4 6\n5 2 8 3\napple\nbanana\napple\ncherry\nbanana\ndate",
+      "expected_output": "17 32",
+      "size_bytes": 55,
+      "difficulty_estimate": 3,
+      "why_included": "Covers a standard random scenario.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 8,
+      "title": "Maximum price values",
+      "tags": ["max", "price", "edge"],
+      "input": "3 3\n100 100 100\napple\nbanana\ncherry",
+      "expected_output": "300 300",
+      "size_bytes": 40,
+      "difficulty_estimate": 2,
+      "why_included": "Tests handling of maximum price values.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 9,
+      "title": "Maximum n and m, all distinct fruits",
+      "tags": ["max", "stress", "distinct"],
+      "input": "100 100\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100\nfruit1\nfruit2\nfruit3\nfruit4\nfruit5\nfruit6\nfruit7\nfruit8\nfruit9\nfruit10\nfruit11\nfruit12\nfruit13\nfruit14\nfruit15\nfruit16\nfruit17\nfruit18\nfruit19\nfruit20\nfruit21\nfruit22\nfruit23\nfruit24\nfruit25\nfruit26\nfruit27\nfruit28\nfruit29\nfruit30\nfruit31\nfruit32\nfruit33\nfruit34\nfruit35\nfruit36\nfruit37\nfruit38\nfruit39\nfruit40\nfruit41\nfruit42\nfruit43\nfruit44\nfruit45\nfruit46\nfruit47\nfruit48\nfruit49\nfruit50\nfruit51\nfruit52\nfruit53\nfruit54\nfruit55\nfruit56\nfruit57\nfruit58\nfruit59\nfruit60\nfruit61\nfruit62\nfruit63\nfruit64\nfruit65\nfruit66\nfruit67\nfruit68\nfruit69\nfruit70\nfruit71\nfruit72\nfruit73\nfruit74\nfruit75\nfruit76\nfruit77\nfruit78\nfruit79\nfruit80\nfruit81\nfruit82\nfruit83\nfruit84\nfruit85\nfruit86\nfruit87\nfruit88\nfruit89\nfruit90\nfruit91\nfruit92\nfruit93\nfruit94\nfruit95\nfruit96\nfruit97\nfruit98\nfruit99\nfruit100",
+      "expected_output": "5050 5050",
+      "size_bytes": 1310,
+      "difficulty_estimate": 5,
+      "why_included": "Stress test with largest n, m and all unique fruits.",
+      "time_complexity_trigger": true
+    },
+    {
+      "id": 10,
+      "title": "Maximum n and m, all same fruit",
+      "tags": ["max", "stress", "duplicates"],
+      "input": "100 100\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple",
+      "expected_output": "100 10000",
+      "size_bytes": 1210,
+      "difficulty_estimate": 5,
+      "why_included": "Stress test with largest n, m and only one fruit.",
+      "time_complexity_trigger": true
+    },
+    {
+      "id": 11,
+      "title": "All fruits in list, one missing in price list",
+      "tags": ["invalid", "schema"],
+      "input": "3 3\n1 2 3\napple\nbanana\npear",
+      "expected_output": "6 6",
+      "size_bytes": 38,
+      "difficulty_estimate": 2,
+      "why_included": "Checks mapping when all fruits are present.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 12,
+      "title": "All prices are 1",
+      "tags": ["uniform", "small"],
+      "input": "5 4\n1 1 1 1 1\napple\nbanana\napple\ncherry",
+      "expected_output": "4 4",
+      "size_bytes": 44,
+      "difficulty_estimate": 1,
+      "why_included": "Tests minimum price scenario.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 13,
+      "title": "Each fruit in list appears twice",
+      "tags": ["duplicates", "medium"],
+      "input": "4 8\n2 4 6 8\napple\nbanana\ncherry\ndate\napple\nbanana\ncherry\ndate",
+      "expected_output": "40 56",
+      "size_bytes": 75,
+      "difficulty_estimate": 3,
+      "why_included": "Tests even distribution of duplicates.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 14,
+      "title": "Fruits with long names",
+      "tags": ["long-names", "edge"],
+      "input": "2 2\n5 10\nsuperlongfruitnameone\nsuperlongfruitnametwo",
+      "expected_output": "15 15",
+      "size_bytes": 70,
+      "difficulty_estimate": 2,
+      "why_included": "Tests handling of long fruit names.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 15,
+      "title": "Single fruit, maximum count",
+      "tags": ["single", "max", "duplicates"],
+      "input": "1 100\n100\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple",
+      "expected_output": "10000 10000",
+      "size_bytes": 400,
+      "difficulty_estimate": 4,
+      "why_included": "Tests case with only one fruit type and maximum count.",
+      "time_complexity_trigger": true
+    },
+    {
+      "id": 16,
+      "title": "All prices different, random fruit counts",
+      "tags": ["random", "medium"],
+      "input": "5 7\n2 7 3 8 4\napple\nbanana\nbanana\napple\ncherry\ndate\nbanana",
+      "expected_output": "25 49",
+      "size_bytes": 64,
+      "difficulty_estimate": 3,
+      "why_included": "Checks random assignments and counts.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 17,
+      "title": "Fruits with maximum name length",
+      "tags": ["long-names", "edge"],
+      "input": "2 2\n10 20\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "expected_output": "30 30",
+      "size_bytes": 80,
+      "difficulty_estimate": 2,
+      "why_included": "Tests maximum allowed fruit name length.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 18,
+      "title": "All fruit counts equal, prices shuffled",
+      "tags": ["shuffled", "medium"],
+      "input": "4 8\n5 2 8 3\napple\nbanana\ncherry\ndate\napple\nbanana\ncherry\ndate",
+      "expected_output": "32 48",
+      "size_bytes": 69,
+      "difficulty_estimate": 3,
+      "why_included": "Tests handling of even distribution with shuffled prices.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 19,
+      "title": "One fruit appears once, rest many times",
+      "tags": ["edge", "imbalanced"],
+      "input": "4 7\n2 4 6 8\napple\nbanana\nbanana\nbanana\nbanana\nbanana\ncherry",
+      "expected_output": "22 38",
+      "size_bytes": 68,
+      "difficulty_estimate": 3,
+      "why_included": "Tests imbalance in fruit list.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 20,
+      "title": "All fruits but one appear once",
+      "tags": ["edge", "imbalanced"],
+      "input": "4 7\n2 4 6 8\napple\nbanana\ncherry\ndate\napple\napple\napple",
+      "expected_output": "22 38",
+      "size_bytes": 68,
+      "difficulty_estimate": 3,
+      "why_included": "Tests another imbalance pattern.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 21,
+      "title": "Random prices, all fruits same count",
+      "tags": ["random", "even"],
+      "input": "6 12\n1 6 2 7 3 5\napple\nbanana\ncherry\ndate\nfig\ngrape\napple\nbanana\ncherry\ndate\nfig\ngrape",
+      "expected_output": "48 72",
+      "size_bytes": 100,
+      "difficulty_estimate": 3,
+      "why_included": "Tests even distribution with more fruits.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 22,
+      "title": "Only one fruit type, prices shuffled",
+      "tags": ["single-fruit", "shuffled"],
+      "input": "5 5\n5 3 8 2 7\nbanana\nbanana\nbanana\nbanana\nbanana",
+      "expected_output": "10 40",
+      "size_bytes": 54,
+      "difficulty_estimate": 2,
+      "why_included": "Tests single fruit with multiple prices.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 23,
+      "title": "Random prices, one fruit repeated",
+      "tags": ["random", "duplicates"],
+      "input": "3 6\n3 6 9\napple\napple\napple\napple\napple\napple",
+      "expected_output": "18 54",
+      "size_bytes": 52,
+      "difficulty_estimate": 2,
+      "why_included": "Checks repeated single fruit with random prices.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 24,
+      "title": "Minimum and maximum prices only",
+      "tags": ["min-max", "edge"],
+      "input": "2 3\n1 100\napple\nbanana\napple",
+      "expected_output": "3 201",
+      "size_bytes": 39,
+      "difficulty_estimate": 2,
+      "why_included": "Tests case with only min and max prices.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 25,
+      "title": "Stress: 100 fruits, 50 types",
+      "tags": ["stress", "large"],
+      "input": "50 100\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50\nfruit1\nfruit2\nfruit3\nfruit4\nfruit5\nfruit6\nfruit7\nfruit8\nfruit9\nfruit10\nfruit11\nfruit12\nfruit13\nfruit14\nfruit15\nfruit16\nfruit17\nfruit18\nfruit19\nfruit20\nfruit21\nfruit22\nfruit23\nfruit24\nfruit25\nfruit26\nfruit27\nfruit28\nfruit29\nfruit30\nfruit31\nfruit32\nfruit33\nfruit34\nfruit35\nfruit36\nfruit37\nfruit38\nfruit39\nfruit40\nfruit41\nfruit42\nfruit43\nfruit44\nfruit45\nfruit46\nfruit47\nfruit48\nfruit49\nfruit50\nfruit1\nfruit2\nfruit3\nfruit4\nfruit5\nfruit6\nfruit7\nfruit8\nfruit9\nfruit10\nfruit11\nfruit12\nfruit13\nfruit14\nfruit15\nfruit16\nfruit17\nfruit18\nfruit19\nfruit20\nfruit21\nfruit22\nfruit23\nfruit24\nfruit25\nfruit26\nfruit27\nfruit28\nfruit29\nfruit30\nfruit31\nfruit32\nfruit33\nfruit34\nfruit35\nfruit36\nfruit37\nfruit38\nfruit39\nfruit40\nfruit41\nfruit42\nfruit43\nfruit44\nfruit45\nfruit46\nfruit47\nfruit48\nfruit49\nfruit50",
+      "expected_output": "2550 5050",
+      "size_bytes": 900,
+      "difficulty_estimate": 4,
+      "why_included": "Stress test with m > n, many duplicates.",
+      "time_complexity_trigger": true
+    },
+    {
+      "id": 26,
+      "title": "Adversarial: all but one fruit the same",
+      "tags": ["adversarial", "duplicates"],
+      "input": "5 6\n2 4 6 8 10\napple\napple\napple\napple\napple\nbanana",
+      "expected_output": "14 54",
+      "size_bytes": 56,
+      "difficulty_estimate": 4,
+      "why_included": "Tests adversarial case with one rare fruit.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 27,
+      "title": "Adversarial: all prices same except one",
+      "tags": ["adversarial", "edge"],
+      "input": "5 5\n7 7 7 7 100\napple\nbanana\ncherry\ndate\nfig",
+      "expected_output": "35 128",
+      "size_bytes": 53,
+      "difficulty_estimate": 3,
+      "why_included": "Tests impact of one outlier price.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 28,
+      "title": "Edge: n > m",
+      "tags": ["edge", "n-greater"],
+      "input": "5 3\n2 3 4 5 6\napple\nbanana\ncherry",
+      "expected_output": "9 15",
+      "size_bytes": 38,
+      "difficulty_estimate": 2,
+      "why_included": "Tests case where more prices than fruits in list.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 29,
+      "title": "Edge: m > n",
+      "tags": ["edge", "m-greater"],
+      "input": "3 5\n1 2 3\napple\nbanana\ncherry\napple\nbanana",
+      "expected_output": "7 13",
+      "size_bytes": 47,
+      "difficulty_estimate": 2,
+      "why_included": "Tests case where more fruits in list than prices.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 30,
+      "title": "Random: n = m = 10, shuffled",
+      "tags": ["random", "shuffled"],
+      "input": "10 10\n4 7 3 9 1 10 6 8 2 5\napple\nbanana\ncherry\ndate\nfig\ngrape\nhoneydew\nkiwi\nlemon\nmango",
+      "expected_output": "55 55",
+      "size_bytes": 120,
+      "difficulty_estimate": 3,
+      "why_included": "Checks random shuffled scenario with n = m.",
+      "time_complexity_trigger": false
+    },
+    {
+      "id": 31,
+      "title": "Combined: all above test cases merged",
+      "tags": ["combined", "comprehensive"],
+      "input": "31\n1 1\n1\napple\n3 3\n2 4 6\napple\nbanana\ncherry\n3 3\n6 4 2\napple\nbanana\ncherry\n4 5\n2 3 4 5\napple\nbanana\napple\nbanana\napple\n5 3\n7 7 7 7 7\napple\nbanana\ncherry\n2 4\n10 20\napple\napple\napple\napple\n4 6\n5 2 8 3\napple\nbanana\napple\ncherry\nbanana\ndate\n3 3\n100 100 100\napple\nbanana\ncherry\n100 100\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100\nfruit1\nfruit2\nfruit3\nfruit4\nfruit5\nfruit6\nfruit7\nfruit8\nfruit9\nfruit10\nfruit11\nfruit12\nfruit13\nfruit14\nfruit15\nfruit16\nfruit17\nfruit18\nfruit19\nfruit20\nfruit21\nfruit22\nfruit23\nfruit24\nfruit25\nfruit26\nfruit27\nfruit28\nfruit29\nfruit30\nfruit31\nfruit32\nfruit33\nfruit34\nfruit35\nfruit36\nfruit37\nfruit38\nfruit39\nfruit40\nfruit41\nfruit42\nfruit43\nfruit44\nfruit45\nfruit46\nfruit47\nfruit48\nfruit49\nfruit50\nfruit51\nfruit52\nfruit53\nfruit54\nfruit55\nfruit56\nfruit57\nfruit58\nfruit59\nfruit60\nfruit61\nfruit62\nfruit63\nfruit64\nfruit65\nfruit66\nfruit67\nfruit68\nfruit69\nfruit70\nfruit71\nfruit72\nfruit73\nfruit74\nfruit75\nfruit76\nfruit77\nfruit78\nfruit79\nfruit80\nfruit81\nfruit82\nfruit83\nfruit84\nfruit85\nfruit86\nfruit87\nfruit88\nfruit89\nfruit90\nfruit91\nfruit92\nfruit93\nfruit94\nfruit95\nfruit96\nfruit97\nfruit98\nfruit99\nfruit100\n100 100\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\n3 3\n1 2 3\napple\nbanana\npear\n5 4\n1 1 1 1 1\napple\nbanana\napple\ncherry\n4 8\n2 4 6 8\napple\nbanana\ncherry\ndate\napple\nbanana\ncherry\ndate\n2 2\n5 10\nsuperlongfruitnameone\nsuperlongfruitnametwo\n1 100\n100\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\napple\n5 7\n2 7 3 8 4\napple\nbanana\nbanana\napple\ncherry\ndate\nbanana\n2 2\n10 20\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n4 8\n5 2 8 3\napple\nbanana\ncherry\ndate\napple\nbanana\ncherry\ndate\n4 7\n2 4 6 8\napple\nbanana\nbanana\nbanana\nbanana\nbanana\ncherry\n4 7\n2 4 6 8\napple\nbanana\ncherry\ndate\napple\napple\napple\n6 12\n1 6 2 7 3 5\napple\nbanana\ncherry\ndate\nfig\ngrape\napple\nbanana\ncherry\ndate\nfig\ngrape\n5 5\n5 3 8 2 7\nbanana\nbanana\nbanana\nbanana\nbanana\n3 6\n3 6 9\napple\napple\napple\napple\napple\napple\n2 3\n1 100\napple\nbanana\napple\n50 100\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50\nfruit1\nfruit2\nfruit3\nfruit4\nfruit5\nfruit6\nfruit7\nfruit8\nfruit9\nfruit10\nfruit11\nfruit12\nfruit13\nfruit14\nfruit15\nfruit16\nfruit17\nfruit18\nfruit19\nfruit20\nfruit21\nfruit22\nfruit23\nfruit24\nfruit25\nfruit26\nfruit27\nfruit28\nfruit29\nfruit30\nfruit31\nfruit32\nfruit33\nfruit34\nfruit35\nfruit36\nfruit37\nfruit38\nfruit39\nfruit40\nfruit41\nfruit42\nfruit43\nfruit44\nfruit45\nfruit46\nfruit47\nfruit48\nfruit49\nfruit50\nfruit1\nfruit2\nfruit3\nfruit4\nfruit5\nfruit6\nfruit7\nfruit8\nfruit9\nfruit10\nfruit11\nfruit12\nfruit13\nfruit14\nfruit15\nfruit16\nfruit17\nfruit18\nfruit19\nfruit20\nfruit21\nfruit22\nfruit23\nfruit24\nfruit25\nfruit26\nfruit27\nfruit28\nfruit29\nfruit30\nfruit31\nfruit32\nfruit33\nfruit34\nfruit35\nfruit36\nfruit37\nfruit38\nfruit39\nfruit40\nfruit41\nfruit42\nfruit43\nfruit44\nfruit45\nfruit46\nfruit47\nfruit48\nfruit49\nfruit50\n5 6\n2 4 6 8 10\napple\napple\napple\napple\napple\nbanana\n5 5\n7 7 7 7 100\napple\nbanana\ncherry\ndate\nfig\n5 3\n2 3 4 5 6\napple\nbanana\ncherry\n3 5\n1 2 3\napple\nbanana\ncherry\napple\nbanana\n10 10\n4 7 3 9 1 10 6 8 2 5\napple\nbanana\ncherry\ndate\nfig\ngrape\nhoneydew\nkiwi\nlemon\nmango",
+      "expected_output": "1 1\n12 12\n12 12\n10 15\n21 21\n40 80\n17 32\n300 300\n5050 5050\n100 10000\n6 6\n4 4\n40 56\n15 15\n10000 10000\n25 49\n30 30\n32 48\n22 38\n22 38\n48 72\n10 40\n18 54\n3 201\n2550 5050\n14 54\n35 128\n9 15\n7 13\n55 55"
+    }
+  ]
 }

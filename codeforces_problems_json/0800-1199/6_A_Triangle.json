@@ -8,6 +8,434 @@
     "brute force",
     "geometry"
   ],
+  "title": "A. Triangle",
+  "problem_statement": {
+    "description": "Johnny has a younger sister Anne, who is very clever and smart. As she came home from the kindergarten, she told his brother about the task that her kindergartener asked her to solve. The task was just to construct a triangle out of four sticks of different colours. Naturally, one of the sticks is extra. It is not allowed to break the sticks or use their partial length.\n\nAnne has perfectly solved this task, now she is asking Johnny to do the same. The boy answered that he would cope with it without any difficulty. However, after a while he found out that different tricky things can occur. It can happen that it is impossible to construct a triangle of a positive area, but it is possible to construct a degenerate triangle. It can be so, that it is impossible to construct a degenerate triangle even. As Johnny is very lazy, he does not want to consider such a big amount of cases, he asks you to help him.",
+    "constraints": {
+      "time_limit": "2 seconds",
+      "memory_limit": "64 megabytes",
+      "stick_length_limit": "positive integers not exceeding 100"
+    },
+    "input_specification": "The first line of the input contains four space-separated positive integer numbers not exceeding 100 — lengths of the sticks.",
+    "output_specification": "Output TRIANGLE if it is possible to construct a non-degenerate triangle. Output SEGMENT if the first case cannot take place and it is possible to construct a degenerate triangle. Output IMPOSSIBLE if it is impossible to construct any triangle. Remember that you are to use exactly three sticks. It is not allowed to break the sticks or use their partial length."
+  },
+  "examples": [
+    {
+      "input": "4 2 1 3\n",
+      "output": "TRIANGLE\n"
+    },
+    {
+      "input": "7 2 2 4\n",
+      "output": "SEGMENT\n"
+    },
+    {
+      "input": "3 5 9 1\n",
+      "output": "IMPOSSIBLE\n"
+    },
+    {
+    "id": 1,
+    "title": "Sample case 1: Basic TRIANGLE",
+    "tags": [],
+    "input": "4 2 1 3\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "trivial",
+    "why_included": "This is the first example from the problem statement, demonstrating a clear case where a non-degenerate triangle can be formed (sticks 2, 3, 4).",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 2,
+    "title": "Sample case 2: Basic SEGMENT",
+    "tags": ["duplicates"],
+    "input": "7 2 2 4\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "trivial",
+    "why_included": "This is the second example from the problem statement, showing a case where only a degenerate triangle (a segment) can be formed (sticks 2, 2, 4).",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 3,
+    "title": "Sample case 3: Basic IMPOSSIBLE",
+    "tags": [],
+    "input": "3 5 9 1\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "trivial",
+    "why_included": "This is the third example, where no combination of three sticks can form any type of triangle.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 4,
+    "title": "Classic Pythagorean triple forms TRIANGLE",
+    "tags": [],
+    "input": "3 4 5 10\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a well-known right triangle case (3, 4, 5) to confirm basic non-degenerate triangle logic.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 5,
+    "title": "All sticks equal forms TRIANGLE",
+    "tags": ["all-equal", "duplicates"],
+    "input": "10 10 10 10\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 12,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the case where all four sticks are of equal length, easily forming an equilateral triangle.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 6,
+    "title": "Isosceles triangle is possible",
+    "tags": ["duplicates"],
+    "input": "7 7 10 1\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "A case where an isosceles triangle (7, 7, 10) is the best possible outcome.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+
+  {
+    "id": 7,
+    "title": "Multiple TRIANGLE combinations exist",
+    "tags": [],
+    "input": "4 5 6 7\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a scenario where more than one subset of sticks can form a valid triangle, ensuring the code finds at least one.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 8,
+    "title": "Two pairs of sticks form TRIANGLE",
+    "tags": ["duplicates"],
+    "input": "10 10 5 5\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 10,
+    "difficulty_estimate": "easy",
+    "why_included": "With two pairs of identical sticks, a valid isosceles triangle (5, 10, 10) can be formed.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 9,
+    "title": "Maximum values form a TRIANGLE",
+    "tags": ["max"],
+    "input": "99 100 100 98\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 14,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests stick lengths at the upper boundary of the constraints, forming a valid triangle (e.g., 98, 99, 100).",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 10,
+    "title": "Minimum values form a TRIANGLE",
+    "tags": ["min"],
+    "input": "1 1 1 1\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests stick lengths at the minimum boundary of the constraints, forming a valid equilateral triangle.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 11,
+    "title": "Clear SEGMENT case with no TRIANGLE",
+    "tags": [],
+    "input": "1 2 3 10\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "A textbook case for a degenerate triangle (1+2=3) where no other combinations form a non-degenerate one.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 12,
+    "title": "Isosceles SEGMENT case",
+    "tags": ["duplicates"],
+    "input": "5 5 10 20\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 10,
+    "difficulty_estimate": "easy",
+    "why_included": "A case where two identical sticks sum up perfectly to the length of a third, forming a segment (5, 5, 10).",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 13,
+    "title": "Multiple SEGMENT combinations exist",
+    "tags": [],
+    "input": "3 4 7 11\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a case where multiple combinations form degenerate triangles ((3,4,7) and (4,7,11)), but none form a non-degenerate one.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 14,
+    "title": "Max values form a SEGMENT",
+    "tags": ["max", "edge"],
+    "input": "50 50 100 1\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 11,
+    "difficulty_estimate": "easy",
+    "why_included": "Uses values near the maximum constraint to form a degenerate triangle (50, 50, 100).",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 15,
+    "title": "Min values form a SEGMENT",
+    "tags": ["min", "edge"],
+    "input": "1 1 2 100\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "Uses the smallest possible stick lengths to form a degenerate triangle (1, 1, 2).",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 16,
+    "title": "Fibonacci numbers forming a SEGMENT",
+    "tags": [],
+    "input": "2 3 5 8\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "medium",
+    "why_included": "A sequence of Fibonacci-like numbers where a+b=c is true for two combinations ((2,3,5) and (3,5,8)), resulting in SEGMENT.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 17,
+    "title": "Unsorted input forming a SEGMENT",
+    "tags": [],
+    "input": "10 20 5 15\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 11,
+    "difficulty_estimate": "easy",
+    "why_included": "Ensures that the algorithm correctly identifies a segment even when the input values are not sorted.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 18,
+    "title": "Clear IMPOSSIBLE case with large gaps",
+    "tags": [],
+    "input": "1 2 5 10\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "A simple case where the lengths are too far apart for any combination to satisfy the triangle inequality.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 19,
+    "title": "Geometric progression is IMPOSSIBLE",
+    "tags": [],
+    "input": "1 2 4 8\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "easy",
+    "why_included": "A geometric series where a+b < c is always true for any three consecutive terms, making a triangle impossible.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 20,
+    "title": "IMPOSSIBLE with small duplicate sticks",
+    "tags": ["duplicates"],
+    "input": "1 1 10 20\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "Shows that having duplicate small sticks does not help if the other sticks are disproportionately large.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 21,
+    "title": "IMPOSSIBLE with max and min values",
+    "tags": ["min", "max"],
+    "input": "100 1 2 3\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 10,
+    "difficulty_estimate": "easy",
+    "why_included": "A permutation of a clear impossible case with extreme values, ensuring order doesn't matter.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 22,
+    "title": "Another IMPOSSIBLE with large gaps",
+    "tags": [],
+    "input": "5 10 20 40\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 11,
+    "difficulty_estimate": "easy",
+    "why_included": "Reinforces the check for cases where no two sticks are long enough to connect across the third.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 23,
+    "title": "IMPOSSIBLE with mixed medium values",
+    "tags": [],
+    "input": "5 6 12 25\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 10,
+    "difficulty_estimate": "easy",
+    "why_included": "A more random-looking set of numbers that still fails all triangle inequality checks.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 24,
+    "title": "Adversarial: Both TRIANGLE and SEGMENT possible",
+    "tags": ["adversarial"],
+    "input": "3 4 7 5\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "medium",
+    "why_included": "This critical case contains a subset that forms a TRIANGLE (3,4,5) and one that forms a SEGMENT (3,4,7). The correct output is TRIANGLE, testing the specified precedence.",
+    "time_complexity_trigger": "precedence logic"
+  },
+  {
+    "id": 25,
+    "title": "Adversarial: TRIANGLE and SEGMENT in unsorted input",
+    "tags": ["adversarial"],
+    "input": "10 2 8 6\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "medium",
+    "why_included": "An unsorted version of the precedence test. It contains a segment (2,6,8) and a triangle (6,8,10). The answer must be TRIANGLE.",
+    "time_complexity_trigger": "precedence logic"
+  },
+  {
+    "id": 26,
+    "title": "Three sticks equal forms TRIANGLE",
+    "tags": ["duplicates"],
+    "input": "5 5 5 10\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "With three equal sticks, an equilateral triangle is always possible, regardless of the fourth stick's length.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 27,
+    "title": "Close-call TRIANGLE case",
+    "tags": ["edge"],
+    "input": "10 20 29 5\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 10,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a case where the two smallest sides barely sum to more than the largest side (10+20 > 29), a boundary case for non-degenerate triangles.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 28,
+    "title": "Random SEGMENT case",
+    "tags": ["random"],
+    "input": "15 32 17 40\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 12,
+    "difficulty_estimate": "easy",
+    "why_included": "A random assortment of numbers where the only possibility is a segment (15+17=32).",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 29,
+    "title": "Random IMPOSSIBLE case",
+    "tags": ["random"],
+    "input": "13 25 40 80\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 12,
+    "difficulty_estimate": "easy",
+    "why_included": "A random assortment of numbers that cannot form any type of triangle.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 30,
+    "title": "Three large sticks and one small stick",
+    "tags": ["max", "min"],
+    "input": "100 100 99 1\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 12,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a case with three large sticks and one very small one. The three large sticks form a valid triangle.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 31,
+    "title": "Three small sticks and one large stick",
+    "tags": ["min", "max"],
+    "input": "1 2 2 100\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the inverse of the previous case. Three small sticks cannot form a triangle if the fourth is very large (1+2 > 100 is false, 1+2 > 2 is true, 2+2 > 100 is false).",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 32,
+    "title": "All prime numbers form a TRIANGLE",
+    "tags": ["prime"],
+    "input": "5 7 11 13\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 10,
+    "difficulty_estimate": "easy",
+    "why_included": "Uses prime numbers to form a triangle (e.g., 5, 11, 13). Primality is irrelevant, but it adds variety.",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 33,
+    "title": "All composite numbers form a SEGMENT",
+    "tags": ["composite"],
+    "input": "4 6 9 10\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "medium",
+    "why_included": "Uses composite numbers to form a segment (4+6=10). The combination 6,9,10 would be a triangle, but 4,6,10 is a segment. Wait, this should be TRIANGLE due to precedence. Correct input: 4 5 9 20",
+    "input": "4 5 9 20\n",
+    "expected_output": "SEGMENT\n",
+    "size_bytes": 9,
+    "why_included": "Uses composite numbers where the only valid formation is a segment (4, 5, 9).",
+    "time_complexity_trigger": "combinatorial check"
+  },
+  {
+    "id": 34,
+    "title": "Close to SEGMENT but is TRIANGLE",
+    "tags": ["edge"],
+    "input": "10 11 20 30\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 12,
+    "difficulty_estimate": "medium",
+    "why_included": "The sticks 10, 11, 20 form a triangle (10+11 > 20). This tests the strict inequality for non-degenerate triangles.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 35,
+    "title": "Close to SEGMENT but is IMPOSSIBLE",
+    "tags": ["edge"],
+    "input": "10 11 22 30\n",
+    "expected_output": "IMPOSSIBLE\n",
+    "size_bytes": 12,
+    "difficulty_estimate": "medium",
+    "why_included": "The sticks 10, 11, 22 are close to forming a segment, but 10+11 < 22, so it's impossible. This tests the less-than case of the inequality.",
+    "time_complexity_trigger": "triangle inequality"
+  },
+  {
+    "id": 36,
+    "title": "Final random case for TRIANGLE",
+    "tags": ["random"],
+    "input": "23 45 50 60\n",
+    "expected_output": "TRIANGLE\n",
+    "size_bytes": 12,
+    "difficulty_estimate": "easy",
+    "why_included": "A final randomly generated case to ensure general correctness of the solution for a valid triangle.",
+    "time_complexity_trigger": "combinatorial check"
+  }
+],
+
+  
   "problem_statement_link": "https://codeforces.com/problemset/problem/6/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
   "solved_count": 21424

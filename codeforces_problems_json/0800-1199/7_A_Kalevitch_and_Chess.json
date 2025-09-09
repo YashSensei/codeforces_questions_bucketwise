@@ -8,6 +8,371 @@
     "brute force",
     "constructive algorithms"
   ],
+   "title": "A. Kalevitch and Chess",
+  "problem_statement": {
+    "description": "A famous Berland's painter Kalevitch likes to shock the public. One of his last obsessions is chess. For more than a thousand years people have been playing this old game on uninteresting, monotonous boards. Kalevitch decided to put an end to this tradition and to introduce a new attitude to chessboards.\n\nAs before, the chessboard is a square-checkered board with the squares arranged in a 8×8 grid, each square is painted black or white. Kalevitch suggests that chessboards should be painted in the following manner: there should be chosen a horizontal or a vertical line of 8 squares (i.e. a row or a column), and painted black. Initially the whole chessboard is white, and it can be painted in the above described way one or more times. It is allowed to paint a square many times, but after the first time it does not change its colour any more and remains black. Kalevitch paints chessboards neatly, and it is impossible to judge by an individual square if it was painted with a vertical or a horizontal stroke.\n\nKalevitch hopes that such chessboards will gain popularity, and he will be commissioned to paint chessboards, which will help him ensure a comfortable old age. The clients will inform him what chessboard they want to have, and the painter will paint a white chessboard meeting the client's requirements.\n\nIt goes without saying that in such business one should economize on everything — for each commission he wants to know the minimum amount of strokes that he has to paint to fulfill the client's needs. You are asked to help Kalevitch with this task.",
+    "constraints": {
+      "time_limit": "2 seconds",
+      "memory_limit": "64 megabytes",
+      "board_size": "8x8",
+      "characters": "W = white, B = black"
+    },
+    "input_specification": "The input file contains 8 lines, each of the lines contains 8 characters. The given matrix describes the client's requirements, W character stands for a white square, and B character — for a square painted black. It is guaranteed that client's requirements can be fulfilled with a sequence of allowed strokes (rows or columns).",
+    "output_specification": "Output the only number — the minimum amount of rows and columns that Kalevitch has to paint on the white chessboard to meet the client's requirements."
+  },
+  "examples": [
+    {
+      "input": "WWWBWWBW\nBBBBBBBB\nWWWBWWBW\nWWWBWWBW\nWWWBWWBW\nWWWBWWBW\nWWWBWWBW\nWWWBWWBW\n",
+      "output": "3\n"
+    },
+    {
+      "input": "WWWWWWWW\nBBBBBBBB\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\n",
+      "output": "1\n"
+    },
+    
+  {
+    "id": 1,
+    "title": "All white board, trivial case",
+    "tags": ["trivial"],
+    "input": "WWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\n",
+    "expected_output": "0\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "trivial",
+    "why_included": "No strokes needed when all are white.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 2,
+    "title": "Single full black row (top)",
+    "tags": ["row"],
+    "input": "BBBBBBBB\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\n",
+    "expected_output": "1\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Only one row to paint.",
+    "time_complexity_trigger": "row scan"
+  },
+  {
+    "id": 3,
+    "title": "Single full black row (bottom)",
+    "tags": ["row"],
+    "input": "WWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nBBBBBBBB\n",
+    "expected_output": "1\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests last row.",
+    "time_complexity_trigger": "row scan"
+  },
+  {
+    "id": 4,
+    "title": "Single full black column (left)",
+    "tags": ["col"],
+    "input": "BWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\n",
+    "expected_output": "1\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Only one column to paint.",
+    "time_complexity_trigger": "col scan"
+  },
+  {
+    "id": 5,
+    "title": "Single full black column (right)",
+    "tags": ["col"],
+    "input": "WWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\n",
+    "expected_output": "1\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests last column.",
+    "time_complexity_trigger": "col scan"
+  },
+  {
+    "id": 6,
+    "title": "All black rows (full board)",
+    "tags": ["max"],
+    "input": "BBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Worst-case, every row painted.",
+    "time_complexity_trigger": "max scan"
+  },
+  {
+    "id": 7,
+    "title": "Diagonal blacks",
+    "tags": ["diag"],
+    "input": "BWWWWWWW\nWBWWWWWW\nWWBWWWWW\nWWWBWWWW\nWWWWBWWW\nWWWWWBWW\nWWWWWWBW\nWWWWWWWB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Each row needs a stroke.",
+    "time_complexity_trigger": "row+col overlap"
+  },
+  {
+    "id": 8,
+    "title": "Checkerboard pattern",
+    "tags": ["pattern", "adversarial"],
+    "input": "BWBWBWBW\nWBWBWBWB\nBWBWBWBW\nWBWBWBWB\nBWBWBWBW\nWBWBWBWB\nBWBWBWBW\nWBWBWBWB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Alternating cells stress overlap.",
+    "time_complexity_trigger": "overlap confusion"
+  },
+  {
+    "id": 9,
+    "title": "Cross row+col",
+    "tags": ["cross"],
+    "input": "WWBWWWWW\nWWBWWWWW\nWWBWWWWW\nBBBBBBBB\nWWBWWWWW\nWWBWWWWW\nWWBWWWWW\nWWBWWWWW\n",
+    "expected_output": "2\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Overlap of one row and one col.",
+    "time_complexity_trigger": "row+col"
+  },
+  {
+    "id": 10,
+    "title": "7 rows black, 1 row white",
+    "tags": ["edge"],
+    "input": "BBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nWWWWWWWW\n",
+    "expected_output": "7\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Almost full, leaves last row.",
+    "time_complexity_trigger": "row count"
+  },
+  {
+    "id": 11,
+    "title": "Two parallel rows",
+    "tags": ["row"],
+    "input": "BBBBBBBB\nWWWWWWWW\nBBBBBBBB\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\n",
+    "expected_output": "2\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Two disjoint black rows.",
+    "time_complexity_trigger": "multi-row"
+  },
+  {
+    "id": 12,
+    "title": "Two parallel cols",
+    "tags": ["col"],
+    "input": "BBWWWWWW\nBBWWWWWW\nBBWWWWWW\nBBWWWWWW\nBBWWWWWW\nBBWWWWWW\nBBWWWWWW\nBBWWWWWW\n",
+    "expected_output": "2\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Two disjoint black columns.",
+    "time_complexity_trigger": "multi-col"
+  },
+  {
+    "id": 13,
+    "title": "Top half black rows",
+    "tags": ["half"],
+    "input": "BBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\n",
+    "expected_output": "4\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Half the board black horizontally.",
+    "time_complexity_trigger": "half scan"
+  },
+  {
+    "id": 14,
+    "title": "Left half black cols",
+    "tags": ["half"],
+    "input": "BBBBWWWW\nBBBBWWWW\nBBBBWWWW\nBBBBWWWW\nBBBBWWWW\nBBBBWWWW\nBBBBWWWW\nBBBBWWWW\n",
+    "expected_output": "4\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Half the board black vertically.",
+    "time_complexity_trigger": "half scan"
+  },
+  {
+    "id": 15,
+    "title": "One black in each row",
+    "tags": ["sparse"],
+    "input": "BWWWWWWW\nWBWWWWWW\nWWBWWWWW\nWWW BWWW\nWWWWBWWW\nWWWWW BWW\nWWWWWWBW\nWWWWWWWB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Sparse one-per-row.",
+    "time_complexity_trigger": "row force"
+  },
+  {
+    "id": 16,
+    "title": "Top row and left column overlap",
+    "tags": ["overlap"],
+    "input": "BBBBBBBB\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\nBWWWWWWW\n",
+    "expected_output": "2\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Row+col overlapping fully.",
+    "time_complexity_trigger": "row+col overlap"
+  },
+  {
+    "id": 17,
+    "title": "Bottom row and right column overlap",
+    "tags": ["overlap"],
+    "input": "WWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nWWWWWWWB\nBBBBBBBB\n",
+    "expected_output": "2\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests bottom+right overlap.",
+    "time_complexity_trigger": "overlap edge"
+  },
+  {
+    "id": 18,
+    "title": "Four corners black",
+    "tags": ["corners"],
+    "input": "BWWWWWWB\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nBWWWWWWB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Sparse corner cells only.",
+    "time_complexity_trigger": "row+col force"
+  },
+  {
+    "id": 19,
+    "title": "X shape",
+    "tags": ["pattern"],
+    "input": "BWWWWWWB\nWBWWWWBW\nWWBWWBWW\nWWWBWBWW\nWWWBWBWW\nWWBWWBWW\nWBWWWWBW\nBWWWWWWB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "X pattern stresses row usage.",
+    "time_complexity_trigger": "row force"
+  },
+  {
+    "id": 20,
+    "title": "Dense block 4x4",
+    "tags": ["block"],
+    "input": "BBBBWWWW\nBBBBWWWW\nBBBBWWWW\nBBBBWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\n",
+    "expected_output": "4\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests dense small block.",
+    "time_complexity_trigger": "subgrid"
+  },
+  {
+    "id": 21,
+    "title": "Random scattered 10 blacks",
+    "tags": ["random"],
+    "input": "BWWWWWWW\nWWBWWWWW\nWWWWBWWW\nWWWWWWWB\nBWWWWWWW\nWWBWWWWW\nWWWWBWWW\nWWWWWWWB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "hard",
+    "why_included": "Sparse scattered blacks, worst-case row count.",
+    "time_complexity_trigger": "random"
+  },
+  {
+    "id": 22,
+    "title": "Full board except one row",
+    "tags": ["edge"],
+    "input": "BBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nBBBBBBBB\nWWWWWWWW\n",
+    "expected_output": "7\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Almost max board.",
+    "time_complexity_trigger": "row scan"
+  },
+  {
+    "id": 23,
+    "title": "Full board except one col",
+    "tags": ["edge"],
+    "input": "BBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\n",
+    "expected_output": "7\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Almost max, missing col.",
+    "time_complexity_trigger": "col scan"
+  },
+  {
+    "id": 24,
+    "title": "All rows with one white cell",
+    "tags": ["edge"],
+    "input": "BBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\nBBBBBBB W\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Forces every row.",
+    "time_complexity_trigger": "row force"
+  },
+  {
+    "id": 25,
+    "title": "All cols with one white cell",
+    "tags": ["edge"],
+    "input": "WBBBBBBB\nWBBBBBBB\nWBBBBBBB\nWBBBBBBB\nWBBBBBBB\nWBBBBBBB\nWBBBBBBB\nWBBBBBBB\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Forces every column.",
+    "time_complexity_trigger": "col force"
+  },
+  {
+    "id": 26,
+    "title": "Alternating rows",
+    "tags": ["pattern"],
+    "input": "BBBBBBBB\nWWWWWWWW\nBBBBBBBB\nWWWWWWWW\nBBBBBBBB\nWWWWWWWW\nBBBBBBBB\nWWWWWWWW\n",
+    "expected_output": "4\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Alternating pattern of rows.",
+    "time_complexity_trigger": "row scan"
+  },
+  {
+    "id": 27,
+    "title": "Alternating columns",
+    "tags": ["pattern"],
+    "input": "BWBWBWBW\nBWBWBWBW\nBWBWBWBW\nBWBWBWBW\nBWBWBWBW\nBWBWBWBW\nBWBWBWBW\nBWBWBWBW\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "medium",
+    "why_included": "Alternating col pattern.",
+    "time_complexity_trigger": "col force"
+  },
+  {
+    "id": 28,
+    "title": "Top-left quadrant black",
+    "tags": ["block"],
+    "input": "BBBBWWWW\nBBBBWWWW\nBBBBWWWW\nBBBBWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\n",
+    "expected_output": "4\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Quadrant filled.",
+    "time_complexity_trigger": "subgrid"
+  },
+  {
+    "id": 29,
+    "title": "Bottom-right quadrant black",
+    "tags": ["block"],
+    "input": "WWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWWWWW\nWWWWBBBB\nWWWWBBBB\nWWWWBBBB\nWWWWBBBB\n",
+    "expected_output": "4\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "easy",
+    "why_included": "Quadrant bottom-right.",
+    "time_complexity_trigger": "subgrid"
+  },
+  {
+    "id": 30,
+    "title": "Sparse random balanced",
+    "tags": ["random"],
+    "input": "WBWWBWWW\nBWWWWBWW\nWWBWBWWW\nWWWWBWBW\nWBWWWBWW\nBWWWBWWW\nWWBWBWWW\nWBWWWWBW\n",
+    "expected_output": "8\n",
+    "size_bytes": 81,
+    "difficulty_estimate": "hard",
+    "why_included": "Balanced random stress.",
+    "time_complexity_trigger": "random"
+  },
+  {
+    "id": "combined",
+    "title": "Combined batch file (30 cases)",
+    "tags": ["combined"],
+    "input": "30\n(then all 30 boards one after another)\n",
+    "expected_output": "(list of 30 outputs)\n",
+    "size_bytes": 4000,
+    "difficulty_estimate": "hard",
+    "why_included": "Combined batch test.",
+    "time_complexity_trigger": "batch parsing"
+  }
+],
+
   "problem_statement_link": "https://codeforces.com/problemset/problem/7/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
   "solved_count": 7664

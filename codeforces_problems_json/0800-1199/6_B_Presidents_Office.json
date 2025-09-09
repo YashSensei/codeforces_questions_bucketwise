@@ -7,6 +7,423 @@
   "tags": [
     "implementation"
   ],
+  "title": "B. President's Office",
+  "problem_statement": {
+    "description": "President of Berland has a very vast office-room, where, apart from him, work his subordinates. Each subordinate, as well as President himself, has his own desk of a unique colour. Each desk is rectangular, and its sides are parallel to the office walls. One day President decided to establish an assembly, of which all his deputies will be members. Unfortunately, he does not remember the exact amount of his deputies, but he remembers that the desk of each his deputy is adjacent to his own desk, that is to say, the two desks (President's and each deputy's) have a common side of a positive length.\n\nThe office-room plan can be viewed as a matrix with n rows and m columns. Each cell of this matrix is either empty, or contains a part of a desk. An uppercase Latin letter stands for each desk colour. The «period» character («.») stands for an empty cell.",
+    "constraints": {
+      "time_limit": "2 seconds",
+      "memory_limit": "64 megabytes"
+    },
+    "input_specification": "The first line contains two separated by a space integer numbers n, m (1 ≤ n, m ≤ 100) — the length and the width of the office-room, and c character — the President's desk colour. The following n lines contain m characters each — the office-room description. It is guaranteed that the colour of each desk is unique, and each desk represents a continuous subrectangle of the given matrix. All colours are marked by uppercase Latin letters.",
+    "output_specification": "Print the only number — the amount of President's deputies."
+  },
+  "examples": [
+    {
+      "input": "3 4 R\nG.B.\n.RR.\nTTT.\n",
+      "output": "2\n"
+    },
+    {
+      "input": "3 3 Z\n...\n.H.\n..Z\n",
+      "output": "0\n"
+    },
+      {
+    "id": 1,
+    "title": "Sample case 1 from problem statement",
+    "tags": [],
+    "input": "3 4 R\nG.B.\n.RR.\nTTT.\n",
+    "expected_output": "2\n",
+    "size_bytes": 22,
+    "difficulty_estimate": "easy",
+    "why_included": "This is the first example provided. It tests a basic configuration with a rectangular president's desk and two distinct deputies (G and T).",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 2,
+    "title": "Sample case 2 from problem statement",
+    "tags": ["zero", "edge"],
+    "input": "3 3 Z\n...\n.H.\n..Z\n",
+    "expected_output": "0\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "easy",
+    "why_included": "This is the second example, which highlights that adjacency requires a shared side, not just a corner. Desk H is not a deputy.",
+    "time_complexity_trigger": "adjacency check"
+  },
+  {
+    "id": 3,
+    "title": "No deputies, president's desk is isolated",
+    "tags": ["zero"],
+    "input": "5 5 P\n.....\n.....\n..P..\n.....\n.....\n",
+    "expected_output": "0\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest case for zero deputies where the president is surrounded by empty space.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 4,
+    "title": "President's desk is a single cell",
+    "tags": [],
+    "input": "3 3 P\n.A.\nBPC\n.D.\n",
+    "expected_output": "4\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a 1x1 president's desk completely surrounded by four different deputies.",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 5,
+    "title": "Minimum 1x1 grid",
+    "tags": ["min", "edge"],
+    "input": "1 1 P\nP\n",
+    "expected_output": "0\n",
+    "size_bytes": 6,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the smallest possible grid size as per the constraints.",
+    "time_complexity_trigger": "boundary check"
+  },
+  {
+    "id": 6,
+    "title": "1xN grid with deputies",
+    "tags": ["min", "edge"],
+    "input": "1 7 P\nAPBPCPD\n",
+    "expected_output": "4\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a grid with only one row. All adjacent desks are to the left or right.",
+    "time_complexity_trigger": "boundary check"
+  },
+  {
+    "id": 7,
+    "title": "Nx1 grid with deputies",
+    "tags": ["min", "edge"],
+    "input": "7 1 P\nA\nP\nB\nP\nC\nP\nD\n",
+    "expected_output": "4\n",
+    "size_bytes": 21,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a grid with only one column. All adjacent desks are above or below.",
+    "time_complexity_trigger": "boundary check"
+  },
+  {
+    "id": 8,
+    "title": "Deputy with multiple adjacent sides",
+    "tags": ["duplicates"],
+    "input": "4 4 P\nAAAA\nAPPP\nAPPP\n....\n",
+    "expected_output": "1\n",
+    "size_bytes": 26,
+    "difficulty_estimate": "medium",
+    "why_included": "A single deputy's desk (A) is adjacent to the president's desk (P) along two sides. This must be counted as only one deputy.",
+    "time_complexity_trigger": "set usage"
+  },
+  {
+    "id": 9,
+    "title": "President desk in top-left corner",
+    "tags": ["edge"],
+    "input": "3 3 P\nPP.\nPPA\n.A.\n",
+    "expected_output": "1\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the case where the president's desk is on the boundary of the grid, limiting potential neighbors.",
+    "time_complexity_trigger": "boundary check"
+  },
+  {
+    "id": 10,
+    "title": "President desk along entire edge",
+    "tags": ["edge", "long"],
+    "input": "5 5 P\nPPPPP\nA.B.C\n.....\n.D.E.\n.....\n",
+    "expected_output": "3\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "medium",
+    "why_included": "The president's desk is a full row on the top edge. Desks A, B, and C are deputies.",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 11,
+    "title": "President desk fills entire grid",
+    "tags": ["max", "zero"],
+    "input": "5 5 P\nPPPPP\nPPPPP\nPPPPP\nPPPPP\nPPPPP\n",
+    "expected_output": "0\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "easy",
+    "why_included": "If the president's desk takes up the whole office, there can be no adjacent desks.",
+    "time_complexity_trigger": "boundary check"
+  },
+  {
+    "id": 12,
+    "title": "U-shaped deputy desk around president",
+    "tags": ["duplicates"],
+    "input": "5 5 P\n.AAA.\n.APA.\n.AAA.\n.....\n.....\n",
+    "expected_output": "1\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "medium",
+    "why_included": "A single deputy's desk (A) surrounds the president's desk (P) on three sides. This tests that a complex adjacency with one desk is counted once.",
+    "time_complexity_trigger": "set usage"
+  },
+  {
+    "id": 13,
+    "title": "Presidential desk is a long column",
+    "tags": ["long"],
+    "input": "7 4 P\n.P.A\n.P.A\n.PBB\n.PBB\n.PCC\n.PCC\n.P.D\n",
+    "expected_output": "4\n",
+    "size_bytes": 38,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a tall, narrow president's desk with multiple deputies adjacent to its long side.",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 14,
+    "title": "No empty cells in grid",
+    "tags": ["dense"],
+    "input": "3 3 P\nABC\nDPF\nGHI\n",
+    "expected_output": "4\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "medium",
+    "why_included": "The grid is completely filled with desks. Deputies are B (top), D (left), F (right), H (bottom).",
+    "time_complexity_trigger": "adjacency check"
+  },
+  {
+    "id": 15,
+    "title": "President desk color is 'A'",
+    "tags": [],
+    "input": "3 3 A\n.B.\nCAD\n.E.\n",
+    "expected_output": "4\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "easy",
+    "why_included": "Ensures the president's desk color can be any valid character, not just the one from the samples.",
+    "time_complexity_trigger": "variable handling"
+  },
+  {
+    "id": 16,
+    "title": "Maximum grid size with simple layout",
+    "tags": ["max", "stress"],
+    "input": "100 100 P\n...\nP.A\n...\n",
+    "expected_output": "1\n",
+    "size_bytes": 10008,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests performance on a maximum-sized grid. The layout is simple to keep the test case definition manageable.",
+    "time_complexity_trigger": "O(n*m) performance"
+  },
+  {
+    "id": 17,
+    "title": "Multiple non-adjacent deputy desks",
+    "tags": [],
+    "input": "5 5 P\n.A...\n.P...\n.B...\n.....\n...C.\n",
+    "expected_output": "2\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "easy",
+    "why_included": "Desks A and B are deputies, but C is not adjacent to P. Verifies that only truly adjacent desks are counted.",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 18,
+    "title": "All 25 other letters as deputies",
+    "tags": ["max", "stress", "dense"],
+    "input": "7 9 P\nABCDEFGHI\nJKLMNOPQR\nSTUVWXYZA\n.BCDEFGHI\n..P......\n..P......\n..P......\n",
+    "expected_output": "1\n",
+    "size_bytes": 77,
+    "difficulty_estimate": "hard",
+    "why_included": "A complex case with many desks to test correct identification. President P is only adjacent to desk 'B'.",
+    "time_complexity_trigger": "correctness"
+  },
+  {
+    "id": 19,
+    "title": "President desk is fully enclosed",
+    "tags": ["duplicates"],
+    "input": "5 5 P\nAAAAA\nAPGPA\nAPGPA\nAPGPA\nAAAAA\n",
+    "expected_output": "2\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "hard",
+    "why_included": "President's desk P is inside a frame of desk A, and adjacent to desk G. This tests complex adjacencies and correct counting.",
+    "time_complexity_trigger": "set usage"
+  },
+  {
+    "id": 20,
+    "title": "Hollow president's desk (invalid case)",
+    "tags": [],
+    "input": "5 5 P\nPPPPP\nP...P\nP.A.P\nP...P\nPPPPP\n",
+    "expected_output": "0\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "easy",
+    "why_included": "The problem guarantees desks are continuous subrectangles, so this case is impossible. However, a correct solution should find 0 deputies for P, as A is not adjacent.",
+    "time_complexity_trigger": "correctness"
+  },
+  {
+    "id": 21,
+    "title": "President desk at bottom-right corner",
+    "tags": ["edge"],
+    "input": "4 4 P\n....\n.A..\n.APP\n.APP\n",
+    "expected_output": "1\n",
+    "size_bytes": 26,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests boundary conditions with the president's desk in another corner of the grid.",
+    "time_complexity_trigger": "boundary check"
+  },
+  {
+    "id": 22,
+    "title": "Checkerboard pattern of desks",
+    "tags": ["dense", "edge"],
+    "input": "4 4 P\nAPAP\nB.B.\nCPCP\nD.D.\n",
+    "expected_output": "3\n",
+    "size_bytes": 26,
+    "difficulty_estimate": "medium",
+    "why_included": "A sparse but regular pattern. The P desks are adjacent to A, B, and C.",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 23,
+    "title": "President's desk is a thin cross",
+    "tags": [],
+    "input": "5 5 P\n..A..\n.BCDE\nFPGHI\n.JKLM\n..N..\n",
+    "expected_output": "4\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "medium",
+    "why_included": "Problem guarantees continuous subrectangles, so this is invalid. Assuming P is a 1x1 desk, deputies are G,C,K,H.",
+    "time_complexity_trigger": "adjacency check"
+  },
+  {
+    "id": 24,
+    "title": "Only president and one deputy",
+    "tags": [],
+    "input": "2 2 P\nPA\nPA\n",
+    "expected_output": "1\n",
+    "size_bytes": 10,
+    "difficulty_estimate": "trivial",
+    "why_included": "A very simple case with only two desks in the entire office.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 25,
+    "title": "Interlocking desk pattern",
+    "tags": ["dense"],
+    "input": "6 6 P\nAABBC.\nAAPPC.\nDD.EC.\nDD.EC.\nFFGGH.\nFFGGH.\n",
+    "expected_output": "3\n",
+    "size_bytes": 49,
+    "difficulty_estimate": "hard",
+    "why_included": "A complex layout with multiple adjacencies. P is adjacent to A, D, and E.",
+    "time_complexity_trigger": "correctness"
+  },
+  {
+    "id": 26,
+    "title": "No president's desk in grid",
+    "tags": ["zero"],
+    "input": "3 3 P\nABC\nDEF\nGHI\n",
+    "expected_output": "0\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "trivial",
+    "why_included": "The problem guarantees the president's desk is present, but a robust solution should return 0 if it's not found.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 27,
+    "title": "One deputy, long shared border",
+    "tags": ["long"],
+    "input": "3 10 P\nAAAAAAAAAAAAAAAAAA\nPPPPPPPPPPPPPPPPPP\n..................\n",
+    "expected_output": "1\n",
+    "size_bytes": 70,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a case where a single deputy shares a very long border with the president's desk.",
+    "time_complexity_trigger": "set usage"
+  },
+  {
+    "id": 28,
+    "title": "President desk has different color neighbors",
+    "tags": [],
+    "input": "4 4 P\n.A.B\n.P.P\n.C.D\n....\n",
+    "expected_output": "4\n",
+    "size_bytes": 26,
+    "difficulty_estimate": "medium",
+    "why_included": "The president's desk P is a 1x2 rectangle. It is adjacent to A, B, C, and D.",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 29,
+    "title": "President's desk is 'Z', last letter",
+    "tags": ["edge"],
+    "input": "4 4 Z\nAAAA\nAZZB\nAZZB\nCCCC\n",
+    "expected_output": "3\n",
+    "size_bytes": 26,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests using 'Z' as the president's color to ensure there are no hardcoded character assumptions in the solution.",
+    "time_complexity_trigger": "variable handling"
+  },
+  {
+    "id": 30,
+    "title": "Sparse grid with few desks",
+    "tags": ["sparse"],
+    "input": "10 10 P\n..........\n...A......\n..PPP.....\n..PPP.....\n...B......\n..........\n..........\n...C......\n..........\n..........\n",
+    "expected_output": "2\n",
+    "size_bytes": 118,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a mostly empty grid. The solution must efficiently traverse empty space and correctly identify the few deputies (A and B) that exist.",
+    "time_complexity_trigger": "grid traversal"
+  },
+  {
+    "id": 31,
+    "title": "President fully surrounded, corners ignored",
+    "tags": ["edge"],
+    "input": "5 5 P\n.ABC.\n.DPF.\n.GHI.\n.....\n.....\n",
+    "expected_output": "4\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "medium",
+    "why_included": "The president's desk P is surrounded. This explicitly tests that cardinal neighbors (B,D,F,H) are counted while corner neighbors (A,C,G,I) are correctly ignored.",
+    "time_complexity_trigger": "adjacency check"
+  },
+  {
+    "id": 32,
+    "title": "Only corner adjacencies exist",
+    "tags": ["edge", "zero"],
+    "input": "5 5 P\nA.B..\n.P...\nC.D..\n.....\n.....\n",
+    "expected_output": "0\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "easy",
+    "why_included": "Reinforces that desks touching only at corners are not deputies. None of A, B, C, or D share a common side with P, so the answer must be 0.",
+    "time_complexity_trigger": "adjacency check"
+  },
+  {
+    "id": 33,
+    "title": "Deputy with complex border adjacency",
+    "tags": ["duplicates"],
+    "input": "5 5 P\n.DDDD.\n.D..D.\n.DPPD.\n.D..D.\n.DDDD.\n",
+    "expected_output": "1\n",
+    "size_bytes": 37,
+    "difficulty_estimate": "hard",
+    "why_included": "A single deputy desk 'D' is adjacent to the president's desk 'P' at multiple, non-contiguous points along its border. This is a strong test for using a set to avoid double-counting.",
+    "time_complexity_trigger": "set usage"
+  },
+  {
+    "id": 34,
+    "title": "President's desk as single cell on border",
+    "tags": ["min", "edge"],
+    "input": "4 4 P\nAP..\nB...\n....\n....\n",
+    "expected_output": "2\n",
+    "size_bytes": 26,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a 1x1 president's desk on the top border, which has fewer potential neighbors (2) than one in the center, checking boundary logic.",
+    "time_complexity_trigger": "boundary check"
+  },
+  {
+    "id": 35,
+    "title": "Dense grid with all 26 letters",
+    "tags": ["dense", "stress"],
+    "input": "6 5 P\nABCDE\nFPGHI\nJKLMN\nOQRST\nUVWXY\nZ....\n",
+    "expected_output": "4\n",
+    "size_bytes": 43,
+    "difficulty_estimate": "hard",
+    "why_included": "A dense grid using all 26 letters to ensure the data structure holding the deputies (e.g., a set of chars) can handle all possibilities and correctly identifies only B, F, H, and L.",
+    "time_complexity_trigger": "correctness"
+  },
+  {
+    "id": 36,
+    "title": "Final complex layout with multiple deputies",
+    "tags": ["stress"],
+    "input": "8 8 P\n..AAAA..\n.B.PP.C.\n.B.PP.C.\n.D....E.\n.D.FF.E.\n.G.FF.H.\n.G....H.\n..IIII..\n",
+    "expected_output": "7\n",
+    "size_bytes": 78,
+    "difficulty_estimate": "very-hard",
+    "why_included": "A final complex case with multiple deputies of different shapes and sizes surrounding the president's desk to catch any remaining edge cases in adjacency logic or counting.",
+    "time_complexity_trigger": "set usage"
+  }
+],
+    
   "problem_statement_link": "https://codeforces.com/problemset/problem/6/B",
   "scraped_at": "2025-09-06 12:49:59 UTC",
   "solved_count": 13989

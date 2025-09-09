@@ -7,6 +7,362 @@
   "tags": [
     "implementation"
   ],
+  "title": "A. Chat Server's Outgoing Traffic",
+  "problem_statement": {
+    "description": "Polycarp is working on a new project called \"Polychat\". Following modern tendencies in IT, he decided, that this project should contain chat as well. To achieve this goal, Polycarp has spent several hours in front of his laptop and implemented a chat server that can process three types of commands:\n\n1. Include a person to the chat ('Add' command).\n2. Remove a person from the chat ('Remove' command).\n3. Send a message from a person to all people, who are currently in the chat, including the one, who sends the message ('Send' command).\n\nNow Polycarp wants to find out the amount of outgoing traffic that the server will produce while processing a particular set of commands.\n\nPolycarp knows that chat server sends no traffic for 'Add' and 'Remove' commands. When 'Send' command is processed, server sends l bytes to each participant of the chat, where l is the length of the message.\n\nAs Polycarp has no time, he is asking for your help in solving this problem.",
+    "constraints": {
+      "time_limit": "1 second",
+      "memory_limit": "64 megabytes"
+    },
+    "input_specification": "Input file will contain not more than 100 commands, each in its own line. No line will exceed 100 characters. Formats of the commands will be the following:\n\n- `+<name>` for 'Add' command.\n- `-<name>` for 'Remove' command.\n- `<sender_name>:<message_text>` for 'Send' command.\n\n`<name>` and `<sender_name>` is a non-empty sequence of Latin letters and digits. `<message_text>` can contain letters, digits and spaces, but can't start or end with a space. `<message_text>` can be an empty line.\n\nIt is guaranteed, that input data are correct, i.e. there will be no 'Add' command if person with such a name is already in the chat, there will be no 'Remove' command if there is no person with such a name in the chat etc.\n\nAll names are case-sensitive.",
+    "output_specification": "Print a single number — answer to the problem."
+  },
+  "examples": [
+    {
+      "input": "+Mike\nMike:hello\n+Kate\n+Dmitry\n-Dmitry\nKate:hi\n-Kate\n",
+      "output": "9\n"
+    },
+    {
+      "input": "+Mike\n-Mike\n+Mike\nMike:Hi   I am here\n-Mike\n+Kate\n-Kate\n",
+      "output": "14\n"
+    },
+    
+
+  {
+    "id": 1,
+    "title": "Sample case 1 from problem statement",
+    "tags": ["edge"],
+    "input": "+Mike\nMike:hello\n+Kate\n+Dmitry\n-Dmitry\nKate:hi\n-Kate\n",
+    "expected_output": "9\n",
+    "size_bytes": 55,
+    "difficulty_estimate": "easy",
+    "why_included": "This is the first example from the problem statement. It tests a basic sequence of adding, sending, and removing users.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 2,
+    "title": "Sample case 2 from problem statement",
+    "tags": ["edge"],
+    "input": "+Mike\n-Mike\n+Mike\nMike:Hi   I am here\n-Mike\n+Kate\n-Kate\n",
+    "expected_output": "14\n",
+    "size_bytes": 59,
+    "difficulty_estimate": "easy",
+    "why_included": "This is the second example, which highlights that message length includes all characters, including multiple spaces in the middle.",
+    "time_complexity_trigger": "string parsing"
+  },
+  {
+    "id": 3,
+    "title": "No send commands, zero traffic",
+    "tags": ["zero"],
+    "input": "+Alice\n+Bob\n-Alice\n+Charles\n-Bob\n",
+    "expected_output": "0\n",
+    "size_bytes": 35,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests a sequence of commands with no 'Send' actions. The total traffic must be zero.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 4,
+    "title": "Sending with an empty message",
+    "tags": ["zero", "edge"],
+    "input": "+User1\n+User2\nUser1:\n-User2\n",
+    "expected_output": "0\n",
+    "size_bytes": 27,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a 'Send' command where the message is empty. The length is 0, so it should contribute zero traffic.",
+    "time_complexity_trigger": "string parsing"
+  },
+  {
+    "id": 5,
+    "title": "Single user sending multiple messages",
+    "tags": [],
+    "input": "+Solo\nSolo:one\nSolo:two\nSolo:three\n",
+    "expected_output": "11\n",
+    "size_bytes": 33,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a scenario with only one user in the chat. Each message's traffic is simply its length.",
+    "time_complexity_trigger": "basic logic"
+  },
+
+  {
+    "id": 6,
+    "title": "Case-sensitive user names",
+    "tags": ["edge"],
+    "input": "+user\n+User\nuser:hello\nUser:world\n",
+    "expected_output": "20\n",
+    "size_bytes": 35,
+    "difficulty_estimate": "easy",
+    "why_included": "Verifies that user names are treated as case-sensitive. 'user' and 'User' are two distinct participants.",
+    "time_complexity_trigger": "map/set correctness"
+  },
+  {
+    "id": 7,
+    "title": "User names with digits",
+    "tags": [],
+    "input": "+Player1\n+CPU2\nPlayer1:gg\nCPU2:wp\n-Player1\n",
+    "expected_output": "8\n",
+    "size_bytes": 41,
+    "difficulty_estimate": "easy",
+    "why_included": "Ensures that names containing digits are handled correctly as per the problem specification.",
+    "time_complexity_trigger": "string parsing"
+  },
+  {
+    "id": 8,
+    "title": "Send message then remove sender",
+    "tags": [],
+    "input": "+A\n+B\nA:msg1\n-A\nB:msg2\n",
+    "expected_output": "10\n",
+    "size_bytes": 24,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests the case where a user sends a message and is then removed. The traffic from the first message should be calculated based on the user count at that time.",
+    "time_complexity_trigger": "state management"
+  },
+  {
+    "id": 9,
+    "title": "All users leave then new users join",
+    "tags": [],
+    "input": "+A\n+B\nA:hi\n-A\n-B\n+C\nC:new\n",
+    "expected_output": "7\n",
+    "size_bytes": 27,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests that the user count can go down to zero and then back up, and traffic is calculated correctly for the new set of users.",
+    "time_complexity_trigger": "state management"
+  },
+  {
+    "id": 10,
+    "title": "Maximum number of users",
+    "tags": ["max", "stress"],
+    "input": "+u1\n+u2\n+u3\n+u4\n+u5\n+u6\n+u7\n+u8\n+u9\n+u10\nu1:hi\n",
+    "expected_output": "20\n",
+    "size_bytes": 45,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a chat with a larger number of participants to ensure the user count is maintained correctly.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 11,
+    "title": "Long name and long message",
+    "tags": ["long"],
+    "input": "+longusername123\nlongusername123:this is a very long message text\n",
+    "expected_output": "34\n",
+    "size_bytes": 63,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests parsing of lines that are close to the 100-character limit.",
+    "time_complexity_trigger": "string parsing"
+  },
+  {
+    "id": 12,
+    "title": "Message containing a colon character",
+    "tags": ["edge"],
+    "input": "+user\nuser:key:value\n",
+    "expected_output": "9\n",
+    "size_bytes": 20,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests if the parser correctly handles messages that contain the ':' delimiter. Only the first colon should be treated as a delimiter.",
+    "time_complexity_trigger": "string parsing"
+  },
+  {
+    "id": 13,
+    "title": "Rapid succession of add and remove",
+    "tags": [],
+    "input": "+A\n-A\n+A\n-A\n+B\n+C\nB:hello\n",
+    "expected_output": "10\n",
+    "size_bytes": 28,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests that adding and removing the same user multiple times is handled correctly and doesn't corrupt the state of the chat.",
+    "time_complexity_trigger": "state management"
+  },
+  {
+    "id": 14,
+    "title": "Build up and tear down sequence",
+    "tags": [],
+    "input": "+A\n+B\n+C\nB:msg1\n-A\nC:msg2\n-B\n+D\nD:msg3\n",
+    "expected_output": "28\n",
+    "size_bytes": 39,
+    "difficulty_estimate": "medium",
+    "why_included": "A complex sequence of adds, removes, and sends to test the robustness of the state tracking.",
+    "time_complexity_trigger": "state management"
+  },
+  {
+    "id": 15,
+    "title": "Maximum number of commands",
+    "tags": ["max", "stress"],
+    "input": "+u1\n-u1\n+u2\n-u2\n+u3\n-u3\n+u4\n-u4\n+u5\n-u5\n+u6\n-u6\n+u7\n-u7\n+u8\n-u8\n+u9\n-u9\n+u10\n-u10\n+u11\n-u11\n+u12\n-u12\n+u13\n-u13\n+u14\n-u14\n+u15\n-u15\n+u16\n-u16\n+u17\n-u17\n+u18\n-u18\n+u19\n-u19\n+u20\n-u20\n+u21\n-u21\n+u22\n-u22\n+u23\n-u23\n+u24\n-u24\n+u25\n-u25\n+u26\n-u26\n+u27\n-u27\n+u28\n-u28\n+u29\n-u29\n+u30\n-u30\n+u31\n-u31\n+u32\n-u32\n+u33\n-u33\n+u34\n-u34\n+u35\n-u35\n+u36\n-u36\n+u37\n-u37\n+u38\n-u38\n+u39\n-u39\n+u40\n-u40\n+u41\n-u41\n+u42\n-u42\n+u43\n-u43\n+u44\n-u44\n+u45\n-u45\n+u46\n-u46\n+u47\n-u47\n+u48\n-u48\n+u49\n-u49\n+u50\n-u50\n",
+    "expected_output": "0\n",
+    "size_bytes": 450,
+    "difficulty_estimate": "easy",
+    "why_included": "A stress test with 100 commands, the maximum allowed. No messages are sent, so the output should be 0.",
+    "time_complexity_trigger": "input processing"
+  },
+  {
+    "id": 16,
+    "title": "Max commands with increasing traffic",
+    "tags": ["max", "stress"],
+    "input": "+u1\nu1:a\n+u2\nu2:a\n+u3\nu3:a\n+u4\nu4:a\n+u5\nu5:a\n+u6\nu6:a\n+u7\nu7:a\n+u8\nu8:a\n+u9\nu9:a\n+u10\nu10:a\n",
+    "expected_output": "55\n",
+    "size_bytes": 80,
+    "difficulty_estimate": "hard",
+    "why_included": "Tests a sequence where the number of users, and thus the traffic multiplier, increases with each message. The total is the sum 1+2+3+...+10.",
+    "time_complexity_trigger": "cumulative calculation"
+  },
+  {
+    "id": 17,
+    "title": "Add many users then all send",
+    "tags": ["stress"],
+    "input": "+A\n+B\n+C\n+D\nA:m\nB:m\nC:m\nD:m\n",
+    "expected_output": "16\n",
+    "size_bytes": 28,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a scenario where the chat populates fully before any messages are sent. The traffic for each message is high.",
+    "time_complexity_trigger": "state management"
+  },
+  {
+    "id": 18,
+    "title": "Message with only one character",
+    "tags": ["short"],
+    "input": "+First\n+Second\nFirst:1\n",
+    "expected_output": "2\n",
+    "size_bytes": 22,
+    "difficulty_estimate": "trivial",
+    "why_included": "A minimal case for a 'Send' command with the shortest possible non-empty message.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 19,
+    "title": "Minimal commands to generate traffic",
+    "tags": ["min"],
+    "input": "+a\na:b\n",
+    "expected_output": "1\n",
+    "size_bytes": 7,
+    "difficulty_estimate": "trivial",
+    "why_included": "The absolute simplest case that generates non-zero traffic: one user joins and sends a one-character message.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 20,
+    "title": "Chat ends with zero participants",
+    "tags": ["zero"],
+    "input": "+u1\n+u2\nu1:one\n-u1\nu2:two\n-u2\n",
+    "expected_output": "9\n",
+    "size_bytes": 31,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a full lifecycle of a chat where all users eventually leave. The final state is empty.",
+    "time_complexity_trigger": "state management"
+  },
+  {
+    "id": 21,
+    "title": "Alternating senders with stable user count",
+    "tags": [],
+    "input": "+User1\n+User2\n+User3\nUser1:a\nUser2:b\nUser3:c\nUser1:d\n",
+    "expected_output": "12\n",
+    "size_bytes": 48,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests multiple sends while the number of participants is constant. The traffic per message is predictable.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 22,
+    "title": "One sender, many joiners, one message",
+    "tags": [],
+    "input": "+A\n+B\n+C\n+D\n+E\nA:hello\n",
+    "expected_output": "25\n",
+    "size_bytes": 24,
+    "difficulty_estimate": "easy",
+    "why_included": "This case checks the traffic calculation after a block of users have joined.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 23,
+    "title": "All users have numeric names",
+    "tags": [],
+    "input": "+1\n+2\n+3\n1:A\n2:B\n3:C\n",
+    "expected_output": "9\n",
+    "size_bytes": 18,
+    "difficulty_estimate": "easy",
+    "why_included": "Checks if the parser correctly handles usernames that consist only of digits.",
+    "time_complexity_trigger": "string parsing"
+  },
+  {
+    "id": 24,
+    "title": "Usernames are substrings of each other",
+    "tags": ["edge"],
+    "input": "+Ann\n+Anna\nAnn:x\nAnna:y\n",
+    "expected_output": "4\n",
+    "size_bytes": 24,
+    "difficulty_estimate": "medium",
+    "why_included": "This case tests if the logic correctly distinguishes between users whose names are substrings of one another.",
+    "time_complexity_trigger": "map/set correctness"
+  },
+  {
+    "id": 25,
+    "title": "Send empty messages from different users",
+    "tags": ["zero"],
+    "input": "+A\n+B\nA:\n-A\nB:\n",
+    "expected_output": "0\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "easy",
+    "why_included": "Ensures that multiple empty messages from different users all correctly contribute zero traffic.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 26,
+    "title": "Final user sends a message",
+    "tags": [],
+    "input": "+a\n+b\n+c\na:1\n-a\nb:2\n-b\nc:3\n",
+    "expected_output": "8\n",
+    "size_bytes": 22,
+    "difficulty_estimate": "medium",
+    "why_included": "A countdown scenario where users send a message and then leave one by one.",
+    "time_complexity_trigger": "state management"
+  },
+  {
+    "id": 27,
+    "title": "Long mixed-case names",
+    "tags": ["long"],
+    "input": "+AlphaBravo\n+CharlieDelta\nAlphaBravo:Go\n",
+    "expected_output": "4\n",
+    "size_bytes": 41,
+    "difficulty_estimate": "easy",
+    "why_included": "Verifies handling of longer, mixed-case names, which are common in practice.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 28,
+    "title": "No messages sent at all",
+    "tags": ["zero", "min"],
+    "input": "+onlyAdds\n-onlyAdds\n",
+    "expected_output": "0\n",
+    "size_bytes": 21,
+    "difficulty_estimate": "trivial",
+    "why_included": "A very simple case with no messages sent, which must result in zero traffic.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 29,
+    "title": "Messages with numbers and spaces",
+    "tags": [],
+    "input": "+ HAL9000\n HAL9000:I am putting myself to the fullest possible use\n",
+    "expected_output": "43\n",
+    "size_bytes": 63,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a message containing a mix of letters, numbers, and spaces, as described in the problem.",
+    "time_complexity_trigger": "string parsing"
+  },
+  {
+    "id": 30,
+    "title": "Single letter usernames",
+    "tags": ["short"],
+    "input": "+a\n+b\n+c\n+d\n+e\na:1\nb:2\nc:3\nd:4\ne:5\n",
+    "expected_output": "25\n",
+    "size_bytes": 30,
+    "difficulty_estimate": "easy",
+    "why_included": "Uses very short usernames, which are valid and should be handled correctly.",
+    "time_complexity_trigger": "basic logic"
+  }
+],
+
+
+  
   "problem_statement_link": "https://codeforces.com/problemset/problem/5/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
   "solved_count": 10363

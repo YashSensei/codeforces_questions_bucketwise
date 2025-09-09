@@ -8,6 +8,421 @@
     "brute force",
     "math"
   ],
+  
+  "title": "A. Watermelon",
+  "problem_statement": {
+    "description": "One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.\n\nPete and Billy are great fans of even numbers, that's why they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal. The boys are extremely tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the watermelon in the way they want. For sure, each of them should get a part of positive weight.",
+    "constraints": {
+      "time_limit": "1 second",
+      "memory_limit": "64 megabytes"
+    },
+    "input_specification": "The first (and the only) input line contains integer number w (1 ≤ w ≤ 100) — the weight of the watermelon bought by the boys.",
+    "output_specification": "Print YES, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and NO in the opposite case."
+  },
+  "examples": [
+    {
+      "input": "8\n",
+      "output": "YES\n",
+      "note": "For example, the boys can divide the watermelon into two parts of 2 and 6 kilos respectively (another variant — two parts of 4 and 4 kilos)."
+    },
+    
+  {
+    "id": 1,
+    "title": "Sample case from problem statement",
+    "tags": [],
+    "input": "8\n",
+    "expected_output": "YES\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "trivial",
+    "why_included": "This is the example provided in the problem statement to verify basic understanding and a standard 'YES' case.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 2,
+    "title": "Minimum input value",
+    "tags": ["min", "edge"],
+    "input": "1\n",
+    "expected_output": "NO\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the smallest possible input (w=1) according to the constraints. It's odd, so it must be 'NO'.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 3,
+    "title": "Critical edge case with weight 2",
+    "tags": ["edge", "adversarial"],
+    "input": "2\n",
+    "expected_output": "NO\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "easy",
+    "why_included": "This is the most important edge case. While 2 is even, it cannot be split into two positive even integers (only 1+1).",
+    "time_complexity_trigger": "edge case logic"
+  },
+  {
+    "id": 4,
+    "title": "Smallest possible 'YES' case",
+    "tags": ["edge"],
+    "input": "4\n",
+    "expected_output": "YES\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the smallest weight (w=4) that can be split into two positive even integers (2+2).",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 5,
+    "title": "Maximum input value",
+    "tags": ["max"],
+    "input": "100\n",
+    "expected_output": "YES\n",
+    "size_bytes": 4,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the largest possible input (w=100) according to constraints. It is an even number greater than 2.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 6,
+    "title": "Maximum odd input value",
+    "tags": ["max", "edge"],
+    "input": "99\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the largest odd number within the constraints. Any odd number should result in 'NO'.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 7,
+    "title": "Smallest odd number greater than 1",
+    "tags": ["edge"],
+    "input": "3\n",
+    "expected_output": "NO\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a small odd number to confirm the parity check logic.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 8,
+    "title": "Small even number greater than 4",
+    "tags": [],
+    "input": "6\n",
+    "expected_output": "YES\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "trivial",
+    "why_included": "A standard 'YES' case (can be split into 2+4) that is not a power of two.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 9,
+    "title": "Small odd prime number",
+    "tags": ["prime"],
+    "input": "5\n",
+    "expected_output": "NO\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests a prime number. The core logic is about parity, not primality, but this case helps eliminate incorrect assumptions.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 10,
+    "title": "A larger odd prime number",
+    "tags": ["prime"],
+    "input": "97\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Another test with a prime number to reinforce that the logic depends solely on parity.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 11,
+    "title": "A large even number near max",
+    "tags": ["max"],
+    "input": "98\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests a large even number close to the maximum constraint.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 12,
+    "title": "An even number divisible by 4",
+    "tags": [],
+    "input": "12\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A standard 'YES' case.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 13,
+    "title": "An even number not divisible by 4",
+    "tags": [],
+    "input": "10\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests an even number not divisible by 4 (e.g., 2+8, 4+6), confirming that divisibility by 4 is not required.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 14,
+    "title": "Mid-range even number",
+    "tags": [],
+    "input": "50\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests an even number in the middle of the allowed range.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 15,
+    "title": "Mid-range odd number",
+    "tags": [],
+    "input": "51\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests an odd number in the middle of the allowed range.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 16,
+    "title": "Another small odd number",
+    "tags": [],
+    "input": "7\n",
+    "expected_output": "NO\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "trivial",
+    "why_included": "Ensures the simple parity check logic holds.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 17,
+    "title": "Odd composite number",
+    "tags": ["composite"],
+    "input": "9\n",
+    "expected_output": "NO\n",
+    "size_bytes": 2,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests an odd composite number, confirming that primality is irrelevant.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 18,
+    "title": "Random even number 1",
+    "tags": [],
+    "input": "24\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected even number to verify the solution's general correctness.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 19,
+    "title": "Random odd number 1",
+    "tags": [],
+    "input": "25\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected odd number to verify the solution's general correctness.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 20,
+    "title": "Random even number 2",
+    "tags": [],
+    "input": "38\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected even number to verify the solution's general correctness.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 21,
+    "title": "Random odd number 2",
+    "tags": [],
+    "input": "39\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected odd number to verify the solution's general correctness.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 22,
+    "title": "Random even number 3",
+    "tags": [],
+    "input": "72\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected even number to verify the solution's general correctness.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 23,
+    "title": "Random odd number 3",
+    "tags": [],
+    "input": "73\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected odd number to verify the solution's general correctness.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 24,
+    "title": "Random even number 4",
+    "tags": [],
+    "input": "88\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected even number to verify the solution's general correctness.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 25,
+    "title": "Random odd number 4",
+    "tags": [],
+    "input": "89\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected odd number to verify the solution's general correctness.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 26,
+    "title": "Weight 14",
+    "tags": [],
+    "input": "14\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Test case for a small even number.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 27,
+    "title": "Weight 15",
+    "tags": ["composite"],
+    "input": "15\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "Test case for a small odd composite number.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 28,
+    "title": "Weight 16",
+    "tags": [],
+    "input": "16\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A power of two, which is a standard 'YES' case.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 29,
+    "title": "Weight 31",
+    "tags": ["prime"],
+    "input": "31\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "An odd prime number.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 30,
+    "title": "Weight 32",
+    "tags": [],
+    "input": "32\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A power of two, which is a standard 'YES' case.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 31,
+    "title": "Weight 46",
+    "tags": [],
+    "input": "46\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected even number.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 32,
+    "title": "Weight 57",
+    "tags": ["composite"],
+    "input": "57\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A randomly selected odd number.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 33,
+    "title": "Weight 64",
+    "tags": [],
+    "input": "64\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A power of two, which is a standard 'YES' case.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 34,
+    "title": "Weight 81",
+    "tags": ["composite"],
+    "input": "81\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A square of an odd number.",
+    "time_complexity_trigger": "parity check"
+  },
+  {
+    "id": 35,
+    "title": "Weight 90",
+    "tags": [],
+    "input": "90\n",
+    "expected_output": "YES\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A large even number ending in zero.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 36,
+    "title": "Weight 95",
+    "tags": [],
+    "input": "95\n",
+    "expected_output": "NO\n",
+    "size_bytes": 3,
+    "difficulty_estimate": "trivial",
+    "why_included": "A large odd number ending in five.",
+    "time_complexity_trigger": "parity check"
+  }
+],
   "problem_statement_link": "https://codeforces.com/problemset/problem/4/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
   "solved_count": 614520

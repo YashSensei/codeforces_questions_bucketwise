@@ -8,6 +8,425 @@
     "greedy",
     "shortest paths"
   ],
+  
+  "title": "A. Shortest path of the king",
+  "problem_statement": {
+    "description": "The king is left alone on the chessboard. In spite of this loneliness, he doesn't lose heart, because he has business of national importance. For example, he has to pay an official visit to square t. As the king is not in habit of wasting his time, he wants to get from his current position s to square t in the least number of moves. Help him to do this.\n\nIn one move the king can get to the square that has a common side or a common vertex with the square the king is currently in (generally there are 8 different squares he can move to).",
+    "constraints": {
+      "time_limit": "1 second",
+      "memory_limit": "64 megabytes"
+    },
+    "input_specification": "The first line contains the chessboard coordinates of square s, the second line — of square t.\n\nChessboard coordinates consist of two characters, the first one is a lowercase Latin letter (from a to h), the second one is a digit from 1 to 8.",
+    "output_specification": "In the first line print n — minimum number of the king's moves. Then in n lines print the moves themselves. Each move is described with one of the 8: L, R, U, D, LU, LD, RU or RD.\n\nL, R, U, D stand respectively for moves left, right, up and down (according to the picture), and 2-letter combinations stand for diagonal moves. If the answer is not unique, print any of them."
+  },
+  "examples": [
+    {
+      "input": "a8\nh1\n",
+      "output": "7\nRD\nRD\nRD\nRD\nRD\nRD\nRD\n"
+    },
+  
+  
+  {
+    "id": 1,
+    "title": "Sample case from problem statement",
+    "tags": ["max", "diagonal"],
+    "input": "a8\nh1\n",
+    "expected_output": "7\nRD\nRD\nRD\nRD\nRD\nRD\nRD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "This is the example provided in the problem statement, testing a purely diagonal maximum-length path from one corner to another.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 2,
+    "title": "Start and end at same square",
+    "tags": ["min", "edge"],
+    "input": "e4\ne4\n",
+    "expected_output": "0\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the trivial base case where no moves are needed, which requires printing 0 and nothing else.",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 3,
+    "title": "Maximum distance corner to corner (a1 to h8)",
+    "tags": ["max", "diagonal"],
+    "input": "a1\nh8\n",
+    "expected_output": "7\nRU\nRU\nRU\nRU\nRU\nRU\nRU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the maximum possible number of moves (7) on a purely diagonal path from one corner to the opposite.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 4,
+    "title": "Maximum distance corner to corner (h1 to a8)",
+    "tags": ["max", "diagonal"],
+    "input": "h1\na8\n",
+    "expected_output": "7\nLU\nLU\nLU\nLU\nLU\nLU\nLU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the maximum possible number of moves (7) on a purely diagonal path, covering a different major diagonal.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 5,
+    "title": "Maximum distance corner to corner (h8 to a1)",
+    "tags": ["max", "diagonal"],
+    "input": "h8\na1\n",
+    "expected_output": "7\nLD\nLD\nLD\nLD\nLD\nLD\nLD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the maximum possible number of moves (7) on a purely diagonal path, covering the fourth corner-to-corner path.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 6,
+    "title": "Purely horizontal move right across board",
+    "tags": ["long"],
+    "input": "a1\nh1\n",
+    "expected_output": "7\nR\nR\nR\nR\nR\nR\nR\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path with only horizontal moves, spanning the maximum possible horizontal distance.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 7,
+    "title": "Purely horizontal move left",
+    "tags": ["long"],
+    "input": "h3\nb3\n",
+    "expected_output": "6\nL\nL\nL\nL\nL\nL\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a long path with only horizontal moves to the left.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 8,
+    "title": "Purely vertical move up across board",
+    "tags": ["long"],
+    "input": "a1\na8\n",
+    "expected_output": "7\nU\nU\nU\nU\nU\nU\nU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path with only vertical moves, spanning the maximum possible vertical distance.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 9,
+    "title": "Purely vertical move down",
+    "tags": ["long"],
+    "input": "f8\nf1\n",
+    "expected_output": "7\nD\nD\nD\nD\nD\nD\nD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a long path with only vertical moves downward.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 10,
+    "title": "Purely diagonal move (RU)",
+    "tags": ["diagonal"],
+    "input": "b2\ng7\n",
+    "expected_output": "5\nRU\nRU\nRU\nRU\nRU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "A standard case with only diagonal moves that doesn't start or end in a corner.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 11,
+    "title": "Purely diagonal move (LD)",
+    "tags": ["diagonal"],
+    "input": "g7\nb2\n",
+    "expected_output": "5\nLD\nLD\nLD\nLD\nLD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "A symmetric case to the previous one, ensuring correct handling of inverse paths.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 12,
+    "title": "Purely diagonal move (RD)",
+    "tags": ["diagonal"],
+    "input": "c8\nh3\n",
+    "expected_output": "5\nRD\nRD\nRD\nRD\nRD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "A standard case with only diagonal moves along the other diagonal direction.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 13,
+    "title": "Purely diagonal move (LU)",
+    "tags": ["diagonal"],
+    "input": "f2\na7\n",
+    "expected_output": "5\nLU\nLU\nLU\nLU\nLU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "A symmetric case to the previous one, ensuring correct handling of the fourth diagonal direction.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 14,
+    "title": "Mixed moves with vertical bias (Up-Right)",
+    "tags": [],
+    "input": "b2\nd7\n",
+    "expected_output": "5\nRU\nRU\nU\nU\nU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, with more vertical than horizontal distance.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 15,
+    "title": "Mixed moves with vertical bias (Down-Right)",
+    "tags": [],
+    "input": "b7\nd2\n",
+    "expected_output": "5\nRD\nRD\nD\nD\nD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, covering the Down-Right quadrant.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  
+  {
+    "id": 16,
+    "title": "Mixed moves with vertical bias (Up-Left)",
+    "tags": [],
+    "input": "g2\ne7\n",
+    "expected_output": "5\nLU\nLU\nU\nU\nU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, covering the Up-Left quadrant with a vertical bias.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 17,
+    "title": "Mixed moves with vertical bias (Down-Left)",
+    "tags": [],
+    "input": "g7\ne2\n",
+    "expected_output": "5\nLD\nLD\nD\nD\nD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, covering the Down-Left quadrant with a vertical bias.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 18,
+    "title": "Mixed moves with horizontal bias (Right-Up)",
+    "tags": [],
+    "input": "b2\ng4\n",
+    "expected_output": "5\nRU\nRU\nR\nR\nR\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, with more horizontal than vertical distance.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 19,
+    "title": "Mixed moves with horizontal bias (Right-Down)",
+    "tags": [],
+    "input": "b7\ng5\n",
+    "expected_output": "5\nRD\nRD\nR\nR\nR\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, covering the Right-Down quadrant with a horizontal bias.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 20,
+    "title": "Mixed moves with horizontal bias (Left-Up)",
+    "tags": [],
+    "input": "g2\nb4\n",
+    "expected_output": "5\nLU\nLU\nL\nL\nL\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, covering the Left-Up quadrant with a horizontal bias.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 21,
+    "title": "Mixed moves with horizontal bias (Left-Down)",
+    "tags": [],
+    "input": "g7\nb5\n",
+    "expected_output": "5\nLD\nLD\nL\nL\nL\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path requiring both diagonal and straight moves, covering the Left-Down quadrant with a horizontal bias.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 22,
+    "title": "Single adjacent move Up",
+    "tags": ["min", "edge"],
+    "input": "e4\ne5\n",
+    "expected_output": "1\nU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to an adjacent square (Up).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 23,
+    "title": "Single adjacent move Down",
+    "tags": ["min", "edge"],
+    "input": "e4\ne3\n",
+    "expected_output": "1\nD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to an adjacent square (Down).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 24,
+    "title": "Single adjacent move Left",
+    "tags": ["min", "edge"],
+    "input": "e4\nd4\n",
+    "expected_output": "1\nL\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to an adjacent square (Left).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 25,
+    "title": "Single adjacent move Right",
+    "tags": ["min", "edge"],
+    "input": "e4\nf4\n",
+    "expected_output": "1\nR\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to an adjacent square (Right).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 26,
+    "title": "Single diagonal move Up-Right",
+    "tags": ["min", "edge", "diagonal"],
+    "input": "e4\nf5\n",
+    "expected_output": "1\nRU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to a diagonal square (Up-Right).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 27,
+    "title": "Single diagonal move Up-Left",
+    "tags": ["min", "edge", "diagonal"],
+    "input": "e4\nd5\n",
+    "expected_output": "1\nLU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to a diagonal square (Up-Left).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 28,
+    "title": "Single diagonal move Down-Right",
+    "tags": ["min", "edge", "diagonal"],
+    "input": "e4\nf3\n",
+    "expected_output": "1\nRD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to a diagonal square (Down-Right).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 29,
+    "title": "Single diagonal move Down-Left",
+    "tags": ["min", "edge", "diagonal"],
+    "input": "e4\nd3\n",
+    "expected_output": "1\nLD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the simplest possible move case: a single step to a diagonal square (Down-Left).",
+    "time_complexity_trigger": "base case"
+  },
+  {
+    "id": 30,
+    "title": "Start at bottom-left corner a1",
+    "tags": ["edge"],
+    "input": "a1\nd5\n",
+    "expected_output": "4\nRU\nRU\nRU\nU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests path generation starting from a corner square (a1) to ensure no boundary issues.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 31,
+    "title": "Start at top-right corner h8",
+    "tags": ["edge"],
+    "input": "h8\nc4\n",
+    "expected_output": "5\nLD\nLD\nLD\nLD\nL\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests path generation starting from a corner square (h8) to ensure no boundary issues.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 32,
+    "title": "End at bottom-right corner h1",
+    "tags": ["edge"],
+    "input": "c7\nh1\n",
+    "expected_output": "6\nRD\nRD\nRD\nRD\nRD\nD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests path generation ending at a corner square (h1) to ensure no boundary issues.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 33,
+    "title": "End at top-left corner a8",
+    "tags": ["edge"],
+    "input": "f3\na8\n",
+    "expected_output": "5\nLU\nLU\nLU\nLU\nLU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests path generation ending at a corner square (a8) to ensure no boundary issues.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 34,
+    "title": "Knight-like move path",
+    "tags": [],
+    "input": "c2\nd4\n",
+    "expected_output": "2\nRU\nU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a short, mixed-move path similar to a knight's move, ensuring correct logic for small distances.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 35,
+    "title": "Maximum distance mixed-move path",
+    "tags": ["max"],
+    "input": "a1\ng8\n",
+    "expected_output": "7\nRU\nRU\nRU\nRU\nRU\nRU\nU\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a path that covers the maximum number of moves (7) but is not purely diagonal, requiring a mix of diagonal and straight moves.",
+    "time_complexity_trigger": "greedy path logic"
+  },
+  {
+    "id": 36,
+    "title": "Another maximum distance mixed-move path",
+    "tags": ["max"],
+    "input": "b8\nh1\n",
+    "expected_output": "7\nRD\nRD\nRD\nRD\nRD\nRD\nD\n",
+    "size_bytes": 5,
+    "difficulty_estimate": "easy",
+    "why_included": "Another test of a 7-move path that is not purely diagonal, checking a different combination of moves.",
+    "time_complexity_trigger": "greedy path logic"
+  }
+],
+
+
+
   "problem_statement_link": "https://codeforces.com/problemset/problem/3/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
   "solved_count": 20680

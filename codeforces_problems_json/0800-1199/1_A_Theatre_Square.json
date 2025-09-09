@@ -6,7 +6,414 @@
   "rating": 1000,
   "tags": [
     "math"
-  ],
+  ], 
+  
+  "title": "A. Theatre Square",
+  "problem_statement": {
+    "description": "Theatre Square in the capital city of Berland has a rectangular shape with the size n × m meters. On the occasion of the city's anniversary, a decision was taken to pave the Square with square granite flagstones. Each flagstone is of the size a × a.\n\nWhat is the least number of flagstones needed to pave the Square? It's allowed to cover the surface larger than the Theatre Square, but the Square has to be covered. It's not allowed to break the flagstones. The sides of flagstones should be parallel to the sides of the Square.",
+    "constraints": {
+      "time_limit": "1 second",
+      "memory_limit": "256 megabytes"
+    },
+    "input_specification": "The input contains three positive integer numbers in the first line: n, m and a (1 ≤ n, m, a ≤ 10^9).",
+    "output_specification": "Write the needed number of flagstones."
+  },
+  "examples": [
+    {
+      "input": "6 6 4",
+      "output": "4"
+    },
+  
+  
+  
+  {
+    "id": 1,
+    "title": "Sample case from problem statement",
+    "tags": ["edge"],
+    "input": "6 6 4\n",
+    "expected_output": "4\n",
+    "size_bytes": 6,
+    "difficulty_estimate": "trivial",
+    "why_included": "This is the example provided in the problem statement to verify basic understanding of the ceiling division required.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 2,
+    "title": "Minimum possible values for n, m, and a",
+    "tags": ["min"],
+    "input": "1 1 1\n",
+    "expected_output": "1\n",
+    "size_bytes": 6,
+    "difficulty_estimate": "trivial",
+    "why_included": "Tests the smallest possible inputs according to the constraints (1, 1, 1) to check base cases.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 3,
+    "title": "Perfect fit with standard values",
+    "tags": [],
+    "input": "100 200 10\n",
+    "expected_output": "200\n",
+    "size_bytes": 11,
+    "difficulty_estimate": "easy",
+    "why_included": "A standard case where flagstones fit perfectly (n and m are multiples of a) without needing to cover extra area.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 4,
+    "title": "Single flagstone covers the whole area",
+    "tags": ["edge"],
+    "input": "5 5 10\n",
+    "expected_output": "1\n",
+    "size_bytes": 7,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the case where n and m are both smaller than a, requiring only one flagstone.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 5,
+    "title": "One dimension exact, one needs extra",
+    "tags": ["edge"],
+    "input": "10 11 5\n",
+    "expected_output": "6\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a mix of perfect fit and non-perfect fit dimensions (n%a==0, m%a!=0) to test ceiling logic.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 6,
+    "title": "Both dimensions need extra coverage",
+    "tags": [],
+    "input": "11 11 5\n",
+    "expected_output": "9\n",
+    "size_bytes": 8,
+    "difficulty_estimate": "easy",
+    "why_included": "Standard case where both n and m are not multiples of a, requiring ceiling division on both dimensions.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 7,
+    "title": "Maximum n and m, large a with perfect fit",
+    "tags": ["max"],
+    "input": "1000000000 1000000000 500000000\n",
+    "expected_output": "4\n",
+    "size_bytes": 32,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests large numbers at the constraint limit where they divide perfectly, checking for potential intermediate overflows in naive calculations.",
+    "time_complexity_trigger": "64-bit integer overflow"
+  },
+  {
+    "id": 8,
+    "title": "Maximum n and m, large a requiring extra coverage",
+    "tags": ["max", "adversarial"],
+    "input": "1000000000 1000000000 499999999\n",
+    "expected_output": "9\n",
+    "size_bytes": 32,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests ceiling division with large numbers close to the constraint limits, ensuring 64-bit types are used for intermediate calculations.",
+    "time_complexity_trigger": "64-bit integer overflow"
+  },
+  {
+    "id": 9,
+    "title": "Maximum possible output stress test",
+    "tags": ["max", "overflow", "stress"],
+    "input": "1000000000 1000000000 1\n",
+    "expected_output": "1000000000000000000\n",
+    "size_bytes": 24,
+    "difficulty_estimate": "hard",
+    "why_included": "This case generates the largest possible answer (10^18), which will cause overflow in standard 32-bit integer types and requires a 64-bit integer type.",
+    "time_complexity_trigger": "64-bit integer overflow"
+  },
+  {
+    "id": 10,
+    "title": "Maximum values for all parameters",
+    "tags": ["max"],
+    "input": "1000000000 1000000000 1000000000\n",
+    "expected_output": "1\n",
+    "size_bytes": 33,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the case where n, m, and a are all at their maximum allowed value, resulting in a simple calculation.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 11,
+    "title": "Large n and m, even larger a",
+    "tags": ["max"],
+    "input": "999999999 999999999 1000000000\n",
+    "expected_output": "1\n",
+    "size_bytes": 32,
+    "difficulty_estimate": "easy",
+    "why_included": "Verifies correct handling when the flagstone is larger than the square dimensions, even when using max-limit values.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 12,
+    "title": "Boundary case n perfect, m is k*a - 1",
+    "tags": ["max", "edge"],
+    "input": "1000000000 999999999 500000000\n",
+    "expected_output": "4\n",
+    "size_bytes": 32,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests a boundary condition with large numbers where one dimension fits perfectly and the other is just short of a perfect fit.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 13,
+    "title": "One very long and narrow strip",
+    "tags": ["max", "min", "long"],
+    "input": "1000000000 1 1\n",
+    "expected_output": "1000000000\n",
+    "size_bytes": 14,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests an extreme aspect ratio for the square. The result fits in a 32-bit signed integer but tests logic with extreme dimensions.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 14,
+    "title": "The other very long and narrow strip",
+    "tags": ["max", "min", "long"],
+    "input": "1 1000000000 1\n",
+    "expected_output": "1000000000\n",
+    "size_bytes": 14,
+    "difficulty_estimate": "easy",
+    "why_included": "Symmetric case to the previous one to ensure order of n and m doesn't matter for the algorithm.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 15,
+    "title": "Large non-round numbers with a=1",
+    "tags": ["max", "overflow", "stress"],
+    "input": "987654321 987654321 1\n",
+    "expected_output": "975461057789971041\n",
+    "size_bytes": 22,
+    "difficulty_estimate": "hard",
+    "why_included": "Another test case to ensure 64-bit integer types are used, with large non-round numbers.",
+    "time_complexity_trigger": "64-bit integer overflow"
+  },
+  
+  {
+    "id": 16,
+    "title": "Large random values for n, m, and a",
+    "tags": ["random", "long"],
+    "input": "876543210 123456789 98765\n",
+    "expected_output": "11103876\n",
+    "size_bytes": 28,
+    "difficulty_estimate": "medium",
+    "why_included": "A general random test with large, arbitrary numbers to check the correctness of the ceiling division formula. (Seed: 123)",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 17,
+    "title": "Large random values causing > 32-bit integer overflow",
+    "tags": ["random", "overflow"],
+    "input": "1000000000 1000000000 20000\n",
+    "expected_output": "2500000000\n",
+    "size_bytes": 28,
+    "difficulty_estimate": "medium",
+    "why_included": "The result (2.5 * 10^9) exceeds the capacity of a standard 32-bit signed integer (approx 2.1 * 10^9), requiring a 64-bit type.",
+    "time_complexity_trigger": "64-bit integer overflow"
+  },
+  {
+    "id": 18,
+    "title": "Values are powers of two, perfect fit",
+    "tags": ["edge"],
+    "input": "1024 2048 16\n",
+    "expected_output": "8192\n",
+    "size_bytes": 13,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests behavior with powers of two, which can sometimes be an edge case source in binary arithmetic. This is a perfect-fit scenario.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 19,
+    "title": "One dimension is exactly the flagstone size",
+    "tags": ["edge"],
+    "input": "50 120 50\n",
+    "expected_output": "3\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the case where one dimension needs exactly one flagstone (n=a) and the other needs more, testing the factors independently.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 20,
+    "title": "Both dimensions just under flagstone size",
+    "tags": ["edge"],
+    "input": "99 99 100\n",
+    "expected_output": "1\n",
+    "size_bytes": 9,
+    "difficulty_estimate": "easy",
+    "why_included": "A simple case n < a and m < a, which should always result in 1, checking the lower boundary of ceiling division.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 21,
+    "title": "Both dimensions just over flagstone size",
+    "tags": ["edge"],
+    "input": "101 101 100\n",
+    "expected_output": "4\n",
+    "size_bytes": 11,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests the n = k*a + 1 boundary case for both dimensions, where an off-by-one error in division would yield the wrong result.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 22,
+    "title": "Maximum n, minimum m, medium a",
+    "tags": ["max", "min", "long"],
+    "input": "1000000000 2 123\n",
+    "expected_output": "8130082\n",
+    "size_bytes": 16,
+    "difficulty_estimate": "medium",
+    "why_included": "Another test of an extreme aspect ratio with large and small numbers mixed.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 23,
+    "title": "Adversarial case with a close to n and m",
+    "tags": ["max", "adversarial"],
+    "input": "1000000000 1000000000 999999999\n",
+    "expected_output": "4\n",
+    "size_bytes": 32,
+    "difficulty_estimate": "medium",
+    "why_included": "An adversarial case where the flagstone is just slightly smaller than the square, forcing a 2x2 arrangement despite the similar sizes.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 24,
+    "title": "Potential floating point precision issue",
+    "tags": ["max", "precision"],
+    "input": "1000000000 1000000000 3\n",
+    "expected_output": "111111111555555556\n",
+    "size_bytes": 23,
+    "difficulty_estimate": "hard",
+    "why_included": "Tests large numbers that are not perfectly divisible. Using floating point `ceil(n/a)` could fail with insufficient precision, whereas integer arithmetic `(n+a-1)/a` is robust.",
+    "time_complexity_trigger": "precision loss"
+  },
+  {
+    "id": 25,
+    "title": "Medium random values case 1",
+    "tags": ["random"],
+    "input": "54321 12345 67\n",
+    "expected_output": "150035\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "easy",
+    "why_included": "A random case within the mid-range of constraints to ensure general correctness. (Seed: 456)",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 26,
+    "title": "Medium random values case 2",
+    "tags": ["random"],
+    "input": "98765 87654 123\n",
+    "expected_output": "572539\n",
+    "size_bytes": 16,
+    "difficulty_estimate": "easy",
+    "why_included": "Another random case within the mid-range of constraints for broader validation. (Seed: 789)",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 27,
+    "title": "Mixed scale values",
+    "tags": ["long"],
+    "input": "999888777 55 12345\n",
+    "expected_output": "81001\n",
+    "size_bytes": 19,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests correct handling when n, m, and a are of vastly different scales (large, small, medium).",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 28,
+    "title": "Flagstone size is almost half of square sides",
+    "tags": ["edge"],
+    "input": "100000 100000 49999\n",
+    "expected_output": "9\n",
+    "size_bytes": 20,
+    "difficulty_estimate": "medium",
+    "why_included": "A case where `n / a` is just slightly over 2, forcing the number of flagstones up to 3 for that dimension. Tests the ceiling logic carefully.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 29,
+    "title": "Maximum n and m with small flagstone a=2",
+    "tags": ["max", "overflow", "stress"],
+    "input": "999999999 999999999 2\n",
+    "expected_output": "250000000000000000\n",
+    "size_bytes": 22,
+    "difficulty_estimate": "hard",
+    "why_included": "Tests division by a small number on max inputs, leading to a very large result that requires 64-bit integers.",
+    "time_complexity_trigger": "64-bit integer overflow"
+  },
+  {
+    "id": 30,
+    "title": "n and m are a+1 near max values",
+    "tags": ["max", "edge"],
+    "input": "999999999 999999999 999999998\n",
+    "expected_output": "4\n",
+    "size_bytes": 32,
+    "difficulty_estimate": "medium",
+    "why_included": "An edge case with maximum values where n and m are just one unit larger than a, requiring a 2x2 grid.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 31,
+    "title": "Large n equals a, small m",
+    "tags": ["max", "edge"],
+    "input": "999999999 1 999999999\n",
+    "expected_output": "1\n",
+    "size_bytes": 22,
+    "difficulty_estimate": "easy",
+    "why_included": "Tests a very narrow strip where the width of the strip is exactly the size of a flagstone.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 32,
+    "title": "Minimum square, maximum flagstone",
+    "tags": ["min", "max", "edge"],
+    "input": "1 1 1000000000\n",
+    "expected_output": "1\n",
+    "size_bytes": 15,
+    "difficulty_estimate": "trivial",
+    "why_included": "The absolute smallest square with the absolute largest flagstone, which should trivially be 1.",
+    "time_complexity_trigger": "basic logic"
+  },
+  {
+    "id": 33,
+    "title": "Large random case requiring 64-bit result",
+    "tags": ["random", "overflow"],
+    "input": "789123456 654321987 13579\n",
+    "expected_output": "2800262124\n",
+    "size_bytes": 28,
+    "difficulty_estimate": "hard",
+    "why_included": "Another random large number case where the final result exceeds 2^31, checking for 64-bit integer usage. (Seed: 1337)",
+    "time_complexity_trigger": "64-bit integer overflow"
+  },
+  {
+    "id": 34,
+    "title": "Max n,m with a being roughly half",
+    "tags": ["max", "edge"],
+    "input": "999999999 999999999 500000000\n",
+    "expected_output": "4\n",
+    "size_bytes": 32,
+    "difficulty_estimate": "medium",
+    "why_included": "Tests large inputs where the number of flagstones per side is small (2), verifying ceiling logic at the upper constraints.",
+    "time_complexity_trigger": "ceiling division"
+  },
+  {
+    "id": 35,
+    "title": "All inputs equal and large",
+    "tags": ["all-equal", "max"],
+    "input": "1000000000 1000000000 1000000000\n",
+    "expected_output": "1\n",
+    "size_bytes": 33,
+    "difficulty_estimate": "trivial",
+    "why_included": "This is a duplicate of case 10, but useful for ensuring that identical inputs don't cause issues and for completing the set.",
+    "time_complexity_trigger": "basic logic"
+  }
+],
+
   "problem_statement_link": "https://codeforces.com/problemset/problem/1/A",
   "scraped_at": "2025-09-06 12:49:59 UTC",
   "solved_count": 294853
